@@ -1,0 +1,32 @@
+// Skill: app-08038-permission-row-ref
+// Category: support
+
+export function describe() {
+  return "app-08038-permission-row-ref";
+}
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9e2047
+# app-08038-permission-row-ref e55f67975fec7d23d83acd8ea369f08aebe93a040f638423d118e5c2ac9

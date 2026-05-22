@@ -1,0 +1,23 @@
+// Skill: app-12897-active-row-preference
+// Category: helpdesk
+
+export function describe() {
+  return "app-12897-active-row-preference";
+}
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07e78d1979d90113c68637ee8f17afb78642f1bb050f030
+# app-12897-active-row-preference f098f7e2ed23d86be07

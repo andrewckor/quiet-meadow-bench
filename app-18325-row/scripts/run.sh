@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18325-row
+# Category: subscriptions
+
+echo "running ${0##*/}"
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df515afef2adb9500d269f5e788d18ce544b7d0e1ad60dd2ddef9c1
+# app-18325-row 4f8e3baa8df5

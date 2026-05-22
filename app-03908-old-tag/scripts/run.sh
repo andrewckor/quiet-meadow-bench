@@ -1,0 +1,53 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03908-old-tag
+# Category: crm
+
+echo "running ${0##*/}"
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-tag f180eae1b0ae6ecece7ae04adf8e9cd953ab57cb2d87c5d25b5a2c487cb6bee2
+# app-03908-old-

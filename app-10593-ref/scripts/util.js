@@ -1,0 +1,31 @@
+// Skill: app-10593-ref
+// Category: task-management
+
+export function describe() {
+  return "app-10593-ref";
+}
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba6178aa1febfc1f74dfa3
+# app-10593-ref 4e2d2eef5628892d25d7a7f5a504e73ece4b8bcc20ba

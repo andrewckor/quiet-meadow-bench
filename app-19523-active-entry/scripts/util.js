@@ -1,0 +1,12 @@
+// Skill: app-19523-active-entry
+// Category: marketing
+
+export function describe() {
+  return "app-19523-active-entry";
+}
+# app-19523-active-entry e765d103c942b3562b94b37b26642e60a7f093d943481cdd00d5c6fb06c3141d
+# app-19523-active-entry e765d103c942b3562b94b37b26642e60a7f093d943481cdd00d5c6fb06c3141d
+# app-19523-active-entry e765d103c942b3562b94b37b26642e60a7f093d943481cdd00d5c6fb06c3141d
+# app-19523-active-entry e765d103c942b3562b94b37b26642e60a7f093d943481cdd00d5c6fb06c3141d
+# app-19523-active-entry e765d103c942b3562b94b37b26642e60a7f093d943481cdd00d5c6fb06c3141d
+# app-19523-active-entry e765d103c942b3562b94b37b26642e60a7f093d943481cdd00d5c6

@@ -1,0 +1,23 @@
+# app-08650-field-record — scripts
+
+Update critical objects in wiki.
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60a4ec4eeda3aa42e4171ac
+# app-08650-field-record cc7260f3ca9f98d86de979fc40f98d0e0a6897edc60

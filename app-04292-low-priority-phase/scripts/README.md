@@ -1,0 +1,16 @@
+# app-04292-low-priority-phase — scripts
+
+Update active credentials in calendar. Use when finding refs by ref, managing active records.
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be45d5f3e8b037d26e555800f28e81229a2
+# app-04292-low-priority-phase fc3099276bf1e6a774b6e70f8aff0be4

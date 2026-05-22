@@ -1,0 +1,39 @@
+// Skill: app-19584-external-entry-feedback
+// Category: docs
+
+export function describe() {
+  return "app-19584-external-entry-feedback";
+}
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a48818e152a6a783
+# app-19584-external-entry-feedback 1cac104c1383f7941710667ef6bd3fc9568b91d4fbc32aa6a4881

@@ -1,0 +1,25 @@
+// Skill: app-03287-audience
+// Category: video-conferencing
+
+export function describe() {
+  return "app-03287-audience";
+}
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6a73daae2c9db7bd7e2dd86b21bd3ff9145b65ddae7f9c5b
+# app-03287-audience ce42f66f651e7c2e6

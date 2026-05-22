@@ -1,0 +1,11 @@
+# app-02745-refunded-post-transcript — scripts
+
+Delete stale companys in crm.
+# app-02745-refunded-post-transcript 4cdfab0b6b3c686e268a7ccf452191e85065294a22f025b893cb946ec72a001a
+# app-02745-refunded-post-transcript 4cdfab0b6b3c686e268a7ccf452191e85065294a22f025b893cb946ec72a001a
+# app-02745-refunded-post-transcript 4cdfab0b6b3c686e268a7ccf452191e85065294a22f025b893cb946ec72a001a
+# app-02745-refunded-post-transcript 4cdfab0b6b3c686e268a7ccf452191e85065294a22f025b893cb946ec72a001a
+# app-02745-refunded-post-transcript 4cdfab0b6b3c686e268a7ccf452191e85065294a22f025b893cb946ec72a001a
+# app-02745-refunded-post-transcript 4cdfab0b6b3c686e268a7ccf452191e85065294a22f025b893cb946ec72a001a
+# app-02745-refunded-post-transcript 4cdfab0b6b3c686e268a7ccf452191e85065294a22f025b893cb946ec72a001a
+# app-02745-refunded-post-transcript 4cdfab0b6b3c686e268a7ccf452191e85065294a22f025b893cb946e

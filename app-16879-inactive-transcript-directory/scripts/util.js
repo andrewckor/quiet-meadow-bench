@@ -1,0 +1,28 @@
+// Skill: app-16879-inactive-transcript-directory
+// Category: file-sharing
+
+export function describe() {
+  return "app-16879-inactive-transcript-directory";
+}
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactive-transcript-directory e63ea4d735f8f3904b1011c1531a51665926eab191a4ca696551803e2950d39a
+# app-16879-inactiv

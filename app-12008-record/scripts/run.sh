@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12008-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232ce6afb077a
+# app-12008-record fee90b5a1acd3cba072389bd3ddcb2a39f4f3d3143c75934ccc232c

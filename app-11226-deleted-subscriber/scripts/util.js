@@ -1,0 +1,15 @@
+// Skill: app-11226-deleted-subscriber
+// Category: email
+
+export function describe() {
+  return "app-11226-deleted-subscriber";
+}
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d055edeb991ba0004e
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d055edeb991ba0004e
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d055edeb991ba0004e
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d055edeb991ba0004e
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d055edeb991ba0004e
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d055edeb991ba0004e
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d055edeb991ba0004e
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d055edeb991ba0004e
+# app-11226-deleted-subscriber 314ccda58c5a50022a5d5a7a2ce596ead4f710ae695161d0

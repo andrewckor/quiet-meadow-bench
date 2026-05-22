@@ -1,0 +1,23 @@
+// Skill: app-04983-active-question
+// Category: billing
+
+export function describe() {
+  return "app-04983-active-question";
+}
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65eb41886efd658fb2d2ec3f8bdc2895d008085b3cb5b27b327c75ad2
+# app-04983-active-question dd45e0c65e

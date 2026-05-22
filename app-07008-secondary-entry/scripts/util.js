@@ -1,0 +1,21 @@
+// Skill: app-07008-secondary-entry
+// Category: email
+
+export function describe() {
+  return "app-07008-secondary-entry";
+}
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763e0069bdc94d95af006b970f7606dbe58a516a7aaa960a41ce0f4a
+# app-07008-secondary-entry 4cfdd8d0763

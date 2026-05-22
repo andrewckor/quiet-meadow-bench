@@ -1,0 +1,17 @@
+// Skill: app-16276-inactive-phase-record
+// Category: invoicing
+
+export function describe() {
+  return "app-16276-inactive-phase-record";
+}
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1683ab8931
+# app-16276-inactive-phase-record 69afe96f497554ac752e1b1522d19071eea48b588315702dbb074a1

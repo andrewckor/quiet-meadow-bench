@@ -1,0 +1,27 @@
+// Skill: app-12746-form-object
+// Category: docs
+
+export function describe() {
+  return "app-12746-form-object";
+}
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-form-object efe27d5f62809aabcdb0e52b069be814ee7f4420650961abe2aee2ca263b104d
+# app-12746-

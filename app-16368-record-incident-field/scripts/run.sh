@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16368-record-incident-field
+# Category: dashboards
+
+echo "running ${0##*/}"
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd29518f69148deb5483931e5465cf5451be349adeae8ab9462ad95d96bf1cd
+# app-16368-record-incident-field bbd2951

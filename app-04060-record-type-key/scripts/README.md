@@ -1,0 +1,17 @@
+# app-04060-record-type-key — scripts
+
+Create rejected rows in hr.
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127

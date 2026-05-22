@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19953-completed-category
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app-19953-completed-category d2c720e96645e8932d5cb0f1d54d92ea3af8e3b1a295b898a1dbefe4a5fc5ed9
+# app

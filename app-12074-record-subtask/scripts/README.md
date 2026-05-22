@@ -1,0 +1,22 @@
+# app-12074-record-subtask — scripts
+
+Create scheduled spans in hr.
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cdcf7a5ec13fed760cd4d27a034a80cd0bf2c3d3fe46bc0ddaa1d24b0217
+# app-12074-record-subtask 5d08cd

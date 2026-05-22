@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10870-rejected-deal
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce01b6a802f6c25b2f157c5a541802ad66f973ccecb83eefdd3
+# app-10870-rejected-deal e580581527ccdce0

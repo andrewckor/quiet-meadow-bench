@@ -1,0 +1,23 @@
+// Skill: app-18670-story-summary
+// Category: ci-cd
+
+export function describe() {
+  return "app-18670-story-summary";
+}
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fcebe23fb188287cb
+# app-18670-story-summary 788658fbbb29d3f3c73098dc628ffb10e347f2211d68a86fce

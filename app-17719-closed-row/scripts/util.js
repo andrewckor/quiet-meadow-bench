@@ -1,0 +1,44 @@
+// Skill: app-17719-closed-row
+// Category: email
+
+export function describe() {
+  return "app-17719-closed-row";
+}
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2dce7
+# app-17719-closed-row 82dc5bf956f6e9695134798dab5baedfdd6039400abf46770088afcd7ec2d

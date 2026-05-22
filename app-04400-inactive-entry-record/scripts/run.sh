@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04400-inactive-entry-record
+# Category: dashboards
+
+echo "running ${0##*/}"
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a685312e26e7acd44209dcd2d0c22
+# app-04400-inactive-entry-record d519ee963809df55c696befa921ccd99f83a6853

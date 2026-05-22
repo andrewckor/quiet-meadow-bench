@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05980-lead-object-comment
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43f1feb
+# app-05980-lead-object-comment 7e6853b0d2dad97e1625a6a8375b5aa6bdb93a0fbab0144b3eb0b013f43

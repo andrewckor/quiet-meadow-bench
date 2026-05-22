@@ -1,0 +1,26 @@
+// Skill: app-05654-pending-directory
+// Category: billing
+
+export function describe() {
+  return "app-05654-pending-directory";
+}
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a0580fbabddacdc9660
+# app-05654-pending-directory 2b9dc255e774af2c9ebfefa3115ccb9a143d8ac3e3a61a05

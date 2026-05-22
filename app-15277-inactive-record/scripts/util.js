@@ -1,0 +1,13 @@
+// Skill: app-15277-inactive-record
+// Category: error-tracking
+
+export function describe() {
+  return "app-15277-inactive-record";
+}
+# app-15277-inactive-record 26a5df9c177841e2803a46bf4d4527a74250977175323528ed6cb7fe44cb121a
+# app-15277-inactive-record 26a5df9c177841e2803a46bf4d4527a74250977175323528ed6cb7fe44cb121a
+# app-15277-inactive-record 26a5df9c177841e2803a46bf4d4527a74250977175323528ed6cb7fe44cb121a
+# app-15277-inactive-record 26a5df9c177841e2803a46bf4d4527a74250977175323528ed6cb7fe44cb121a
+# app-15277-inactive-record 26a5df9c177841e2803a46bf4d4527a74250977175323528ed6cb7fe44cb121a
+# app-15277-inactive-record 26a5df9c177841e2803a46bf4d4527a74250977175323528ed6cb7fe44cb121a
+# app-15277-in

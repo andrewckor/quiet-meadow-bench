@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09683-inactive-record-record
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-rec

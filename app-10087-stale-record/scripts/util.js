@@ -1,0 +1,34 @@
+// Skill: app-10087-stale-record
+// Category: devtools
+
+export function describe() {
+  return "app-10087-stale-record";
+}
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record 225db4fddec2edadeb1a6496502546611d9aeb534fb411c1a6575d733ba0704c
+# app-10087-stale-record

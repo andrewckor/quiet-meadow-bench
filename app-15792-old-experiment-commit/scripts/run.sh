@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15792-old-experiment-commit
+# Category: email
+
+echo "running ${0##*/}"
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-experiment-commit 6e7373c78dcd305b62bda786ec0fff290d1319eae70d0bbbd0d8388829732d1a
+# app-15792-old-e

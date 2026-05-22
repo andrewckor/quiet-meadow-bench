@@ -1,0 +1,24 @@
+# app-12053-active-offer — scripts
+
+Create secondary blocks in chat. Use when you need to get a user, managing private records.
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-12053-active-offer 839ed650ac8a745502fe9f3ca0d301ccd78d7a0f178cc6ce615b13c3cdf49523
+# app-1205

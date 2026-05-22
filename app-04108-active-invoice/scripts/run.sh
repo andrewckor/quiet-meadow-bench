@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04108-active-invoice
+# Category: ecommerce
+
+echo "running ${0##*/}"
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-invoice 437239d87c06fc04e3a181b5b09cdbbd12a4791822d3ead47334aade283fe844
+# app-04108-active-

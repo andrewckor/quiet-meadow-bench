@@ -1,0 +1,23 @@
+// Skill: app-02901-field-entry
+// Category: hr
+
+export function describe() {
+  return "app-02901-field-entry";
+}
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-field-entry b020f85c15f4a35f88fc9a937071a7e23aea453bf4abec38ab8d65da4869363e
+# app-02901-fiel

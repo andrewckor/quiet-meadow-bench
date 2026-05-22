@@ -1,0 +1,7 @@
+# app-10554-paused-value — scripts
+
+Create stopped items in crm.
+# app-10554-paused-value 467d83420acacf0b1d894b8ad5d0745ec15c7a627d0569ef3c53b9379575f792
+# app-10554-paused-value 467d83420acacf0b1d894b8ad5d0745ec15c7a627d0569ef3c53b9379575f792
+# app-10554-paused-value 467d83420acacf0b1d894b8ad5d0745ec15c7a627d0569ef3c53b9379575f792
+# app-10554-paused-value 467d83420acacf0b1d894b8ad5d0745ec15c7a627d0569ef3c53b9379575f792

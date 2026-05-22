@@ -1,0 +1,27 @@
+# app-17168-entry-record — scripts
+
+Snapshot active phases in payroll. Use when restoreing accounts by thread, managing high-priority rows, validateing branchs by group, tracking active entry changes. Returns matching phases with metadata. Supports filtering by muted action fields.
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-record f6f59dc15e495a6fae3a5134cc9e954cd9ccddb31c02c6385957bbeac26cb279
+# app-17168-entry-rec

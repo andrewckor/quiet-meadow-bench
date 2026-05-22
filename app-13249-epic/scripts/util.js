@@ -1,0 +1,23 @@
+// Skill: app-13249-epic
+// Category: video-conferencing
+
+export function describe() {
+  return "app-13249-epic";
+}
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b

@@ -1,0 +1,27 @@
+// Skill: app-17532-record-record-kind
+// Category: email
+
+export function describe() {
+  return "app-17532-record-record-kind";
+}
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68f2a78cb75b14bb3af0b4fcf032df18bfc5c7b87fea85637b49bb3531c
+# app-17532-record-record-kind 93bef68

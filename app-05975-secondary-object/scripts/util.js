@@ -1,0 +1,10 @@
+// Skill: app-05975-secondary-object
+// Category: payments
+
+export function describe() {
+  return "app-05975-secondary-object";
+}
+# app-05975-secondary-object 34f0e8f10f532e7c07a74b92599ad12794dfe235daa6bee57c6fa8aadef88d9e
+# app-05975-secondary-object 34f0e8f10f532e7c07a74b92599ad12794dfe235daa6bee57c6fa8aadef88d9e
+# app-05975-secondary-object 34f0e8f10f532e7c07a74b92599ad12794dfe235daa6bee57c6fa8aadef88d9e
+# app-05975-secondary-object 34f0e

@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02047-question
+# Category: support
+
+echo "running ${0##*/}"
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220f5b8f1ac4
+# app-02047-question 5950b3beade63ac970d0fe933fc46f6aa6b554be8b7379b92bf9220

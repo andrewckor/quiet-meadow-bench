@@ -1,0 +1,33 @@
+// Skill: app-14526-exclusive-post
+// Category: ticketing
+
+export function describe() {
+  return "app-14526-exclusive-post";
+}
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b

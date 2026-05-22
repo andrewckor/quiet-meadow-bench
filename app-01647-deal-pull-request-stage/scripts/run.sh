@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01647-deal-pull-request-stage
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a8f3746e74e16edeab1bfc52e2b4d249e34a
+# app-01647-deal-pull-request-stage 913f94db4030b370e97610a5af31a

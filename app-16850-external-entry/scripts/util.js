@@ -1,0 +1,27 @@
+// Skill: app-16850-external-entry
+// Category: compliance
+
+export function describe() {
+  return "app-16850-external-entry";
+}
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d57b3c985f4fc0f2353b2bda4c461d
+# app-16850-external-entry 0bd809fd99a39e9615e944008ba20fdfe1d5

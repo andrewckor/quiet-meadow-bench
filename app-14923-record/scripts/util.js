@@ -1,0 +1,20 @@
+// Skill: app-14923-record
+// Category: ticketing
+
+export function describe() {
+  return "app-14923-record";
+}
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a06de0ba5994789ef637ee5997494daf38a78aff484d45ae0b32b7ce3ef0d5d
+# app-14923-record 8a0

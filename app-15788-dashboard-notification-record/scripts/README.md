@@ -1,0 +1,12 @@
+# app-15788-dashboard-notification-record — scripts
+
+Delete inactive objects in email.
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51e8c9f7f77fa72f1c5dca89c601f4cb6550ff887
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51e8c9f7f77fa72f1c5dca89c601f4cb6550ff887
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51e8c9f7f77fa72f1c5dca89c601f4cb6550ff887
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51e8c9f7f77fa72f1c5dca89c601f4cb6550ff887
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51e8c9f7f77fa72f1c5dca89c601f4cb6550ff887
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51e8c9f7f77fa72f1c5dca89c601f4cb6550ff887
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51e8c9f7f77fa72f1c5dca89c601f4cb6550ff887
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51e8c9f7f77fa72f1c5dca89c601f4cb6550ff887
+# app-15788-dashboard-notification-record fff8d62585f083c7388d16b51

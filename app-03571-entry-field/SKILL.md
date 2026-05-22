@@ -1,0 +1,22 @@
+---
+name: app-03571-entry-field
+description: Transcribe flagged records in crm. Use when syncing ids by field.
+---
+
+# app-03571-entry-field
+
+Transcribe flagged records in crm. Use when syncing ids by field.
+
+## Usage
+
+This skill operates in the crm domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

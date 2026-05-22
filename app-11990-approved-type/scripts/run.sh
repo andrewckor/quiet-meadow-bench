@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11990-approved-type
+# Category: email
+
+echo "running ${0##*/}"
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf9ca6f5a59ae
+# app-11990-approved-type 58264a07e2c2c2fbf87a6abd83f3dc93dcb9987a28a7b918d39bf

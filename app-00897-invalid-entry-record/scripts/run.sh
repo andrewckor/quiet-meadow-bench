@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00897-invalid-entry-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a883a315d95bd96474fa8a390456c6d9ffce045db4e40ca3828875dc8d813
+# app-00897-invalid-entry-record 880a88

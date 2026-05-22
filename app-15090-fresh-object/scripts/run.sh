@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15090-fresh-object
+# Category: payments
+
+echo "running ${0##*/}"
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-object 1987a09eea44b7e0cdc8e0760c2cdeee78c1eb617312f41f3ee05d90488c11ce
+# app-15090-fresh-o

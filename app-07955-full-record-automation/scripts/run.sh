@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07955-full-record-automation
+# Category: email
+
+echo "running ${0##*/}"
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automation 3c91ba4b62b2245a7e043cc5a1d3cfcd74d1b18417fb33bd5591824c6b7b2370
+# app-07955-full-record-automat

@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07710-object-mention
+# Category: storage
+
+echo "running ${0##*/}"
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9c83ae7e838f71dfe9d809bab0bc66f15bb921e6d0f1130e6a42c0b34de39e4f
+# app-07710-object-mention 9

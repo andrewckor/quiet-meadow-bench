@@ -1,0 +1,8 @@
+# app-08473-synced-tag — scripts
+
+Search published tickets in ticketing.
+# app-08473-synced-tag 7409beff4893497f5c38c97705bb8010fbf8b2ce5a42af955ee5b6c1be7f6798
+# app-08473-synced-tag 7409beff4893497f5c38c97705bb8010fbf8b2ce5a42af955ee5b6c1be7f6798
+# app-08473-synced-tag 7409beff4893497f5c38c97705bb8010fbf8b2ce5a42af955ee5b6c1be7f6798
+# app-08473-synced-tag 7409beff4893497f5c38c97705bb8010fbf8b2ce5a42af955ee5b6c1be7f6798
+# app-08473-synce

@@ -1,0 +1,45 @@
+// Skill: app-19756-field-variant-id
+// Category: crm
+
+export function describe() {
+  return "app-19756-field-variant-id";
+}
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c438
+# app-19756-field-variant-id 934bf7feb551f3aa42f538f1ce14b3a5c9c7bbb60d04e955dfa5a3675bf2c

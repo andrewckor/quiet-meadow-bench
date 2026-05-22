@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02385-record-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da8684d8124bd641c269c59e5ac6be607e018e4b5a391f72cbe4010c341467d
+# app-02385-record-record 6da86

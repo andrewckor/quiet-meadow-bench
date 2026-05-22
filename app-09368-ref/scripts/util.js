@@ -1,0 +1,28 @@
+// Skill: app-09368-ref
+// Category: calendar
+
+export function describe() {
+  return "app-09368-ref";
+}
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154de73f8becbab09cbaa34f4f141cb9e
+# app-09368-ref 1f84c7a0bbf674a6bd17a725e0feb40154

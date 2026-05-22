@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04930-key-label
+# Category: forms
+
+echo "running ${0##*/}"
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5bbeb405c2fef0eff2f8ef8af070b625
+# app-04930-key-label d8e3b10c90d196ae8d3a962bf93f6b5c5b

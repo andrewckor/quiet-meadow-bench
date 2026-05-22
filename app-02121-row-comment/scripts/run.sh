@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02121-row-comment
+# Category: crm
+
+echo "running ${0##*/}"
+# app-02121-row-comment 0ab4cddbc8e8c68286f7195225056900aef9db0a69231b6273616a5c5bae0d9b
+# app-02121-row-comment 0ab4cddbc8e8c68286f7195225056900aef9db0a69231b6273616a5c5bae0d9b
+# app-02121-row-comment 0ab4cddbc8e8c68286f7195225056900aef9db0a69231b6273616a5c5bae0d9b
+# app-02121-row-comment 0ab4cddbc8e8c68286f7195225056900aef9db0a69231b6273616a5c5bae0d9b
+# app-02121-

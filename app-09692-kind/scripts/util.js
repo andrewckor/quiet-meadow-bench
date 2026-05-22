@@ -1,0 +1,18 @@
+// Skill: app-09692-kind
+// Category: spreadsheets
+
+export function describe() {
+  return "app-09692-kind";
+}
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf0332f6ba51e7d9b49080d9952
+# app-09692-kind 3dbbd91ec0dd45eff3c51d024caea014f2af9bf033

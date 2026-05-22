@@ -1,0 +1,25 @@
+// Skill: app-06799-active-standup-object
+// Category: email
+
+export function describe() {
+  return "app-06799-active-standup-object";
+}
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968374b8ec79395d223
+# app-06799-active-standup-object dc53d6dae098f1f3ffdb711df43b8bd36b0da4cc368de968

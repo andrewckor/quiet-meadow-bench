@@ -1,0 +1,25 @@
+# app-00177-primary-item — scripts
+
+Import inactive ids in chat. Use when you need to delete a entry.
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be114d637b30f49b3965411afbaad27bcd15a913d8b5a2
+# app-00177-primary-item 082fe31dbed91f96e6be1

@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08225-subtask-kind
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d953847c7
+# app-08225-subtask-kind c3d7ce0c8ffccbd5dbcddd7a9521cb238feb56095b3f7c0e5cb8e00d95384

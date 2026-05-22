@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13489-entry-key
+# Category: wiki
+
+echo "running ${0##*/}"
+# app-13489-entry-key 058ce9dd1f5dfe88925359a28b5d3777b421d4987f1e4a860b8591986bd024c9
+# app-13489-entry-key 058ce9dd1f5dfe88925359a28b5d3777b421d4987f1e4a860b8591986bd024c9
+# app-13489-entry-key 058ce9dd1f5dfe88925359a28b5d3777b421d4987f1e4a860b8591986bd024c9
+# app-13489-entry-key 058ce9dd1f5dfe88925359a28b5d3777b421d4987f1e4a860b8591986bd024c9
+# app-13489-entry-key 058ce9dd1f5dfe88925359a28b5d3777b421d4987f1e4a860b8591986bd

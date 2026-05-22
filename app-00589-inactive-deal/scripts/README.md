@@ -1,0 +1,17 @@
+# app-00589-inactive-deal — scripts
+
+Update inactive records in chat.
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb6bbdca6
+# app-00589-inactive-deal d75ea693d7642f46f6275cf1fc4a5b9d19726e67a723c898413ffadbb

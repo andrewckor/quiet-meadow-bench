@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16918-stale-stage-preference
+# Category: email
+
+echo "running ${0##*/}"
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-preference 4e96af4e2e8d618c031c323454b68b0c11d6c35ee91a1d16d8e2a7ffa5575b7b
+# app-16918-stale-stage-prefe

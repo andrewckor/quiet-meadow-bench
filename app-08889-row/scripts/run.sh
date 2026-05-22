@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08889-row
+# Category: security
+
+echo "running ${0##*/}"
+# app-08889-row 55b92944fd4c4f87dd671e685dd633ceccebbeac94b957ecafc49d5a0f95dff2
+# app-08889-row 55b92944fd4c4f87dd671e685dd633ceccebbeac94b957ecafc49d5a0f95dff2
+# app-08889-row 55b92944fd4c4f87dd671e685dd633ceccebbeac94b957ecafc49d5a0f95dff2
+# app-08889-row 55b92944fd4c4f87dd671e685dd633ceccebbeac94b957ecafc49d5a0f95dff2
+# app-08889-row 55b92944fd4c4f87dd671e685dd633ceccebbeac94b957ecafc49d5a0f95dff2
+# app-08889-row 55b92944fd4c4f87dd671e685dd633ceccebbeac94b957ecafc49d5a0f95dff2
+# ap

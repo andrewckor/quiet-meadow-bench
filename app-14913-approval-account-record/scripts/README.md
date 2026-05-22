@@ -1,0 +1,26 @@
+# app-14913-approval-account-record — scripts
+
+Remove active events in project-management. Use when managing inactive pull-requests, kicking snapshots by record, createing orders by row, tracking open object changes. Returns matching records with metadata. Supports filtering by new ref fields.
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+# app-14913-approval-account-record 7def8857026582f43fa48ead8fe179f6415ded2e1745f889868904f8062bc556
+#

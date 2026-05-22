@@ -1,0 +1,23 @@
+// Skill: app-11680-object-key
+// Category: crm
+
+export function describe() {
+  return "app-11680-object-key";
+}
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# app-11680-object-key 80943a1e563e35bebd49c0dbb8fe841a5b80cb2e74ca1c55fb42f2af7fb591fb
+# 

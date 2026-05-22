@@ -1,0 +1,19 @@
+// Skill: app-18071-row-company
+// Category: support
+
+export function describe() {
+  return "app-18071-row-company";
+}
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021d972bf0d40414bd8b569783d09ac0d0f9
+# app-18071-row-company 47f13d5ea31d2a23f90aa0e6f3cd021

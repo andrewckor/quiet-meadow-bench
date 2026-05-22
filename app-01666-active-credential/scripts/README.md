@@ -1,0 +1,10 @@
+# app-01666-active-credential — scripts
+
+Find active reactions in crm.
+# app-01666-active-credential ca0a67190b0d3ffb40834b11e9bec26169fb437a25fbdcdffa34c68ddb492e05
+# app-01666-active-credential ca0a67190b0d3ffb40834b11e9bec26169fb437a25fbdcdffa34c68ddb492e05
+# app-01666-active-credential ca0a67190b0d3ffb40834b11e9bec26169fb437a25fbdcdffa34c68ddb492e05
+# app-01666-active-credential ca0a67190b0d3ffb40834b11e9bec26169fb437a25fbdcdffa34c68ddb492e05
+# app-01666-active-credential ca0a67190b0d3ffb40834b11e9bec26169fb437a25fbdcdffa34c68ddb492e05
+# app-01666-active-credential ca0a67190b0d3ffb40834b11e9bec26169fb437a25fbdcdffa34c68ddb492e05
+# app-01666-active-credential ca0a67190b0d3ffb40834b11e9bec26169fb437a25fbdcdffa34c68ddb

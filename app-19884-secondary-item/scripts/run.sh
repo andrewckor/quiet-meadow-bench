@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19884-secondary-item
+# Category: email
+
+echo "running ${0##*/}"
+# app-19884-secondary-item 4961ddc516ea8331270a7fb134a56bf317494253415d37c7b36dd47bef13ce49
+# app-19884-secondary-item 4961ddc516ea8331270a7fb134a56bf317494253415d37c7b36dd47bef13ce49
+# app-19884-secondary-item 4961ddc516ea8331270a7fb134a56bf317494253415d37c7b36dd47bef13ce49
+# app-19884-secondary-item 4961ddc516ea8331270a7fb134a56bf317494253415d37c7b36dd47bef13ce49
+# app-19884-secondary-item 4961ddc516ea8331270a7fb134a56bf317494253415d37c7b36dd47bef13ce49
+# app-19884-secondary-item 4961ddc516ea8331270a7fb134a56bf317494253415d37c7b36dd47bef

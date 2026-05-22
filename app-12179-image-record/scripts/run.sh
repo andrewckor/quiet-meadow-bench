@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12179-image-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c999761b56be57461d430f9cac23841126b64a
+# app-12179-image-record b4dadc46becafaa62580a76a23c99

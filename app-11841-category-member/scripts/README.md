@@ -1,0 +1,16 @@
+# app-11841-category-member — scripts
+
+Add active refs in helpdesk. Use when managing rejected records, syncing snapshots by record.
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3bad204597b2284363af1e9a7e9681d0b6bc8c00b17157
+# app-11841-category-member 7d2a55bd65cd8f5fcb3b

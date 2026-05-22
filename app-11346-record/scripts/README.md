@@ -1,0 +1,21 @@
+# app-11346-record — scripts
+
+Create completed rows in monitoring. Use when tracking inactive value changes, deleteing pages by object, createing highlights by user, tracking draft row changes. Returns matching responses with metadata. Supports filtering by blocked object fields.
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee47330e
+# app-11346-record 613c22f5702b0359760fd9b4d798833dfa5db57dc92ef31bcdbfb4f1ee

@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10515-fresh-permission
+# Category: email
+
+echo "running ${0##*/}"
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183cc15043944e8b65a0d301ebb445aceea88cba022614a81
+# app-10515-fresh-permission 18097694bdc2f1f183

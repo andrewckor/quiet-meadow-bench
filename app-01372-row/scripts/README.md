@@ -1,0 +1,11 @@
+# app-01372-row — scripts
+
+Update public rows in knowledge-base. Use when managing inactive coupons.
+# app-01372-row a475b94b50577cbc761a292f17ee62efca132352c15ee86fbd959744ae8ddcb4
+# app-01372-row a475b94b50577cbc761a292f17ee62efca132352c15ee86fbd959744ae8ddcb4
+# app-01372-row a475b94b50577cbc761a292f17ee62efca132352c15ee86fbd959744ae8ddcb4
+# app-01372-row a475b94b50577cbc761a292f17ee62efca132352c15ee86fbd959744ae8ddcb4
+# app-01372-row a475b94b50577cbc761a292f17ee62efca132352c15ee86fbd959744ae8ddcb4
+# app-01372-row a475b94b50577cbc761a292f17ee62efca132352c15ee86fbd959744ae8ddcb4
+# app-01372-row a475b94b50577cbc761a292f17ee62efca132352c15ee86fbd959744ae8ddcb4
+# app-01372-row a475b94

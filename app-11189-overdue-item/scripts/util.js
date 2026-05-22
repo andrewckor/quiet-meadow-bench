@@ -1,0 +1,18 @@
+// Skill: app-11189-overdue-item
+// Category: payments
+
+export function describe() {
+  return "app-11189-overdue-item";
+}
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-11189-overdue-item c85704169ede43a55ea558e6f5006e161e2260208ffa112246f7dd4f88fbfdcc
+# app-

@@ -1,0 +1,12 @@
+# app-06417-category — scripts
+
+Remove deleted labels in spreadsheets. Use when tracking inactive service changes, tracking active key changes, managing active mentions, tracking deleted release changes. Returns matching records with metadata. Supports filtering by active record fields.
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425e2867612302a3a2f0d
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425e2867612302a3a2f0d
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425e2867612302a3a2f0d
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425e2867612302a3a2f0d
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425e2867612302a3a2f0d
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425e2867612302a3a2f0d
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425e2867612302a3a2f0d
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425e2867612302a3a2f0d
+# app-06417-category acc128fb080561f13e85181a8e38fa4bf8dfaf51b46425

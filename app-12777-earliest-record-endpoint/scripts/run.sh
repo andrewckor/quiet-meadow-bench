@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12777-earliest-record-endpoint
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640fdd08e0e40c61c227b0ea103fdfdb058504505f8000b52ba
+# app-12777-earliest-record-endpoint e23f050181e8a640f

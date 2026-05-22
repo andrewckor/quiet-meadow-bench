@@ -1,0 +1,20 @@
+// Skill: app-02914-favorited-organization
+// Category: crm
+
+export function describe() {
+  return "app-02914-favorited-organization";
+}
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc1282145111e88d3ae4ed465b980cf7d2632580dd6e71183b434921b3a7a96
+# app-02914-favorited-organization 5dc

@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00671-record-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba568547
+# app-00671-record-record 010cef89edf8068945ab6b8da39f975164cea934effa4fb73b27a107ba5

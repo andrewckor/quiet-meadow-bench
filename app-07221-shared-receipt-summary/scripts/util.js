@@ -1,0 +1,24 @@
+// Skill: app-07221-shared-receipt-summary
+// Category: crm
+
+export function describe() {
+  return "app-07221-shared-receipt-summary";
+}
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadc

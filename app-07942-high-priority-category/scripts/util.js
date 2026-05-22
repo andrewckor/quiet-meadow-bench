@@ -1,0 +1,26 @@
+// Skill: app-07942-high-priority-category
+// Category: accounting
+
+export function describe() {
+  return "app-07942-high-priority-category";
+}
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb60944734308986a1adaa01506c84efa9af51d8e8a6eb7887a8
+# app-07942-high-priority-category 92249e837fcdeb6094

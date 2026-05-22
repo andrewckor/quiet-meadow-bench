@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10550-inactive-bug-comment
+# Category: email
+
+echo "running ${0##*/}"
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app-10550-inactive-bug-comment bbc5a6b63b25c7171058b477bad87ced2349a6f4293db86ff04805237d3c493e
+# app

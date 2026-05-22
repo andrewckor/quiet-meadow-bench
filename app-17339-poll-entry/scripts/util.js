@@ -1,0 +1,37 @@
+// Skill: app-17339-poll-entry
+// Category: docs
+
+export function describe() {
+  return "app-17339-poll-entry";
+}
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b50638b9e6e12d75e0e37c3a31c0b6be5945fdd878aaadd3f4a4d6
+# app-17339-poll-entry 6b662a0ef7b

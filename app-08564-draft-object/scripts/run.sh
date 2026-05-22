@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08564-draft-object
+# Category: compliance
+
+echo "running ${0##*/}"
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf01e847f2012f7f32cffe
+# app-08564-draft-object b4e095dad2fa23b90af03dae5a49718cf0c06f845cdf0

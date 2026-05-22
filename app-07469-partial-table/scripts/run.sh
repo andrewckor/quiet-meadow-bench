@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07469-partial-table
+# Category: ci-cd
+
+echo "running ${0##*/}"
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table 1a7d3824b2a454f4d186a2b1c32eb6d03219a05aa56b5e0669c8df581981b0c3
+# app-07469-partial-table

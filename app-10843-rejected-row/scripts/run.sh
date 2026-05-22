@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10843-rejected-row
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d47bfe94f6dd23e83996f7
+# app-10843-rejected-row 2acb0f4175e04c6371e61c2d0aa4a55fc5a3ea8ee5d

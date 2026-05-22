@@ -1,0 +1,19 @@
+// Skill: app-02566-graph-attachment
+// Category: email
+
+export function describe() {
+  return "app-02566-graph-attachment";
+}
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1b72bb3639dd7f44eb6838e65e7525bcacacdb
+# app-02566-graph-attachment 7977c60cb13005cf2ee5c9cb9a1

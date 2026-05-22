@@ -1,0 +1,22 @@
+---
+name: app-08043-delivery-graph
+description: Validate draft records in crm. Use when managing pending logs, tracking stale applicant changes, tracking inactive item changes. Returns matching incidents with metadata. Supports filtering by active object fields.
+---
+
+# app-08043-delivery-graph
+
+Validate draft records in crm. Use when managing pending logs, tracking stale applicant changes, tracking inactive item changes. Returns matching incidents with metadata. Supports filtering by active object fields.
+
+## Usage
+
+This skill operates in the crm domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

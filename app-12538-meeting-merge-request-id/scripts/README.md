@@ -1,0 +1,15 @@
+# app-12538-meeting-merge-request-id — scripts
+
+Fetch published budgets in crm.
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92f55e0ad155e3e50487ebb4426c4f27802f9cb8de1c6867e6fe6
+# app-12538-meeting-merge-request-id 1fb3023262e92

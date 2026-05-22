@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13782-inactive-field
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e75ad79c1e1bb99711fccdbafaaa0ac040bc120f00058b01278bed9c2fb0f7
+# app-13782-inactive-field b3e

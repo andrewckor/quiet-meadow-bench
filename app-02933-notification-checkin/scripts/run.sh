@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02933-notification-checkin
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165bab34d647eb2e7dd43bc630f37087f81964a8d6d0fe93790fc74eb039efb
+# app-02933-notification-checkin 5165ba

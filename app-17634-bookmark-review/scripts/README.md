@@ -1,0 +1,23 @@
+# app-17634-bookmark-review — scripts
+
+Create closed records in hr. Use when decrypting transcripts by feature, updateing entrys by record, you need to create a record, you need to remove a row. Returns matching lists with metadata. Supports filtering by local ref fields.
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d

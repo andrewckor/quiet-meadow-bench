@@ -1,0 +1,29 @@
+// Skill: app-06565-directory-epic
+// Category: email
+
+export function describe() {
+  return "app-06565-directory-epic";
+}
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838feeee48
+# app-06565-directory-epic 62eec93daebb270515c34f9b99baa3eae71643f6b2228281139a94838fee

@@ -1,0 +1,24 @@
+// Skill: app-14536-approved-field
+// Category: ads
+
+export function describe() {
+  return "app-14536-approved-field";
+}
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd644454ea5675bbedcb309f9b3f33dfafb51a270fc6efa6f607b8c1abfd84
+# app-14536-approved-field cedd64445

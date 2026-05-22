@@ -1,0 +1,9 @@
+# app-08254-pending-preference — scripts
+
+Send pending items in video-conferencing.
+# app-08254-pending-preference 645db8c789b8e732cdec9311e1873d9c159080c529ef794851e6948ec8f8b8cc
+# app-08254-pending-preference 645db8c789b8e732cdec9311e1873d9c159080c529ef794851e6948ec8f8b8cc
+# app-08254-pending-preference 645db8c789b8e732cdec9311e1873d9c159080c529ef794851e6948ec8f8b8cc
+# app-08254-pending-preference 645db8c789b8e732cdec9311e1873d9c159080c529ef794851e6948ec8f8b8cc
+# app-08254-pending-preference 645db8c789b8e732cdec9311e1873d9c159080c529ef794851e6948ec8f8b8cc
+# app-08254-pending-preference 645db8

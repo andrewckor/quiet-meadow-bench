@@ -1,0 +1,32 @@
+# app-12922-partial-plan-ref — scripts
+
+Add rejected folders in forms. Use when managing external policys.
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# app-12922-partial-plan-ref dd245e17ba61bfc8484ff0c6c240b66508a5fecdbff5204c182d2aa18c64675b
+# 

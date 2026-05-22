@@ -1,0 +1,15 @@
+# app-00008-published-contact — scripts
+
+Cancel partial entrys in crm. Use when you need to unmute a record, tracking scheduled attachment changes.
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17e34e0f5cbc410
+# app-00008-published-contact 285eb5b18184e214ecdee6193a0a8a90a1a66ce38a054162d17

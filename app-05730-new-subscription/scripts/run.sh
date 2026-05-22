@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05730-new-subscription
+# Category: email
+
+echo "running ${0##*/}"
+# app-05730-new-subscription 288d367e76852231c0fba097cc9a79e76aea054e8ea498bda4e814789800fa10
+# app-05730-new-subscription 288d367e76852231c0fba097cc9a79e76aea054e8ea498bda4e814789800fa10
+# app-05730-new-subscription 288d

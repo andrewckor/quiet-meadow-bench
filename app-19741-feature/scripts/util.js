@@ -1,0 +1,15 @@
+// Skill: app-19741-feature
+// Category: email
+
+export function describe() {
+  return "app-19741-feature";
+}
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb2308480d6060c
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb2308480d6060c
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb2308480d6060c
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb2308480d6060c
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb2308480d6060c
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb2308480d6060c
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb2308480d6060c
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb2308480d6060c
+# app-19741-feature cf87e66cf2ccf5d3d50bb3d2dd595fbfef2b3e29702a34145eb23084

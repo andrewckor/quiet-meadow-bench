@@ -1,0 +1,22 @@
+# app-13928-item-okr-row — scripts
+
+Remove pending questions in chat.
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd88804fc8b4efaee6474e36c10b1889f
+# app-13928-item-okr-row ca093ab1cdbb644e04f0b186d11ea2abd8880

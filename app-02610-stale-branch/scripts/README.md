@@ -1,0 +1,12 @@
+# app-02610-stale-branch — scripts
+
+Update earliest credentials in email. Use when managing active paragraphs.
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988850831761dcba7fa51ebc305dd24d862b3e
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988850831761dcba7fa51ebc305dd24d862b3e
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988850831761dcba7fa51ebc305dd24d862b3e
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988850831761dcba7fa51ebc305dd24d862b3e
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988850831761dcba7fa51ebc305dd24d862b3e
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988850831761dcba7fa51ebc305dd24d862b3e
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988850831761dcba7fa51ebc305dd24d862b3e
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988850831761dcba7fa51ebc305dd24d862b3e
+# app-02610-stale-branch b06081dbecc1afb5c56d16bbd5988

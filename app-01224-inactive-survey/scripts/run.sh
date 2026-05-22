@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01224-inactive-survey
+# Category: shipping
+
+echo "running ${0##*/}"
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey 9faf4fe6203f6e5108b69ab4b3304fbd8da4bacea562216287f50f6dd059c04b
+# app-01224-inactive-survey

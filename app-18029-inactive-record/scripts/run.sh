@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18029-inactive-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-18029-inactive-record cb8dfca52a4e92392cc7c55acbeb112a2bad971e76c9e3c0154ffe6bd042db93
+# app-

@@ -1,0 +1,21 @@
+# app-06187-favorite-record — scripts
+
+Get open items in spreadsheets. Use when managing pending events, importing actions by entry.
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f293fff5b2f15dab69f24813e03467d05
+# app-06187-favorite-record 25fb872030412c49ebc090df9e4caf5f29

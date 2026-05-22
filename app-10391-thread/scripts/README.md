@@ -1,0 +1,15 @@
+# app-10391-thread — scripts
+
+Create pending records in helpdesk. Use when managing inactive documents, removeing states by record.
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c6
+# app-10391-thread b87725886d474ae78bedda720dfee255e81c8de5a2e32a1c447fca39eedfb6c

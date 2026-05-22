@@ -1,0 +1,11 @@
+# app-16639-status-company-kind — scripts
+
+Delete local items in spreadsheets.
+# app-16639-status-company-kind da132f01c97634f093bb2255e52c47e3e4afcae4347bb341b019b8c596a1678c
+# app-16639-status-company-kind da132f01c97634f093bb2255e52c47e3e4afcae4347bb341b019b8c596a1678c
+# app-16639-status-company-kind da132f01c97634f093bb2255e52c47e3e4afcae4347bb341b019b8c596a1678c
+# app-16639-status-company-kind da132f01c97634f093bb2255e52c47e3e4afcae4347bb341b019b8c596a1678c
+# app-16639-status-company-kind da132f01c97634f093bb2255e52c47e3e4afcae4347bb341b019b8c596a1678c
+# app-16639-status-company-kind da132f01c97634f093bb2255e52c47e3e4afcae4347bb341b019b8c596a1678c
+# app-16639-status-company-kind da132f01c97634f093bb2255e52c47e3e4afcae4347bb341b019b8c596a1678c
+# app-16639-status-company-kind da132f01c97634f093bb2255e52c47e3

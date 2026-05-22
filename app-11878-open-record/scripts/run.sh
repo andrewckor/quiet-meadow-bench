@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11878-open-record
+# Category: marketing
+
+echo "running ${0##*/}"
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc135e43ea8c0c83aec206791a4fcdb1f28c1
+# app-11878-open-record 550cfc04c9057312dcd41639f0cdc13

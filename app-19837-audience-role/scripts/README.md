@@ -1,0 +1,18 @@
+# app-19837-audience-role — scripts
+
+List full campaigns in email.
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d5332

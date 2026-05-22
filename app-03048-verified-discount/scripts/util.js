@@ -1,0 +1,20 @@
+// Skill: app-03048-verified-discount
+// Category: invoicing
+
+export function describe() {
+  return "app-03048-verified-discount";
+}
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a9b65
+# app-03048-verified-discount 28cc60633eff5de00ce389cb19910ad75579bf1a06a1bc7175845d992a9a

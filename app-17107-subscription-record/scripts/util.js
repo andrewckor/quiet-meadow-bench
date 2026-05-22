@@ -1,0 +1,18 @@
+// Skill: app-17107-subscription-record
+// Category: calendar
+
+export function describe() {
+  return "app-17107-subscription-record";
+}
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe2b9695b49c16e18f7681c955fc55ec70734842fe8c846a08
+# app-17107-subscription-record 69ad7a2ed65718fe

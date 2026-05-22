@@ -1,0 +1,13 @@
+# app-06775-pending-account — scripts
+
+Add retrying dashboards in crm. Use when restoreing merge-requests by cell, you need to reject a form.
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec95e0cb2482de7ffd159666
+# app-06775-pending-account fd80c6e75bc2077058afadaeb0be6bfca1852904ec9

@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08932-ref-item-type
+# Category: docs
+
+echo "running ${0##*/}"
+# app-08932-ref-item-type e21f3d7150e5d3a6ba38fe0f8c3aede5e0e0c35f2754794a86008e69d33b5e79
+# app-08932-ref-item-type e21f3d7150e5d3a6ba38fe0f8c3aede5e0e0c35f2754794a86008e69d33b5e79
+# app-08932-ref-item-type e21f3d7150e5d3a6ba38fe0f8c3aede5e0e0c35f2754794a86008e69d33b5e79
+# app-08932-ref-item-type e21f3d7150e5d3a6ba38fe0f8c3aede5e0e0c35f2754794a86008e69d33b5e79
+# app-08932-ref-item-type e21f3d7150e5d3a6ba38fe0f8c3a

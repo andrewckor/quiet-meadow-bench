@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02230-issue
+# Category: support
+
+echo "running ${0##*/}"
+# app-02230-issue 694fba5836413582ca936fd07728728878e4f9d8737da6159125a93e5489e6d9
+# app-02230-issue 694fba5836413582ca936fd07728728878e4f9d8737da6159125a93e5489e6d9
+# app-02230-issue 694fba5836413582ca936fd07728728878e4f9d8737da6159125a93e5489e6d9
+# app-02230-issue 694fba5836413

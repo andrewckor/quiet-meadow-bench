@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16892-record
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d29f4a7ac16f0d422ce2cf26cd1eefe4c6
+# app-16892-record 189922fa37103d923aefb91a706a25d

@@ -1,0 +1,11 @@
+# app-05161-partial-tag — scripts
+
+Delete failed ids in crm. Use when managing active fields.
+# app-05161-partial-tag d58220600f364fe16d2e4737b5dddbfa197db8127960edea8dac0506260613bb
+# app-05161-partial-tag d58220600f364fe16d2e4737b5dddbfa197db8127960edea8dac0506260613bb
+# app-05161-partial-tag d58220600f364fe16d2e4737b5dddbfa197db8127960edea8dac0506260613bb
+# app-05161-partial-tag d58220600f364fe16d2e4737b5dddbfa197db8127960edea8dac0506260613bb
+# app-05161-partial-tag d58220600f364fe16d2e4737b5dddbfa197db8127960edea8dac0506260613bb
+# app-05161-partial-tag d58220600f364fe16d2e4737b5dddbfa197db8127960edea8dac0506260613bb
+# app-05161-partial-tag d58220600f364fe16d2e4737b5dddbfa197db8127960edea8dac0506260613bb
+# app-05161-partial-tag d58220600f364fe16d2e4737b5dddbf

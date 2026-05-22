@@ -1,0 +1,40 @@
+// Skill: app-04637-open-meeting
+// Category: video-conferencing
+
+export function describe() {
+  return "app-04637-open-meeting";
+}
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a27fb2b3822ba62c4d07fe101de8ac9949081d813de
+# app-04637-open-meeting dc600fa66de2b8cd942f5a

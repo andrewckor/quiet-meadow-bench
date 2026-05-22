@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08091-company-entry-video
+# Category: crm
+
+echo "running ${0##*/}"
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef53bd9c16a967a71caa7390e6098d9
+# app-08091-company-entry-video 056119add3897b4ab1373f62b8b7190bbef5

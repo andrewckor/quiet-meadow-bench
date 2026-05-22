@@ -1,0 +1,18 @@
+// Skill: app-07823-onboarding-member
+// Category: forms
+
+export function describe() {
+  return "app-07823-onboarding-member";
+}
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app-07823-onboarding-member 552ae4e19d0e80ebbe1cf2a622d32e2c029728e016240078697f077eb9abf072
+# app

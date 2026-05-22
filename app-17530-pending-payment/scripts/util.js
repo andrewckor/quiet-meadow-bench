@@ -1,0 +1,20 @@
+// Skill: app-17530-pending-payment
+// Category: subscriptions
+
+export function describe() {
+  return "app-17530-pending-payment";
+}
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7fd9af52bf144efe57
+# app-17530-pending-payment 035d8b0afbfa13d1f3aa93d821675c01166071c2474f2c7f

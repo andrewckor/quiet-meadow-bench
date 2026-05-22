@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06112-type-list
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-06112-type-list 92937a367f06b7a2b437654fa77ee66d9ee1ebe87de7678193d8b2b798fc6c38
+# app-06112-type-list 92937a367f06b7a2b437654fa77ee66d9ee1ebe87de7678193d8b2b798fc6c38
+# app-06112-type-list 92937a367f06b7a2b437654fa77ee66d9ee1ebe87de7678193d8b2b798fc6c38
+# app-06112-type-list 92937a367f06b7a2b437654fa77ee66d9ee1ebe87de7678193d8b2b798fc6c38
+# app-06112-type-list 92937a367f06b7a2b437654fa77ee66d9ee1ebe87de7678193d8b2b798fc6c38
+# app-06112-type-list 92937a367f06b7a2b437654fa77ee66d9ee1ebe87de7678193d8b2b798fc6c38
+# app-06112-type-list 92937a367f06b7a2b437654fa77ee66d9ee1ebe87de7678193d8b2b798fc6c38
+# app-06112-type-list 92937a367f06b7a2

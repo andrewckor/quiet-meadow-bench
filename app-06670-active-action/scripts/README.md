@@ -1,0 +1,7 @@
+# app-06670-active-action — scripts
+
+Create inactive subtasks in email.
+# app-06670-active-action 4dbf8c95e3a9b4c37889de2024790808580d0692635173a5a75956d415de66b1
+# app-06670-active-action 4dbf8c95e3a9b4c37889de2024790808580d0692635173a5a75956d415de66b1
+# app-06670-active-action 4dbf8c95e3a9b4c37889de2024790808580d0692635173a5a75956d415de66b1
+# app-06670-active-action 4dbf8c95e3a9b4c37889de2024790808

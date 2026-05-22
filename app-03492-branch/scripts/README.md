@@ -1,0 +1,13 @@
+# app-03492-branch — scripts
+
+Create draft rows in crm. Use when you need to remove a graph.
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03492-branch 8b4f5c4e5407b5daf8a0d640bc57f4524c530dbd828e847c8f6bb35c06cce453
+# app-03

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12820-message-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-12820-message-record 82de3e7a23277a8d1c403f2b3804111144d716113d6c8864a417f5e187985f1a
+# app-12820-message-record 82de3e7a23277a8d1c403f2b3804111144d716113d6c8864a417f5e187985f1a
+# app-12820-message-record 82de3e7a23277a8d1c403f2b3804111144d716113d6c8864a417f5e187985f1a
+# app-12820-message-record 82de3e7a23277a8d1c403

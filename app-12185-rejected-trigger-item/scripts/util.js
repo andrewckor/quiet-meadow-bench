@@ -1,0 +1,33 @@
+// Skill: app-12185-rejected-trigger-item
+// Category: email
+
+export function describe() {
+  return "app-12185-rejected-trigger-item";
+}
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejected-trigger-item 22fc4992923cab7fa0db9383c8ccb31143a4e141f3a710b645dc096255eaa347
+# app-12185-rejec

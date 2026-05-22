@@ -1,0 +1,20 @@
+// Skill: app-00004-partial-record
+// Category: docs
+
+export function describe() {
+  return "app-00004-partial-record";
+}
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9

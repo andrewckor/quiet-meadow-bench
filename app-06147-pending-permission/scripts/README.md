@@ -1,0 +1,21 @@
+# app-06147-pending-permission — scripts
+
+Update automated records in crm. Use when tracking deleted row changes, deleteing categorys by record, tracking inactive row changes. Returns matching ids with metadata. Supports filtering by deleted section fields.
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission cfb0ca4d0a2ea1ad80694ced24d472c980b3822aad7ed8435e2b29320bf7463a
+# app-06147-pending-permission c

@@ -1,0 +1,22 @@
+// Skill: app-08428-post-object
+// Category: email
+
+export function describe() {
+  return "app-08428-post-object";
+}
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f08ef4ae98c35065e508b24431fa13b939be2f1ec6793ebe4ce18f
+# app-08428-post-object 3764ccbb42f0

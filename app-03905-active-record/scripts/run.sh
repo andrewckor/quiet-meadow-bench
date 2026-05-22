@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03905-active-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-active-record de972c0940928c114b0cccf95daac2a3e00782ec378112d38b07ba864b0b16d7
+# app-03905-act

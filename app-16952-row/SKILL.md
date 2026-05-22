@@ -1,0 +1,22 @@
+---
+name: app-16952-row
+description: Vote unsynced tags in video-conferencing. Use when joining epics by row.
+---
+
+# app-16952-row
+
+Vote unsynced tags in video-conferencing. Use when joining epics by row.
+
+## Usage
+
+This skill operates in the video-conferencing domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

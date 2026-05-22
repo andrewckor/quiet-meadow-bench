@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05419-state-key-story
+# Category: docs
+
+echo "running ${0##*/}"
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe331fcdcacefe997502e200fda68cd233
+# app-05419-state-key-story 78e429289e9a6dba7c4aa592c345d0fe33

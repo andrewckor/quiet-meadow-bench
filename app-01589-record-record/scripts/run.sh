@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01589-record-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24cd5722443cc85eba89880b1bf7a1c53c35d4e41ecc08b70fda4be041c4a7cf
+# app-01589-record-record 24c

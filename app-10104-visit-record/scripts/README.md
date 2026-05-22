@@ -1,0 +1,25 @@
+# app-10104-visit-record — scripts
+
+Create recent values in helpdesk. Use when managing earliest items, tracking pending event changes, managing active records. Returns matching entrys with metadata. Supports filtering by trusted record fields.
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533be358b0fabc45ae3a3032b8461bb4070af6a0d1588d4de3c2913d5a48
+# app-10104-visit-record 64eb533

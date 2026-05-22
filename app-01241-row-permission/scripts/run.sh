@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01241-row-permission
+# Category: crm
+
+echo "running ${0##*/}"
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5517157803aa8262a8f87888afc98d10e7d97e2eaebe49b49fdf0b79c4eda98
+# app-01241-row-permission e5

@@ -1,0 +1,15 @@
+# app-19294-invalid-license — scripts
+
+Archive active fields in chat.
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-license 8cd367adf4f33abe9e356afa4e4aed544e6d3d35b0de783e922c391f66ce1335
+# app-19294-invalid-licens

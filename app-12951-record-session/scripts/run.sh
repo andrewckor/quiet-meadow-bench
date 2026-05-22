@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12951-record-session
+# Category: email
+
+echo "running ${0##*/}"
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-session 5bb523644deb853de817061d9978ca70cb99c358af35c51432e96f5c1afec76b
+# app-12951-record-

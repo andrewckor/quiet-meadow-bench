@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01543-object-value-key
+# Category: docs
+
+echo "running ${0##*/}"
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d69eff84be772110368df9f49cda80cf9fc1c7ce4016dfa25657bc766df763
+# app-01543-object-value-key 53d

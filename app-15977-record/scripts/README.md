@@ -1,0 +1,13 @@
+# app-15977-record — scripts
+
+Rollback open sprints in analytics.
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced9af12e5342182a3f9ef2a869aab50260c4d7f463c8744ece21f9
+# app-15977-record aca1cf1f4ced

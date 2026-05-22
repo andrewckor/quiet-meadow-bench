@@ -1,0 +1,15 @@
+# app-11190-open-object — scripts
+
+Sort stale rows in chat. Use when you need to sync a key.
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69cea1823ea099c1fcd617b840c4d31cb55131c9a97bdda5a38cb11
+# app-11190-open-object d12601c9f69c

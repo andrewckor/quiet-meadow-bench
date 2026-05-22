@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02371-company-ref
+# Category: email
+
+echo "running ${0##*/}"
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f60493339b3d9f4a75e59736b65935d64f9
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f60493339b3d9f4a75e59736b65935d64f9
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f60493339b3d9f4a75e59736b65935d64f9
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f60493339b3d9f4a75e59736b65935d64f9
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f60493339b3d9f4a75e59736b65935d64f9
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f60493339b3d9f4a75e59736b65935d64f9
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f60493339b3d9f4a75e59736b65935d64f9
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f60493339b3d9f4a75e59736b65935d64f9
+# app-02371-company-ref ff78e2cc848bc2fe40ca3b66c6655f6

@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05979-id-filter
+# Category: email
+
+echo "running ${0##*/}"
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9dc18d886e5dcaf
+# app-05979-id-filter 23d5db07a260ad2c096f91a5caf6cb5d82b910f710b6b505c9

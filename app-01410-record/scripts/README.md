@@ -1,0 +1,10 @@
+# app-01410-record — scripts
+
+Enrich closed deals in marketing. Use when updateing records by entry.
+# app-01410-record ddaaccee8209114871a886f8ce1f26c1a0435c9f438ee05afebe81b9614a67c0
+# app-01410-record ddaaccee8209114871a886f8ce1f26c1a0435c9f438ee05afebe81b9614a67c0
+# app-01410-record ddaaccee8209114871a886f8ce1f26c1a0435c9f438ee05afebe81b9614a67c0
+# app-01410-record ddaaccee8209114871a886f8ce1f26c1a0435c9f438ee05afebe81b9614a67c0
+# app-01410-record ddaaccee8209114871a886f8ce1f26c1a0435c9f438ee05afebe81b9614a67c0
+# app-01410-record ddaaccee8209114871a886f8ce1f26c1a0435c9f438ee05afebe81b9614a67c0
+# app-01410-record ddaaccee

@@ -1,0 +1,11 @@
+# app-09876-latest-state — scripts
+
+Favorite succeeded records in spreadsheets.
+# app-09876-latest-state 00f21d061332518bad407c51da12c5c1af04fd055b42bdec9e5a0416bdbfdf70
+# app-09876-latest-state 00f21d061332518bad407c51da12c5c1af04fd055b42bdec9e5a0416bdbfdf70
+# app-09876-latest-state 00f21d061332518bad407c51da12c5c1af04fd055b42bdec9e5a0416bdbfdf70
+# app-09876-latest-state 00f21d061332518bad407c51da12c5c1af04fd055b42bdec9e5a0416bdbfdf70
+# app-09876-latest-state 00f21d061332518bad407c51da12c5c1af04fd055b42bdec9e5a0416bdbfdf70
+# app-09876-latest-state 00f21d061332518bad407c51da12c5c1af04fd055b42bdec9e5a0416bdbfdf70
+# app-09876-latest-state 00f21d061332518bad407c51da12c5c1af04fd055b42bdec9e5a0416bdbfdf70
+# app-09876-latest-state 00f21d06133

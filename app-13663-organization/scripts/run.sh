@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13663-organization
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3aace17e4bbf50def0fec5638a42f4e9eba4e039d47b0d7a24b971caeffb45c6
+# app-13663-organization 3

@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10189-public-session
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-10189-public-session 3a2d76d680a96b6eaa44b24eaf430f965730a30d58f2945ef1a3efeb18194baf
+# app-10

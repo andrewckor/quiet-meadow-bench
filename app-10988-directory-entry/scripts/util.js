@@ -1,0 +1,27 @@
+// Skill: app-10988-directory-entry
+// Category: logging
+
+export function describe() {
+  return "app-10988-directory-entry";
+}
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-directory-entry f0a172f1d00baab101d41e7146f7fbfc8b195a772d89d4c8452d391f7c413e3f
+# app-10988-

@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09324-approved-key-field
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approved-key-field 9dc3f1bd04589e5560590fc1dfe1e91dc34133d5d2381ad9d64096d6abb36cfb
+# app-09324-approv

@@ -1,0 +1,45 @@
+// Skill: app-15029-row-company
+// Category: calendar
+
+export function describe() {
+  return "app-15029-row-company";
+}
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7ccb9f9833aa56cbca0c3cb0eaae738df5d359fd
+# app-15029-row-company ce93e871872139373ed0f57d7

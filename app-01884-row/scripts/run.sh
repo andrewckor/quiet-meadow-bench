@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01884-row
+# Category: email
+
+echo "running ${0##*/}"
+# app-01884-row efb6350d4ab86ac2fb1eff5cf9e850a178929e187f9250adbdd77fc5ff0b5d53
+# app-01884-row efb6350d4ab86ac2fb1eff5cf9e850a178929e187f9250adbdd77fc5ff0b5d53
+# app-01884-row efb6350d4ab86ac2fb1eff5cf9e850a178929e187f9250adbdd77fc5ff0b5d53
+# app-01884-row efb6350d4ab86ac2fb1eff5cf9e850a178929e187f9250adbdd77fc5ff0b5d53
+# app-01884-row efb6350d4ab86ac2fb1eff5cf9e850a178929e187f9250adbdd77fc5ff0b5d53
+# app-01884-row efb6350d4ab86ac2fb1eff5cf9e850a178929e187f9250adbdd77fc5ff0b5d53
+# app-01884-row efb6350d4ab86ac2fb

@@ -1,0 +1,12 @@
+// Skill: app-08978-rejected-item-onboarding
+// Category: calendar
+
+export function describe() {
+  return "app-08978-rejected-item-onboarding";
+}
+# app-08978-rejected-item-onboarding 83d1d74359e058a52317a5fd6fb6c9e1f4f4bb2590342bba6d6feba7844f238f
+# app-08978-rejected-item-onboarding 83d1d74359e058a52317a5fd6fb6c9e1f4f4bb2590342bba6d6feba7844f238f
+# app-08978-rejected-item-onboarding 83d1d74359e058a52317a5fd6fb6c9e1f4f4bb2590342bba6d6feba7844f238f
+# app-08978-rejected-item-onboarding 83d1d74359e058a52317a5fd6fb6c9e1f4f4bb2590342bba6d6feba7844f238f
+# app-08978-rejected-item-onboarding 83d1d74359e058a52317a5fd6fb6c9e1f4f4bb2590342bba6d6feba7844f238f
+# app-08978-rejected-item-onboarding 83d1d74359e058a52317a5fd6fb6c9e1f4f4bb2590342bba6d6feba7844f2

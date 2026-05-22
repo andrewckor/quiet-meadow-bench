@@ -1,0 +1,30 @@
+# app-13257-inactive-tag-status — scripts
+
+Delete open leads in devtools. Use when syncing types by field, managing closed tables.
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc75db57a7e5508f0ce06e46fc58d12b82b0912396ccb4d
+# app-13257-inactive-tag-status e2fd9152e903b4c67cc

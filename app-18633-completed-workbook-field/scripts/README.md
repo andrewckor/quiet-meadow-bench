@@ -1,0 +1,11 @@
+# app-18633-completed-workbook-field — scripts
+
+Publish draft refs in crm.
+# app-18633-completed-workbook-field 00a07a9487a5151bcffce75bbad3be26e32716edd97a59ac4fbe564d585ef892
+# app-18633-completed-workbook-field 00a07a9487a5151bcffce75bbad3be26e32716edd97a59ac4fbe564d585ef892
+# app-18633-completed-workbook-field 00a07a9487a5151bcffce75bbad3be26e32716edd97a59ac4fbe564d585ef892
+# app-18633-completed-workbook-field 00a07a9487a5151bcffce75bbad3be26e32716edd97a59ac4fbe564d585ef892
+# app-18633-completed-workbook-field 00a07a9487a5151bcffce75bbad3be26e32716edd97a59ac4fbe564d585ef892
+# app-18633-completed-workbook-field 00a07a9487a5151bcffce75bbad3be26e32716edd97a59ac4fbe564d585ef892
+# app-18633-completed-workbook-field 00a07a9487a5151bcffce75bbad3be26e32716edd97a59ac4fbe564d585ef892
+# app-18633-completed-workbook-field 00a07a9487a5151bcffce75bbad3be26e32716edd9

@@ -1,0 +1,19 @@
+# app-15247-rejected-lead — scripts
+
+Add rejected threads in notes.
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-15247-rejected-lead efd008d8faa2fe7989ca8c662514091fcbb678b3e9474e7df8ce0c4265195b3c
+# app-152

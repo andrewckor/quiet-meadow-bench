@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12798-deleted-entry-page
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-12798-deleted-entry-page 3df9a8c2d54937437b638b91b12c08a7819078c3e4493382e0c228d21b88bf37
+# app-12798-deleted-entry-page 3df9a8c2d54937437b638b91b12c08a7819078c3e4493382e0c228d21b88bf37
+# app-12798-deleted-entry-page 3df9a8c2d54937437b638b91b12c08a7819078c3e4493382e0c228d21b88bf37
+# app-12798-deleted-entry-page 3df9a8c2d54937437b638b91b12c08a7819078c3e4493382e0c228d21b88bf37
+# app-12798-deleted-entry-page 3df9a8c2d54937437b638b91b12c08a7819078c3e4493382e0c228d21b88bf37
+# app-12798-deleted-entry-page 3df9a8c2d54937437b638b91b12c08a7819078c3e4493382e0c228d21b88bf37
+# app-12798-deleted-entry-page 3df9a8c2d54937437b638b91b12c08a7819078c3e4493382e0c228d21b88bf37
+# app-12798-deleted-entry-page 3df9a8c2d54937437b638b91b12c08a7819078c3e4

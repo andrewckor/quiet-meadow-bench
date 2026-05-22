@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05371-tag-milestone
+# Category: identity
+
+echo "running ${0##*/}"
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c386

@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00249-highlight-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2

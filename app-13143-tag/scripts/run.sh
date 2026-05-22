@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13143-tag
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-13143-tag dc57a1e1ec8eea2a5b3f20af8a4fdc922694a2de2f4ce0b00118e91d9568b2e8
+# app-13143-tag dc57a1e1ec8eea2a5b3f20af8a4fdc922694a2de2f4ce0b00118e91d9568b2e8
+# app-13143-tag dc57a1e1ec8eea2a5b3f20af8a4fdc922694a2de2f4ce0b00118e91d9568b2e8
+# app-13143-tag dc57a1e1ec8eea2a5b3f20af8a4fdc922694a2de2f4ce0b00118e91d9568b2e8
+# app-13143-tag dc57a1e1ec8eea2a5b3f20af8a4fdc922694a2de2f4ce0b00118e91d9568b2e8
+# app-13143-tag dc57a1e1ec8eea2a5b3f20af8a4fdc922694a2de2f4ce0b00118e91d9568b2e8
+# app-13143-tag dc57a1e1ec8eea2a5b3f20af8a4fdc922694a2de2f4ce0

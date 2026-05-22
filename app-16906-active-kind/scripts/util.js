@@ -1,0 +1,38 @@
+// Skill: app-16906-active-kind
+// Category: email
+
+export function describe() {
+  return "app-16906-active-kind";
+}
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d81c847f5dbfce08eb9142c291e
+# app-16906-active-kind e510a6a9b030ac65fd9b54d034be9ad6e6cc2d

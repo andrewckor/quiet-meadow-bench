@@ -1,0 +1,20 @@
+# app-07229-release-pull-request-release — scripts
+
+Create active fields in storage.
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec54b7078c7d291f51aa1392f3c4e01800907c11c61ea72f0fb69a5b9177de7b
+# app-07229-release-pull-request-release ec5

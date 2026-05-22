@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16139-rejected-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f68b81c5cb262551820abab
+# app-16139-rejected-record 5557ecffd81bd2b69b45a0595002cc19f82cb9034f

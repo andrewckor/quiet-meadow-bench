@@ -1,0 +1,14 @@
+# app-05282-session-release — scripts
+
+Delete inactive dashboards in storage. Use when managing closed records, you need to update a key.
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e14fe489169e322a15ee81fdac2a0b8a7e114ca53d18e0253
+# app-05282-session-release 172ad5a9c5927e2e1

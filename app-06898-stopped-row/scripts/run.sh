@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06898-stopped-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-06898-stopped-row be62d523040116588260192cc49d92aff402894ef2a33157a244de9ed8c3d760
+# app-06898-stopped-row be62d523040116588260192cc49d92aff402894ef2a33157a244de9ed8c3d760
+# app-06898-stopped-row be62d523040116588260192cc49d92aff402894ef2a33157a244de9ed8c3d760
+# app-06898-stopped-row be62d523040116588260192cc49d92aff402894ef2a33157a244de9ed8c3d760
+# app-06898-stopped-row be62d523040116588260192cc49d92

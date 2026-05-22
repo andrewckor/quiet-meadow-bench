@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16817-active-channel-row
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d33392307127422eead2b03b5bfa10a57c86d069c9eb8ee895f
+# app-16817-active-channel-row 139fe708dd662d3339230712742

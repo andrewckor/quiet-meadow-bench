@@ -1,0 +1,28 @@
+// Skill: app-02917-inactive-lead
+// Category: helpdesk
+
+export function describe() {
+  return "app-02917-inactive-lead";
+}
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af44cf2ff49bf2b94642d9bd42dcf3acc
+# app-02917-inactive-lead 96a4f55ae6edd5914fd1499e8e4e415af4

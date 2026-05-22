@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10056-active-refund-kind
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund-kind 0cae7ab824bbdb268b94d13383755e41ee9c638825dabd5fa41ee322d184b74e
+# app-10056-active-refund

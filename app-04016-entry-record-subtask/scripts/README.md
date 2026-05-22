@@ -1,0 +1,20 @@
+# app-04016-entry-record-subtask — scripts
+
+Verify open discounts in docs. Use when tracking rejected estimate changes, managing trusted sprints, you need to sync a contact, tracking pending record changes. Returns matching answers with metadata. Supports filtering by pinned value fields.
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fcf2c80d55792091b4da582423146ae73ab410e8b0966bf9
+# app-04016-entry-record-subtask a6a26f1225872170fc

@@ -1,0 +1,7 @@
+# app-04860-phase-row — scripts
+
+Monitor active sessions in analytics.
+# app-04860-phase-row fa088f20b5065a8909aef616df5c4bb6621860485aa976954f7685891aa02bc3
+# app-04860-phase-row fa088f20b5065a8909aef616df5c4bb6621860485aa976954f7685891aa02bc3
+# app-04860-phase-row fa088f20b5065a8909aef616df5c4bb6621860485aa976954f7685891aa02bc3
+# app-04860-phase-row fa088f20b5065a8909aef616

@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02396-ref
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabd

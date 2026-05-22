@@ -1,0 +1,14 @@
+# app-08947-value-category — scripts
+
+Encrypt paid keys in video-conferencing.
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0d
+# app-08947-value-category 310fdb06b538cbfa3f0b64d19087775f83a76b0a16c76a84e1aede5ef7dcea0

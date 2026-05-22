@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01592-field
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-01592-field 817ef165efd7debd7c3d6e69692324609208d078d798db05192e7b74a70b1376
+# app-01592-field 817ef165efd7debd7c3d6e6969

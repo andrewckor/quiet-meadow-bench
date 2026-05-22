@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02860-favorite
+# Category: crm
+
+echo "running ${0##*/}"
+# app-02860-favorite 549c1e7f38e11178458be158f77bee3e9e6de1a3f7926f2c270a9631c0d32f36
+# app-02860-favorite 549c1e7f38e11178458be158f77bee3e9e6de1a3f7926f2c270a9631c0d32f36
+# app-02860-favorite 549c1e7f38e11178458be158f77bee3e9e6de1a3f7926f2c270a9631c0d32f36
+# app-02860-favorite 549c1e7f38e11178458be158f77bee3e9e6de1a3f7926f2c270a9631c0d32f36
+# app-02860-favorite 549c1e7f38e11178458be158f77bee3e9e6de1a3f7926f2c270a9631c0d32f36
+# app-02860-favorite 549c1e7f38e11178458be158f77bee3e9e6de1a3f7926f2c270a9631c0d32f36
+# app-02860-favorite 549c1e7f38e1117845

@@ -1,0 +1,21 @@
+# app-15597-workflow-item — scripts
+
+Add recent traces in docs. Use when tracking draft click changes.
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7dc21c43c80b4c414606f1bffefcb9aec77dd7c6ea
+# app-15597-workflow-item 9af31193a9b8868a47f3bd7d

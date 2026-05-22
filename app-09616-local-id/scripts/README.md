@@ -1,0 +1,11 @@
+# app-09616-local-id — scripts
+
+Update archived fields in email.
+# app-09616-local-id 8721b0c40393e733deb0c1dd742ff97beecbd3ada7e97b68a752a6798e4a5d84
+# app-09616-local-id 8721b0c40393e733deb0c1dd742ff97beecbd3ada7e97b68a752a6798e4a5d84
+# app-09616-local-id 8721b0c40393e733deb0c1dd742ff97beecbd3ada7e97b68a752a6798e4a5d84
+# app-09616-local-id 8721b0c40393e733deb0c1dd742ff97beecbd3ada7e97b68a752a6798e4a5d84
+# app-09616-local-id 8721b0c40393e733deb0c1dd742ff97beecbd3ada7e97b68a752a6798e4a5d84
+# app-09616-local-id 8721b0c40393e733deb0c1dd742ff97beecbd3ada7e97b68a752a6798e4a5d84
+# app-09616-local-id 8721b0c40393e733deb0c1dd742ff97beecbd3ada7e97b68a752a6798e4a5d84
+# app-09616-local-id 8721b0c40393e733deb0c1dd742ff97beecbd3ada7e97b68a752

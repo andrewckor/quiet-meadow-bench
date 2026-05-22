@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08426-entry-company
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2cb1b72b7baafed0a5c016835fa25b72e205ce8be7be
+# app-08426-entry-company 70b11db943834ffea91b2c

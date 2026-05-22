@@ -1,0 +1,26 @@
+// Skill: app-00027-channel-id-organization
+// Category: billing
+
+export function describe() {
+  return "app-00027-channel-id-organization";
+}
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d7000cd65d4ae5af0ceca51d70cc93d59be02aedd325dc6867d491d3369fb882
+# app-00027-channel-id-organization d700

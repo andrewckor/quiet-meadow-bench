@@ -1,0 +1,13 @@
+// Skill: app-04038-build-key
+// Category: payments
+
+export function describe() {
+  return "app-04038-build-key";
+}
+# app-04038-build-key 0a243acc9f1616c390de5d48c6b02d9928a5465d40e5d3c4fcb71302129322f4
+# app-04038-build-key 0a243acc9f1616c390de5d48c6b02d9928a5465d40e5d3c4fcb71302129322f4
+# app-04038-build-key 0a243acc9f1616c390de5d48c6b02d9928a5465d40e5d3c4fcb71302129322f4
+# app-04038-build-key 0a243acc9f1616c390de5d48c6b02d9928a5465d40e5d3c4fcb71302129322f4
+# app-04038-build-key 0a243acc9f1616c390de5d48c6b02d9928a5465d40e5d3c4fcb71302129322f4
+# app-04038-build-key 0a243acc9f1616c390de5d48c6b02d9928a5465d40e5d3c4fcb71302129322f4
+# app-04038-build-

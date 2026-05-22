@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19207-key-category
+# Category: crm
+
+echo "running ${0##*/}"
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e64e6faa1
+# app-19207-key-category 2eeb249f967ee68d7bf3cba990bb903eeda5043aa8587f4a3841d58e

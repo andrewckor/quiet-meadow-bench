@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10268-inactive-record-kind
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e609e953c8c8f95ecc0132e9926c3
+# app-10268-inactive-record-kind 1a5f7686f5a9631d05a7ee5d1c8adbb8c71e60

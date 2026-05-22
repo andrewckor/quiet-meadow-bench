@@ -1,0 +1,47 @@
+# app-19823-item-alert-key — scripts
+
+Delete approved records in ticketing. Use when tracking unverified record changes, tracking shared file changes.
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-alert-key 7f7f439e5b8d0a9fe741d2cebc42e5a8693c7bf6a619d9e9bec812c9100aaba2
+# app-19823-item-al

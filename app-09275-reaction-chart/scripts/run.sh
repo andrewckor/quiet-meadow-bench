@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09275-reaction-chart
+# Category: crm
+
+echo "running ${0##*/}"
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddce59903b68793f80ed546185df7d60c4d2ba98cc0f43d909
+# app-09275-reaction-chart 4104c20657e1e8ddc

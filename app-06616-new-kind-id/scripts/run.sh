@@ -1,0 +1,54 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06616-new-kind-id
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-new-kind-id 9ef5e5b1d15801fdb65d0893de0727b61c23fa202f56abcec765af0adea78daa
+# app-06616-

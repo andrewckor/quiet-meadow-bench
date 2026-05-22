@@ -1,0 +1,16 @@
+# app-10675-approved-object — scripts
+
+Receive open pull-requests in recruiting. Use when managing untrusted sprints, tracking open id changes, tracking active object changes, updateing records by record. Returns matching devices with metadata. Supports filtering by inactive tag fields.
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a72d1805f86f3cc754a3
+# app-10675-approved-object 25eab2be991a9b17f50228d9474e7088771ea0bbd7b7a

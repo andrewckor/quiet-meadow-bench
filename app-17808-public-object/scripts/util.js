@@ -1,0 +1,35 @@
+// Skill: app-17808-public-object
+// Category: storage
+
+export function describe() {
+  return "app-17808-public-object";
+}
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-object a19d9daa710d9fcc353a1be0b1f2e4c3fab6ca8421ade2fcbfa6123e6d2ed12c
+# app-17808-public-o

@@ -1,0 +1,25 @@
+// Skill: app-08677-step-mention
+// Category: spreadsheets
+
+export function describe() {
+  return "app-08677-step-mention";
+}
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339de30a2f054efa82328882abb1ed5ad291f17b2b314cc5ba5a9e716
+# app-08677-step-mention 364da0f339d

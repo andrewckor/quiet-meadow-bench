@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15208-label-item
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-15208-label-item 4e9df79b8418f1fffd46f6f5845ff16b449186367dc23053ab863650b62ff293
+# app-15208-label-item 4e9df79b8418f1fffd46f6f5845ff16b449186367dc23053ab863650b62ff293
+# app-15208-label-item 4e9df79b8418f1fffd46f6f5845ff16b449186367dc23053ab863650b62ff293
+# app-15208-label-item 4e9df79b8418f1fffd46f6f5845ff16b449186367dc23053ab863650b62ff293
+# app-15208-label-item 4e9df79b8418f1fffd46f6f5845ff16b449186367dc23053ab863650b62ff293
+# app-15208-label-item 4e9df79b8418f1fffd46f6f5845ff16b449186367dc23053ab863650b62ff293
+# app-15208-label-item 4e9df79b8418f1fffd46f6f5845ff16b449186367dc23

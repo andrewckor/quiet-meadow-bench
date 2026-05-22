@@ -1,0 +1,28 @@
+# app-08971-key-row — scripts
+
+Create active bugs in video-conferencing. Use when tracking critical workflow changes, tracking rejected issue changes.
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8a7e344cda5ceabb0d93d6bd19f199fad8f6f63b425e79c59
+# app-08971-key-row d0734b33f5dab6f8

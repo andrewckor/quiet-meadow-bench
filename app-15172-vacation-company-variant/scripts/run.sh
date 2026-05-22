@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15172-vacation-company-variant
+# Category: crm
+
+echo "running ${0##*/}"
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-vacation-company-variant 3d93269f06e4ad4c8abe4af805ab2c00b6cd5cc696de662097c540aa44744cae
+# app-15172-v

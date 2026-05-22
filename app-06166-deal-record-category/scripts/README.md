@@ -1,0 +1,20 @@
+# app-06166-deal-record-category — scripts
+
+Create active types in spreadsheets.
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-category ffd2797146682cecc3bd396863e24c0909d9f1fb07a505aa35b5582a30aded29
+# app-06166-deal-record-catego

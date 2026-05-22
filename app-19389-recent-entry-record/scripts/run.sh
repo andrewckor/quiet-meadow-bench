@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19389-recent-entry-record
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-19389-recent-entry-record c8357239029e0a60f122c707def2e0712d0fe42d9bc06f1c8fcc2f043c7790c3
+# app-19389-recent-entry-record c8357239029e0a60f122c707def2e0712d0fe42d9bc06f1c8fcc2f043c7790c3
+# 

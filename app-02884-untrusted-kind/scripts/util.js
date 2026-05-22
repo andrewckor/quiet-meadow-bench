@@ -1,0 +1,17 @@
+// Skill: app-02884-untrusted-kind
+// Category: crm
+
+export function describe() {
+  return "app-02884-untrusted-kind";
+}
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4438f4005a93f0bd60ef
+# app-02884-untrusted-kind 23065cb259e195c3b969db059bfceb2a88725d5c7dbc4

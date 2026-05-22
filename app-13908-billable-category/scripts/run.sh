@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13908-billable-category
+# Category: email
+
+echo "running ${0##*/}"
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-category 7e85acb3142e408b388a0329b6477c52a919dd04f90ff3eff16a20d253d183e5
+# app-13908-billable-catego

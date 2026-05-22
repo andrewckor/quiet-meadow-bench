@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00381-company
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00381-company 4a62346a5576f3c67ef689ca5723689f647043af86a6078d27ee9bdaaf6b07a5
+# app-00381-company 4a62346a5576f3c67ef689ca5723689f647043af86a6078d27ee9bdaaf6b07a5
+# app-00381-company 4a62346a5576f3c67ef689ca5723689f647043af86a6078d27ee9bdaaf6b07a5
+# app-00381-company 4a62346a5576f3c67ef689ca5723689f647043af86a6078d27ee9bdaaf6b07a5
+# app-00381-company 4a62346a5576f3c67ef689ca5723689f647043af86a6078d27ee9bdaaf6b07a5
+# app-00381-company 4a62346a5576f3c67ef689ca5

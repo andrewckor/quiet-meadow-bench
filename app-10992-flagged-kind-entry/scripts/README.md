@@ -1,0 +1,14 @@
+# app-10992-flagged-kind-entry — scripts
+
+Comment internal rows in inventory. Use when createing records by story, tracking old pipeline changes.
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf34510751567af57a728044868c2f7063032
+# app-10992-flagged-kind-entry f9131c38e85cfff0ef9f5f5472ddf345107

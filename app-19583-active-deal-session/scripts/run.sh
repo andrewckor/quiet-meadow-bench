@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19583-active-deal-session
+# Category: email
+
+echo "running ${0##*/}"
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b438e912a28abb2b4ad126d77c6b2fa2f661
+# app-19583-active-deal-session 899ecea0224196f46a1df8bd0031b

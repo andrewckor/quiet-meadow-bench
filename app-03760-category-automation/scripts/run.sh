@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03760-category-automation
+# Category: forms
+
+echo "running ${0##*/}"
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027178618242e1cba5115b6f14
+# app-03760-category-automation 3702e12ba874ac3c9b8aa5ef849c4fe34ef1ba027

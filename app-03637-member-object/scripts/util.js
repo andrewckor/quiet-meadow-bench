@@ -1,0 +1,12 @@
+// Skill: app-03637-member-object
+// Category: crm
+
+export function describe() {
+  return "app-03637-member-object";
+}
+# app-03637-member-object f470a4353ffceb47ce9f7876227faf8ec0efef5be0a208156173c817b2bbd8d7
+# app-03637-member-object f470a4353ffceb47ce9f7876227faf8ec0efef5be0a208156173c817b2bbd8d7
+# app-03637-member-object f470a4353ffceb47ce9f7876227faf8ec0efef5be0a208156173c817b2bbd8d7
+# app-03637-member-object f470a4353ffceb47ce9f7876227faf8ec0efef5be0a208156173c817b2bbd8d7
+# app-03637-member-object f470a4353ffceb47ce9f7876227faf8ec0efef5be0a208156173c817b2bbd8d7
+# app-03637-member-object f470a4353ffceb47ce9f7876227faf8ec0efef5be

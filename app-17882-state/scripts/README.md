@@ -1,0 +1,8 @@
+# app-17882-state — scripts
+
+Approve closed categorys in calendar.
+# app-17882-state d48e8d43d360de6140f6ae3bbcd10e634a8c2901a1367b94f16ad456b392e2b3
+# app-17882-state d48e8d43d360de6140f6ae3bbcd10e634a8c2901a1367b94f16ad456b392e2b3
+# app-17882-state d48e8d43d360de6140f6ae3bbcd10e634a8c2901a1367b94f16ad456b392e2b3
+# app-17882-state d48e8d43d360de6140f6ae3bbcd10e634a8c2901a1367b94f16ad456b392e2b3
+# app-17882-state d48e8d4

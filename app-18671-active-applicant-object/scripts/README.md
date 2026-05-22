@@ -1,0 +1,17 @@
+# app-18671-active-applicant-object — scripts
+
+Archive unsynced records in social-media.
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# app-18671-active-applicant-object a24f7c53bc101412a0cdb55fea11a905be5cf5f20bb82f28b269b35942e76a3f
+# a

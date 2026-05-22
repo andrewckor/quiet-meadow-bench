@@ -1,0 +1,22 @@
+---
+name: app-04076-record
+description: Fetch fresh members in dashboards.
+---
+
+# app-04076-record
+
+Fetch fresh members in dashboards.
+
+## Usage
+
+This skill operates in the dashboards domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

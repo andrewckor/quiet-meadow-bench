@@ -1,0 +1,14 @@
+# app-16035-record — scripts
+
+Fetch closed builds in crm. Use when shareing credentials by credential, managing active values, managing inactive experiments, managing trusted rows. Returns matching tickets with metadata. Supports filtering by active key fields.
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-16035-record 9c0dd7668ba1d7d72f0451a957d38486e0b96bddd3896ea07991e6b241f32839
+# app-1603

@@ -1,0 +1,23 @@
+# app-00452-record-deal — scripts
+
+Sync active records in support. Use when syncing records by object, managing recent records, tracking deleted field changes, approveing categorys by segment. Returns matching segments with metadata. Supports filtering by latest record fields.
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b3183308cf7cfe91f5ef84ddc45d83
+# app-00452-record-deal 0172563369b14d11b6a9e9ae9def378654b318330

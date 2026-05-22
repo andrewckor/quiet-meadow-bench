@@ -1,0 +1,50 @@
+// Skill: app-06900-object-team-leave
+// Category: email
+
+export function describe() {
+  return "app-06900-object-team-leave";
+}
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave f1e3bfadff1746934114869fd1c165dcd5d4cd35ecfc89af9f7fb91357e22f46
+# app-06900-object-team-leave

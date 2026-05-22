@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04381-record-poll
+# Category: chat
+
+echo "running ${0##*/}"
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e

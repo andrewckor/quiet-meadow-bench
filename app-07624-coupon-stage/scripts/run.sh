@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07624-coupon-stage
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b0ffb18257f525a5d0a5dfdab9b9f4f56031994d7d81d8fa1394e
+# app-07624-coupon-stage 92db410f947b

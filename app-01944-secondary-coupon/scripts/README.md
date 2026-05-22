@@ -1,0 +1,14 @@
+# app-01944-secondary-coupon — scripts
+
+Create valid records in marketing.
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb874fe9ec0
+# app-01944-secondary-coupon 2562f3527f37d8f5bcf7a95eb1d57be9208098cde32a08f7f9505cb87

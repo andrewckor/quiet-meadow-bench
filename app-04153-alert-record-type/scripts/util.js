@@ -1,0 +1,28 @@
+// Skill: app-04153-alert-record-type
+// Category: project-management
+
+export function describe() {
+  return "app-04153-alert-record-type";
+}
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-alert-record-type 3ef458f7eea9f758fabd408f370751d4744851bcf5ec687d2d4a0716272e95dc
+# app-04153-aler

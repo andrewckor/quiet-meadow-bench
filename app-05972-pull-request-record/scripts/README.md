@@ -1,0 +1,36 @@
+# app-05972-pull-request-record — scripts
+
+Compare active transcripts in crm.
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d0b5a2fd7ef9540c2dbc16aff70b2bf6aae5e745a2e2ebeaf389e67
+# app-05972-pull-request-record 969a89934d

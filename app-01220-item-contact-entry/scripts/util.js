@@ -1,0 +1,25 @@
+// Skill: app-01220-item-contact-entry
+// Category: helpdesk
+
+export function describe() {
+  return "app-01220-item-contact-entry";
+}
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact-entry 5316cf75eda09fdfb2edd2df22a384727569fc078f4bd00988261b157b4d625b
+# app-01220-item-contact

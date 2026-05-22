@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11370-reminder-tag
+# Category: crm
+
+echo "running ${0##*/}"
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225cf2994cdc14aed522ed5593f4ab493e2cabc27cfee9406ab62ba50
+# app-11370-reminder-tag 77ccbad225

@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00680-type-record
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7271c3c335ec0740b929a9076dd1c7a
+# app-00680-type-record 229799e9a92ffd4c937b3b40575c4cddc7

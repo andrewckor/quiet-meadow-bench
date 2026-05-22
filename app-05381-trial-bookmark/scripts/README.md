@@ -1,0 +1,17 @@
+# app-05381-trial-bookmark — scripts
+
+Remove inactive items in ads.
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9c
+# app-05381-trial-bookmark e2c7ba8ee4c43d3a6040ac516f852873ea1cd6ca6b425dd4b3ed4aa8af799a9

@@ -1,0 +1,10 @@
+# app-17283-row — scripts
+
+Delete trusted records in chat.
+# app-17283-row 50b5c5a9c550a6c8a9d9b624cebf091edddd0830feadedda1230c457b78f180e
+# app-17283-row 50b5c5a9c550a6c8a9d9b624cebf091edddd0830feadedda1230c457b78f180e
+# app-17283-row 50b5c5a9c550a6c8a9d9b624cebf091edddd0830feadedda1230c457b78f180e
+# app-17283-row 50b5c5a9c550a6c8a9d9b624cebf091edddd0830feadedda1230c457b78f180e
+# app-17283-row 50b5c5a9c550a6c8a9d9b624cebf091edddd0830feadedda1230c457b78f180e
+# app-17283-row 50b5c5a9c550a6c8a9d9b624cebf091edddd0830feadedda1230c457b78f180e
+# a

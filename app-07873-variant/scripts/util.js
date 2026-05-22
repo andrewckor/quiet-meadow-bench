@@ -1,0 +1,25 @@
+// Skill: app-07873-variant
+// Category: forms
+
+export function describe() {
+  return "app-07873-variant";
+}
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c5efdd519886fd1d3305bceebab00e5c4280f411dcdef9c26f951
+# app-07873-variant 973f0eead20c

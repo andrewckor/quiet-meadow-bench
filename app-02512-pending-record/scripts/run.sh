@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02512-pending-record
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-02512-pending-record 060496157fe9efebbe0d7e5503a2e39d3ab39f35fd1e468c9a704f9c0b348239
+# app-02512-pending-record 060496157fe9efebbe0d7e5503a2e39d3ab39f35fd1e468c9a704f9c0b348239
+# app-02512-pending-record 060496157fe9efebbe0d7e5503a2e39d3ab39f35fd1e468c9a704f9c0b348239
+# app-02512-pending-record 060496157fe9efebbe0d7e5503a2e39d3ab39f35fd1e468c9a704f9c0b348239
+# app-02512-pending-record 060496157fe9efebbe0d7e5503a2e39d3ab39f35fd1e468c9a704f9c0b348239
+# app-02512-pending-record 060

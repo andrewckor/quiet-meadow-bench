@@ -1,0 +1,12 @@
+# app-06080-record-account — scripts
+
+Split retrying notifications in helpdesk. Use when tracking active ticket changes, managing inactive records.
+# app-06080-record-account 3fe1eab08afdeaff3baee17e554ade774bc89b37bca5f554625f16594383ae69
+# app-06080-record-account 3fe1eab08afdeaff3baee17e554ade774bc89b37bca5f554625f16594383ae69
+# app-06080-record-account 3fe1eab08afdeaff3baee17e554ade774bc89b37bca5f554625f16594383ae69
+# app-06080-record-account 3fe1eab08afdeaff3baee17e554ade774bc89b37bca5f554625f16594383ae69
+# app-06080-record-account 3fe1eab08afdeaff3baee17e554ade774bc89b37bca5f554625f16594383ae69
+# app-06080-record-account 3fe1eab08afdeaff3baee17e554ade774bc89b37bca5f554625f16594383ae69
+# app-06080-record-account 3fe1eab08afdeaff3baee17e554ade774bc89b37bca5f554625f16594383ae69
+# app-06080-record-account 3fe1eab08afdeaff3baee17e554ade774bc89b37bca5f554625f16594383ae69
+# app-06080-record-account 3fe1eab08a

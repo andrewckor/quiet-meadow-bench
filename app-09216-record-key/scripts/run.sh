@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09216-record-key
+# Category: crm
+
+echo "running ${0##*/}"
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a5fcd0
+# app-09216-record-key 18905f83350001f977e6ed873988edb8b31bf2b3b2d46fdb5abb4f0a63a

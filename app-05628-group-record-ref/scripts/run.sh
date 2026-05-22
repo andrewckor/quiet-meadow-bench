@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05628-group-record-ref
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-group-record-ref ca8757a785bdbf7ca1c4937a37ce5c2493b8e433691cada67a876a0a69a89c97
+# app-05628-gro

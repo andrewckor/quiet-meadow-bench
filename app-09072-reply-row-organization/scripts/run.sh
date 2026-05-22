@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09072-reply-row-organization
+# Category: email
+
+echo "running ${0##*/}"
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 640b1638aee56e79ce2030e24b50ceafa9698b6f5f4d2bcccd47466c1699fdf2
+# app-09072-reply-row-organization 6

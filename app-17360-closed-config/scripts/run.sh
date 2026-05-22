@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17360-closed-config
+# Category: forms
+
+echo "running ${0##*/}"
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# app-17360-closed-config 5227c11c5fec57a2835d8eca975dedcbdf1a68d553ece38c5deb0c068620c000
+# 

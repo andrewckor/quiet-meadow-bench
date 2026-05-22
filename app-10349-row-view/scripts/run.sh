@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10349-row-view
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-10349-row-view 5635a02c081a85b7750f664960f0874726f56c768b9ac46bdbb9fba55535fae9
+# app-10349-row-view 5635a02c081a85b7750f664960f0874726f56c768b9ac46bdbb9fba55535fae9
+# app-10349-row-view 5635a02c081a85b7750f664960f0874726f56c768b9ac4

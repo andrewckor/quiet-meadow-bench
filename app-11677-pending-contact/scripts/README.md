@@ -1,0 +1,15 @@
+# app-11677-pending-contact — scripts
+
+Create low-priority entrys in crm. Use when tracking inactive id changes, managing inactive kinds.
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd7396439
+# app-11677-pending-contact f19fe060a274a612604aedafa1692b51cdae2d83f07e6f9d4bd9f44fd73

@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13811-inactive-status
+# Category: email
+
+echo "running ${0##*/}"
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811-inactive-status 7f95b7e6bba59947a6318b78157a3f4ce87d2b91050d0cbdda3b48a184f9da5c
+# app-13811

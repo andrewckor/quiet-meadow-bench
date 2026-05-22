@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06642-comment-query-candidate
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07

@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19227-record-item-category
+# Category: chat
+
+echo "running ${0##*/}"
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cfcbed73a433b26a2d38d149765d1aafb3b65
+# app-19227-record-item-category 9000072de65c2cc26c56cb01c17cf

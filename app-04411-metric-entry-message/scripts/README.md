@@ -1,0 +1,25 @@
+# app-04411-metric-entry-message — scripts
+
+Send pending deals in email.
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-04411-metric-entry-message 3d45111ad767df100efc049a380db07937fd209a616ac7daab4d429a6ae59c09
+# app-044

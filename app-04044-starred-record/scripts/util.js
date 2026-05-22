@@ -1,0 +1,28 @@
+// Skill: app-04044-starred-record
+// Category: crm
+
+export function describe() {
+  return "app-04044-starred-record";
+}
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c4ac4186e32f70c4e248c964f54f
+# app-04044-starred-record 383c5fee4c3a4f870c54e8ebcdfb4a987ea7c

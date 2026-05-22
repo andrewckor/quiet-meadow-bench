@@ -1,0 +1,19 @@
+// Skill: app-10112-closed-team
+// Category: crm
+
+export function describe() {
+  return "app-10112-closed-team";
+}
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed-team dad6eb2cd2384f99066d50c55e8b0fe7da611cb613a00451175a398baa5a422f
+# app-10112-closed

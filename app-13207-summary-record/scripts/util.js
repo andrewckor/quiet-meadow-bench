@@ -1,0 +1,8 @@
+// Skill: app-13207-summary-record
+// Category: crm
+
+export function describe() {
+  return "app-13207-summary-record";
+}
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce32

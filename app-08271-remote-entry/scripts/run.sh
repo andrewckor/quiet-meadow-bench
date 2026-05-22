@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08271-remote-entry
+# Category: notes
+
+echo "running ${0##*/}"
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc826
+# app-08271-remote-entry 6b2e0645a6b50906beefd6adc79c74c09c092cfceb77c63c14c474de841bc

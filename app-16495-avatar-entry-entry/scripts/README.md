@@ -1,0 +1,8 @@
+# app-16495-avatar-entry-entry — scripts
+
+Pin closed archives in helpdesk.
+# app-16495-avatar-entry-entry 054c2c1d464d2db8f9338b19ad367480757a0bfa09407fe65f25f31aa630ffa4
+# app-16495-avatar-entry-entry 054c2c1d464d2db8f9338b19ad367480757a0bfa09407fe65f25f31aa630ffa4
+# app-16495-avatar-entry-entry 054c2c1d464d2db8f9338b19ad367480757a0bfa09407fe65f25f31aa630ffa4
+# app-16495-avatar-entry-entry 054c2c1d464d2db8f9338b19ad367480757a0bfa09407fe65f25f31aa630ffa4
+# app-16495-avatar-entry-e

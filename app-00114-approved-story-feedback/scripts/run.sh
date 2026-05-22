@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00114-approved-story-feedback
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b4bc1
+# app-00114-approved-story-feedback 9a3799f2d37e8f3552fbee211ae7f563e6bfe1976496da4da771cc98625b

@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09681-active-ref
+# Category: devtools
+
+echo "running ${0##*/}"
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26bd6a07c23d3d24ed5c4e2c936aceef5
+# app-09681-active-ref 1871fd071c259ccd375f5b782872eab26

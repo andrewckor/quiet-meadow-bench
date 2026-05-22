@@ -1,0 +1,20 @@
+// Skill: app-04138-value-label
+// Category: invoicing
+
+export function describe() {
+  return "app-04138-value-label";
+}
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-value-label 3eb9266e869ed8c340b929cda1239c60a2a5b34a8befc7d7d85407052c04b6db
+# app-04138-va

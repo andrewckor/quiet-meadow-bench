@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18319-high-priority-object
+# Category: email
+
+echo "running ${0##*/}"
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f0656295cff3b5a734c06280b570e1b64ebba624a62f548b98c5ce463ceff
+# app-18319-high-priority-object 2b8f065

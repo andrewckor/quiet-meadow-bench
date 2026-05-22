@@ -1,0 +1,13 @@
+# app-09408-thread — scripts
+
+Create stopped comments in chat. Use when rateing values by pipeline.
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e12ef15d5072838bccbd9dca24f8b658cf
+# app-09408-thread ab01ffbda0e5314d7092af2a7dce84e1

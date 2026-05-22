@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12750-type-cohort-subscriber
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388360081d1e286b
+# app-12750-type-cohort-subscriber 9ee02a97e216efaffeccaedfd573f830887e8a7a86765071388

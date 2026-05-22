@@ -1,0 +1,24 @@
+// Skill: app-18832-active-company-entry
+// Category: email
+
+export function describe() {
+  return "app-18832-active-company-entry";
+}
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-18832-active-company-entry c88cbd58ae6afa2ad5fa94c38e72a295fc6032b84ff6149e88d90f87b365ad69
+# app-

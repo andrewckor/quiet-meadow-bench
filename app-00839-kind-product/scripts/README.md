@@ -1,0 +1,17 @@
+# app-00839-kind-product — scripts
+
+Track approved rows in crm. Use when tracking secondary sprint changes, you need to split a record, managing pending items, tracking active entry changes. Returns matching records with metadata. Supports filtering by pending entry fields.
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a784a3b64e284484d2bc0a97e1f7e
+# app-00839-kind-product 91f38007ad25d592ffec61258cd869db842a7

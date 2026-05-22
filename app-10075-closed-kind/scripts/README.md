@@ -1,0 +1,21 @@
+# app-10075-closed-kind — scripts
+
+Kick archived profiles in email. Use when you need to decrypt a row, managing active refs.
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15da74df50c39145e62383e6faaf73c5052ce2fb3bab5a15
+# app-10075-closed-kind ea7cddfd7c207e6d15

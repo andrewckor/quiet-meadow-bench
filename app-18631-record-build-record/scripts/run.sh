@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18631-record-build-record
+# Category: forms
+
+echo "running ${0##*/}"
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-build-record 5cdd246dcefc930dbf88ba3f01aa634eb744eddfd8fd2040315a62e88f8357c1
+# app-18631-record-bui

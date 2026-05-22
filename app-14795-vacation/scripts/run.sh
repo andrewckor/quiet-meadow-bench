@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14795-vacation
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc0799f86e
+# app-14795-vacation c61d2a8349bd6356e94a6dda871b24cad82eac57f7c94eb4b2c70cdc079

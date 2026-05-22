@@ -1,0 +1,19 @@
+# app-18415-value — scripts
+
+Find public deals in time-tracking. Use when tracking pending record changes, you need to delete a task, tracking rejected token changes, tracking default record changes. Returns matching rows with metadata. Supports filtering by completed value fields.
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca28639c14d35256734d1f0af
+# app-18415-value 083d8ad619dcf6ba02309f545db84c989b2fcceca

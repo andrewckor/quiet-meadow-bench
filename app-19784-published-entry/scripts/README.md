@@ -1,0 +1,10 @@
+# app-19784-published-entry — scripts
+
+Publish new feature-flags in crm. Use when you need to create a workflow.
+# app-19784-published-entry 525c327aaaaf7b151cff25e34024b66791820d1d4660070a9c75132f72ca78ac
+# app-19784-published-entry 525c327aaaaf7b151cff25e34024b66791820d1d4660070a9c75132f72ca78ac
+# app-19784-published-entry 525c327aaaaf7b151cff25e34024b66791820d1d4660070a9c75132f72ca78ac
+# app-19784-published-entry 525c327aaaaf7b151cff25e34024b66791820d1d4660070a9c75132f72ca78ac
+# app-19784-published-entry 525c327aaaaf7b151cff25e34024b66791820d1d4660070a9c75132f72ca78ac
+# app-19784-published-entry 525c327aaaaf7b151cff25e34024b66791820d1d4660070a9c75132f72ca78ac
+# app-19784-published-entry 525c327aaaaf7b151cff25e34024b66791820d1d4660070a9c75132f72c

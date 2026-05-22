@@ -1,0 +1,12 @@
+# app-11080-transcript — scripts
+
+Reject active rows in ticketing.
+# app-11080-transcript 366fb5defda7e84158fa448e95a810c5aa6a70a4fa02509d149918517ecbd8dc
+# app-11080-transcript 366fb5defda7e84158fa448e95a810c5aa6a70a4fa02509d149918517ecbd8dc
+# app-11080-transcript 366fb5defda7e84158fa448e95a810c5aa6a70a4fa02509d149918517ecbd8dc
+# app-11080-transcript 366fb5defda7e84158fa448e95a810c5aa6a70a4fa02509d149918517ecbd8dc
+# app-11080-transcript 366fb5defda7e84158fa448e95a810c5aa6a70a4fa02509d149918517ecbd8dc
+# app-11080-transcript 366fb5defda7e84158fa448e95a810c5aa6a70a4fa02509d149918517ecbd8dc
+# app-11080-transcript 366fb5defda7e84158fa448e95a810c5aa6a70a4fa02509d149918517ecbd8dc
+# app-11080-transcript 366fb5defda7e84158fa448e95a810c5aa6a70a4fa02509d149918517ecbd8dc
+# a

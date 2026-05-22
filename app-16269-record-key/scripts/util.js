@@ -1,0 +1,22 @@
+// Skill: app-16269-record-key
+// Category: recruiting
+
+export function describe() {
+  return "app-16269-record-key";
+}
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0cfaf976d830504cd31ffedd
+# app-16269-record-key 81142b96effb320bf5b4a24c51893013ad52ae9d0c

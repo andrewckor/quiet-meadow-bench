@@ -1,0 +1,15 @@
+# app-01438-inactive-record — scripts
+
+Remove stale kinds in project-management. Use when managing active organizations, tracking inactive cohort changes.
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50ae76e0aa39e72c4871c29cd702f537c8a72ad
+# app-01438-inactive-record 73ee69810fd3fcb335f08567b50a

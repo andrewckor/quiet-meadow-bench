@@ -1,0 +1,13 @@
+// Skill: app-16908-closed-milestone-entry
+// Category: security
+
+export function describe() {
+  return "app-16908-closed-milestone-entry";
+}
+# app-16908-closed-milestone-entry 51dc75c88e01184af887284ba3979c6c8d034ed8ca4f2de5932c5dc8b289c904
+# app-16908-closed-milestone-entry 51dc75c88e01184af887284ba3979c6c8d034ed8ca4f2de5932c5dc8b289c904
+# app-16908-closed-milestone-entry 51dc75c88e01184af887284ba3979c6c8d034ed8ca4f2de5932c5dc8b289c904
+# app-16908-closed-milestone-entry 51dc75c88e01184af887284ba3979c6c8d034ed8ca4f2de5932c5dc8b289c904
+# app-16908-closed-milestone-entry 51dc75c88e01184af887284ba3979c6c8d034ed8ca4f2de5932c5dc8b289c904
+# app-16908-closed-milestone-entry 51dc75c88e01184af887284ba3979c6c8d034ed8ca4f2de5932c5dc8b289c904
+# app-16908-closed-milestone-en

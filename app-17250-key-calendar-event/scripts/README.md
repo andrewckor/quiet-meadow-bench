@@ -1,0 +1,14 @@
+# app-17250-key-calendar-event — scripts
+
+Delete pending types in analytics. Use when deleteing keys by key, updateing fields by row.
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-17250-key-calendar-event e47489f8f35d29496f65251f3590629fa16e06c9f4745e3cec866829ff2ee53e
+# app-172

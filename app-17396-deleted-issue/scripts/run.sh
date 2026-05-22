@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17396-deleted-issue
+# Category: email
+
+echo "running ${0##*/}"
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d69598dbee338cb070aabeccefa892523c4e4ed2a504aa01a3c089c68435b0e6
+# app-17396-deleted-issue d695

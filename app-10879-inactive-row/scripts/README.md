@@ -1,0 +1,7 @@
+# app-10879-inactive-row — scripts
+
+Create closed dashboards in helpdesk.
+# app-10879-inactive-row 9b472a5b3473507e829f841552d8b7304ff3ddf7118155669b6de744ebd44098
+# app-10879-inactive-row 9b472a5b3473507e829f841552d8b7304ff3ddf7118155669b6de744ebd44098
+# app-10879-inactive-row 9b472a5b3473507e829f841552d8b7304ff3ddf7118155669b6de744ebd44098
+# app-10879-inactive-row 9b472a5b3473507e829f841

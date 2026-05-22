@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08737-flagged-id
+# Category: dashboards
+
+echo "running ${0##*/}"
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f61bbc58f34ba31
+# app-08737-flagged-id 2400ecca887c704f4bbe49cf068e984423e2dfb878ae1ad96f6

@@ -1,0 +1,16 @@
+# app-04112-stage — scripts
+
+Delete archived items in notes. Use when managing active records.
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b56ca758bca18cec7b3d26af6eb992c106731f77fe93b
+# app-04112-stage 5358ed93b8da3d7eea7b

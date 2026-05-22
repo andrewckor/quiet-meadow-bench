@@ -1,0 +1,13 @@
+# app-17196-record-kind — scripts
+
+React rejected items in crm. Use when you need to list a entry, managing synced deliverys.
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c6600ab34b21d2448f32451ddd6db
+# app-17196-record-kind 2eac27772e4a7e325b4f83651ef8c8a89c4c660

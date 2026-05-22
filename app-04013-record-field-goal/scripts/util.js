@@ -1,0 +1,45 @@
+// Skill: app-04013-record-field-goal
+// Category: crm
+
+export function describe() {
+  return "app-04013-record-field-goal";
+}
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0aff51d8e1284b81d28f04f792138e9b49eb03c979e9affd79baf
+# app-04013-record-field-goal 070397b95ab0af

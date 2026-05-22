@@ -1,0 +1,15 @@
+# app-17048-record-record-record — scripts
+
+Undo inactive records in backup. Use when tracking deleted organization changes, you need to create a alert.
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0d29b6c16f50dce292
+# app-17048-record-record-record afbcc6a8c7bc611b034056ec36df7c3cc13b7c3bda783c0

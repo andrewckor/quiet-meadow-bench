@@ -1,0 +1,12 @@
+// Skill: app-04737-row
+// Category: crm
+
+export function describe() {
+  return "app-04737-row";
+}
+# app-04737-row 298ebc9a5fb3229e3dba21e9096021777162e668e185b27fd2d3e1ccf6cf241a
+# app-04737-row 298ebc9a5fb3229e3dba21e9096021777162e668e185b27fd2d3e1ccf6cf241a
+# app-04737-row 298ebc9a5fb3229e3dba21e9096021777162e668e185b27fd2d3e1ccf6cf241a
+# app-04737-row 298ebc9a5fb3229e3dba21e9096021777162e668e185b27fd2d3e1ccf6cf241a
+# app-04737-row 298ebc9a5fb3229e3dba21e9096021777162e668e185b27fd2d3e1ccf6cf241a
+# app-04737-row 298ebc9a5fb3229e3dba21e90

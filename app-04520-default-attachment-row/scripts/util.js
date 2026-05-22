@@ -1,0 +1,20 @@
+// Skill: app-04520-default-attachment-row
+// Category: crm
+
+export function describe() {
+  return "app-04520-default-attachment-row";
+}
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-attachment-row bf44fced3e184957175ca99bcf7779bb7b668181a2be4cc52ecbb348f0e180f3
+# app-04520-default-att

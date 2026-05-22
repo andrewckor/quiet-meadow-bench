@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03165-partial-label
+# Category: crm
+
+echo "running ${0##*/}"
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d8afb1f5c1fd8b8e8ab0d39
+# app-03165-partial-label 2e84223925bd027a266c753ed512efb16b9ff07f9d

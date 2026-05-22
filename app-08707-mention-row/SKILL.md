@@ -1,0 +1,22 @@
+---
+name: app-08707-mention-row
+description: Update pending alerts in ecommerce.
+---
+
+# app-08707-mention-row
+
+Update pending alerts in ecommerce.
+
+## Usage
+
+This skill operates in the ecommerce domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

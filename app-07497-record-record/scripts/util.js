@@ -1,0 +1,20 @@
+// Skill: app-07497-record-record
+// Category: surveys
+
+export function describe() {
+  return "app-07497-record-record";
+}
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b9f3c
+# app-07497-record-record 070af9b0d8b3e173dc6bcc817c188e7cfcad364b399911a50175b6b3e86b

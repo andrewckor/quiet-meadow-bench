@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14528-untrusted-id
+# Category: crm
+
+echo "running ${0##*/}"
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b8
+# app-14528-untrusted-id dbd0a429c261aa3360f5d4152aba18ab42ad98810cc755fec4eaafa92c21a0b

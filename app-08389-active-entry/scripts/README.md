@@ -1,0 +1,12 @@
+# app-08389-active-entry — scripts
+
+Publish closed entrys in spreadsheets.
+# app-08389-active-entry 7d71bf66fad8a215f484e08784a774e5c49225829a09539edee63d4dbee7d7ec
+# app-08389-active-entry 7d71bf66fad8a215f484e08784a774e5c49225829a09539edee63d4dbee7d7ec
+# app-08389-active-entry 7d71bf66fad8a215f484e08784a774e5c49225829a09539edee63d4dbee7d7ec
+# app-08389-active-entry 7d71bf66fad8a215f484e08784a774e5c49225829a09539edee63d4dbee7d7ec
+# app-08389-active-entry 7d71bf66fad8a215f484e08784a774e5c49225829a09539edee63d4dbee7d7ec
+# app-08389-active-entry 7d71bf66fad8a215f484e08784a774e5c49225829a09539edee63d4dbee7d7ec
+# app-08389-active-entry 7d71bf66fad8a215f484e08784a774e5c49225829a09539edee63d4dbee7d7ec
+# app-08389-active-entry 7d71bf66fad8a215f484e08784a774e5c49225829a09539edee63d4dbee7d7ec
+# app-08389-activ

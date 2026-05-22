@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14414-closed-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-14414-closed-record ce75f2b40eecb344c592e8ae2857ab7972b4a73c66c51cd3855818daedd9d2cd
+# app-1441

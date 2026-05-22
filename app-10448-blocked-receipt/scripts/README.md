@@ -1,0 +1,16 @@
+# app-10448-blocked-receipt — scripts
+
+Update draft items in ticketing. Use when createing objects by key.
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# app-10448-blocked-receipt 44ac7a21450bcb27770d9181ddce72d5c8593e6925cba032febeafc0875f3b4c
+# a

@@ -1,0 +1,21 @@
+# app-08607-pending-team-record — scripts
+
+Update deleted pipelines in crm. Use when managing queued settings.
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6dbfb0591f42e1
+# app-08607-pending-team-record dccb5cc6b21a705612a24b15c24d3b804b5154f154d19ba06c6d

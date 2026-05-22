@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05179-phase-discount
+# Category: email
+
+echo "running ${0##*/}"
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179-phase-discount 75327d6c1fb51d0e567d86429ebd481cd6cf7081d8fbc5b1af1bf2b0cfc19d94
+# app-05179

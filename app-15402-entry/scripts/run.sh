@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15402-entry
+# Category: docs
+
+echo "running ${0##*/}"
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8b2fb507b3df
+# app-15402-entry 9c0db4bc858918eecf7ead275e2f6ff7b786b50cef24b679eacf8

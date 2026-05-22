@@ -1,0 +1,21 @@
+# app-12440-shift-tag — scripts
+
+Log inactive files in crm. Use when managing active clicks, managing verified teams, tracking rejected report changes. Returns matching deals with metadata. Supports filtering by inactive incident fields.
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c6695a358886e8ff7fbfa459ac4c6e0
+# app-12440-shift-tag c000b230279e076664fabebefd5607360c66

@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13596-item
+# Category: email
+
+echo "running ${0##*/}"
+# app-13596-item 9d732b6ebfb7fd43cfe6a41b4db0d5b8861e38e1773882d96886960f767f31bf
+# app-13596-item 9d732b6ebfb7fd43cfe6a41b4db0d5b8861e38e1773882d96886960f767f31b

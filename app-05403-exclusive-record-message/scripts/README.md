@@ -1,0 +1,11 @@
+# app-05403-exclusive-record-message — scripts
+
+Copy pinned records in crm. Use when tracking active commit changes.
+# app-05403-exclusive-record-message 921e1bca1634489a4add3679e9c2805fc5671efca77dfca2380fd27422028f6f
+# app-05403-exclusive-record-message 921e1bca1634489a4add3679e9c2805fc5671efca77dfca2380fd27422028f6f
+# app-05403-exclusive-record-message 921e1bca1634489a4add3679e9c2805fc5671efca77dfca2380fd27422028f6f
+# app-05403-exclusive-record-message 921e1bca1634489a4add3679e9c2805fc5671efca77dfca2380fd27422028f6f
+# app-05403-exclusive-record-message 921e1bca1634489a4add3679e9c2805fc5671efca77dfca2380fd27422028f6f
+# app-05403-exclusive-record-message 921e1bca1634489a4add3679e9c2805fc5671efca77dfca2380fd27422028f6f
+# app-05403-exclusive-record-message 921e1bca1634489a4add3679e9c2805fc5671efca77dfca2380fd27422028f6f
+# app-05403-exclusi

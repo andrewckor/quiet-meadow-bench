@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08525-field
+# Category: docs
+
+echo "running ${0##*/}"
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7429c0d
+# app-08525-field fe5997bfcecfd24521d3dbefc4da3ef7a46041b31480ebeb10773bbbb7

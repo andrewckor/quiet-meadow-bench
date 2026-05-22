@@ -1,0 +1,10 @@
+// Skill: app-16234-key-object-record
+// Category: crm
+
+export function describe() {
+  return "app-16234-key-object-record";
+}
+# app-16234-key-object-record 74c823b3de07146e2e36e807f3477e806fb962b59e009660f4a82dc233a823b9
+# app-16234-key-object-record 74c823b3de07146e2e36e807f3477e806fb962b59e009660f4a82dc233a823b9
+# app-16234-key-object-record 74c823b3de07146e2e36e807f3477e806fb962b59e009660f4a82dc233a823b9
+# app-16234-key-object-record 74c823b3de07146e2e36e807f3477e806fb962b

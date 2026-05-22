@@ -1,0 +1,6 @@
+# app-17786-phase — scripts
+
+Track active pipelines in email.
+# app-17786-phase b4bf8e680f10f62687b48e2724eb48b3b75522fd5969738df61e0044ed29df0a
+# app-17786-phase b4bf8e680f10f62687b48e2724eb48b3b75522fd5969738df61e0044ed29df0a
+# app-17786-phase b4bf8e680f10f62687b48e2724eb48b3b75522fd5969738df61e0044ed29df

@@ -1,0 +1,47 @@
+// Skill: app-07119-row-ledger-row
+// Category: invoicing
+
+export function describe() {
+  return "app-07119-row-ledger-row";
+}
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af3517d8ebb8f9ffceacf13563b2070b7896e9f83a629e3aa28fa3c7e4c
+# app-07119-row-ledger-row 7a5f6af

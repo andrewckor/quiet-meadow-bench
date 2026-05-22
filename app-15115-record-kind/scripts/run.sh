@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15115-record-kind
+# Category: chat
+
+echo "running ${0##*/}"
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89d2883fe89d5b4811d36ccb4a4ed16af15651fe9b2a84ff96bdcae74378c389
+# app-15115-record-kind 89

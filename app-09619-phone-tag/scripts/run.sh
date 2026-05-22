@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09619-phone-tag
+# Category: email
+
+echo "running ${0##*/}"
+# app-09619-phone-tag a3ac60f1570018780e1a09c09b9b642655ee3e7d055e6102ebad6308873564c2
+# app-09619-phone-tag a3ac60f1570018780e1a09c09b9b642655ee3e7d055e6102ebad6308873564c2
+# app-09619-phone-tag a3ac60f1570018780e1a09c09b9b642655ee3e7d0

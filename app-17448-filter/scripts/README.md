@@ -1,0 +1,19 @@
+# app-17448-filter — scripts
+
+Search active items in notes. Use when you need to fetch a candidate, you need to update a company, you need to flag a record, managing active records. Returns matching charts with metadata. Supports filtering by inactive value fields.
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-17448-filter 2b236253b00c7bcaf9e5415c927e3853a78cda44ebfec03d1a9a908add912be7
+# app-

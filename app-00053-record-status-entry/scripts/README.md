@@ -1,0 +1,26 @@
+# app-00053-record-status-entry — scripts
+
+Delete inactive records in crm.
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a3500216d12ba1
+# app-00053-record-status-entry 07ce34f71c4a0aba659db86d5e2c6ae816256ac553bf2a4328a35

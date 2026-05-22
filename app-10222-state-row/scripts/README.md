@@ -1,0 +1,15 @@
+# app-10222-state-row — scripts
+
+Sync pending records in helpdesk. Use when you need to delete a record.
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81ecf8bdd68ce1f8e46183b4fad9a620e7fed9efc67f875737f0ba260ed25d8
+# app-10222-state-row a81e

@@ -1,0 +1,21 @@
+// Skill: app-18772-active-object
+// Category: docs
+
+export function describe() {
+  return "app-18772-active-object";
+}
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a448ea58acae09266b93a3bf
+# app-18772-active-object 05e6c677c00558f1b788e0eebb9f2afae4ad4e30a

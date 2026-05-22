@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05685-active-permission
+# Category: social-media
+
+echo "running ${0##*/}"
+# app-05685-active-permission 54f79e1a3cb62e7e0190e289fa90207e5b99b4ee397ef89628d4ef78d2c53bef
+# app-05685-active-permission 54f79e1a3cb62e7e0190e289fa90207e5b99b4ee397ef89628d4ef78d2c53bef
+# app-05685-active-permission 54f79e1a3cb62e7e0190e289fa90207e5b99b4ee397ef89628d4ef78d2c53bef
+# app-05685-active-permission 54f79e1a3cb62e7e0190e289fa90207e5b99b4ee397ef89628d4ef78d2c53bef
+# app-05685-active-permission 54f79e1a3cb62e7e0190e289fa90207e5b99b4ee397ef89628d4ef78d2c53bef
+# app-05685-active-permission 54f79e1a3cb62e7e0190e289fa90207e5b99b4ee397ef89628d4ef78d2c53bef
+# app-05685-active-permission 54f79e1a3cb62e7e0190e289fa90207e5b99b4ee397ef89628d4ef78d2c53bef
+# app-05685-active-permission 54f79e1a3cb62e7e0190e289fa90207e5b99b4ee397ef89628d4ef78d2c53bef
+# app-05685-active-permission 5

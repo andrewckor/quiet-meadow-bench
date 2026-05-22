@@ -1,0 +1,24 @@
+// Skill: app-06803-partial-record-favorite
+// Category: spreadsheets
+
+export function describe() {
+  return "app-06803-partial-record-favorite";
+}
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5ab105c4a838
+# app-06803-partial-record-favorite daf9dda71f3d861caa0098ec268a201dc49e9186ab42d355e72e5

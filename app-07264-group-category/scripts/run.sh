@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07264-group-category
+# Category: crm
+
+echo "running ${0##*/}"
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# app-07264-group-category 17c12cfa49b4ec24a77a7e54ec4c6dac99680fa00e3dfbe0a7d1c65517bd6476
+# ap

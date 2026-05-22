@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09120-issue
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff4a6f64e5055b9b0c20f1762a0ac1fae52ad3dded83df05
+# app-09120-issue 01dc4eff1d04dceaff

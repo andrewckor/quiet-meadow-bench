@@ -1,0 +1,11 @@
+# app-16032-active-label — scripts
+
+Summarize active records in invoicing.
+# app-16032-active-label 6eed26f5f3fd704c5cb55b83cf725449c89cec7ea9edaa02e77781105820aa62
+# app-16032-active-label 6eed26f5f3fd704c5cb55b83cf725449c89cec7ea9edaa02e77781105820aa62
+# app-16032-active-label 6eed26f5f3fd704c5cb55b83cf725449c89cec7ea9edaa02e77781105820aa62
+# app-16032-active-label 6eed26f5f3fd704c5cb55b83cf725449c89cec7ea9edaa02e77781105820aa62
+# app-16032-active-label 6eed26f5f3fd704c5cb55b83cf725449c89cec7ea9edaa02e77781105820aa62
+# app-16032-active-label 6eed26f5f3fd704c5cb55b83cf725449c89cec7ea9edaa02e77781105820aa62
+# app-16032-active-label 6eed26f5f3fd704c5cb55b83cf725449c89cec7ea9edaa02e77781105820aa62
+# app-

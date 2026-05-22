@@ -1,0 +1,29 @@
+// Skill: app-07644-field-calendar-event-product
+// Category: video-conferencing
+
+export function describe() {
+  return "app-07644-field-calendar-event-product";
+}
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field-calendar-event-product 5eefd0cd80ccfb6c7dd18b1291eabfdd8849d27c16955aa935ffe8ce4f69ff03
+# app-07644-field

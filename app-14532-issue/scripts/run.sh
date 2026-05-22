@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14532-issue
+# Category: email
+
+echo "running ${0##*/}"
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9909544d61dde6f2dc20c37e
+# app-14532-issue ad5d14afcfe5dbd92aa93b4f1944255445caa70a9

@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08664-inactive-object-automation
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43ea5867f593bfc5577a49f066070859fc3b0199a8b7e7624186ed44b
+# app-08664-inactive-object-automation 9dab81e43

@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10742-stopped-record-tag
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60a9ff2b2045a15d8641e4bee4d76d0f50e
+# app-10742-stopped-record-tag cf453d875e4a3d58c270be8d0b70a60

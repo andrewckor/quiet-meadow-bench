@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11583-account
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712a13cec5def6ba4b12a3d59cf5866c5fc4
+# app-11583-account 265ccf7ac5acc5322e0fe0951518712

@@ -1,0 +1,21 @@
+# app-15776-critical-kind — scripts
+
+Remove running rows in project-management. Use when tracking companys by stage, managing failed credentials, managing pending values. Returns matching balances with metadata. Supports filtering by closed record fields.
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-15776-critical-kind 28acaffac176c74fbeeef65d337765c33ae820e56afa1e05cf07d21b6894841f
+# app-

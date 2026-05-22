@@ -1,0 +1,21 @@
+// Skill: app-03255-account
+// Category: shipping
+
+export function describe() {
+  return "app-03255-account";
+}
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account d2b1fa8b5d005cfe2ed26d9fcdad60fdd27e9db1c42e19ed019a5fdedc9ab2a6
+# app-03255-account 

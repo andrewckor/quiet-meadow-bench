@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00681-incomplete-channel-graph
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845c013ada98999
+# app-00681-incomplete-channel-graph 5937f5843d25c56ae235f7faa736b4adbbf32945f2506d734845

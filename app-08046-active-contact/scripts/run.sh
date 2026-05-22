@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08046-active-contact
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df94ac6edf73e8c14020136c1e4eaca916ddf88e58857
+# app-08046-active-contact e5bc07ec290d82d9112df

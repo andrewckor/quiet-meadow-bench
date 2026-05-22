@@ -1,0 +1,18 @@
+# app-17954-active-calendar-event-session — scripts
+
+Archive new accounts in backup. Use when compressing phases by subtask, you need to add a record.
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-active-calendar-event-session a6988a8b63a358c96f20f8f08aed6d7dfdbd991434f29839b9716401faa2bdbc
+# app-17954-activ

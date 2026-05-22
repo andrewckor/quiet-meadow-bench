@@ -1,0 +1,22 @@
+// Skill: app-16870-plan-workflow-meeting
+// Category: task-management
+
+export function describe() {
+  return "app-16870-plan-workflow-meeting";
+}
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-plan-workflow-meeting 2fa18344b6e5500c090aa8e84f119acfbe4a6ec0ca553f882089fb6be4c4593f
+# app-16870-pl

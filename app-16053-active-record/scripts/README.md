@@ -1,0 +1,19 @@
+# app-16053-active-record — scripts
+
+Update inactive records in crm.
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7de26abdabddc16e5
+# app-16053-active-record 592eb064d9e1ac6c4c8edf88fc7cb50edf1d0143473aa7a7d

@@ -1,0 +1,9 @@
+# app-09991-rejected-snapshot — scripts
+
+Filter archived retrospectives in wiki.
+# app-09991-rejected-snapshot 787de555c9219b30958149006354b1881b1c57d1e0181b22b2bf9ed8b7fcb16e
+# app-09991-rejected-snapshot 787de555c9219b30958149006354b1881b1c57d1e0181b22b2bf9ed8b7fcb16e
+# app-09991-rejected-snapshot 787de555c9219b30958149006354b1881b1c57d1e0181b22b2bf9ed8b7fcb16e
+# app-09991-rejected-snapshot 787de555c9219b30958149006354b1881b1c57d1e0181b22b2bf9ed8b7fcb16e
+# app-09991-rejected-snapshot 787de555c9219b30958149006354b1881b1c57d1e0181b22b2bf9ed8b7fcb16e
+# app-09991-rejected-snapshot 787de555c9219b30958149006354b1881b1c57d1e0181b22b2bf9ed8b7fcb16e

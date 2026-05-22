@@ -1,0 +1,12 @@
+# app-05192-category-state — scripts
+
+Export inactive keys in helpdesk.
+# app-05192-category-state caf348b1be5fba2d3fe0a0973f58705b59f2cf5ee3c74084c6dc5a0d2326c774
+# app-05192-category-state caf348b1be5fba2d3fe0a0973f58705b59f2cf5ee3c74084c6dc5a0d2326c774
+# app-05192-category-state caf348b1be5fba2d3fe0a0973f58705b59f2cf5ee3c74084c6dc5a0d2326c774
+# app-05192-category-state caf348b1be5fba2d3fe0a0973f58705b59f2cf5ee3c74084c6dc5a0d2326c774
+# app-05192-category-state caf348b1be5fba2d3fe0a0973f58705b59f2cf5ee3c74084c6dc5a0d2326c774
+# app-05192-category-state caf348b1be5fba2d3fe0a0973f58705b59f2cf5ee3c74084c6dc5a0d2326c774
+# app-05192-category-state caf348b1be5fba2d3fe0a0973f58705b59f2cf5ee3c74084c6dc5a0d2326c774
+# app-05192-category-state caf348b1be5fba2d3fe0a0973f58705b59f2cf5ee3c74084c6dc5a0d2326c774
+# app

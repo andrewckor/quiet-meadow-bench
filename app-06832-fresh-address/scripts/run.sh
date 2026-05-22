@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06832-fresh-address
+# Category: email
+
+echo "running ${0##*/}"
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc445cc1a37808cc5a01b20ede25b749cc6a08ffbd4509bb92a2
+# app-06832-fresh-address 6a10085f260acc44

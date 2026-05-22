@@ -1,0 +1,16 @@
+// Skill: app-15133-overdue-object
+// Category: crm
+
+export function describe() {
+  return "app-15133-overdue-object";
+}
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf39e904944dcec94dbef35b5965cd6503e30daabf35
+# app-15133-overdue-object 2ea0ab3edb460b15e2c2cf

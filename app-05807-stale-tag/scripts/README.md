@@ -1,0 +1,10 @@
+# app-05807-stale-tag — scripts
+
+Update active entrys in devtools. Use when managing active leads, tracking pending release changes.
+# app-05807-stale-tag 702e621b282395839e22d2e67e3b19abba31687472e600a206bf4a70a56c73fd
+# app-05807-stale-tag 702e621b282395839e22d2e67e3b19abba31687472e600a206bf4a70a56c73fd
+# app-05807-stale-tag 702e621b282395839e22d2e67e3b19abba31687472e600a206bf4a70a56c73fd
+# app-05807-stale-tag 702e621b282395839e22d2e67e3b19abba31687472e600a206bf4a70a56c73fd
+# app-05807-stale-tag 702e621b282395839e22d2e67e3b19abba31687472e600a206bf4a70a56c73fd
+# app-05807-stale-tag 702e621b282395839e22d2e67e3b19abba31687472e600a206bf4a70a56c73fd
+#

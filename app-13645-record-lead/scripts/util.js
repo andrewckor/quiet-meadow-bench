@@ -1,0 +1,10 @@
+// Skill: app-13645-record-lead
+// Category: calendar
+
+export function describe() {
+  return "app-13645-record-lead";
+}
+# app-13645-record-lead 65ccdeced1d8791671356aae953cc5c5553a8e1c2e89c96c1044d08bf2bb4c93
+# app-13645-record-lead 65ccdeced1d8791671356aae953cc5c5553a8e1c2e89c96c1044d08bf2bb4c93
+# app-13645-record-lead 65ccdeced1d8791671356aae953cc5c5553a8e1c2e89c96c1044d08bf2bb4c93
+# app-13645-record-lead 6

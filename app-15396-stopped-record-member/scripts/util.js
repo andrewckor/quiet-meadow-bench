@@ -1,0 +1,21 @@
+// Skill: app-15396-stopped-record-member
+// Category: calendar
+
+export function describe() {
+  return "app-15396-stopped-record-member";
+}
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped

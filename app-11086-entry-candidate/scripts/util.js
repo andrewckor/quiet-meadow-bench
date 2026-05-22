@@ -1,0 +1,20 @@
+// Skill: app-11086-entry-candidate
+// Category: email
+
+export function describe() {
+  return "app-11086-entry-candidate";
+}
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda30c656faaa4a9ad4181417b929cd0b8c9862db729f98385931a84
+# app-11086-entry-candidate f87db4a9cda

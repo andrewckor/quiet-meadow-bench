@@ -1,0 +1,17 @@
+# app-12243-partial-record-state — scripts
+
+Create approved types in forms. Use when you need to search a notification.
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f
+# app-12243-partial-record-state 90685e5864cd2f264879b724dfaca771047cbacfd13f1d43b5e370c6077fdc6f

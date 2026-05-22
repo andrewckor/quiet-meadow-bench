@@ -1,0 +1,11 @@
+# app-19505-product-entry — scripts
+
+Update secondary roles in file-sharing. Use when you need to sync a team.
+# app-19505-product-entry 6326b5dd73b94c3c1abc76176fa39363356025505f1f8ed525039ebabc8ea3d4
+# app-19505-product-entry 6326b5dd73b94c3c1abc76176fa39363356025505f1f8ed525039ebabc8ea3d4
+# app-19505-product-entry 6326b5dd73b94c3c1abc76176fa39363356025505f1f8ed525039ebabc8ea3d4
+# app-19505-product-entry 6326b5dd73b94c3c1abc76176fa39363356025505f1f8ed525039ebabc8ea3d4
+# app-19505-product-entry 6326b5dd73b94c3c1abc76176fa39363356025505f1f8ed525039ebabc8ea3d4
+# app-19505-product-entry 6326b5dd73b94c3c1abc76176fa39363356025505f1f8ed525039ebabc8ea3d4
+# app-19505-product-entry 6326b5dd73b94c3c1abc76176fa39363356025505f1f8ed525039ebabc8ea3d4
+# app-19505-product-entry 6326b5dd73b94c3c1abc76176fa39363356025505f1f8ed525039ebabc8ea3

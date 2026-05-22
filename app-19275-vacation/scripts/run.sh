@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19275-vacation
+# Category: chat
+
+echo "running ${0##*/}"
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba3bc44ba4765b866d10523fabfe67fed0a55767bff6
+# app-19275-vacation 6eea7aa091845c49da3eba

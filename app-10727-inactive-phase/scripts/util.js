@@ -1,0 +1,25 @@
+// Skill: app-10727-inactive-phase
+// Category: crm
+
+export function describe() {
+  return "app-10727-inactive-phase";
+}
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-10727-inactive-phase 2bd54a293e7bb7eab5d809a9002ede5f20a60d1f1e3de6d2011189d36ff11b4a
+# app-1072

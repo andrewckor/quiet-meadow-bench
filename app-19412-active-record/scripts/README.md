@@ -1,0 +1,20 @@
+# app-19412-active-record — scripts
+
+Create incomplete rows in subscriptions. Use when you need to find a item, updateing rows by organization.
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525

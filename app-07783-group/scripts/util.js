@@ -1,0 +1,29 @@
+// Skill: app-07783-group
+// Category: forms
+
+export function describe() {
+  return "app-07783-group";
+}
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf6560b0958f4d77a6ec2b17c278bbc1fb315b5
+# app-07783-group 0ebf1b42c9b2dde7cbacc21dcbf65

@@ -1,0 +1,32 @@
+# app-16754-inactive-account-kind — scripts
+
+Fetch shared lists in social-media. Use when tracking inactive record changes, you need to update a channel.
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-ina

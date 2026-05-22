@@ -1,0 +1,10 @@
+# app-06623-account-record — scripts
+
+Sync incomplete paragraphs in video-conferencing. Use when createing paragraphs by record, tracking pending channel changes.
+# app-06623-account-record 69ed8fbf8d455ab0d4029ff9145080053a39e700faa400d3648611916c4e63ef
+# app-06623-account-record 69ed8fbf8d455ab0d4029ff9145080053a39e700faa400d3648611916c4e63ef
+# app-06623-account-record 69ed8fbf8d455ab0d4029ff9145080053a39e700faa400d3648611916c4e63ef
+# app-06623-account-record 69ed8fbf8d455ab0d4029ff9145080053a39e700faa400d3648611916c4e63ef
+# app-06623-account-record 69ed8fbf8d455ab0d4029ff9145080053a39e700faa400d3648611916c4e63ef
+# app-06623-account-record 69ed8fbf8d455ab0d4029ff9145080053a39e700faa400d3648611916c4e63ef
+# app-06623-account-record 69ed8fbf8d455ab0d4029ff9145080053a39e700faa400d3648

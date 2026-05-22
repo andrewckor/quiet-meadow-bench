@@ -1,0 +1,31 @@
+// Skill: app-06478-partial-record
+// Category: hr
+
+export function describe() {
+  return "app-06478-partial-record";
+}
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51faeb23d9397eca7890f6ea07ceb3e0bb7c4
+# app-06478-partial-record 99f846becec8418c261d3eb420d51f

@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15228-category
+# Category: shipping
+
+echo "running ${0##*/}"
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e3d75c44bf6adf29fbd46659e6edde75ad91
+# app-15228-category 25daf6bb0d7cb6e51959ab58a270e

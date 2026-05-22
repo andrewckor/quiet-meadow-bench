@@ -1,0 +1,46 @@
+# app-13897-entry-row-record — scripts
+
+Send inactive campaigns in payroll. Use when you need to copy a deal.
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-record d1d10d39325ef92ff7b6bb03a8aa6a58c72bdac88d34789d11391798dcfbbe47
+# app-13897-entry-row-reco

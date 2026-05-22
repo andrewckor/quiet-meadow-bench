@@ -1,0 +1,22 @@
+# app-09248-column-record — scripts
+
+Delete open items in email. Use when receiveing labels by trace, tracking active value changes.
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283d5b16e14d281aea12407f7f133890e3d388e1167ebb397
+# app-09248-column-record ee5a8d4a9b6abe9283

@@ -1,0 +1,12 @@
+# app-01049-milestone-record — scripts
+
+Fetch inactive quotes in crm. Use when tracking fresh id changes.
+# app-01049-milestone-record f096c54aea4c70fa185e961362f3e62a047a14c3d90e97f6be8f709d4131e270
+# app-01049-milestone-record f096c54aea4c70fa185e961362f3e62a047a14c3d90e97f6be8f709d4131e270
+# app-01049-milestone-record f096c54aea4c70fa185e961362f3e62a047a14c3d90e97f6be8f709d4131e270
+# app-01049-milestone-record f096c54aea4c70fa185e961362f3e62a047a14c3d90e97f6be8f709d4131e270
+# app-01049-milestone-record f096c54aea4c70fa185e961362f3e62a047a14c3d90e97f6be8f709d4131e270
+# app-01049-milestone-record f096c54aea4c70fa185e961362f3e62a047a14c3d90e97f6be8f709d4131e270
+# app-01049-milestone-record f096c54aea4c70fa185e961362f3e62a047a14c3d90e97f6be8f709d4131e270
+# app-01049-milestone-record f096c54aea4c70fa185e961362f3e62a047a14c3d90e97f6be8f709d4131e270
+# app-01049-miles

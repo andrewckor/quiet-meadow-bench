@@ -1,0 +1,17 @@
+// Skill: app-02970-trigger-category-status
+// Category: video-conferencing
+
+export function describe() {
+  return "app-02970-trigger-category-status";
+}
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54dee95b6c969047
+# app-02970-trigger-category-status 66e93ac40eeedf359b4c47f715cfc2a7b0dbac5854803afd54de

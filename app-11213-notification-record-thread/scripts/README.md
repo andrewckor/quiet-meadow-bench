@@ -1,0 +1,21 @@
+# app-11213-notification-record-thread — scripts
+
+Convert queued states in helpdesk. Use when you need to fetch a object, tracking external stage changes, you need to create a entry. Returns matching tasks with metadata. Supports filtering by old category fields.
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371ff0baf83d3935c3d1a4ac041e97f14c91247f90b4
+# app-11213-notification-record-thread 16a0009042c6379ec386371f

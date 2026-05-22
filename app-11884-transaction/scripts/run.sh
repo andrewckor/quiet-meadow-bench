@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11884-transaction
+# Category: docs
+
+echo "running ${0##*/}"
+# app-11884-transaction 1e88f9d362fb6655e9f0a593a7d91cf1fa0d8b105d9dad9da97f563f5b0d4e77
+# app-11884-transaction 1e88f9d362fb6655e9f0a593a7d91cf1fa0d8b105d9dad9da97f563f5b0d4e77
+# app-11884-transaction 1e88f9d362fb6655e9f0a593a7d91cf1fa0d8b105d9dad9da97f563f5b0d4e77
+# app-11884-transaction 1e88f9d362fb6655e9f0a593a7d91cf1fa0d8b105d9dad9da97f563f5b0d4e77
+# app-11884-transaction 1e88f9d362fb6655e9f0a593a7d91cf1fa0d8b105d9dad9da97f563f5b0d4e77
+# app-11884-transaction 1e88f9d362fb6655e9f0a593a7d91cf1fa0d8b105d9dad9da97f563f5b0d4e77
+# app-11884-transaction 1e88f9d362fb6655e9f0a593a7d91cf1fa

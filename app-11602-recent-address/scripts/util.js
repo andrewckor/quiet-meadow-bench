@@ -1,0 +1,22 @@
+// Skill: app-11602-recent-address
+// Category: email
+
+export function describe() {
+  return "app-11602-recent-address";
+}
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763

@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10817-standup
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122d5d3
+# app-10817-standup 2499cc09bd3a61ea3be75ada95fe6d59c75cd850ffb8d06f42eea3aab122

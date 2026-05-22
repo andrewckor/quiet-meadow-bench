@@ -1,0 +1,13 @@
+# app-03024-approved-entry — scripts
+
+Create approved fields in spreadsheets.
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b36bc5db34efc0095096fa3f66b9bb445fc73f506aaae6be
+# app-03024-approved-entry 80b3204933374356b3

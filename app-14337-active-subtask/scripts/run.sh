@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14337-active-subtask
+# Category: identity
+
+echo "running ${0##*/}"
+# app-14337-active-subtask 299b2bb560e9d7d01e078fc9d401b34ae89773d05e0bbbdb228eaab9152322db
+# app-14337-active-su

@@ -1,0 +1,14 @@
+# app-18017-automated-comment-state — scripts
+
+Fetch inactive comments in video-conferencing. Use when reacting profiles by step.
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9f5cbd5b0bffe1444283901b9f8669a17dcddf6f2c0729e32643
+# app-18017-automated-comment-state 302ee31a750e9

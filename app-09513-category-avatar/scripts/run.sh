@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09513-category-avatar
+# Category: docs
+
+echo "running ${0##*/}"
+# app-09513-category-avatar 78e578ab697cd259709e592f468d981a124d96aac12fbed072a347535a69264e
+# app-09513-category-avatar 78e578ab697cd259709e592f468d981a124d96aac12fbed072a347535a69264e
+# app-09513-category-avatar 78e578ab697cd259709e592f468d981a124d96aac12fbed072a347535a69264e
+# app-09513-category-avatar 78e578ab697cd259709e592f468d981a124d96aac12fbed072a347535a69264e
+# app-09513-category-avatar 78e578ab697cd259709e592f468d981a124d96aac12fbed072a347535a69264e
+# app-09513-category-avatar 78e578ab697cd259709e592f468d981a124d96aac12fbed072a347535a69264e
+# app-09513-category-avatar 78e578ab697cd259709e592f468d981a124d96aac12fbed072a347535a69264e
+# app-09513-category-avatar 78e578ab697cd259709e592f468d981a124d96aac12fbed072a347535a69264e
+# app-0

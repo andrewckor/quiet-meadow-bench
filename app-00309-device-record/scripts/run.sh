@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00309-device-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b340e9d5e66907fff2ac3ecae0803a0f7a3
+# app-00309-device-record 48eee131b73d9d07c8b07baac3f08b34

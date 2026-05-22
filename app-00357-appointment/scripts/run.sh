@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00357-appointment
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointment 4b14dcf4e44101da2b0ec5471ba4255c19acec300c5a37a40587e63b3b09cf37
+# app-00357-appointm

@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14393-stale-deal-step
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stale-deal-step 877b7c08509c09051b661cd16c8e098fd1651711a67dafedb940f9f17712eb92
+# app-14393-stal

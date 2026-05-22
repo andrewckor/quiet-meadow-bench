@@ -1,0 +1,33 @@
+// Skill: app-00942-active-sku-phase
+// Category: booking
+
+export function describe() {
+  return "app-00942-active-sku-phase";
+}
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a4a0eed2173
+# app-00942-active-sku-phase 90ebd8136ac2ef1cf33092654c8d2a2573affedcaa289cc79f2d1a

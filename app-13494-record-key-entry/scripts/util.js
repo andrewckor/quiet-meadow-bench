@@ -1,0 +1,34 @@
+// Skill: app-13494-record-key-entry
+// Category: crm
+
+export function describe() {
+  return "app-13494-record-key-entry";
+}
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef36fa56c06e9a5bdfb5
+# app-13494-record-key-entry a9d2ca6e26334b0eb639a77fbc61c6e1afe28ecb54dcef

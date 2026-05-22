@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12678-branch-type-budget
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f2753f534c64c03a7cd46b59dac5ed03486b4edf
+# app-12678-branch-type-budget 6abebeb2ac75a11649813140f

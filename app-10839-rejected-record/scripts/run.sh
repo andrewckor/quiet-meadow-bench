@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10839-rejected-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d583f6b1fc749afca9ecc5edd545c4d9dfbb9a44dea07578e45d0a5c3cfc9f
+# app-10839-rejected-record e4d58

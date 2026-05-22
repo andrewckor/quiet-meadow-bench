@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01302-entry-policy
+# Category: task-management
+
+echo "running ${0##*/}"
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19336b9b3347a2cc7192
+# app-01302-entry-policy 68aca956c6393d0b27789fe5b8910afab47c235cedce19

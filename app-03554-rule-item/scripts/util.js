@@ -1,0 +1,51 @@
+// Skill: app-03554-rule-item
+// Category: social-media
+
+export function describe() {
+  return "app-03554-rule-item";
+}
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-item eff715cbe8cb9176eda951abeca6f0c6c5a95a94cb7f9e66bc1a79f8a18e28ac
+# app-03554-rule-

@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03250-retrospective-answer-question
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05eb26c90a274a593e9c7fc
+# app-03250-retrospective-answer-question d75464599b3bc51e78434b9b0c05149437eae824d05e

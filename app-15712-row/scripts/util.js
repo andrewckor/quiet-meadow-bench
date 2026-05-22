@@ -1,0 +1,17 @@
+// Skill: app-15712-row
+// Category: spreadsheets
+
+export function describe() {
+  return "app-15712-row";
+}
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-15712-row 4e76a53df2a0c4dc09fb1b089711fc5274f933cb933f26bff506c584badfbab4
+# app-1571

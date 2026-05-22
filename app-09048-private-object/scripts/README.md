@@ -1,0 +1,16 @@
+# app-09048-private-object — scripts
+
+Fetch stale rows in payments. Use when tracking active row changes, createing notifications by record.
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9ad3e332dc08a7323866f43b42f6e0d6d579ba2c31
+# app-09048-private-object 4d4eab1d67dfe3769e9b1d9

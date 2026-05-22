@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12295-deal-response
+# Category: identity
+
+echo "running ${0##*/}"
+# app-12295-deal-response d51f2e94d9f5d404c3d6b7bfcaa14b19a556dc77f0fa54d8a67b94ab53392bcd
+# app-12295-deal-response d51f2e94d9f5d404c3d6b7bfcaa14b19a556dc77f0fa54d8a67b94ab53392bcd
+# app

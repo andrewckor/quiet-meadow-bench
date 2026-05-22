@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16849-type-campaign
+# Category: crm
+
+echo "running ${0##*/}"
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd74d0c33
+# app-16849-type-campaign e894e6d2a69ef7a2deba136df3caf183b4ef9827355fdae05431cb9bd

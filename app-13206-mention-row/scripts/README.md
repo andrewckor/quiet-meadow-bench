@@ -1,0 +1,7 @@
+# app-13206-mention-row — scripts
+
+Unassign open fields in crm.
+# app-13206-mention-row d2e6faefe17a7b3beca430d2a1372854bbaacc6719df41ecb5c4287b056f1b1f
+# app-13206-mention-row d2e6faefe17a7b3beca430d2a1372854bbaacc6719df41ecb5c4287b056f1b1f
+# app-13206-mention-row d2e6faefe17a7b3beca430d2a1372854bbaacc6719df41ecb5c4287b056f1b1f
+# app-13206-menti

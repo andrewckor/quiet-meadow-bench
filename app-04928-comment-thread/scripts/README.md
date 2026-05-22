@@ -1,0 +1,16 @@
+# app-04928-comment-thread — scripts
+
+Update archived records in chat. Use when you need to summarize a item, you need to fetch a file.
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f600904e5b123237b5dcc07dd4d46ae5ed7590b
+# app-04928-comment-thread f2f200098105b6bde7b3bdba2f60

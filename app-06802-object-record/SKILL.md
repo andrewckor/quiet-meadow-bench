@@ -1,0 +1,22 @@
+---
+name: app-06802-object-record
+description: Snapshot active records in compliance.
+---
+
+# app-06802-object-record
+
+Snapshot active records in compliance.
+
+## Usage
+
+This skill operates in the compliance domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

@@ -1,0 +1,28 @@
+// Skill: app-13922-comment-row-record
+// Category: surveys
+
+export function describe() {
+  return "app-13922-comment-row-record";
+}
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b62602617eaeeb7fae8abf95cb080b92272513af1
+# app-13922-comment-row-record e03d30e6618b427837ae798b6

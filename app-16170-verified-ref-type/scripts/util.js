@@ -1,0 +1,21 @@
+// Skill: app-16170-verified-ref-type
+// Category: social-media
+
+export function describe() {
+  return "app-16170-verified-ref-type";
+}
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf29626091d93377c3ebbcdfdb433c4cf0d
+# app-16170-verified-ref-type 71d07075e5746ee539d4d53836902cf2962609

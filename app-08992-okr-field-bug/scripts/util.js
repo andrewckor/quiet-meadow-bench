@@ -1,0 +1,24 @@
+// Skill: app-08992-okr-field-bug
+// Category: crm
+
+export function describe() {
+  return "app-08992-okr-field-bug";
+}
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4ec61e1b2e9c627695c041c9d7ab4b37ce7f19e213f7fe9d22a3bd31cc56
+# app-08992-okr-field-bug 412a4e

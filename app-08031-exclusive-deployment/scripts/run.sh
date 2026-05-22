@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08031-exclusive-deployment
+# Category: email
+
+echo "running ${0##*/}"
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b885b971510fcbb52d2835a4d3969179e0e
+# app-08031-exclusive-deployment 6c8b69873f1e7cf89bbe6a6ba8014b

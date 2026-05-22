@@ -1,0 +1,14 @@
+# app-04745-active-metric — scripts
+
+Create approved keys in crm.
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-04745-active-metric 76cfea4a930e9ec2fc647d3f70205cf1bc44a7300be12b94eab624754fb4dd59
+# app-0

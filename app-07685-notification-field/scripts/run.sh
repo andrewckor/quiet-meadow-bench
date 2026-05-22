@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07685-notification-field
+# Category: ecommerce
+
+echo "running ${0##*/}"
+# app-07685-notification-field b4dd40552b75017e8f04307a5ba6f34e31fe3fd7c715a3898af76b509c00d374
+# app-07685-notification-field b4dd40552b75017e8f04307a5ba6f34e31fe3fd7c715a3898af76b509c00d374
+# app-07685-notification-field b4dd40552b75017e8f04307a5ba6f34e31fe3fd7c715a3898af76b509c00d374
+# app-07685-notification-field b4dd40552b75017e8f04307a5ba6f34e31fe3fd7c715a3898af76b509c00d374
+# app-

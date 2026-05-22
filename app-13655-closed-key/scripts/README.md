@@ -1,0 +1,13 @@
+# app-13655-closed-key — scripts
+
+Calculate published entrys in knowledge-base.
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c99677c04
+# app-13655-closed-key f757a9cf15f19999db7ce2a57a222ae3a5a374b56d0adfe46fcbb53c9

@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03164-kind-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f19033

@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00915-pull-request
+# Category: email
+
+echo "running ${0##*/}"
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d685d85132eaad9f9a4e9ac26b9bf12eef436c881d
+# app-00915-pull-request dab9027c4ea1fd38a0f819d6

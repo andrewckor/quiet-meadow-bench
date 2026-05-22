@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06252-active-item
+# Category: billing
+
+echo "running ${0##*/}"
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8fef884760554c516f84801bdf82b95b0
+# app-06252-active-item cbfb84a9c4fe055e1d7ae5231f1dc1c8f

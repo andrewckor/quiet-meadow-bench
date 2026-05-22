@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00702-lead-ticket-subscriber
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00702-lead-ticket-subscriber 0060f69370824bc0776cd1a366d91486531c7212f45006ee16050f66a8f03a0b
+# app-00702-lead-ticket-subscriber 0060f69370824bc0776cd1a366d91486531c7212f45006ee16050f66a8f03a0b
+# app-00702-

@@ -1,0 +1,34 @@
+// Skill: app-08734-approved-ref
+// Category: payments
+
+export function describe() {
+  return "app-08734-approved-ref";
+}
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17aefb953115ae6daf
+# app-08734-approved-ref fd80c1290aae1eb1860c075bed9f871b50bed361ca453f17

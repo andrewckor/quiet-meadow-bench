@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02559-row
+# Category: email
+
+echo "running ${0##*/}"
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6dcc88afeadbb11a4d4f9
+# app-02559-row 1732da2d3aef5a94977126f406bdb7a3fa047e4aead6

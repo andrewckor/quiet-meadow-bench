@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01625-recurring-ref-label
+# Category: crm
+
+echo "running ${0##*/}"
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurring-ref-label 3734d680b4e7f7ae0af71eace60da5f05af09f8f06542b01968bcef954ad1fdb
+# app-01625-recurr

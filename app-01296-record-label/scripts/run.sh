@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01296-record-label
+# Category: forms
+
+echo "running ${0##*/}"
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a8307beef9941a396ad
+# app-01296-record-label cf5af1e5bb60557239adf10b0f89aa928365de355d8f2a83

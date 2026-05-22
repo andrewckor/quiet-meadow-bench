@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07074-paid-deal
+# Category: docs
+
+echo "running ${0##*/}"
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c119f64bee155f41fdc77da816c9e067dddb7fb76627a43add420599f1d95
+# app-07074-paid-deal 188c1

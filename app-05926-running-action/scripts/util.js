@@ -1,0 +1,9 @@
+// Skill: app-05926-running-action
+// Category: spreadsheets
+
+export function describe() {
+  return "app-05926-running-action";
+}
+# app-05926-running-action d4ecd0e4a7f75bf98adb4ff3042fb56917551760eeb09c3971bf7711fd516f17
+# app-05926-running-action d4ecd0e4a7f75bf98adb4ff3042fb56917551760eeb09c3971bf7711fd516f17
+# app-05926-running-action d4ecd0e4a7f75bf98adb4ff3042fb56917551760ee

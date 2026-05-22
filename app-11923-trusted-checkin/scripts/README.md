@@ -1,0 +1,12 @@
+# app-11923-trusted-checkin — scripts
+
+List trusted accounts in ads.
+# app-11923-trusted-checkin 76cc4660cfe58d8deb7cac46f8ac85da020dfc9528584e1294cf219a7880123c
+# app-11923-trusted-checkin 76cc4660cfe58d8deb7cac46f8ac85da020dfc9528584e1294cf219a7880123c
+# app-11923-trusted-checkin 76cc4660cfe58d8deb7cac46f8ac85da020dfc9528584e1294cf219a7880123c
+# app-11923-trusted-checkin 76cc4660cfe58d8deb7cac46f8ac85da020dfc9528584e1294cf219a7880123c
+# app-11923-trusted-checkin 76cc4660cfe58d8deb7cac46f8ac85da020dfc9528584e1294cf219a7880123c
+# app-11923-trusted-checkin 76cc4660cfe58d8deb7cac46f8ac85da020dfc9528584e1294cf219a7880123c
+# app-11923-trusted-checkin 76cc4660cfe58d8deb7cac46f8ac85da020dfc9528584e1294cf219a7880123c
+# app-11923-trusted-checkin 76cc4660cfe58d8deb7cac46f8ac85da020dfc9528584e1294cf219a7880123c
+# app-11923-tr

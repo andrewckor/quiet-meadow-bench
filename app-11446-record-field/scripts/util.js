@@ -1,0 +1,14 @@
+// Skill: app-11446-record-field
+// Category: docs
+
+export function describe() {
+  return "app-11446-record-field";
+}
+# app-11446-record-field 4c9bf07ec2cf92b50cce3b792c33c1027018505e781e93cbfa6f806493bfd798
+# app-11446-record-field 4c9bf07ec2cf92b50cce3b792c33c1027018505e781e93cbfa6f806493bfd798
+# app-11446-record-field 4c9bf07ec2cf92b50cce3b792c33c1027018505e781e93cbfa6f806493bfd798
+# app-11446-record-field 4c9bf07ec2cf92b50cce3b792c33c1027018505e781e93cbfa6f806493bfd798
+# app-11446-record-field 4c9bf07ec2cf92b50cce3b792c33c1027018505e781e93cbfa6f806493bfd798
+# app-11446-record-field 4c9bf07ec2cf92b50cce3b792c33c1027018505e781e93cbfa6f806493bfd798
+# app-11446-record-field 4c9bf07ec2cf92b50cce3b792c33c1027018505e781e93cbfa6f806493bfd798
+# app-11446-re

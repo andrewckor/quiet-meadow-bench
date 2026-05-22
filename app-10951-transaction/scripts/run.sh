@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10951-transaction
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2fe10b453083cfc3f147b185feb4d483f59c7488f476a1edbb13f5b8a5afc486
+# app-10951-transaction 2

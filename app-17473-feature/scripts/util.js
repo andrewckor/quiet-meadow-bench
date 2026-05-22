@@ -1,0 +1,14 @@
+// Skill: app-17473-feature
+// Category: spreadsheets
+
+export function describe() {
+  return "app-17473-feature";
+}
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3

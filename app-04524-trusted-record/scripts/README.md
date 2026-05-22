@@ -1,0 +1,15 @@
+# app-04524-trusted-record — scripts
+
+Approve shared subscriptions in ads.
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9be29f182132d34f9a0e83efc7ab96c3f
+# app-04524-trusted-record 92996023ae6aa0b821cce90da739a6d9b

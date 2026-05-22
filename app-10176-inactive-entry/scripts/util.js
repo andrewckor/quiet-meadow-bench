@@ -1,0 +1,29 @@
+// Skill: app-10176-inactive-entry
+// Category: support
+
+export function describe() {
+  return "app-10176-inactive-entry";
+}
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e7bda19e26ed03a36f9250b19d9f
+# app-10176-inactive-entry 2d3ff02ad409dbf02ad54c94ddb5d3d156a1e

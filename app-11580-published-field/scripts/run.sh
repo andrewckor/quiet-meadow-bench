@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11580-published-field
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-11580-published-field 4f1ece9525f76bab1c3385db2adafde487f7040fb9edefc79c2d0ba576ab1cc7
+# app-1158

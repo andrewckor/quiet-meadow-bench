@@ -1,0 +1,12 @@
+# app-14415-record — scripts
+
+Fetch active secrets in email. Use when tracking active type changes.
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296593e1851e05ec60a22d8e09a9ad12af2bb0d
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296593e1851e05ec60a22d8e09a9ad12af2bb0d
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296593e1851e05ec60a22d8e09a9ad12af2bb0d
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296593e1851e05ec60a22d8e09a9ad12af2bb0d
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296593e1851e05ec60a22d8e09a9ad12af2bb0d
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296593e1851e05ec60a22d8e09a9ad12af2bb0d
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296593e1851e05ec60a22d8e09a9ad12af2bb0d
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296593e1851e05ec60a22d8e09a9ad12af2bb0d
+# app-14415-record a8c9dfc0b9d792d6df5ff2472296

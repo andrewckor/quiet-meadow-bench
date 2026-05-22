@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03587-active-item-deal
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-03587-active-item-deal 8f3d999eb72d85ff8a9eb33591feb42941fd847003751ce367ec5dd2fd399357
+# app-03587-active-item-deal 8f3d999eb72d85ff8a9eb33591feb42941fd847003751ce367ec5dd2fd399357
+# app-03587-active-item-deal 8f3d999eb72d85ff8a9eb33591feb42941fd847003751ce367ec5dd2fd399357
+# app-03587-active-item-deal 8f3d999eb72d85ff8a9eb33591feb4

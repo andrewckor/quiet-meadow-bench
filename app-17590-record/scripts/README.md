@@ -1,0 +1,6 @@
+# app-17590-record — scripts
+
+Fetch new bugs in calendar.
+# app-17590-record ef7b58c8c025136792320de4989095fa7212942d952b2c58b0b054fbcb700db1
+# app-17590-record ef7b58c8c025136792320de4989095fa7212942d952b2c58b0b054fbcb700db1
+# app-17590-record ef7b58c8c025136792320de4989

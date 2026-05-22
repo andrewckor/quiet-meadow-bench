@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18008-checkin-permission
+# Category: crm
+
+echo "running ${0##*/}"
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2f861a21b55a60473c3d10edf127d974839ea9618ba6f57b037ef599b3ed32d8
+# app-18008-checkin-permission 2

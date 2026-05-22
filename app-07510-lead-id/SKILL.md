@@ -1,0 +1,22 @@
+---
+name: app-07510-lead-id
+description: Vote inactive bugs in email.
+---
+
+# app-07510-lead-id
+
+Vote inactive bugs in email.
+
+## Usage
+
+This skill operates in the email domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

@@ -1,0 +1,14 @@
+// Skill: app-14777-account-object
+// Category: marketing
+
+export function describe() {
+  return "app-14777-account-object";
+}
+# app-14777-account-object 13e647ff32ff11f53c4918389933d99a6306f3f3bfe043274386dbe2833cc6ea
+# app-14777-account-object 13e647ff32ff11f53c4918389933d99a6306f3f3bfe043274386dbe2833cc6ea
+# app-14777-account-object 13e647ff32ff11f53c4918389933d99a6306f3f3bfe043274386dbe2833cc6ea
+# app-14777-account-object 13e647ff32ff11f53c4918389933d99a6306f3f3bfe043274386dbe2833cc6ea
+# app-14777-account-object 13e647ff32ff11f53c4918389933d99a6306f3f3bfe043274386dbe2833cc6ea
+# app-14777-account-object 13e647ff32ff11f53c4918389933d99a6306f3f3bfe043274386dbe2833cc6ea
+# app-14777-account-object 13e647ff32ff11f53c4918389933d99a6306f3f3bfe043274386dbe2833cc6ea
+# app-14777-account-object 13e647ff32ff11f53c4918389933d99a6306f3f3bfe043274386dbe

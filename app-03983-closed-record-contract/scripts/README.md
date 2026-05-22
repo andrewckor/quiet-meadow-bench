@@ -1,0 +1,32 @@
+# app-03983-closed-record-contract — scripts
+
+Add inactive rows in crm. Use when managing default records, tracking inactive object changes, managing new records, listing tasks by kind. Returns matching records with metadata. Supports filtering by inactive commit fields.
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9f2feafffa727bc5c090efaf4d08d6a52a7d
+# app-03983-closed-record-contract 913a66a329d55bbdda36990c363e9

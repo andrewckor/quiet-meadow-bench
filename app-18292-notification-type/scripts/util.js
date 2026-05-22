@@ -1,0 +1,23 @@
+// Skill: app-18292-notification-type
+// Category: crm
+
+export function describe() {
+  return "app-18292-notification-type";
+}
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b7

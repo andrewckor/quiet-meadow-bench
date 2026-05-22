@@ -1,0 +1,18 @@
+// Skill: app-01339-workbook-ref-appointment
+// Category: crm
+
+export function describe() {
+  return "app-01339-workbook-ref-appointment";
+}
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f535e81020740c5b9
+# app-01339-workbook-ref-appointment 80511fc109858ae52af7917e995114e8ef17455feabc7e3f53

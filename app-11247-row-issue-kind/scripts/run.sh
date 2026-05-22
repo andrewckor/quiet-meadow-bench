@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11247-row-issue-kind
+# Category: email
+
+echo "running ${0##*/}"
+# app-11247-row-issue-kind 57d08b072416cee1a85e808d5ef1e57e69240c2051c354212ab46156255974f7
+# app-11247-row-issue-kind 57d08b072416cee1a85e808d5ef1e57e69240c2051c354212ab46156255974f7
+# app-11247-row-issue-kind 57d08b072416cee1a85e808d5ef1e57e69240c2051c354212ab46156255974f7
+# app-11247-row-issue-kind 57d08b072416cee1a85e808d5ef1e57e69240c2051c354212ab46156255974f7
+# app-11247-row-issue-kind 57d08b07

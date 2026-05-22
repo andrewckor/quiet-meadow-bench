@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16900-active-type
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app-16900-active-type bdb1478e5856a1fcd483bf01af0a57cb7c65c07daa133bb4d2b827c40f56118a
+# app

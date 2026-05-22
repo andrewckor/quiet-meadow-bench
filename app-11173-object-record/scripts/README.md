@@ -1,0 +1,8 @@
+# app-11173-object-record — scripts
+
+Update published estimates in crm. Use when managing rejected fields.
+# app-11173-object-record 491320c397e3603bf8614629ece957a5c0655c2e6a45f933f8d6d55151325fd6
+# app-11173-object-record 491320c397e3603bf8614629ece957a5c0655c2e6a45f933f8d6d55151325fd6
+# app-11173-object-record 491320c397e3603bf8614629ece957a5c0655c2e6a45f933f8d6d55151325fd6
+# app-11173-object-record 491320c397e3603bf8614629ece957a5c0655c2e6a45f933f8d6d55151325fd6
+# app-11173-object-record 491320c397e3603bf8614629ece957a5c0655c2e6a45f933f8d6d55151

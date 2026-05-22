@@ -1,0 +1,15 @@
+# app-04359-field-session — scripts
+
+Remove muted entrys in crm. Use when compressing types by account, commenting records by field.
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba667892d89c85dcb0bf9d5cba9c5f2375aedcd621911fc3408cb9
+# app-04359-field-session a3a079ec8eba6

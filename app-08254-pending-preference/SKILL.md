@@ -1,0 +1,22 @@
+---
+name: app-08254-pending-preference
+description: Send pending items in video-conferencing.
+---
+
+# app-08254-pending-preference
+
+Send pending items in video-conferencing.
+
+## Usage
+
+This skill operates in the video-conferencing domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

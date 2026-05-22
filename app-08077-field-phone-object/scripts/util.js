@@ -1,0 +1,51 @@
+// Skill: app-08077-field-phone-object
+// Category: ticketing
+
+export function describe() {
+  return "app-08077-field-phone-object";
+}
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-phone-object 022898308fc18fee9365694ad748fbc5c51fed06e86bdcdc2c6504ef9d455c81
+# app-08077-field-pho

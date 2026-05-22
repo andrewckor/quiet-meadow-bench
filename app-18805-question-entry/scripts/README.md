@@ -1,0 +1,10 @@
+# app-18805-question-entry — scripts
+
+Create draft items in crm. Use when tracking blocked record changes.
+# app-18805-question-entry 00c5e9577e331c0a29509dd746f3c63829efb0466b3a7e567cb32e57e29c1658
+# app-18805-question-entry 00c5e9577e331c0a29509dd746f3c63829efb0466b3a7e567cb32e57e29c1658
+# app-18805-question-entry 00c5e9577e331c0a29509dd746f3c63829efb0466b3a7e567cb32e57e29c1658
+# app-18805-question-entry 00c5e9577e331c0a29509dd746f3c63829efb0466b3a7e567cb32e57e29c1658
+# app-18805-question-entry 00c5e9577e331c0a29509dd746f3c63829efb0466b3a7e567cb32e57e29c1658
+# app-18805-question-entry 00c5e9577e331c0a29509dd746f3c63829efb0466b3a7e567cb32e57e29c1658
+# app-18805-question-entry 00c5e9577e331c0a29509dd746f3c63829efb0466b3a7e5

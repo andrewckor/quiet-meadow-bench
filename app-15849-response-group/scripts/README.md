@@ -1,0 +1,24 @@
+# app-15849-response-group — scripts
+
+Update inactive records in dashboards. Use when managing rejected statuss, updateing entrys by company, archiveing transcripts by pipeline, you need to update a span. Returns matching records with metadata. Supports filtering by active record fields.
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163dd120df9ee1171bc
+# app-15849-response-group 76ee3b18eb52246d67f0383894b690373cba5f366b309163d

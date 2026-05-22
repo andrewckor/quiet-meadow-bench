@@ -1,0 +1,9 @@
+# app-05336-completed-item — scripts
+
+Unmute partial tags in ci-cd. Use when you need to tag a story, unmuteing rows by record.
+# app-05336-completed-item a26993c89bd28b984d127a10796e3071f84e51174a6a8a5931893fb6ada81380
+# app-05336-completed-item a26993c89bd28b984d127a10796e3071f84e51174a6a8a5931893fb6ada81380
+# app-05336-completed-item a26993c89bd28b984d127a10796e3071f84e51174a6a8a5931893fb6ada81380
+# app-05336-completed-item a26993c89bd28b984d127a10796e3071f84e51174a6a8a5931893fb6ada81380
+# app-05336-completed-item a26993c89bd28b984d127a10796e3071f84e51174a6a8a5931893fb6ada81380
+# app-05336-completed-item a26993c89bd28b984d127a10796e3071f84e51174a6a8a

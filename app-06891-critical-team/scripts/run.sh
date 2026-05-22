@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06891-critical-team
+# Category: crm
+
+echo "running ${0##*/}"
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab7f603a4a
+# app-06891-critical-team 513d5575efa2199d4ceb6db6ea7d06a7680caaa2bb4243ea92000dab

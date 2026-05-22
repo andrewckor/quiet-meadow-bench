@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08227-pending-avatar-id
+# Category: email
+
+echo "running ${0##*/}"
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-avatar-id 0dad848c1737e66320faced30fcb94b751aa23780639f32556bcf707ef7bf1bb
+# app-08227-pending-

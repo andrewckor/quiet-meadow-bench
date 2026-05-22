@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00394-archived-id
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archived-id d5535051c2217c67ed9a3d65abb6405bed79969c3f5ce4ceeec471f5cec00f52
+# app-00394-archive

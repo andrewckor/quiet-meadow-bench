@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18663-record-session-key
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f101a2a2b834935d4a9eb7c5e9
+# app-18663-record-session-key 3fb5c7045ecf801c10a13ff2e62f07585ab764f10

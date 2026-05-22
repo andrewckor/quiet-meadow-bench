@@ -1,0 +1,11 @@
+# app-07032-reaction — scripts
+
+Delete pending values in crm. Use when favoriteing entrys by item, tracking published snapshot changes.
+# app-07032-reaction 90b41a2295d4514c1284418b692b2e3df85f0cdb930d21a0b9256c4e0d47cb6e
+# app-07032-reaction 90b41a2295d4514c1284418b692b2e3df85f0cdb930d21a0b9256c4e0d47cb6e
+# app-07032-reaction 90b41a2295d4514c1284418b692b2e3df85f0cdb930d21a0b9256c4e0d47cb6e
+# app-07032-reaction 90b41a2295d4514c1284418b692b2e3df85f0cdb930d21a0b9256c4e0d47cb6e
+# app-07032-reaction 90b41a2295d4514c1284418b692b2e3df85f0cdb930d21a0b9256c4e0d47cb6e
+# app-07032-reaction 90b41a2295d4514c1284418b692b2e3df85f0cdb930d21a0b9256c4e0d47cb6e
+# app-07032-reaction 90b41a2295d4514c1284418b692b2e3df85f0cdb930d21a0b9256c4e0d47cb6e
+# app-070

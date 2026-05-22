@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15798-transaction-record-row
+# Category: subscriptions
+
+echo "running ${0##*/}"
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798

@@ -1,0 +1,31 @@
+// Skill: app-01078-stale-metric
+// Category: crm
+
+export function describe() {
+  return "app-01078-stale-metric";
+}
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078-stale-metric e954b1513b0dbf6c3f17046defaa20e91bffb67cbc8a6a72d204efb61b16a26d
+# app-01078

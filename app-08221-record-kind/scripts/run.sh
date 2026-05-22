@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08221-record-kind
+# Category: pos
+
+echo "running ${0##*/}"
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b270abc646bcfce81a298490
+# app-08221-record-kind 36edbbc182e5eba1f8acc17b1d1888a3049d8fb0b

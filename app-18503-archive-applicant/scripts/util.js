@@ -1,0 +1,9 @@
+// Skill: app-18503-archive-applicant
+// Category: spreadsheets
+
+export function describe() {
+  return "app-18503-archive-applicant";
+}
+# app-18503-archive-applicant 16469a50d1afe13c8b9606f3bb50b2a4eb5c1ce21d51b382d47abc39e59e1e4a
+# app-18503-archive-applicant 16469a50d1afe13c8b9606f3bb50b2a4eb5c1ce21d51b382d47abc39e59e1e4a
+# app-18503-archive-applicant 16469a50d1afe13c8b9606f3bb50b2a4eb5c1ce21d51

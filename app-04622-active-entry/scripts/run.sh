@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04622-active-entry
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590479143fd4bbda0b8ea2adfb50fa3a2e78cd9ecaa1
+# app-04622-active-entry ecc25a3596749828785c590

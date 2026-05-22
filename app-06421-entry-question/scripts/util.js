@@ -1,0 +1,30 @@
+// Skill: app-06421-entry-question
+// Category: wiki
+
+export function describe() {
+  return "app-06421-entry-question";
+}
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de690e7e5aee65d7435bcda715bc0b78f55da490fbbc0ac921efe3913d9be04
+# app-06421-entry-question 5de

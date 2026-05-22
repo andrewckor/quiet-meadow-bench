@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14214-account-item
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-14214-account-item 5ad5c6bcae313e5552f83c0c12eb355979a30721864f03298f8e7929ae47df7b
+# app-14214-account-item 5ad5c6bcae313e5552f83c0c12eb355979a30721864f03298f8e7929ae47df7b
+# app-14214-account-item 5ad5c6bcae313e5552f83c0c12eb355979a30721864f03298f8e7929ae47df7b
+# app-14214-account-item 5ad5c6bcae313e5552f83c0c12eb355979a30721864f03298f8e7929ae47df7b
+# app-14214-account-item 5ad5c6bcae313e5552f83c0c12eb355979a30721864f03298f8e7929ae47df7b
+# app-14214-account-item 5ad5c6bcae313e5552f83c0c12eb355979a30721864f03298f8e7929a

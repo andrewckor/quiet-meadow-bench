@@ -1,0 +1,12 @@
+# app-07111-ref-kind — scripts
+
+Summarize approved fields in crm. Use when you need to find a item.
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a100369efd5dc48645a6c122ec6c
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a100369efd5dc48645a6c122ec6c
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a100369efd5dc48645a6c122ec6c
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a100369efd5dc48645a6c122ec6c
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a100369efd5dc48645a6c122ec6c
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a100369efd5dc48645a6c122ec6c
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a100369efd5dc48645a6c122ec6c
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a100369efd5dc48645a6c122ec6c
+# app-07111-ref-kind e8331732aeff40af1a71c44fad404f14e315a10

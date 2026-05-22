@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17580-deleted-approval
+# Category: crm
+
+echo "running ${0##*/}"
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797

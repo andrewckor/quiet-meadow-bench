@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01150-inactive-type-type
+# Category: docs
+
+echo "running ${0##*/}"
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff09522a085e952cb0348bd9dfae3a92b3c1d
+# app-01150-inactive-type-type df298cf36de0b2fef32e6c3f0d2ff0952

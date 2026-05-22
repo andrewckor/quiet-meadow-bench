@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13573-active-kpi
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8bf3956b0ffdfda4b38b7768a2b9a344264e26d7c3
+# app-13573-active-kpi 9b8ce27e9def02ed0f81ef8

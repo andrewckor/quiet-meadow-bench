@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06793-label-ledger
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-06793-label-ledger 5bc0dc2019b9eabded9637df4a5f8a82bf287afa9e183a92654a17581a2ef2a2
+# app-06793-label-ledger 5bc0dc2019b9eabded9637df4a5f8a82bf287afa9e183a92654a17581a2ef2a2
+# app-06793-label-ledger 5bc0dc2019b9eabded9637df4a5f8a82bf287afa9e183a92654a17581a2ef2a2
+# app-06793-label-ledger 5bc0dc2019b9eabded9637df4a5f8a82bf287afa9e183a92654a17581a2ef2a2
+# app-06793-label-ledger 5bc0dc2019b9eabded9637df4a5f8a82bf287afa9e183a92654a17581a2ef2a2
+# app-06793-label-ledger 5bc0dc2019b9eabded9637df4a5f8a82bf287afa9e183a92654a17581a2ef2a2
+# app-06793-label-ledger 5bc0dc2019b9eabded9637df4a5f8a82bf287afa9e183a92

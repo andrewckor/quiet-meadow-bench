@@ -1,0 +1,9 @@
+// Skill: app-05123-type-entry
+// Category: calendar
+
+export function describe() {
+  return "app-05123-type-entry";
+}
+# app-05123-type-entry 65f996ccb6de349b853293740f31172f49c88cd7c694c6672b3dd322716636bb
+# app-05123-type-entry 65f996ccb6de349b853293740f31172f49c88cd7c694c6672b3dd322716636bb
+# app-05123-type-entry 65f996ccb6de349b853293740f31172f49c88

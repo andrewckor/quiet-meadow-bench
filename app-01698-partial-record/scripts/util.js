@@ -1,0 +1,29 @@
+// Skill: app-01698-partial-record
+// Category: docs
+
+export function describe() {
+  return "app-01698-partial-record";
+}
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-record 1244bcba69db69530350351d009ceeaeed601e1d5bcaef34d7c0fc28bd953809
+# app-01698-partial-rec

@@ -1,0 +1,32 @@
+// Skill: app-19602-token-preference
+// Category: calendar
+
+export function describe() {
+  return "app-19602-token-preference";
+}
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-preference c7d3871db04f831167fd4df1174e06b65df8a481ef25f8c96b5ef2f5258ced95
+# app-19602-token-

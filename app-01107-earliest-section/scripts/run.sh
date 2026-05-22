@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01107-earliest-section
+# Category: payments
+
+echo "running ${0##*/}"
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15cccf53769f
+# app-01107-earliest-section 855aa8a7f316eadef24d4c893b3ab62b8f0eaa2799ce3d19df9f15

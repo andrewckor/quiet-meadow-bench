@@ -1,0 +1,18 @@
+// Skill: app-15720-record
+// Category: crm
+
+export function describe() {
+  return "app-15720-record";
+}
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08a473d307dcd68deeef16fc91b7e9f54c82be9d0d57ceb0eacb1c0
+# app-15720-record 70070b21d08

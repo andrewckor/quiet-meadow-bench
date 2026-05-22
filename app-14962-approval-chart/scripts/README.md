@@ -1,0 +1,19 @@
+# app-14962-approval-chart — scripts
+
+Favorite active states in compliance.
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0aebecbb212f0d79d61ea70e90c08debe9ac
+# app-14962-approval-chart c966adab615e984988c5f02b291d0ae

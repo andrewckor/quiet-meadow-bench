@@ -1,0 +1,26 @@
+# app-19055-closed-state — scripts
+
+Compare published documents in chat. Use when tracking incomplete story changes, you need to react a ref, managing starred threads. Returns matching phases with metadata. Supports filtering by latest row fields.
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9fffd
+# app-19055-closed-state 3c529cd42cd8f9530e5bbb599fa20a92b25e63d5cbf17d79ac5c7246dba9

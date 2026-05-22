@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14729-record-key
+# Category: devtools
+
+echo "running ${0##*/}"
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d528dbcf53a21ee731e7b37ce2c238e2daa4872e0e265
+# app-14729-record-key bc220e8d5013bbfaae9d5

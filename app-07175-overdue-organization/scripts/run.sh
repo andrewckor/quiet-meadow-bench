@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07175-overdue-organization
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-organization 37ed964ab11317d572135eaae9e60ad71b94ad16364ceac9987695d88243cedd
+# app-07175-overdue-

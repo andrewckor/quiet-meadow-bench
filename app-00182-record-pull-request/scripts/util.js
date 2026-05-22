@@ -1,0 +1,16 @@
+// Skill: app-00182-record-pull-request
+// Category: helpdesk
+
+export function describe() {
+  return "app-00182-record-pull-request";
+}
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-pull-request 0222e5a27021d447325b00b6e60dfae1b3c7c11c5ca1370b48db58ef0556f332
+# app-00182-record-p

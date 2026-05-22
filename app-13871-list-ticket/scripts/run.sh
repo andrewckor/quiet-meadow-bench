@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13871-list-ticket
+# Category: email
+
+echo "running ${0##*/}"
+# app-13871-list-ticket ae0760540f33bc66240f9b95afeab7b37ac4902c73f5893630007c15d1ee6e43
+# app-13871-list-ticket ae0760540f33bc66240f9b95afeab7b37ac4902c73f5893630007c15d1ee6e43
+# app-13871-list-ticket ae0760540f33bc66240f9b95afeab7b37ac4902c73f5893630007c15d1ee6e43
+# app-13871-list-ticket ae0760540f33bc66240f9b95afeab7b37ac4902c73f5893630007c15d1ee6e43
+# app-13871-list-ticket ae0760540f33bc66240f9b95afeab7b37ac4902c73f5893630007c15d1ee6e43
+# app-13871-list-ticket ae0760540f33bc66240f9b95afeab7b37ac4902c73f5893630007c15d1ee6

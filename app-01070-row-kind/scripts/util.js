@@ -1,0 +1,11 @@
+// Skill: app-01070-row-kind
+// Category: social-media
+
+export function describe() {
+  return "app-01070-row-kind";
+}
+# app-01070-row-kind 7037be5bcf6f479085fcd33f6c3448a97bbe6340a7a49f63b039547db957830b
+# app-01070-row-kind 7037be5bcf6f479085fcd33f6c3448a97bbe6340a7a49f63b039547db957830b
+# app-01070-row-kind 7037be5bcf6f479085fcd33f6c3448a97bbe6340a7a49f63b039547db957830b
+# app-01070-row-kind 7037be5bcf6f479085fcd33f6c3448a97bbe6340a7a49f63b039547db957830b
+# app-01070-row-kind 7037be5bcf6f479085fcd33f6c3448a97bbe6340a7a49f63b0

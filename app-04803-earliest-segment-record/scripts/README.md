@@ -1,0 +1,21 @@
+# app-04803-earliest-segment-record — scripts
+
+Publish secondary tags in crm.
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# app-04803-earliest-segment-record b1b09e8df46cd1c6e40d149c77c952fc2259a0779ae2f70668a05703f89ea679
+# 

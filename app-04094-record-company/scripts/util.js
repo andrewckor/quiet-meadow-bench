@@ -1,0 +1,9 @@
+// Skill: app-04094-record-company
+// Category: marketing
+
+export function describe() {
+  return "app-04094-record-company";
+}
+# app-04094-record-company 96c556b4f7a35c0bbbaef09c9ef0ac2a785b055be5fecd79299ebf43250fca1b
+# app-04094-record-company 96c556b4f7a35c0bbbaef09c9ef0ac2a785b055be5fecd79299ebf43250fca1b
+# app-04094-recor

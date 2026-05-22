@@ -1,0 +1,19 @@
+# app-04116-trusted-sprint-query — scripts
+
+Unassign active responses in ads.
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# app-04116-trusted-sprint-query c1391c8dba03d16a3fb7ee1a153ef38d655a1c76e9431860e4002d538fbae6b2
+# 

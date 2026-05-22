@@ -1,0 +1,34 @@
+// Skill: app-06034-active-role
+// Category: project-management
+
+export function describe() {
+  return "app-06034-active-role";
+}
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e08bfcf6aacb7f6dd0d4f88d2b1c5bcd2ac69830292043a56fa46
+# app-06034-active-role 22b4750f4e2e

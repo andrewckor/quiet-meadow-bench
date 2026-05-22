@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05853-active-notification
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2aa9da6a17400ecbf109cfd3b9ababa4b3f36b
+# app-05853-active-notification a6db57b143ef71cf880fd541cf2

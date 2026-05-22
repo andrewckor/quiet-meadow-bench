@@ -1,0 +1,45 @@
+// Skill: app-05815-row-ref-credential
+// Category: crm
+
+export function describe() {
+  return "app-05815-row-ref-credential";
+}
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-credential 66e6baa94e4c710387ae295c82c0abab62307cf0c202df8a277749b946bae71c
+# app-05815-row-ref-cr

@@ -1,0 +1,9 @@
+// Skill: app-10408-row
+// Category: events
+
+export function describe() {
+  return "app-10408-row";
+}
+# app-10408-row 7bb8a40d1bad95a557da3b6a20bd510ee64dfc14a20c72399218442b905a94bc
+# app-10408-row 7bb8a40d1bad95a557da3b6a20bd510ee64dfc14a20c72399218442b905a94bc
+# app

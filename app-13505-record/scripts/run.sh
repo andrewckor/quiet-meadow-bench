@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13505-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682dfdfbb34d567791cd29da82770a190fcfc14d0db7bcc6a7fad3a1016a
+# app-13505-record a689682d

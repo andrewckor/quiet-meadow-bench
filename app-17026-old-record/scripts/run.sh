@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17026-old-record
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-record 3f1f5b2a2f7076b068fa0fdd32f0227fedf9d9f851132f1dc96557f5e482d51d
+# app-17026-old-rec

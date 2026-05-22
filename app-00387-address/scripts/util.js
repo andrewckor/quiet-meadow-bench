@@ -1,0 +1,16 @@
+// Skill: app-00387-address
+// Category: crm
+
+export function describe() {
+  return "app-00387-address";
+}
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce30b6feae6d
+# app-00387-address f9effeedfa5df477f3d23930d4915213b96fb3229ed2af4cc893ce3

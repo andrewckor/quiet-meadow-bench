@@ -1,0 +1,17 @@
+// Skill: app-10595-record-id
+// Category: video-conferencing
+
+export function describe() {
+  return "app-10595-record-id";
+}
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e01105d4846fe7cdfea31a5749b
+# app-10595-record-id bd9f71fef1ad10f54badba1f7a7e27d3b53b6e0110

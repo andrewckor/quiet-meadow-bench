@@ -1,0 +1,8 @@
+// Skill: app-06941-record
+// Category: ticketing
+
+export function describe() {
+  return "app-06941-record";
+}
+# app-06941-record 93e85ec91ec075dea6d6cf75c0a35d779789a0bce40ff2d132ef2db0561e689c
+# app-06941-record 93e85ec9

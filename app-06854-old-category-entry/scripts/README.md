@@ -1,0 +1,17 @@
+# app-06854-old-category-entry — scripts
+
+Create inactive tokens in crm. Use when you need to create a item.
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a57425bdeb15332833f041c341b4e9ac7a8ec1d106736d8fb4f9
+# app-06854-old-category-entry 86c1e7ac7297a574

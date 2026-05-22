@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11171-entry-row-field
+# Category: email
+
+echo "running ${0##*/}"
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef32c2c3ae4e4e6b52d6de786fe50cc67762162ab137
+# app-11171-entry-row-field 3d8a122853900124e5a6ef

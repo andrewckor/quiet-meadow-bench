@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16451-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# app-16451-record 1792ec34ffd0b31e42576f2d5f63f11c97bfeb369ac0ef3f06cce602d3d27dda
+# a

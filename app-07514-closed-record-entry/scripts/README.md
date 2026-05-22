@@ -1,0 +1,19 @@
+# app-07514-closed-record-entry — scripts
+
+Search pending keys in crm. Use when managing fresh rows, reporting files by video.
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de00a78e47fc6831d658194bbf4baea6976b5ebca6bf9af9f1b99
+# app-07514-closed-record-entry d89dfe3dc90de0

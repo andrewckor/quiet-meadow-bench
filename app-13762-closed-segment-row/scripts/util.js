@@ -1,0 +1,37 @@
+// Skill: app-13762-closed-segment-row
+// Category: payments
+
+export function describe() {
+  return "app-13762-closed-segment-row";
+}
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d6764706718
+# app-13762-closed-segment-row 633fd20ef07b0bb5b62c4d63de1cb619c8d4fcafa0707ce3005c7d

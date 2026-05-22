@@ -1,0 +1,9 @@
+// Skill: app-06933-invalid-field
+// Category: crm
+
+export function describe() {
+  return "app-06933-invalid-field";
+}
+# app-06933-invalid-field 8737f540e15913b932ca1ce2294db047dcd69c667986c78aea79c0fd42e1f7c9
+# app-06933-invalid-field 8737f540e15913b932ca1ce2294db047dcd69c667986c78aea79c0fd42e1f7c9
+# app-06933-invalid-fiel

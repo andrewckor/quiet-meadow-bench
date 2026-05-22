@@ -1,0 +1,24 @@
+// Skill: app-17839-inactive-contact
+// Category: calendar
+
+export function describe() {
+  return "app-17839-inactive-contact";
+}
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadca9bd5823cf858ed5e4baedf316
+# app-17839-inactive-contact 37371484455001b819e0ba5e10edbb554beadc

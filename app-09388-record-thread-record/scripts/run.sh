@@ -1,0 +1,52 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09388-record-thread-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-09388-record-thread-record 1d98be686c831aaa6d594ad38b2cc8582dfdefb8613500208105cd98cde8dec7
+# app-093

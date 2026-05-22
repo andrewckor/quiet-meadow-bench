@@ -1,0 +1,25 @@
+# app-00198-commit-action — scripts
+
+Find open groups in calendar.
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8a3aa364c8d18d488bd0a78b5180ba7576ffa6a1788ddcab0eb91f9fbe10e
+# app-00198-commit-action aec8

@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12180-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e1efe219f061ced27ac7a5fd79712ac268d093c8e8ec08776fd8bdf1adcac9
+# app-12180-record f6e

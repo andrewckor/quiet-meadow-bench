@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13541-ref
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-13541-ref 17047a273177d9032a6f93cc60fc9b78be9b4304c06c4ef6c85e8f41fec49c19
+# app-13541-ref 17047a273177d9032a6f93cc60fc9b78be9b4304c06c4ef6c85e8f41fec49c19
+# app-13541-ref 17047a273177d9032a6f93cc60fc9b78be9b4304c06c4ef6c85e8f41fec49c19
+# app-13541-ref 17047a273177d9032a6f93cc60fc9b78be9b4304c06c4ef6c85e8f41fec49c19
+# app-13541-ref 17047a273177d9032a6f93cc60fc9b78be9b4304c06c4ef6c85e8f41fec49c19
+# app-13541-ref 170

@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08857-label-role
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-08857-label-role 27e5e2b17b89ff788e8edb05d75126d9245dd935067a53a363012b4ef2cc96f3
+# app-08857-label-role 27e5e2b17b89ff788e8edb05d75126d9245dd935067a53a363012b4ef2cc96f3
+# app-08857-label-role 27e5e2b17b89ff788e8edb05d75126d9245dd935067a53a363012b4ef2cc96f3
+# app-08857-label-role 27e5e2b17b89ff788e8edb05d75126d9245dd935067a53a363012b4ef2cc96f3
+# app-08857-label-role 27e5e2b17b89

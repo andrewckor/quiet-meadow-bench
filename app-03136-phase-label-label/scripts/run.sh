@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03136-phase-label-label
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb0499726b78a5e05c9
+# app-03136-phase-label-label 010ed006000eb46ae498a211f8dce6dca3935c263dd6cbb04997

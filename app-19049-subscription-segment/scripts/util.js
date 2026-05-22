@@ -1,0 +1,22 @@
+// Skill: app-19049-subscription-segment
+// Category: social-media
+
+export function describe() {
+  return "app-19049-subscription-segment";
+}
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855887caa8
+# app-19049-subscription-segment 778b3a43d5807c9e94b787ad87b9d65893ccf6c2a12fdf9415eee6855

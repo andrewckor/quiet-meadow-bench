@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03481-public-item
+# Category: ads
+
+echo "running ${0##*/}"
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-03481-public-item f10b504b823ea75a946366cfffdea04521b57f1e7ae68fa7c9d863be10df2b77
+# app-034

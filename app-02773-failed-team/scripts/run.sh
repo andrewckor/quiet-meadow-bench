@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02773-failed-team
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7d1a25276fe8d08cd2cbb87669d0a74d2eab4a94aa574437debb657ec3942
+# app-02773-failed-team a5b7

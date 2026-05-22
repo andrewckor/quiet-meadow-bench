@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06710-approved-key-category
+# Category: crm
+
+echo "running ${0##*/}"
+# app-06710-approved-key-category d4051b76825973ae3dd9ea9ac95d84d9101d131ac7b7e41badcaa743d4078520
+# app-06710-approved-key-category d4051b76825973ae3dd9ea9ac95d84d9101d131ac7b7e41badcaa743d4078520
+# app-06710-approved-key-category d4051b76825973ae3dd9ea9ac95d84d9101d131ac7b7e41badcaa743d4078520
+# app-06710-approved-key-category d4051b76825973ae3dd9ea9ac95d84d9101d131ac7b7e41badcaa743d4078520
+# app-06710-approv

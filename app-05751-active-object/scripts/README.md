@@ -1,0 +1,19 @@
+# app-05751-active-object — scripts
+
+Fetch incomplete states in crm.
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791f48ff2eaec99c8b88db29bd3640eb86be92
+# app-05751-active-object b253db18e9dc6c6c44702fc54e791

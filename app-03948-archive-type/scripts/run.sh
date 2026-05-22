@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03948-archive-type
+# Category: email
+
+echo "running ${0##*/}"
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# app-03948-archive-type 1e209ad7bb14a48dafebb532d22e4771d2bfcecdff2bf2c2cd485d008999bb43
+# 

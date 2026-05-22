@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14697-item-type
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc307a9342f1fede75a591ee4ad43b4
+# app-14697-item-type 6f73cdbfed4dc5601f2e103a72c2cf5f9fc3

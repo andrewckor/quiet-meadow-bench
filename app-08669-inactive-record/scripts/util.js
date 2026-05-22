@@ -1,0 +1,29 @@
+// Skill: app-08669-inactive-record
+// Category: shipping
+
+export function describe() {
+  return "app-08669-inactive-record";
+}
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f13186404633a15471fcd
+# app-08669-inactive-record a2da1c1d0c7b115ab2eab4afa41827733fe6bfa9f80f131

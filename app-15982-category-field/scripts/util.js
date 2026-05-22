@@ -1,0 +1,22 @@
+// Skill: app-15982-category-field
+// Category: logging
+
+export function describe() {
+  return "app-15982-category-field";
+}
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85abc1ebbfc57417a3eb70702ef120fa50a894462f7b5e34058b
+# app-15982-category-field f0cc113cd2ec85ab

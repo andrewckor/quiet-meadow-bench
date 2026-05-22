@@ -1,0 +1,15 @@
+# app-05586-reaction-entry — scripts
+
+Rate verified reviews in docs. Use when you need to reject a type.
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-reaction-entry 93c4589bc26a303d65aad8f1c06b6a842a5d9bbb47dcb6ef5c0afba27d49f28f
+# app-05586-rea

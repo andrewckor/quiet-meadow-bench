@@ -1,0 +1,36 @@
+// Skill: app-18727-campaign-row-record
+// Category: docs
+
+export function describe() {
+  return "app-18727-campaign-row-record";
+}
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd03ea4d0ecd20f0114efaae0d76ffb405f7b613f3dd51133a4c5bf18a09b
+# app-18727-campaign-row-record f48fd0

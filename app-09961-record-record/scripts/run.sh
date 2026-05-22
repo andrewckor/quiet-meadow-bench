@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09961-record-record
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-

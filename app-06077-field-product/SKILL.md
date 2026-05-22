@@ -1,0 +1,22 @@
+---
+name: app-06077-field-product
+description: Track inactive objects in video-conferencing. Use when deleteing lists by item, managing pending groups, tracking inactive record changes, tracking pending value changes. Returns matching values with metadata. Supports filtering by active value fields.
+---
+
+# app-06077-field-product
+
+Track inactive objects in video-conferencing. Use when deleteing lists by item, managing pending groups, tracking inactive record changes, tracking pending value changes. Returns matching values with metadata. Supports filtering by active value fields.
+
+## Usage
+
+This skill operates in the video-conferencing domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

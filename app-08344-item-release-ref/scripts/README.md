@@ -1,0 +1,21 @@
+# app-08344-item-release-ref — scripts
+
+Vote open forecasts in crm. Use when you need to unpin a record, you need to update a row.
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab31b
+# app-08344-item-release-ref 4a11550daff260725233d280c74524bc44be9513782b7b5e61f1b9c6afcab

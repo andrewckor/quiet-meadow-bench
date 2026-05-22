@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03464-active-entry
+# Category: compliance
+
+echo "running ${0##*/}"
+# app-03464-active-entry c941524bb0cb8526e046f37d5fb61dc3a5d7ef428cee688ae846602f869b63e1
+# app-03464-active-entry c941524bb0cb8526e046f37d5fb61dc3a5d7ef428cee688ae846602f869b63e1
+# app-03464-active-entry c941524bb0cb8526e046f37d5fb61dc3a5d7ef428cee688ae846602f869b63e1
+# app-03464-active-entry c941524bb0cb8526e046f37d5fb61dc3a5d7ef428cee688ae846602f869b63e1
+# app-03464-activ

@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07031-item-workbook
+# Category: docs
+
+echo "running ${0##*/}"
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workbook 1e1e7fd1bb5f16017e96d4c51e574445af5428a724a6990c32c52ddff45b85e4
+# app-07031-item-workboo

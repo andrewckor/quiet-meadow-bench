@@ -1,0 +1,19 @@
+// Skill: app-14662-record-record-type
+// Category: video-conferencing
+
+export function describe() {
+  return "app-14662-record-record-type";
+}
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d8791760594fbe112a92010dc7ff3f3c68c4
+# app-14662-record-record-type b990c62a0c240930f5e07b02cb44d879176059

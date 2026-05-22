@@ -1,0 +1,9 @@
+// Skill: app-16126-company-device
+// Category: crm
+
+export function describe() {
+  return "app-16126-company-device";
+}
+# app-16126-company-device b6b49977c98a913c0e9c7a9c6a74e06085f61f32de6a7d4929a79d8e91f45c25
+# app-16126-company-device b6b49977c98a913c0e9c7a9c6a74e06085f61f32de6a7d4929a79d8e91f45c25
+# app-16126-company-device b6b49977c98a913c0e9c7a9c6a74e06085f61f32de6a7d4929a79d8e91f45c

@@ -1,0 +1,15 @@
+# app-05709-pull-request-row-pageview — scripts
+
+Delete archived rows in crm.
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a17ab85af3bad01c61788e04fbe0b5c92832022df43a53e9e
+# app-05709-pull-request-row-pageview 5444a0d8c67a200a

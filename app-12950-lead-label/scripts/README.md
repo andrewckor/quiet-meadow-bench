@@ -1,0 +1,5 @@
+# app-12950-lead-label — scripts
+
+Sync old companys in crm.
+# app-12950-lead-label bd38ba95916df9dc421e9361a1ef1997c87ec52ffaa12977deb68020b112b3c2
+# app-12950-lead-label bd38ba95916df9dc421e9361a1ef1997c87e

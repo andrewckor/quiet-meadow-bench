@@ -1,0 +1,35 @@
+// Skill: app-14388-active-record-deal
+// Category: chat
+
+export function describe() {
+  return "app-14388-active-record-deal";
+}
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-record-deal 5b9c0fa0016febf98bebda892e77d25631c6cdf1ee233adce8bff41485d9697b
+# app-14388-active-reco

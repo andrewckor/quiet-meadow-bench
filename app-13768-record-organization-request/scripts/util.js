@@ -1,0 +1,22 @@
+// Skill: app-13768-record-organization-request
+// Category: crm
+
+export function describe() {
+  return "app-13768-record-organization-request";
+}
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768-record-organization-request ca9bb9209512460d9b41f372b6065f4178c90f178a7a2d52bf6df3d67f30ea9e
+# app-13768

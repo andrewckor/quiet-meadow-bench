@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06821-member-record-transcript
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-06821-member-record-transcript 83a2c4a44e940c7ceec27048146a90b2de83431bc22974a557f9da2890004c8a
+# app-06821-member-record-transcript 83a2c4a44e940c7ceec27048146a90b2de83431bc22974a557f9da2890004c8a
+# app-06821-member-record-transcript 83a2c4a44e940c7ceec27048146a90b2de83431bc22974a557f9da2890004c8a
+# app-06821-member-record-transcript 83a2c4a44e940c7ceec27048146a90b2de83431bc22974a557f9da

@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11718-refunded-step
+# Category: email
+
+echo "running ${0##*/}"
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372eed798855a7029dd0f
+# app-11718-refunded-step a3b284354bd2cfc8f6d29cc4bd01bdf2f01a528136d372

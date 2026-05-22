@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02220-record-item-mention
+# Category: dashboards
+
+echo "running ${0##*/}"
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d11e9bf32fb9ccadc6b4a5ba200
+# app-02220-record-item-mention ca50bec68a1d95d67b8e3e6714b6d280c30c0d

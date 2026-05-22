@@ -1,0 +1,16 @@
+// Skill: app-03160-account-reply
+// Category: spreadsheets
+
+export function describe() {
+  return "app-03160-account-reply";
+}
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebec5280ac506
+# app-03160-account-reply 505c591c5c8ad414df570e8071a0c231a1cb4c7f893885d86d2ebe

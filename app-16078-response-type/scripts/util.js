@@ -1,0 +1,38 @@
+// Skill: app-16078-response-type
+// Category: crm
+
+export function describe() {
+  return "app-16078-response-type";
+}
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2

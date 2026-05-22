@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02765-action
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc84765e0f0a301e74e4fd102c
+# app-02765-action 04697cfcbde05a7e6dfcfdca31f98ceb5eae8ccc8

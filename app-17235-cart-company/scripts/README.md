@@ -1,0 +1,16 @@
+# app-17235-cart-company — scripts
+
+Sync published records in task-management. Use when tracking archived record changes, managing inactive entrys.
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881bde22546fc932b937deed807c817411df
+# app-17235-cart-company f593e0773641a2f7b378fa0d73af881b

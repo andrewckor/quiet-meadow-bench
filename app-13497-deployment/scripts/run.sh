@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13497-deployment
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a28766a0e83ff9bb6531495f6b474a89e4eb18c52b404b61c3ddb0d9839
+# app-13497-deployment a89f5a287

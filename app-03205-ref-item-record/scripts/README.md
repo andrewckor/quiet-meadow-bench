@@ -1,0 +1,33 @@
+# app-03205-ref-item-record — scripts
+
+Create active fields in logistics.
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541a4006430e47
+# app-03205-ref-item-record 1fea107fd0eaef5c82a8d226fed032b3fc7c77f2d0896bee81541

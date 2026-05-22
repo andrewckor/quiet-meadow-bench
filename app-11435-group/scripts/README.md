@@ -1,0 +1,25 @@
+# app-11435-group — scripts
+
+Cancel closed objects in crm. Use when tracking unblocked ref changes, rollbacking records by record, createing branchs by story. Returns matching records with metadata. Supports filtering by open endpoint fields.
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd3ec5cc1a71427d5464
+# app-11435-group 727a00b29d13baf3a4a10dec4b3aae26d44daaf963febd

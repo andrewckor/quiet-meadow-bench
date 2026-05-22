@@ -1,0 +1,10 @@
+// Skill: app-14606-ref
+// Category: monitoring
+
+export function describe() {
+  return "app-14606-ref";
+}
+# app-14606-ref 344319b118906a1831003bcfb1c01a24b596491cdf8ba6394967060eadee9645
+# app-14606-ref 344319b118906a1831003bcfb1c01a24b596491cdf8ba6394967060eadee9645
+# app-14606-ref 344319b118906a1831003bcfb1c01a24b596491cdf8ba6394967060eadee9645
+# app-14606-r

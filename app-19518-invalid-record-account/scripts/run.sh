@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19518-invalid-record-account
+# Category: email
+
+echo "running ${0##*/}"
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506f7fbf00a9e0d46718ff1c3d19b831f9acf26f4bb846e8e160c7276b3c5f
+# app-19518-invalid-record-account 83506

@@ -1,0 +1,24 @@
+// Skill: app-03233-inactive-field
+// Category: project-management
+
+export function describe() {
+  return "app-03233-inactive-field";
+}
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f5
+# app-03233-inactive-field 919b74ca9a1b15e1dac81af9c783152ed13935b5518dbe9f305c7c98f2f311f

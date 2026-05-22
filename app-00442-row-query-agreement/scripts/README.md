@@ -1,0 +1,22 @@
+# app-00442-row-query-agreement — scripts
+
+Find active skus in hr. Use when updateing dashboards by column.
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d323
+# app-00442-row-query-agreement a347f7dd527e41f4a47546ea787be80b3e874be16d75f2b6ff9b0332d3c0d32

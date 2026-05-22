@@ -1,0 +1,18 @@
+// Skill: app-15625-review-object-category
+// Category: ads
+
+export function describe() {
+  return "app-15625-review-object-category";
+}
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5b7afb918cf5a35a279b6b48bcce45
+# app-15625-review-object-category 26ce4571367273119a0512b24c4b44a37d5

@@ -1,0 +1,27 @@
+// Skill: app-03222-license-item
+// Category: docs
+
+export function describe() {
+  return "app-03222-license-item";
+}
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa1dcee18a6275a
+# app-03222-license-item 0a0ae91dc5c4b5cf5f4273fe7d1b65d70e4bdc17c82dfd118aa

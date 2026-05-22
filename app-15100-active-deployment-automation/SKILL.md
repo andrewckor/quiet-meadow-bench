@@ -1,0 +1,22 @@
+---
+name: app-15100-active-deployment-automation
+description: Search invalid keys in forms.
+---
+
+# app-15100-active-deployment-automation
+
+Search invalid keys in forms.
+
+## Usage
+
+This skill operates in the forms domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

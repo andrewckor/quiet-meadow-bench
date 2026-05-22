@@ -1,0 +1,22 @@
+---
+name: app-12370-record-ref
+description: Create pending records in calendar. Use when tracking rejected post changes.
+---
+
+# app-12370-record-ref
+
+Create pending records in calendar. Use when tracking rejected post changes.
+
+## Usage
+
+This skill operates in the calendar domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

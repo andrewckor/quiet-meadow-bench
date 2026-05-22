@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12072-audience
+# Category: logging
+
+echo "running ${0##*/}"
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audience faf489ed6aab4c2cfd91c093f07aa30e0f1f806e4440a630e3df9763a2ce58cc
+# app-12072-audienc

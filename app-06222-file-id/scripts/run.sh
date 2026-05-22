@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06222-file-id
+# Category: docs
+
+echo "running ${0##*/}"
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1e2e5b10ecf74bddffef
+# app-06222-file-id 87be35ad814eb924a4491789465a934e7aeea03da65c1

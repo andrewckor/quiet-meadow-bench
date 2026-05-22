@@ -1,0 +1,17 @@
+# app-09922-pending-item — scripts
+
+Upload approved rows in crm. Use when managing active ids, tracking archived entry changes, managing verified ids, managing default actions. Returns matching checkins with metadata. Supports filtering by pending company fields.
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd0f2a59736e6a6da0eee954ff1bee2d934e8890390550908ec624f6a620089
+# app-09922-pending-item 4fd

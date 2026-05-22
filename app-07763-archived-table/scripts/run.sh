@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07763-archived-table
+# Category: crm
+
+echo "running ${0##*/}"
+# app-07763-archived-table 503285cde6099d6fb9305d659fd314d70db439b3c22a6396e4306a285ce0f3c4
+# app-07763-archived-table 503285cde6099d6fb9305d659fd314d70db439b3c22a6396e4306a285ce0f3c4
+# app-07763-archived-table 503285cde6099d6fb9305d659fd314

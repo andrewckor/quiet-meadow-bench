@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18586-unverified-row
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-18586-unverified-row 468249b77895044365da04ee5731ac107a2b58ebbfab47f7135ef936075ff458
+# app-18586-unverified-row 468249b77895044365da04ee5731ac107a2b58ebbfab47f7135ef936075ff458
+# app-18586-unverified-row 468249b77895044365da04ee5731ac107a2b58ebbfab47f7135ef936075ff458
+# app-18586-unverified-row 468249b77895044365da04ee5731ac107a2b58ebbfab47f7135ef936075ff458
+# app-18586-unverified-row 468249b77895044365da04ee5731ac107a2b58ebbfab47f7135ef936075ff458
+# app-18586-unverified-row 468249b77895044365da04ee5731ac107a2b58ebbfab47f7135ef936075ff458
+# app-18586-unverified-row 468249b77895044365da04ee5731ac107a2b58ebbfab47f7135ef936075ff458
+# app-18586-unverified-row 468249b77895044365da04ee5731ac107a2b58ebbfab47f7135ef936075ff458
+# app-18586-unverified

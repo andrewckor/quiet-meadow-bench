@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10102-record-expense-click
+# Category: task-management
+
+echo "running ${0##*/}"
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# app-10102-record-expense-click 26d827a94fb3eb338a6972ee535b21bc458308204c77d1f0ef5fadf8ba0db8a8
+# a

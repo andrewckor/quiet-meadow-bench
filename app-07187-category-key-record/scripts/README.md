@@ -1,0 +1,22 @@
+# app-07187-category-key-record — scripts
+
+Create active tables in helpdesk. Use when tracking draft channel changes, managing draft deals.
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4e6c67745c
+# app-07187-category-key-record 282f0ce61737b45a5ccfb0342659474b2116b56ed2da7ddc7e4edc4

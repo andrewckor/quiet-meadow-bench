@@ -1,0 +1,15 @@
+// Skill: app-04423-entry-rule
+// Category: email
+
+export function describe() {
+  return "app-04423-entry-rule";
+}
+# app-04423-entry-rule e2b3e055568eed704a0699d90d822c357cf251fed7fdb874d99d5546b1b9961f
+# app-04423-entry-rule e2b3e055568eed704a0699d90d822c357cf251fed7fdb874d99d5546b1b9961f
+# app-04423-entry-rule e2b3e055568eed704a0699d90d822c357cf251fed7fdb874d99d5546b1b9961f
+# app-04423-entry-rule e2b3e055568eed704a0699d90d822c357cf251fed7fdb874d99d5546b1b9961f
+# app-04423-entry-rule e2b3e055568eed704a0699d90d822c357cf251fed7fdb874d99d5546b1b9961f
+# app-04423-entry-rule e2b3e055568eed704a0699d90d822c357cf251fed7fdb874d99d5546b1b9961f
+# app-04423-entry-rule e2b3e055568eed704a0699d90d822c357cf251fed7fdb874d99d5546b1b9961f
+# app-04423-entry-rule e2b3e055568eed704a0699d90d822c357cf251fed7fdb874d99d5546b1b9961f
+# app-04423-ent

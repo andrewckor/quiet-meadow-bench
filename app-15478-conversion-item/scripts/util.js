@@ -1,0 +1,26 @@
+// Skill: app-15478-conversion-item
+// Category: auth
+
+export function describe() {
+  return "app-15478-conversion-item";
+}
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-15478-conversion-item 3b76f42623cf27af0f87de74ee68f08af35943a8e0ea8ab1485e9c0dcb634ba9
+# app-154

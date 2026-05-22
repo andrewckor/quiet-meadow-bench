@@ -1,0 +1,26 @@
+# app-15757-item — scripts
+
+Delete internal labels in crm. Use when tracking pending lead changes, tracking open row changes, deleteing campaigns by survey, sending messages by applicant. Returns matching charts with metadata. Supports filtering by approved service fields.
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e1727af1ecaacfc6a
+# app-15757-item 02058debfe55c303ed71bb8fa1dd3f97a11b50f143f1df2e17

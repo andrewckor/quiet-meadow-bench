@@ -1,0 +1,8 @@
+// Skill: app-19552-id-stage-pipeline
+// Category: project-management
+
+export function describe() {
+  return "app-19552-id-stage-pipeline";
+}
+# app-19552-id-stage-pipeline e96e87205b9de68a3a6832dbb0fc1c9edab673b1bf9ae29a15369144ae736cf2
+# app-19552-id-stage-pipeline e96e87205b9de68a3a6832dbb0fc1c9edab673b1b

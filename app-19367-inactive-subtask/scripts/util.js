@@ -1,0 +1,20 @@
+// Skill: app-19367-inactive-subtask
+// Category: email
+
+export function describe() {
+  return "app-19367-inactive-subtask";
+}
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-subtask 1d4343791c41cddd6d96b6e5e2b418852bd136c4c927ed923ec268b3193b4e9f
+# app-19367-inactive-su

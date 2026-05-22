@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15380-shipment
+# Category: crm
+
+echo "running ${0##*/}"
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549

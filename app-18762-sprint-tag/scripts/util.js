@@ -1,0 +1,15 @@
+// Skill: app-18762-sprint-tag
+// Category: forms
+
+export function describe() {
+  return "app-18762-sprint-tag";
+}
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f4805845cdbb3
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f4805845cdbb3
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f4805845cdbb3
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f4805845cdbb3
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f4805845cdbb3
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f4805845cdbb3
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f4805845cdbb3
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f4805845cdbb3
+# app-18762-sprint-tag 157d9783005cf4be16897eeb3f2e40e447e4df1eae63b1580c5f

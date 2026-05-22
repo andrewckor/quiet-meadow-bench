@@ -1,0 +1,35 @@
+# app-12665-commit-category-entry — scripts
+
+Create unpaid sprints in crm. Use when you need to create a item.
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-12665-commit-category-entry 73cfbf28905f52b0b1f03caa73e2e419846c71697e197a64b1c971f2cf12adba
+# app-1266

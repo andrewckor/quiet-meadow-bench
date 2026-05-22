@@ -1,0 +1,34 @@
+// Skill: app-09961-record-record
+// Category: video-conferencing
+
+export function describe() {
+  return "app-09961-record-record";
+}
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc46b7d621dc27ca1cc7881e2
+# app-09961-record-record fec5c76214d591ea7df3ab5095d96a762cf1e19bc4

@@ -1,0 +1,23 @@
+# app-09276-exclusive-epic — scripts
+
+Delete published inventorys in dashboards.
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d34df49f6241d29b4191bd0feaeabe83c1b087324465dbe993dbb5cd332c6
+# app-09276-exclusive-epic 293d

@@ -1,0 +1,30 @@
+# app-17263-active-field-type — scripts
+
+Update active companys in helpdesk. Use when tracking closed row changes.
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13734b181bb9c3a50432d21bcb220b4b95513b
+# app-17263-active-field-type ed1a7bd172b0fd1ab68e09295d13

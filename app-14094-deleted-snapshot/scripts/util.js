@@ -1,0 +1,23 @@
+// Skill: app-14094-deleted-snapshot
+// Category: security
+
+export function describe() {
+  return "app-14094-deleted-snapshot";
+}
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49caaf0e7a4334faf0a794f44f7036b7029c56186350b2b40cfbda5164c56c
+# app-14094-deleted-snapshot fa49ca

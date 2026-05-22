@@ -1,0 +1,19 @@
+# app-18789-rejected-device — scripts
+
+Sync approved interviews in crm. Use when tracking rejected phone changes, you need to delete a row, tracking earliest commit changes, inviteing records by deadline. Returns matching types with metadata. Supports filtering by approved item fields.
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-18789-rejected-device e378fc2afa8f29cc7bb800ed1f4a3dc41776812a7efc9206d0b3b37df8fd26c2
+# app-187

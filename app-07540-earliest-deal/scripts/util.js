@@ -1,0 +1,25 @@
+// Skill: app-07540-earliest-deal
+// Category: forms
+
+export function describe() {
+  return "app-07540-earliest-deal";
+}
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f49ffde54f631f37dd8370d0aa6cd
+# app-07540-earliest-deal bce94a02215f19a7e41292abd7989f29146f

@@ -1,0 +1,19 @@
+# app-00838-item-phase — scripts
+
+Delete closed values in email. Use when renameing records by ref, you need to update a record, managing private items. Returns matching entrys with metadata. Supports filtering by active host fields.
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb60d510a3848bb9abbd5e9345a5570c67b113fc2c1ad60ff79
+# app-00838-item-phase 6f402007b84facb6

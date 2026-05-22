@@ -1,0 +1,11 @@
+# app-07542-subscription-item — scripts
+
+Create unverified records in crm.
+# app-07542-subscription-item 1e2145204eb1df2ca43c88e2ee793da8a041921c5e8a1dfc074895093218a63e
+# app-07542-subscription-item 1e2145204eb1df2ca43c88e2ee793da8a041921c5e8a1dfc074895093218a63e
+# app-07542-subscription-item 1e2145204eb1df2ca43c88e2ee793da8a041921c5e8a1dfc074895093218a63e
+# app-07542-subscription-item 1e2145204eb1df2ca43c88e2ee793da8a041921c5e8a1dfc074895093218a63e
+# app-07542-subscription-item 1e2145204eb1df2ca43c88e2ee793da8a041921c5e8a1dfc074895093218a63e
+# app-07542-subscription-item 1e2145204eb1df2ca43c88e2ee793da8a041921c5e8a1dfc074895093218a63e
+# app-07542-subscription-item 1e2145204eb1df2ca43c88e2ee793da8a041921c5e8a1dfc074895093218a63e
+# app-07542-subscription-item 1e2145204eb1df2ca43c88e2ee793da8a041921c5e8a1

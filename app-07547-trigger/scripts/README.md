@@ -1,0 +1,11 @@
+# app-07547-trigger — scripts
+
+Create approved snapshots in chat.
+# app-07547-trigger 4823125e958f819a2dfd8ac44120edd1416e42bf04decb9f59e88c6bf5b5f13f
+# app-07547-trigger 4823125e958f819a2dfd8ac44120edd1416e42bf04decb9f59e88c6bf5b5f13f
+# app-07547-trigger 4823125e958f819a2dfd8ac44120edd1416e42bf04decb9f59e88c6bf5b5f13f
+# app-07547-trigger 4823125e958f819a2dfd8ac44120edd1416e42bf04decb9f59e88c6bf5b5f13f
+# app-07547-trigger 4823125e958f819a2dfd8ac44120edd1416e42bf04decb9f59e88c6bf5b5f13f
+# app-07547-trigger 4823125e958f819a2dfd8ac44120edd1416e42bf04decb9f59e88c6bf5b5f13f
+# app-07547-trigger 4823125e958f819a2dfd8ac44120edd1416e42bf04decb9f59e88c6bf5b5f13f
+# app-07547-trigge

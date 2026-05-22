@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05771-key-type
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-05771-key-type d3c01d8bbf444a19e2c42085b5c38e76a2c87d979ab08bb2eb7a4bb27e0d4a8c
+# app-05771-key-type d3c01d8bbf444a19e2c42085b5c38e76a2c87d979ab08bb2eb7a4bb27e0d4a8c
+# app-05771-key-type d3c01d8bbf444a19e2c42085b5c38e76a2c87d979ab08bb2eb7a4bb27e0d4a8c
+# app-05771-key-type d3c01d8bbf444a19e2c42085b5c38e76a2c87d979ab08bb2eb7a4bb27e0d4a8c
+# app-05771-key-type d3c01d8bbf444a19e2c42085b5c38e76a2c87d979ab08bb2eb7a4bb27e0d4a8c
+# app-05771-key-type d3c01d8

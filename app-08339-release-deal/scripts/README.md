@@ -1,0 +1,13 @@
+# app-08339-release-deal — scripts
+
+Import active releases in email.
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430b0d615b0d72afde8856ee77fddcc
+# app-08339-release-deal 0059af26aa56a2591a407712b03fc58d8430

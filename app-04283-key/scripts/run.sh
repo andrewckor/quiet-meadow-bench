@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04283-key
+# Category: file-sharing
+
+echo "running ${0##*/}"
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65c418c168719
+# app-04283-key 447f2026d97a7bf42613aeddcdf8dcbbc39e6c03cfdcda478dc65

@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12297-kind-row-signature
+# Category: chat
+
+echo "running ${0##*/}"
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+# app-12297-kind-row-signature 7914ad61eafa987a9f7066aa6ce0f7c7548abe2530128ce4bc572036146e2a34
+#

@@ -1,0 +1,55 @@
+// Skill: app-17864-untrusted-entry-item
+// Category: payments
+
+export function describe() {
+  return "app-17864-untrusted-entry-item";
+}
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-entry-item f74667204c80641f09f1e2fd7d48c98cafcacfabeb204b4864c98fc1ff28bb8a
+# app-17864-untrusted-e

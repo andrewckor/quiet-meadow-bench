@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14791-record-story
+# Category: forms
+
+echo "running ${0##*/}"
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c215459603734e6d66fb497c
+# app-14791-record-story 57aaa9bace32ed3e3ec418bb272fafae8adb6838c21545

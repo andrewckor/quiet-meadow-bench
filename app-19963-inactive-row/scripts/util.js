@@ -1,0 +1,27 @@
+// Skill: app-19963-inactive-row
+// Category: calendar
+
+export function describe() {
+  return "app-19963-inactive-row";
+}
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e7f09e1c53
+# app-19963-inactive-row c537f611094f3d439a6d7ff4efe8c3bfeac7d836d4b8ab5ef36455e

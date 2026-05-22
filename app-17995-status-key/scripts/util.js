@@ -1,0 +1,22 @@
+// Skill: app-17995-status-key
+// Category: video-conferencing
+
+export function describe() {
+  return "app-17995-status-key";
+}
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-17995-status-key f9c89a88b0268dfca486baa5869eddaa32eb949abd920005df86145ad24599cb
+# app-1

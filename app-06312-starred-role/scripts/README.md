@@ -1,0 +1,28 @@
+# app-06312-starred-role — scripts
+
+Update active rows in crm. Use when you need to list a ref.
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e6c2b09efe1163281a5cf30d74f3aa6a414c9466bfc7c0c3a34714d4c
+# app-06312-starred-role 77d8ce8e

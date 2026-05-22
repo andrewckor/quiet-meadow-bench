@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05584-review
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app-05584-review 56d48edfa07a00d650136fe3c9bffdf1b7fb3df095f99b34062dc0f4c6d2be18
+# app

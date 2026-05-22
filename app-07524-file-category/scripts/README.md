@@ -1,0 +1,15 @@
+# app-07524-file-category — scripts
+
+Fetch draft comments in docs.
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44c3797b0ad17abe90d17b4793ea18a71deb79b3
+# app-07524-file-category 276ff60f382f3325c6eb53fb44

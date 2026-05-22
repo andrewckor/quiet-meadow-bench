@@ -1,0 +1,24 @@
+// Skill: app-17861-mention-archive-entry
+// Category: recruiting
+
+export function describe() {
+  return "app-17861-mention-archive-entry";
+}
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae94042313ba962a4e8d9f4a405a33cae58d7107e30c
+# app-17861-mention-archive-entry fbf9ecb31579e0daeb51ae9

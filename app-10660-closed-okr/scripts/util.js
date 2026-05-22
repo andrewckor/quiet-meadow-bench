@@ -1,0 +1,22 @@
+// Skill: app-10660-closed-okr
+// Category: video-conferencing
+
+export function describe() {
+  return "app-10660-closed-okr";
+}
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a5060e0fcc1ed56741cdb5688d1c007ba8a0570962d96913cffcea8
+# app-10660-closed-okr 21f3c6ac9a506

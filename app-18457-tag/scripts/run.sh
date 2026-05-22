@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18457-tag
+# Category: crm
+
+echo "running ${0##*/}"
+# app-18457-tag 334a26fcd116fec28de1ab698ffc031c3a3385287a36140e8d148322c4c8ac88
+# app-18457-tag 334a26fcd116fec28de1ab698ffc031c3a3385287a36140e8d148322c4c8ac88
+# app-18457-tag 334a26fcd116fec28de1ab698ffc031c3a3385287a36140e8d148322c4c8ac88
+# app-18457-tag 334a26fcd116fec28de1ab698ffc031c3a3385287a36140e8d148322c4c8ac88
+# app-18457-tag 334a26fcd116fec28de1ab698ffc031c3a3385287a36140e8d148322c4c8ac88
+# app-18457-tag 334a26fcd116fec28de1ab698ffc0

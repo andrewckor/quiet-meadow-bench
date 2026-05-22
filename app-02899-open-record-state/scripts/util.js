@@ -1,0 +1,28 @@
+// Skill: app-02899-open-record-state
+// Category: crm
+
+export function describe() {
+  return "app-02899-open-record-state";
+}
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b19cdefae551f3c
+# app-02899-open-record-state 73510a32f90dc9c38c54e51f9d7ec493cf5a9c9aa5e9f9719b

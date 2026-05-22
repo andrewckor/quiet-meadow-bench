@@ -1,0 +1,37 @@
+// Skill: app-02713-public-entry
+// Category: video-conferencing
+
+export function describe() {
+  return "app-02713-public-entry";
+}
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef7567029f4a3d6ffb38aa570db77
+# app-02713-public-entry 07975c8135c02ff8cdfd7a9b6efd86b166eef75

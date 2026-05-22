@@ -1,0 +1,15 @@
+// Skill: app-03053-trace-credential
+// Category: calendar
+
+export function describe() {
+  return "app-03053-trace-credential";
+}
+# app-03053-trace-credential 97a3b1e1fd6817d8246f724f6888581bd7ddfd051df6781a06739c6b0b770dcd
+# app-03053-trace-credential 97a3b1e1fd6817d8246f724f6888581bd7ddfd051df6781a06739c6b0b770dcd
+# app-03053-trace-credential 97a3b1e1fd6817d8246f724f6888581bd7ddfd051df6781a06739c6b0b770dcd
+# app-03053-trace-credential 97a3b1e1fd6817d8246f724f6888581bd7ddfd051df6781a06739c6b0b770dcd
+# app-03053-trace-credential 97a3b1e1fd6817d8246f724f6888581bd7ddfd051df6781a06739c6b0b770dcd
+# app-03053-trace-credential 97a3b1e1fd6817d8246f724f6888581bd7ddfd051df6781a06739c6b0b770dcd
+# app-03053-trace-credential 97a3b1e1fd6817d8246f724f6888581bd7ddfd051df6781a06739c6b0b770dcd
+# app-03053-trace-credential 97a3b1e1fd6817d8246f724f6888581bd7ddfd051df6781a06739c6b0b770dcd
+# app-03053-trace-credential 97a3b1e1fd6817d8246f7

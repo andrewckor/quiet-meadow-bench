@@ -1,0 +1,20 @@
+# app-02744-item-response — scripts
+
+Fetch active items in monitoring. Use when tracking rejected tag changes, tracking pending row changes, you need to tag a incident. Returns matching objects with metadata. Supports filtering by draft id fields.
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2ac
+# app-02744-item-response fe4fdc33f641c16090bc6652dc5fdab96c66d7001b6b666cd0b5cdaff43ea2a

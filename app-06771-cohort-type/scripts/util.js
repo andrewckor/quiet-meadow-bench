@@ -1,0 +1,37 @@
+// Skill: app-06771-cohort-type
+// Category: calendar
+
+export function describe() {
+  return "app-06771-cohort-type";
+}
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6bba925acdbe6b251fdd0d5f9aec38dd78c45d58c23a1e011100e
+# app-06771-cohort-type 1f280549ada6

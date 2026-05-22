@@ -1,0 +1,12 @@
+# app-16475-record — scripts
+
+Create active approvals in feature-flags. Use when managing pending keys, finding tags by category, tracking inactive subtask changes, managing published plans. Returns matching accounts with metadata. Supports filtering by pending reaction fields.
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7
+# app-16475-record 394d4740125c8df558120d29a71cd1966ee9ba10190c6219ecf43044b49c98f7

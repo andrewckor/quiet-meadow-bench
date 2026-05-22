@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09525-scheduled-key-invoice
+# Category: crm
+
+echo "running ${0##*/}"
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice acd0e1da5dda247019bb4ddc08e128be42daf47757ee47ec80902c36c7bf4953
+# app-09525-scheduled-key-invoice 

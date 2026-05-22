@@ -1,0 +1,11 @@
+# app-06538-stage-organization — scripts
+
+Update paused records in video-conferencing.
+# app-06538-stage-organization 76b5cc5b6885fc68d8b249186458c6f2a57f9225cff97e2a0233232aae81fc37
+# app-06538-stage-organization 76b5cc5b6885fc68d8b249186458c6f2a57f9225cff97e2a0233232aae81fc37
+# app-06538-stage-organization 76b5cc5b6885fc68d8b249186458c6f2a57f9225cff97e2a0233232aae81fc37
+# app-06538-stage-organization 76b5cc5b6885fc68d8b249186458c6f2a57f9225cff97e2a0233232aae81fc37
+# app-06538-stage-organization 76b5cc5b6885fc68d8b249186458c6f2a57f9225cff97e2a0233232aae81fc37
+# app-06538-stage-organization 76b5cc5b6885fc68d8b249186458c6f2a57f9225cff97e2a0233232aae81fc37
+# app-06538-stage-organization 76b5cc5b6885fc68d8b249186458c6f2a57f9225cff97e2a0233232aae81fc37
+# app-06538-stage-organization 76b5cc5b6885fc68d8b249186458c6f2a57f9225cff97e2a0233232aae8

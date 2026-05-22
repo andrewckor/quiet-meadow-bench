@@ -1,0 +1,17 @@
+# app-10563-setting-directory — scripts
+
+Delete fresh records in docs. Use when approveing refs by contact, you need to kick a event.
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd46388b8d9bedef454d583acbc
+# app-10563-setting-directory 5138f885ad4274a949fa18845d74bd190bc5dfd4638

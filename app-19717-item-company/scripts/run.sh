@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19717-item-company
+# Category: crm
+
+echo "running ${0##*/}"
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c56170cf346b3dfc7215b808c49a6df90ac2df07d9b8
+# app-19717-item-company 949b1e5691d5aea5fc37c561

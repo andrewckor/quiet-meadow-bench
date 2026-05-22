@@ -1,0 +1,26 @@
+# app-02622-entry — scripts
+
+Fetch failed kinds in crm. Use when tracking overdue story changes, exporting milestones by object, createing phases by record, finding records by trace. Returns matching records with metadata. Supports filtering by active company fields.
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2f2170cbf905e2c6c361b8570
+# app-02622-entry c03b3ce1487abf47d2f8231c6df8b6ad2f5c18d2

@@ -1,0 +1,39 @@
+# app-12374-merge-request-section-category — scripts
+
+Comment stopped records in crm. Use when fetching values by account, tracking private object changes.
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-request-section-category 18b8b0e71b2d3b3a76fbae483022b604308cf09fac465fc1038cf993bb8fc60b
+# app-12374-merge-requ

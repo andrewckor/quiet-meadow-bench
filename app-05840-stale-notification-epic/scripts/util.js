@@ -1,0 +1,30 @@
+// Skill: app-05840-stale-notification-epic
+// Category: crm
+
+export function describe() {
+  return "app-05840-stale-notification-epic";
+}
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37fe27030b6417ed5ab1ab
+# app-05840-stale-notification-epic 6e8b24b374896057ef8a3867bd1769266a1f2cca9e37

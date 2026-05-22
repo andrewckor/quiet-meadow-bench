@@ -1,0 +1,23 @@
+# app-18584-commit-group — scripts
+
+Delete rejected items in crm. Use when tracking pending row changes, managing pending records, receiveing records by pull-request, rateing teams by address. Returns matching categorys with metadata. Supports filtering by pending field fields.
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4df1c9fc4c
+# app-18584-commit-group 39b432bd615eabc614716fbe9775a1e96b695084af607b2173f2cf4

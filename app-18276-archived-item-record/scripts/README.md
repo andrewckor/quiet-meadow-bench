@@ -1,0 +1,31 @@
+# app-18276-archived-item-record — scripts
+
+Publish earliest variants in invoicing. Use when uploading records by alert, tracking rejected row changes.
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276-archived-item-record 877a2dfbf198527d06e03626723be27c43ccc4f33fbecb252a55b30f5abc3d49
+# app-18276

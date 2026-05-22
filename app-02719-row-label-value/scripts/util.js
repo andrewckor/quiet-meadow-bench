@@ -1,0 +1,16 @@
+// Skill: app-02719-row-label-value
+// Category: docs
+
+export function describe() {
+  return "app-02719-row-label-value";
+}
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f17f2b4485e636
+# app-02719-row-label-value 654f8d9eb1595528ce9fa652895d42bab9575ca13e5ce2d243f

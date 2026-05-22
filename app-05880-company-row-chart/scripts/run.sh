@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05880-company-row-chart
+# Category: email
+
+echo "running ${0##*/}"
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc5c0eb91743916eef518a5
+# app-05880-company-row-chart c3aece27f0b78f63e340ebc8c564207f285a34715fc

@@ -1,0 +1,11 @@
+# app-06137-entry-expense — scripts
+
+Delete earliest rows in feature-flags. Use when tracking active candidate changes, managing pending reactions.
+# app-06137-entry-expense a30bb9faad1908cd484c7bad6c27f23128318dfe274d84f8c81d54c3fcfd2dca
+# app-06137-entry-expense a30bb9faad1908cd484c7bad6c27f23128318dfe274d84f8c81d54c3fcfd2dca
+# app-06137-entry-expense a30bb9faad1908cd484c7bad6c27f23128318dfe274d84f8c81d54c3fcfd2dca
+# app-06137-entry-expense a30bb9faad1908cd484c7bad6c27f23128318dfe274d84f8c81d54c3fcfd2dca
+# app-06137-entry-expense a30bb9faad1908cd484c7bad6c27f23128318dfe274d84f8c81d54c3fcfd2dca
+# app-06137-entry-expense a30bb9faad1908cd484c7bad6c27f23128318dfe274d84f8c81d54c3fcfd2dca
+# app-06137-entry-expense a30bb9faad1908cd484c7bad6c27f23128318dfe274d84f8c81d54c3fcfd2dca
+# app-06137-entry-expense a30bb9faad1908cd484c7bad6c27f23128318dfe274d84f8c81d54c3fc

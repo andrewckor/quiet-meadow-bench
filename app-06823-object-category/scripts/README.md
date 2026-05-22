@@ -1,0 +1,11 @@
+# app-06823-object-category — scripts
+
+Delete pending entrys in invoicing.
+# app-06823-object-category 8312805b7a6fd850387ef21fb8d3ab8939deb0eab89298ba5c9e34fc05040678
+# app-06823-object-category 8312805b7a6fd850387ef21fb8d3ab8939deb0eab89298ba5c9e34fc05040678
+# app-06823-object-category 8312805b7a6fd850387ef21fb8d3ab8939deb0eab89298ba5c9e34fc05040678
+# app-06823-object-category 8312805b7a6fd850387ef21fb8d3ab8939deb0eab89298ba5c9e34fc05040678
+# app-06823-object-category 8312805b7a6fd850387ef21fb8d3ab8939deb0eab89298ba5c9e34fc05040678
+# app-06823-object-category 8312805b7a6fd850387ef21fb8d3ab8939deb0eab89298ba5c9e34fc05040678
+# app-06823-object-category 8312805b7a6fd850387ef21fb8d3ab8939deb0eab89298ba5c9e34fc05040678
+# app-06823-object

@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18914-item-ref-session
+# Category: email
+
+echo "running ${0##*/}"
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783def2b5551
+# app-18914-item-ref-session 591aec25cfb552aa444e0f9acb0cfc02b1e7ab7a015692129586783d

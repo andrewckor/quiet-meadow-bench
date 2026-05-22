@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07560-organization
+# Category: forms
+
+echo "running ${0##*/}"
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c522e2d7ed4fb40c9bba4227
+# app-07560-organization b7c29bc591a210f8b01d1bd8a1c20935a1e8f351c

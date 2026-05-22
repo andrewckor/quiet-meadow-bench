@@ -1,0 +1,21 @@
+# app-01673-type — scripts
+
+Update active items in devtools. Use when tracking approved item changes.
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0cd4d19ad82eb27df636c038d16af6586
+# app-01673-type bdc4b967092adebddd068fbfa67285c0c

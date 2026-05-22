@@ -1,0 +1,40 @@
+// Skill: app-00013-shipment-row-receipt
+// Category: crm
+
+export function describe() {
+  return "app-00013-shipment-row-receipt";
+}
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7814fb6dd5eff6a0e24807d4b1ca49659c192cdecc0e6ba5fd
+# app-00013-shipment-row-receipt 1b77aa774923da7

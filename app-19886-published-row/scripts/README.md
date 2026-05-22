@@ -1,0 +1,17 @@
+# app-19886-published-row — scripts
+
+Convert unsynced builds in forms. Use when managing closed items, managing inactive records, managing inactive items, tracking refunded session changes. Returns matching tags with metadata. Supports filtering by active contact fields.
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row e9178e260463b3d577b8dc54c89431dfe7f936024eea6b987557671f9bf7b52d
+# app-19886-published-row

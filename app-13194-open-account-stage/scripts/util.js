@@ -1,0 +1,26 @@
+// Skill: app-13194-open-account-stage
+// Category: project-management
+
+export function describe() {
+  return "app-13194-open-account-stage";
+}
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-account-stage 9615ac2ca1acf0032f05e5c61de8a4f9357a3d1b4ecab033c16558264f1f61f0
+# app-13194-open-acc

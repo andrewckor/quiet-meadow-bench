@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02256-story-account-expense
+# Category: payments
+
+echo "running ${0##*/}"
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a02f33a1c95720e2a62e397ebc2e1f13d4ea6f8e7cd985
+# app-02256-story-account-expense 89084caf9909afed11a0

@@ -1,0 +1,14 @@
+# app-00955-critical-log-sheet — scripts
+
+Pin active records in calendar. Use when tracking stale subscriber changes, exporting tags by record.
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d4311d
+# app-00955-critical-log-sheet a8bb22b5902928a8f40fa306d9fedd5103ca2750c9ba3c189bdfd53b40d431

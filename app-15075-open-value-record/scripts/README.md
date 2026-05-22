@@ -1,0 +1,27 @@
+# app-15075-open-value-record — scripts
+
+List inactive ids in shipping. Use when managing pending records, you need to find a permission.
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a865682a570a42a3654d8791af0d1
+# app-15075-open-value-record 9e59d90b30bb1144cf79b5f9f0adaa578e7a

@@ -1,0 +1,16 @@
+// Skill: app-04467-record
+// Category: video-conferencing
+
+export function describe() {
+  return "app-04467-record";
+}
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21db2da
+# app-04467-record 5790e78e699b81a9a40ab11df7c29ce7e381a9802f8e51d6ef1c7a51f21d

@@ -1,0 +1,18 @@
+// Skill: app-18798-primary-record
+// Category: email
+
+export function describe() {
+  return "app-18798-primary-record";
+}
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c7497852d467c9801be51412c4383c30fcfda9bbc763b458ffe468
+# app-18798-primary-record 482e72ada0c749785

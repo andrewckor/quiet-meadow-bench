@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19945-entry-preference
+# Category: docs
+
+echo "running ${0##*/}"
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64cf6642b3e196ef871928c0c457e28d81b37d91274fbd
+# app-19945-entry-preference dbca635df3b34c502f64

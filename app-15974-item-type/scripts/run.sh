@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15974-item-type
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-15974-item-type c9809f558594451852acca64c5b60eb4c36c948ab30dd70aacf0c74edad32f21
+# app-15974-item-type c9809f558594451852acca64c5b60eb4c36c948ab30dd70aacf0c74edad32f21
+# app-15974-item-type c9809f558594451852acca64c5b60eb4c36c948ab30dd70aacf0c74edad32f21
+# app-15974-item-type c9809f558594451852acca64c5b60eb4c36c948ab30dd70aacf0c74edad32f21
+# app-15974-item-type c9809f558594451852acca64c5b60eb4c36c948ab30dd70aacf0c74edad32f21
+# app-15974-item-type c9809f558594451852acca64c5b60eb4c36c948ab30dd70aacf0c74edad32f21
+# app-15974-item-type c9809f558594451852acca64c5b60eb4c36c948ab30dd70aacf0c74edad32f21
+# app-15974-item-typ

@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15930-active-record
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# app-15930-active-record 9cf1fd08bfc3f092cf9a8bbc3ee14ea3863ec6175d48f436e1bda118f9f041e6
+# a

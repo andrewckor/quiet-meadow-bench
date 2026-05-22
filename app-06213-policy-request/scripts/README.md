@@ -1,0 +1,20 @@
+# app-06213-policy-request — scripts
+
+Add open records in ecommerce.
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-06213-policy-request 6f4812af769fd6b376c9f197efef3dc9a98ce4efa2b960b5db448e82c95826bc
+# app-0621

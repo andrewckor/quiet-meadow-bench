@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09360-muted-milestone
+# Category: social-media
+
+echo "running ${0##*/}"
+# app-09360-muted-milestone c0dce82bf082df48f2d01a583bd40e664a3a904d7255acb4c40f83bb87b5212f
+# app-09360-muted-milestone c0dce82bf082df48f2d01a583bd40e664a3a904d7255acb4c40f83bb87b5212f
+# app-09360-muted-milestone c0dce82bf082df48f2d01a583bd40e664a3a904d7255acb4c40f83bb87b5212f
+# app-09360-muted-milestone c0dce82bf082df48f2d01a583bd40e664a3a904d7255acb4c40f83bb87b5212

@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04593-record
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f56bc4919b5da38439
+# app-04593-record 2308b97cd26e40a84763de72ef9debfb7c01ae4c0bebd8f

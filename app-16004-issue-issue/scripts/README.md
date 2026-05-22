@@ -1,0 +1,11 @@
+# app-16004-issue-issue — scripts
+
+Add succeeded campaigns in crm.
+# app-16004-issue-issue 6c1773a5f464d6a73bc28654c7e2eee9dd8debb54ca9321d40cc8bf2bb75ca46
+# app-16004-issue-issue 6c1773a5f464d6a73bc28654c7e2eee9dd8debb54ca9321d40cc8bf2bb75ca46
+# app-16004-issue-issue 6c1773a5f464d6a73bc28654c7e2eee9dd8debb54ca9321d40cc8bf2bb75ca46
+# app-16004-issue-issue 6c1773a5f464d6a73bc28654c7e2eee9dd8debb54ca9321d40cc8bf2bb75ca46
+# app-16004-issue-issue 6c1773a5f464d6a73bc28654c7e2eee9dd8debb54ca9321d40cc8bf2bb75ca46
+# app-16004-issue-issue 6c1773a5f464d6a73bc28654c7e2eee9dd8debb54ca9321d40cc8bf2bb75ca46
+# app-16004-issue-issue 6c1773a5f464d6a73bc28654c7e2eee9dd8debb54ca9321d40cc8bf2bb75ca46
+# app-16004-issue-issue 6c1773a5f464

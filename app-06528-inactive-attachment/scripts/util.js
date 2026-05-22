@@ -1,0 +1,27 @@
+// Skill: app-06528-inactive-attachment
+// Category: email
+
+export function describe() {
+  return "app-06528-inactive-attachment";
+}
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eaceb36f902806fcd1c44feb109a468893997cd1f27
+# app-06528-inactive-attachment 14ed18eaac0d2e9344a18eac

@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18444-query-item
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18444-query-item 5e5ad708b72e84c0b3f1f60f4cacce2760acf1fa44eedfaea7febfacd4615922
+# app-18

@@ -1,0 +1,33 @@
+// Skill: app-03096-closed-sku-thread
+// Category: crm
+
+export function describe() {
+  return "app-03096-closed-sku-thread";
+}
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a2087127

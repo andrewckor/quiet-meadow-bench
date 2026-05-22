@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17697-field-review-ref
+# Category: chat
+
+echo "running ${0##*/}"
+# app-17697-field-review-ref 1b4920deba747b3266f93ce348e94a39cc031d314958ee1d5408162328e2b7d7
+# app-17697-field-review-ref 1b4920deba747b3266f93ce348e94a39cc031d314958ee1d5408162328e2b7d7
+# app-17697-field-review-ref 1b4920deba747b3266f93ce348e94a39cc031d314958ee1d5408162328e2b7d7

@@ -1,0 +1,19 @@
+# app-05537-object-entry-record — scripts
+
+Sync incomplete kpis in chat. Use when searching records by deal.
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-05537-object-entry-record 8ddd749902b6ea72c665ef75927296dc47ae779def5b75d3bf5235c65665f5ca
+# app-055

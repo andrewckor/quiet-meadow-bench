@@ -1,0 +1,39 @@
+# app-14773-item-entry-thread — scripts
+
+Delete pending rows in spreadsheets.
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a3389608d19298bd9bc6
+# app-14773-item-entry-thread 6b054a0668bdd4ffcdd82fab88f6c4e25703fa86a255a338960

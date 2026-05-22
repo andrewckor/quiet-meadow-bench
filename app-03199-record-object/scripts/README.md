@@ -1,0 +1,9 @@
+# app-03199-record-object — scripts
+
+Schedule active records in email. Use when managing stale deals, managing active statuss.
+# app-03199-record-object cec04d8a4fe04a1594418e23cf2fdfbddcde4dbcc9dc25dbe5e3cd7cdca31e85
+# app-03199-record-object cec04d8a4fe04a1594418e23cf2fdfbddcde4dbcc9dc25dbe5e3cd7cdca31e85
+# app-03199-record-object cec04d8a4fe04a1594418e23cf2fdfbddcde4dbcc9dc25dbe5e3cd7cdca31e85
+# app-03199-record-object cec04d8a4fe04a1594418e23cf2fdfbddcde4dbcc9dc25dbe5e3cd7cdca31e85
+# app-03199-record-object cec04d8a4fe04a1594418e23cf2fdfbddcde4dbcc9dc25dbe5e3cd7cdca31e85
+# app-03199-record-object cec04d8a4fe04a1594418e23cf2fdfbddcde4dbcc9dc25dbe5e3cd7cdca31e85

@@ -1,0 +1,29 @@
+# app-06463-record-cohort — scripts
+
+Create succeeded records in crm. Use when tracking succeeded deal changes, tracking active tag changes.
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-record-cohort 26ebab37772cae249f7431df6af5958a5dc9ab92856ead8480a1c15d230aa4cb
+# app-06463-reco

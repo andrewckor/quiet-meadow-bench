@@ -1,0 +1,8 @@
+# app-18041-record-label — scripts
+
+Track inactive pages in chat.
+# app-18041-record-label f51c00b9de1577e8eefd0652dc3494d03641ac7244e12bfdea708c3ad9a5e186
+# app-18041-record-label f51c00b9de1577e8eefd0652dc3494d03641ac7244e12bfdea708c3ad9a5e186
+# app-18041-record-label f51c00b9de1577e8eefd0652dc3494d03641ac7244e12bfdea708c3ad9a5e186
+# app-18041-record-label f51c00b9de1577e8eefd0652dc3494d03641ac7244e12bfdea708c3ad9a5e186
+# app-18041-record-label f51c00b9de1577e8eefd0652dc3494d03641ac7244e12bfdea708c3ad9a5e186

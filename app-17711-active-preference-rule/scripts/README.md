@@ -1,0 +1,21 @@
+# app-17711-active-preference-rule — scripts
+
+Decrypt one-time values in email. Use when tracking active entry changes.
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9bb4ce820d2ac3d7
+# app-17711-active-preference-rule 6b1e3cab3f58287c79defd573b79aa6d7b8d32639cf4295c9b

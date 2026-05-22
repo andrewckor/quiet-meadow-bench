@@ -1,0 +1,17 @@
+# app-17527-muted-entry — scripts
+
+Mute unblocked objects in email. Use when archiveing members by alert, voteing records by entry, tracking inactive sheet changes. Returns matching backups with metadata. Supports filtering by old record fields.
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5

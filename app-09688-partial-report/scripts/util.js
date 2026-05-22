@@ -1,0 +1,17 @@
+// Skill: app-09688-partial-report
+// Category: email
+
+export function describe() {
+  return "app-09688-partial-report";
+}
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7926d1705028e30f0d7
+# app-09688-partial-report 5bb82485ea1ad893e383bbf3933d7daa451c0b78e722d7

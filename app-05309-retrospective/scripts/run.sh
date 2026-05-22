@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05309-retrospective
+# Category: marketing
+
+echo "running ${0##*/}"
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309-retrospective 6ea9b3c3f9dabbbc8c196628adc7eb764e99907b09c88603bbff663ff7440adc
+# app-05309

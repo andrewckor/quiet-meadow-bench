@@ -1,0 +1,39 @@
+# app-14036-user-record — scripts
+
+List paused sections in crm. Use when tracking rejected cell changes, createing states by label, managing full statuss, tracking invalid setting changes. Returns matching kpis with metadata. Supports filtering by recent variant fields.
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e076a6a8710a4bcfdb
+# app-14036-user-record efc61a6722bc8394e26f3aa9e353f0d583738eb668f9b7e

@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11335-record-deadline
+# Category: crm
+
+echo "running ${0##*/}"
+# app-11335-record-deadline e6791e77d204166bb1d743f4767b2f38cbfc6db918cad2fac6f7cfe6346d8bfa
+# app-11335-record-deadline e6791e77d204166bb1d743f4767b2f38cbfc6db918cad2fac6f7cfe6346d8bfa
+# app-11335-record-deadline e6791e77d204166bb1d743f4767b2f38cbfc6db918cad2fac6f7cfe6346d8bfa
+# app-11335-record-deadline e6791e77d204166bb1d743f4767b2f38cbfc6db918cad2fac6f7cfe6346d8bfa
+# app-11335-record-deadline e6791e77d204166bb1d743f4767b2f38

@@ -1,0 +1,35 @@
+// Skill: app-02234-pinned-task
+// Category: forms
+
+export function describe() {
+  return "app-02234-pinned-task";
+}
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2dba5ed1b75e
+# app-02234-pinned-task 5f11143bf54d2e3da1e82d94ca8fd697d6cdbb7961eecc21579a2db

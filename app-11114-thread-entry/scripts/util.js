@@ -1,0 +1,15 @@
+// Skill: app-11114-thread-entry
+// Category: docs
+
+export function describe() {
+  return "app-11114-thread-entry";
+}
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb6de95349ebdb924414c2e08cde1b4008
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb6de95349ebdb924414c2e08cde1b4008
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb6de95349ebdb924414c2e08cde1b4008
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb6de95349ebdb924414c2e08cde1b4008
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb6de95349ebdb924414c2e08cde1b4008
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb6de95349ebdb924414c2e08cde1b4008
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb6de95349ebdb924414c2e08cde1b4008
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb6de95349ebdb924414c2e08cde1b4008
+# app-11114-thread-entry 41647e929237135b93bfba9d83851ccb

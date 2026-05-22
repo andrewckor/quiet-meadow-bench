@@ -1,0 +1,16 @@
+// Skill: app-10591-ref-tag
+// Category: email
+
+export function describe() {
+  return "app-10591-ref-tag";
+}
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d47ac913ce00b112301272c44d627431c96dc2b6d
+# app-10591-ref-tag 7c0d00b67ba97dfbb2eac47d4

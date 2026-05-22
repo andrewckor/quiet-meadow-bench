@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01621-recurring-reply
+# Category: docs
+
+echo "running ${0##*/}"
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b62c9805ab535c71eec7afca7b4bf36a6255ecffe129bb923d40289ff299408e
+# app-01621-recurring-reply b

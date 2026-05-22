@@ -1,0 +1,29 @@
+// Skill: app-12709-published-mention
+// Category: hr
+
+export function describe() {
+  return "app-12709-published-mention";
+}
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+# app-12709-published-mention db7d82c6b39db4c1c1db87ab49bc190ca36b1ba95e44d64e8e1010dab27c8648
+#

@@ -1,0 +1,12 @@
+# app-15380-shipment — scripts
+
+Get pending products in crm.
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment 1549d49ca762f07c34dac1c87a458fb20fde12362ffcb1400d956cdc2823eaaa
+# app-15380-shipment

@@ -1,0 +1,21 @@
+// Skill: app-17252-incident-sku-dashboard
+// Category: email
+
+export function describe() {
+  return "app-17252-incident-sku-dashboard";
+}
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# app-17252-incident-sku-dashboard 500cab349e992e763fd23512acfb4c4a7b962e0c87e44d78f159bb41e358a951
+# a

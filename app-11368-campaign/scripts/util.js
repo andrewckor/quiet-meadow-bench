@@ -1,0 +1,17 @@
+// Skill: app-11368-campaign
+// Category: forms
+
+export function describe() {
+  return "app-11368-campaign";
+}
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-campaign 77cbf797b037fd4dc2cdd612ffc0f1bac72c7cf4f3e21b47ec8743d70d951fec
+# app-11368-ca

@@ -1,0 +1,19 @@
+# app-15342-entry — scripts
+
+Create open items in feature-flags. Use when geting keys by record, you need to create a kind.
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaeeafeac35b7569b092757d9f3d4b
+# app-15342-entry bbb4afacad639e82339a887311314f4bfcdaee

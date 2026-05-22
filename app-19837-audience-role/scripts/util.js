@@ -1,0 +1,19 @@
+// Skill: app-19837-audience-role
+// Category: email
+
+export function describe() {
+  return "app-19837-audience-role";
+}
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996
+# app-19837-audience-role 0dca5ffe299605b0ff6c88bfeb9243d53321eb51ffc6b1cc500f334604c1f996

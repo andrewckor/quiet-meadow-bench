@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07750-entry-type
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type ca4a83ad73b43fa0cccdfab554af2a0f7cc9dc26adae3f6e796a982d5c70d726
+# app-07750-entry-type 

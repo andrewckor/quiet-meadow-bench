@@ -1,0 +1,20 @@
+# app-11006-record-service-entry — scripts
+
+Add approved objects in crm.
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 9ed1001819908652075cda52354ce9693fcf577bc4cc69f13346ec6107dcf7ac
+# app-11006-record-service-entry 

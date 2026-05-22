@@ -1,0 +1,20 @@
+# app-11757-item-stage-record — scripts
+
+Find active roles in auth.
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc52616856b6dfb753ce61491
+# app-11757-item-stage-record 294ad2d8083b3c9dfc6f80384b9bf2446b97affdc5261685

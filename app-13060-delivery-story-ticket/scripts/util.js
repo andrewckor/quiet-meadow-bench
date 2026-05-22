@@ -1,0 +1,39 @@
+// Skill: app-13060-delivery-story-ticket
+// Category: crm
+
+export function describe() {
+  return "app-13060-delivery-story-ticket";
+}
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222c41e
+# app-13060-delivery-story-ticket ad55f7b48b6dc362028c0b8a86cbd506ed2b45c643f2f685ce19e49d6222

@@ -1,0 +1,39 @@
+# app-08629-active-item — scripts
+
+Update active pages in crm. Use when you need to monitor a row, you need to search a milestone, managing active rows. Returns matching conversions with metadata. Supports filtering by inactive contact fields.
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1aaa0e03b5773e4137d2a7276dbf1b9ef8c35e0762f5c1d7eea2
+# app-08629-active-item 26cb50059c9e1a

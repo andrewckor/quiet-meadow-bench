@@ -1,0 +1,22 @@
+# app-05931-active-automation-file — scripts
+
+Delete active permissions in crm. Use when managing unbilled companys, reacting tags by key, managing active steps. Returns matching carts with metadata. Supports filtering by rejected span fields.
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56cb69e4
+# app-05931-active-automation-file 3b1aed7fbee47f1db2685c349953489ec53e700fd89839ccf9f5c9dc56

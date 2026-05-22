@@ -1,0 +1,44 @@
+// Skill: app-00570-pending-record-row
+// Category: calendar
+
+export function describe() {
+  return "app-00570-pending-record-row";
+}
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f400200dcdfa217405d16a31cff4751d7e2a7b3a579081
+# app-00570-pending-record-row aaf3a3b8408ce12eb6f40020

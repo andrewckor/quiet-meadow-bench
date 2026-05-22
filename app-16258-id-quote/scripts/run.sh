@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16258-id-quote
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0f92dad1ec2f579
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0f92dad1ec2f579
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0f92dad1ec2f579
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0f92dad1ec2f579
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0f92dad1ec2f579
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0f92dad1ec2f579
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0f92dad1ec2f579
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0f92dad1ec2f579
+# app-16258-id-quote 6364c82ed187597a1e7b60fcb08d8e4c53193c31dc2616ebd0

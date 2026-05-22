@@ -1,0 +1,8 @@
+// Skill: app-07603-stage-row
+// Category: crm
+
+export function describe() {
+  return "app-07603-stage-row";
+}
+# app-07603-stage-row 15ef214d323f54a7a251d6d313f8e7d524dc65242708838288e430b64cbf933b
+# app-0

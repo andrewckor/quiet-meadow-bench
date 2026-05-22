@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13152-impression-deployment
+# Category: events
+
+echo "running ${0##*/}"
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6e943bca89cf9970a750cbc24cfcea
+# app-13152-impression-deployment d651a7fec19bb6bf1718dc6b85bf23375b6

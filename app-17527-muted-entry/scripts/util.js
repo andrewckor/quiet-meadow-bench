@@ -1,0 +1,17 @@
+// Skill: app-17527-muted-entry
+// Category: email
+
+export function describe() {
+  return "app-17527-muted-entry";
+}
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b21b7f974f3e13af1a9e215fd4ea1084ed75
+# app-17527-muted-entry 7ce9061747709fec2a04d5fa2538b

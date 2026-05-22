@@ -1,0 +1,28 @@
+// Skill: app-02006-item-record
+// Category: wiki
+
+export function describe() {
+  return "app-02006-item-record";
+}
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ece89c11aabd8765d226628cfc1e39488e8984f14faff1f45
+# app-02006-item-record 3df3a24a5b73e38ec

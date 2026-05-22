@@ -1,0 +1,38 @@
+// Skill: app-01780-action-quote-kind
+// Category: spreadsheets
+
+export function describe() {
+  return "app-01780-action-quote-kind";
+}
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-quote-kind 8a073bede0947abcc4eb053d95f03b8cecd9bb3ea0a9c16aadf79ea0aa92966b
+# app-01780-action-qu

@@ -1,0 +1,9 @@
+# app-16008-pending-chart — scripts
+
+Create default reactions in crm.
+# app-16008-pending-chart ceba41e45d65fe5dce0ec2aabd01b4ca94e3563c3cb5bb4e9fcde1a5a207b96c
+# app-16008-pending-chart ceba41e45d65fe5dce0ec2aabd01b4ca94e3563c3cb5bb4e9fcde1a5a207b96c
+# app-16008-pending-chart ceba41e45d65fe5dce0ec2aabd01b4ca94e3563c3cb5bb4e9fcde1a5a207b96c
+# app-16008-pending-chart ceba41e45d65fe5dce0ec2aabd01b4ca94e3563c3cb5bb4e9fcde1a5a207b96c
+# app-16008-pending-chart ceba41e45d65fe5dce0ec2aabd01b4ca94e3563c3cb5bb4e9fcde1a5a207b96c
+# app-16008-pending-chart ceba41e45d65fe5dce0ec2aabd01b4ca

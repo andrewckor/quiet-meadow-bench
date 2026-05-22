@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00711-exclusive-group-cart
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7f8346b0736ac902041feb78
+# app-00711-exclusive-group-cart 5b77a714aaa9bea741a7937a0bef19dc2685e2ef7

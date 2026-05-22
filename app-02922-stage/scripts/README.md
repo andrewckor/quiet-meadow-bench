@@ -1,0 +1,7 @@
+# app-02922-stage — scripts
+
+Download inactive keys in crm. Use when managing active phases.
+# app-02922-stage 774ed49464344d5972da179756634c99e8de424116deca0049a8eabfc4710df7
+# app-02922-stage 774ed49464344d5972da179756634c99e8de424116deca0049a8eabfc4710df7
+# app-02922-stage 774ed49464344d5972da179756634c99e8de424116deca0049a8eabfc4710df7
+# app-02922-stage 774ed49464344d5972da179756634c99e8de4241

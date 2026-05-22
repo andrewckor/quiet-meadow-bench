@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09080-task
+# Category: error-tracking
+
+echo "running ${0##*/}"
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee

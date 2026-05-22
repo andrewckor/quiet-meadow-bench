@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04051-tag-row
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-04051-tag-row fa56e61ccd46c58da079f8eb78ecf97bafc37452f7e6d432b020f78bfe8116f8
+# app-04051-tag-row fa56e61ccd46c58da079f8eb78ecf97bafc37452f7e6d432b020f78bfe8116f8
+# app-04051-tag-row fa56e61ccd46c58da079f8eb78ecf97bafc37452f7e6d432b020f78bfe8116f8
+# app-04051-tag-row fa56e61ccd46c58da079f8eb78ecf97bafc37452f7e6d432b020f78bfe8116f8
+# app-04051-tag-row fa56e61ccd46c58da079f8eb78ecf97bafc37452f7e6d432b020f78bfe8116f8
+# app-04051-tag-row fa56e61ccd46c58da079f8eb78ecf9

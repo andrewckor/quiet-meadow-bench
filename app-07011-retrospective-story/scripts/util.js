@@ -1,0 +1,23 @@
+// Skill: app-07011-retrospective-story
+// Category: crm
+
+export function describe() {
+  return "app-07011-retrospective-story";
+}
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec49d64a61ff6403b66c69d014c315
+# app-07011-retrospective-story 31a1616bf8c1cc96bfa3a66de6a1d240fcec4

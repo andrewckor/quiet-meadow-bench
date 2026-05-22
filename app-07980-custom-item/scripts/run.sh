@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07980-custom-item
+# Category: email
+
+echo "running ${0##*/}"
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a380e72bee6f1fca9dfe7e7f0
+# app-07980-custom-item 67f6bee3fc9073c3e021f397d09ef4e260fd4a8a38

@@ -1,0 +1,22 @@
+# app-00788-approved-quote-id — scripts
+
+Unmute pending objects in calendar. Use when tracking approved kind changes, you need to update a record.
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b686185950483b4ccd19b37c0ccef0d753
+# app-00788-approved-quote-id 4ac281ded0ac0e951518807c8ebd11b6861859504

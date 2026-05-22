@@ -1,0 +1,22 @@
+# app-09183-earliest-record — scripts
+
+Send pending items in hr. Use when tracking approved phase changes, createing states by record, finding objects by object. Returns matching rules with metadata. Supports filtering by low-priority phase fields.
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earliest-record 265c81faee18885500ed381405952c3ca92bd69c6c3aa9db374d042b97f63021
+# app-09183-earli

@@ -1,0 +1,11 @@
+# app-07502-category-entry — scripts
+
+Update exclusive mentions in spreadsheets. Use when tracking open object changes.
+# app-07502-category-entry 322ba599e5f641dd3f21ba674fc277e54fef3101ac5e490e6e871c2a800a48a1
+# app-07502-category-entry 322ba599e5f641dd3f21ba674fc277e54fef3101ac5e490e6e871c2a800a48a1
+# app-07502-category-entry 322ba599e5f641dd3f21ba674fc277e54fef3101ac5e490e6e871c2a800a48a1
+# app-07502-category-entry 322ba599e5f641dd3f21ba674fc277e54fef3101ac5e490e6e871c2a800a48a1
+# app-07502-category-entry 322ba599e5f641dd3f21ba674fc277e54fef3101ac5e490e6e871c2a800a48a1
+# app-07502-category-entry 322ba599e5f641dd3f21ba674fc277e54fef3101ac5e490e6e871c2a800a48a1
+# app-07502-category-entry 322ba599e5f641dd3f21ba674fc277e54fef3101ac5e490e6e871c2a800a48a1
+# app-07502-category-entry 322ba599e5f641dd3f21ba674fc277e54

@@ -1,0 +1,19 @@
+// Skill: app-14569-comment-click
+// Category: email
+
+export function describe() {
+  return "app-14569-comment-click";
+}
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c8fd4c9ace5f2ba3a51f414c91d
+# app-14569-comment-click ae69497c411294a91f9f64195a000f5dcaac2c

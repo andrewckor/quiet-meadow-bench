@@ -1,0 +1,19 @@
+// Skill: app-00247-item
+// Category: ecommerce
+
+export function describe() {
+  return "app-00247-item";
+}
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb4eef2b902c41a917dbc6269
+# app-00247-item 1a5f44c71544534ff870cc1fcf8ad17c0cdae5dbb

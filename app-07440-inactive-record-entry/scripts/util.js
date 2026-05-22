@@ -1,0 +1,23 @@
+// Skill: app-07440-inactive-record-entry
+// Category: devtools
+
+export function describe() {
+  return "app-07440-inactive-record-entry";
+}
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inactive-record-entry e48a18a480ede79ef00ea1afe7bc246f6e138538d979f08c0760f2bfd5837ded
+# app-07440-inac

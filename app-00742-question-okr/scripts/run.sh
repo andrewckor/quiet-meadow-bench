@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00742-question-okr
+# Category: email
+
+echo "running ${0##*/}"
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# app-00742-question-okr a09a6971aecdf080d51b66d8cae8652977a1b1f2f1e1b0258dfc4e7be7e7fc7b
+# 

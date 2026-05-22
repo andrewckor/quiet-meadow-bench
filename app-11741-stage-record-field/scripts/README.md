@@ -1,0 +1,42 @@
+# app-11741-stage-record-field — scripts
+
+Match active categorys in crm. Use when createing summarys by value.
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81cd4802f7ecc1f1459eeda3949aca68e3a2d73f0fdf98d1e2f040d3145cf
+# app-11741-stage-record-field 0fa81c

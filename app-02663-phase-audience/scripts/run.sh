@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02663-phase-audience
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93c9cce3babca3d47c9accef94375773d22b325af6935a4db5d0
+# app-02663-phase-audience bbd0650b392b93

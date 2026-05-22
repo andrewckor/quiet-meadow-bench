@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08939-response-credential-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939-response-credential-record 56d294b6003a26a5112e67c882b12caefbf9fb517491ebca296c589b151599c9
+# app-08939

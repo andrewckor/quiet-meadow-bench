@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03026-filter-object
+# Category: backup
+
+echo "running ${0##*/}"
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-filter-object 369b09ddddd5c17c8a17470ecd742a60ff074e072b0f0f387afc5aa0fdac1e97
+# app-03026-fi

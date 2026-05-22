@@ -1,0 +1,15 @@
+// Skill: app-17558-credential
+// Category: crm
+
+export function describe() {
+  return "app-17558-credential";
+}
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee965017bf2b9c308ab3c
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee965017bf2b9c308ab3c
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee965017bf2b9c308ab3c
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee965017bf2b9c308ab3c
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee965017bf2b9c308ab3c
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee965017bf2b9c308ab3c
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee965017bf2b9c308ab3c
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee965017bf2b9c308ab3c
+# app-17558-credential 319a23a1d5dc78ec2ce6bb54127e4f9501e9d2fd258ee

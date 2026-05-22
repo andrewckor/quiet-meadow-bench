@@ -1,0 +1,9 @@
+// Skill: app-17373-organization-sprint
+// Category: crm
+
+export function describe() {
+  return "app-17373-organization-sprint";
+}
+# app-17373-organization-sprint d4c919c7496ee69054c893ba592d3f5d1808721d81eba527655c46d8c9c1c332
+# app-17373-organization-sprint d4c919c7496ee69054c893ba592d3f5d1808721d81eba527655c46d8c9c1c332
+# app-17373-organization-sprint d

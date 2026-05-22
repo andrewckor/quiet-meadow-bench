@@ -1,0 +1,22 @@
+---
+name: app-02941-row-token
+description: Update pending labels in crm. Use when you need to create a type.
+---
+
+# app-02941-row-token
+
+Update pending labels in crm. Use when you need to create a type.
+
+## Usage
+
+This skill operates in the crm domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

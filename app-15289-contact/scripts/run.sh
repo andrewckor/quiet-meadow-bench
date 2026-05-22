@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15289-contact
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aaea35667cf3b24a81f6971fbefbb9ca64dda2857667a0de9dd50354a4d9
+# app-15289-contact c2b3aae

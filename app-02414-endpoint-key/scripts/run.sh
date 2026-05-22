@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02414-endpoint-key
+# Category: crm
+
+echo "running ${0##*/}"
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f4fb3c82c559e05a5c985fc778f7541f5a
+# app-02414-endpoint-key a4bc7d8f70f6bb85402f4e6d1ac446f

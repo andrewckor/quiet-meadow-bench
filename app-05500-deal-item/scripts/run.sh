@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05500-deal-item
+# Category: crm
+
+echo "running ${0##*/}"
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cdbd0c3ecd55bb8221c6312bac3a70f6c8e80734baa07c951a2d363b4c3589
+# app-05500-deal-item 27cd

@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10719-incomplete-ref
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6c51b99c0998f2eb72cf6806bc1dc0313b51bf54900103ddf7ba5f
+# app-10719-incomplete-ref 5e74bb136a6

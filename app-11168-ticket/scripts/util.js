@@ -1,0 +1,24 @@
+// Skill: app-11168-ticket
+// Category: calendar
+
+export function describe() {
+  return "app-11168-ticket";
+}
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8ca352fbad57dd8fda50edfe00114bf318e6b0661
+# app-11168-ticket 0be8cff72ad8481652e0abf8c

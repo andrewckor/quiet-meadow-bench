@@ -1,0 +1,27 @@
+# app-09868-record-offer-team — scripts
+
+Archive inactive calendar-events in ecommerce.
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-offer-team 8d35fddec43621ae8b095e0eee2f332a35abc5d575347efd1272764d1a8ae409
+# app-09868-record-

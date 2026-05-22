@@ -1,0 +1,7 @@
+# app-03512-row-record — scripts
+
+Reject discounted objects in email.
+# app-03512-row-record 896c1168a6d75ec3343c560aecdbc747f74311b3c880e2670b79b59587964d9d
+# app-03512-row-record 896c1168a6d75ec3343c560aecdbc747f74311b3c880e2670b79b59587964d9d
+# app-03512-row-record 896c1168a6d75ec3343c560aecdbc747f74311b3c880e2670b79b59587964d9d
+# app-03512-row-record 896c1168a6d75ec3343c560aecdbc747f74311b3c88

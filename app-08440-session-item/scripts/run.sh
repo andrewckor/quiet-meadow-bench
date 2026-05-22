@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08440-session-item
+# Category: chat
+
+echo "running ${0##*/}"
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891da0c262158629326c8c6bcad7c73ffafad5b7ef1cdc56c3db
+# app-08440-session-item 0fbb1a354876891

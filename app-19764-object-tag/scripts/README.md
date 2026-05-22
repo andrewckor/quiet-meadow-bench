@@ -1,0 +1,12 @@
+# app-19764-object-tag — scripts
+
+Publish archived states in payments.
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a1949701efecac6429db76529695f2a948
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a1949701efecac6429db76529695f2a948
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a1949701efecac6429db76529695f2a948
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a1949701efecac6429db76529695f2a948
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a1949701efecac6429db76529695f2a948
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a1949701efecac6429db76529695f2a948
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a1949701efecac6429db76529695f2a948
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a1949701efecac6429db76529695f2a948
+# app-19764-object-tag 0edeee56fcfee1274af6fccc8fbfa8a194970

@@ -1,0 +1,17 @@
+// Skill: app-13559-rejected-organization
+// Category: spreadsheets
+
+export function describe() {
+  return "app-13559-rejected-organization";
+}
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# app-13559-rejected-organization 91ecfc05e18af0738e454bb6911ed6f1bb4f4d30b8213fa2d799a716abe75b52
+# ap

@@ -1,0 +1,12 @@
+// Skill: app-05772-open-account
+// Category: crm
+
+export function describe() {
+  return "app-05772-open-account";
+}
+# app-05772-open-account a28bce96d7784ac2a2639a2f48ce44996e55aa33d69a18516fe8f6713a5334ff
+# app-05772-open-account a28bce96d7784ac2a2639a2f48ce44996e55aa33d69a18516fe8f6713a5334ff
+# app-05772-open-account a28bce96d7784ac2a2639a2f48ce44996e55aa33d69a18516fe8f6713a5334ff
+# app-05772-open-account a28bce96d7784ac2a2639a2f48ce44996e55aa33d69a18516fe8f6713a5334ff
+# app-05772-open-account a28bce96d7784ac2a2639a2f48ce44996e55aa33d69a18516fe8f6713a5334ff
+# app-05772-open-account a28bce96d7784ac2a2639a2f48

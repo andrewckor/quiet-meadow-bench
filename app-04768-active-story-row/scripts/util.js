@@ -1,0 +1,43 @@
+// Skill: app-04768-active-story-row
+// Category: crm
+
+export function describe() {
+  return "app-04768-active-story-row";
+}
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac14abd9391cc48788fc5cf45760cbea0072677521aa4fce20
+# app-04768-active-story-row eff791f1fc6accac

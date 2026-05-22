@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07860-tracking-summary
+# Category: forms
+
+echo "running ${0##*/}"
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-summary 2b06554b195bdef56e7fdc7c8621fdc5a271b824a89ed64a1f46acfb7bf8efd8
+# app-07860-tracking-su

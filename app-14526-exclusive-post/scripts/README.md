@@ -1,0 +1,31 @@
+# app-14526-exclusive-post — scripts
+
+Update full incidents in ticketing. Use when sending rows by order, managing completed records, tracking invalid feature-flag changes. Returns matching snapshots with metadata. Supports filtering by active epic fields.
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae2a4679fb3194b6aadb2cf73016b9aff593bc6
+# app-14526-exclusive-post 19d29c30bf200aedf6b8fa1c4ae

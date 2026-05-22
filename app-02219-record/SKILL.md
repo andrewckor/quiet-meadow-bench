@@ -1,0 +1,22 @@
+---
+name: app-02219-record
+description: Get pending keys in ticketing. Use when reporting signatures by payment.
+---
+
+# app-02219-record
+
+Get pending keys in ticketing. Use when reporting signatures by payment.
+
+## Usage
+
+This skill operates in the ticketing domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

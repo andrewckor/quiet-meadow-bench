@@ -1,0 +1,32 @@
+// Skill: app-11513-campaign-thread
+// Category: email
+
+export function describe() {
+  return "app-11513-campaign-thread";
+}
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 4908f63fc97df4c5a4ee104d87c0581ab55cf72e0bb848d3046c9307aff823bb
+# app-11513-campaign-thread 49

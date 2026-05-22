@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12378-bookmark-label-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12378-bookmark-label-record 32b16ed4eba6ab3015830752a9c0058f44a314d2e5c1e53e2216f03baeb65e4e
+# app-12378-bookmark-label-record 32b16ed4eba6ab3015830752a9c0058f44a314d2e5c1e53e2216f03baeb65e4e
+# app-12378-bookmark-label-record 32b16ed4eba

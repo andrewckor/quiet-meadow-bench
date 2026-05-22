@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13325-shared-issue-id
+# Category: email
+
+echo "running ${0##*/}"
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325-shared-issue-id f715695616e920169c44d2c0109e7aa0e7a9ce2a572267387f9f4b6af72d7a0b
+# app-13325

@@ -1,0 +1,25 @@
+// Skill: app-06866-type
+// Category: billing
+
+export function describe() {
+  return "app-06866-type";
+}
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a56749e64de26ef09d2d6a805aa7f20cf2783fc60dbafc62fcfadab15fc496d
+# app-06866-type 8a

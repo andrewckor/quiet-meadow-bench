@@ -1,0 +1,10 @@
+// Skill: app-03994-active-response
+// Category: video-conferencing
+
+export function describe() {
+  return "app-03994-active-response";
+}
+# app-03994-active-response 399cf3eaee5735ce9b7bbe7c24abcca1f9402cfb751e5ca59c399e9200541327
+# app-03994-active-response 399cf3eaee5735ce9b7bbe7c24abcca1f9402cfb751e5ca59c399e9200541327
+# app-03994-active-response 399cf3eaee5735ce9b7bbe7c24abcca1f9402cfb751e5ca59c399e9200541327
+# app-03994-active-response 399cf3eaee573

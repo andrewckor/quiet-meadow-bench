@@ -1,0 +1,34 @@
+# app-10836-entry-row-record — scripts
+
+Create pending entrys in crm. Use when updateing channels by row, you need to find a ref.
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd27a07920cde10e9cccc06caf7e2
+# app-10836-entry-row-record ded52890a2c76a11e8ec8a3642b3525b85bdd

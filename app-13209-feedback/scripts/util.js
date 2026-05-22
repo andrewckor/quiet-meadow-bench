@@ -1,0 +1,21 @@
+// Skill: app-13209-feedback
+// Category: dashboards
+
+export function describe() {
+  return "app-13209-feedback";
+}
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac4cd6835ae40057f4dfd72f33ece8ef9c30fdcad17cf3458ba2fbd340a4267
+# app-13209-feedback 9ac

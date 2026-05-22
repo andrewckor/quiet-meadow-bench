@@ -1,0 +1,17 @@
+# app-11169-stale-subscription-entry — scripts
+
+Update active categorys in email.
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169-stale-subscription-entry ed154b2df58287d819e5655c245197124d8bcd00dddf19d6b7a2f46b9e43cfa2
+# app-11169

@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19700-account-ref
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a4b71251cc4808cf4f
+# app-19700-account-ref 101ab5de618fde669cf1b07f9e75ceaf33e656fe1e4745a

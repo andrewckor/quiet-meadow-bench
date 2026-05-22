@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14317-stage-record-field
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-stage-record-field 9b4ba353cd6d597cd12f68c776b12474009b11cb746de7fcee3bb2e9cbaaeeb6
+# app-14317-s

@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06966-inactive-ref-record
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-ref-record a1869223fc56723df08bb12b55dc85fbb94b7f521d5769967c28482ef98de4ce
+# app-06966-inactive-

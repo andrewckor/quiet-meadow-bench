@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16502-entry-expense
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7ba1e2ba1dbc099c53a117a6f6f7d7f157dbb38c4ec8b8fef5
+# app-16502-entry-expense 9f99353c04a49f7

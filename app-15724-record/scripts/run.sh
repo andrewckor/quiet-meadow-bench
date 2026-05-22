@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15724-record
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-15724-record 30d6c676b781ba0d91cd0529ee55857c416e87b2499574d7f984346b83d685d2
+# app-15724-record 30d6c676b781ba0d91cd0529ee55857c416e87b2499574d7f984346b83d685d2
+# app-15724-record 30d6c676b781ba0d91cd0529ee55857c416e87b2499574d7f984346b83d685d2
+# app-15724-record 30d6c676b781ba0d91cd0529ee55857c416e87b2499574d7f984346

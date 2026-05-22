@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01439-inactive-row-key
+# Category: logistics
+
+echo "running ${0##*/}"
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef1

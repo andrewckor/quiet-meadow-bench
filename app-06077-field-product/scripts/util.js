@@ -1,0 +1,21 @@
+// Skill: app-06077-field-product
+// Category: video-conferencing
+
+export function describe() {
+  return "app-06077-field-product";
+}
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c7743c9853caac65d84b25bad862f3d2176b8209f7e
+# app-06077-field-product 476019bd6ccb541ff6fc8c774

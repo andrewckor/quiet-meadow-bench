@@ -1,0 +1,15 @@
+# app-10376-row — scripts
+
+Get draft ids in crm. Use when you need to rollback a company, importing retrospectives by record.
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0b0f1b9f7dfde6deec882e00406bd27ad3faefbb984d7d
+# app-10376-row 2e4793d9c15845eafa0

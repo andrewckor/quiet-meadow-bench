@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13253-deal-contact
+# Category: chat
+
+echo "running ${0##*/}"
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678af1
+# app-13253-deal-contact 1d7950e956946b98448d5e72f356fcebef9b7b68be2461feef8af6aba9678a

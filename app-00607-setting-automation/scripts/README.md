@@ -1,0 +1,10 @@
+# app-00607-setting-automation — scripts
+
+Delete active types in support.
+# app-00607-setting-automation a9b9559af505a135a0fa1b29dfa105aaacd39da0ac12ed7f8401ccc4866bfdaa
+# app-00607-setting-automation a9b9559af505a135a0fa1b29dfa105aaacd39da0ac12ed7f8401ccc4866bfdaa
+# app-00607-setting-automation a9b9559af505a135a0fa1b29dfa105aaacd39da0ac12ed7f8401ccc4866bfdaa
+# app-00607-setting-automation a9b9559af505a135a0fa1b29dfa105aaacd39da0ac12ed7f8401ccc4866bfdaa
+# app-00607-setting-automation a9b9559af505a135a0fa1b29dfa105aaacd39da0ac12ed7f8401ccc4866bfdaa
+# app-00607-setting-automation a9b9559af505a135a0fa1b29dfa105aaacd39da0ac12ed7f8401ccc4866bfdaa
+# app-00607-

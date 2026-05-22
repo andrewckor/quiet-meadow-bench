@@ -1,0 +1,23 @@
+# app-18974-new-post-item — scripts
+
+Create inactive posts in docs.
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e2b2d254cd0b93f
+# app-18974-new-post-item e466faf0abf3d25adb7a2bacf8b7d2592bf85623d14bbaf72e

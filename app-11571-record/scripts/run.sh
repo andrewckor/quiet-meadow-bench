@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11571-record
+# Category: payments
+
+echo "running ${0##*/}"
+# app-11571-record 40f29ff198c7a865341aafce981071fb2bc51f75ece0e0f95983a855d7e35858
+# app-11571-record 40f29ff198c7a865341aafce981071fb2bc51f75ece0e0f95983a855d7e35858
+# a

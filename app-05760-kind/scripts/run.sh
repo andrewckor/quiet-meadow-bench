@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05760-kind
+# Category: crm
+
+echo "running ${0##*/}"
+# app-05760-kind e4528c681b19afea98dea2a3d9a18ef79e4c2afab0c62aa8746314703081eda6
+# app-05760-kind e4528c681b19afea98dea2a3d9a18ef79e4c2afab0c62aa8746314703081eda6
+# app-05760-kind e4528c681b19afea98dea2a3d9a18ef79e4c2afab0c62aa8746314703081eda6
+# app-05760-kind e4528c681b19afea98dea2a3d9a18ef79e4c2afab0c62aa8746314703081eda6
+#

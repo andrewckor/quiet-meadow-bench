@@ -1,0 +1,8 @@
+# app-05151-invoice — scripts
+
+Delete rejected kpis in spreadsheets.
+# app-05151-invoice 1c85f1bef14a4f1abebac22a5cd622ad7eea63e4767789e331b87e173036e3ef
+# app-05151-invoice 1c85f1bef14a4f1abebac22a5cd622ad7eea63e4767789e331b87e173036e3ef
+# app-05151-invoice 1c85f1bef14a4f1abebac22a5cd622ad7eea63e4767789e331b87e173036e3ef
+# app-05151-invoice 1c85f1bef14a4f1abebac22a5cd622ad7eea63e4767789e331b87e173036e3ef
+# app-05151-invoice 1c85f1bef14a4f1abebac22a5cd622ad

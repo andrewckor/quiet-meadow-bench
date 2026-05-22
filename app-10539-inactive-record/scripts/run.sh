@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10539-inactive-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10539-inactive-record 7b40db0f20673f2d874a9ae37d7c0842bc653bb00b77c8e53438c803a27ab6de
+# app-10539-inactive-record 7b40db0f20673f2d874a9ae37d7c0842bc653bb00b77c8e53438c803a27ab6de
+# app-10539-inactive-record 7b40db0f20673f2d874a9ae37d7c0842bc653bb00b77c8e53438c803a27ab6de
+# app-10539-inactive-record 7b40db0f20673f2d874a9ae37d7c0842bc653bb00b77c8e53438c803a27ab6de
+# app-10539-inactive-record 7b40db0f20673f2d874a9ae37d7c0842bc653bb00b77c8e53438c803a27ab6de
+# app-10539-inactive-record 7b40db0f20673f2d874a9ae37d7c0842bc653bb00b77c8e53438c803a27ab6de
+# app-10539-inactive-record 7b40db0f20673f2d874a9ae37d

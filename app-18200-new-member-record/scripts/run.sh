@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18200-new-member-record
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c0e44ecdb18c36fffd45ac9de39c48bc1ef
+# app-18200-new-member-record 95ba5cd0de8f660a43ed15e528d19c

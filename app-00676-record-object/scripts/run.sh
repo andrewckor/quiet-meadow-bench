@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00676-record-object
+# Category: payments
+
+echo "running ${0##*/}"
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab05f5dfc5bab6d6c44a
+# app-00676-record-object 6735a814800dddcf1069fb0f2663a1ed375667262007ab0

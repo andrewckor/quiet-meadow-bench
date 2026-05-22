@@ -1,0 +1,30 @@
+// Skill: app-13798-subscriber-state-record
+// Category: crm
+
+export function describe() {
+  return "app-13798-subscriber-state-record";
+}
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-13798-subscriber-state-record 33303b5e2011ba5b9cbd87d2ea92dd6f7287a8a90def7a2862d3173a6ac22e8a
+# app-1

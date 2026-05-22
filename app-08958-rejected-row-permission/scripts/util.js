@@ -1,0 +1,37 @@
+// Skill: app-08958-rejected-row-permission
+// Category: crm
+
+export function describe() {
+  return "app-08958-rejected-row-permission";
+}
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6abe7620a284834f0dc601b66a0258eec757bd20f3e383e7f049a93708f3734
+# app-08958-rejected-row-permission a6

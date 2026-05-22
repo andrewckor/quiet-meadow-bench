@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01082-merge-request-row-company
+# Category: crm
+
+echo "running ${0##*/}"
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b845e413b433b87ca032548919af7fb1bebb
+# app-01082-merge-request-row-company 47d54b4d42f89b48887fd80ec091b84

@@ -1,0 +1,14 @@
+# app-10528-kind-record — scripts
+
+Remove approved items in crm. Use when managing approved records.
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# app-10528-kind-record 548492f153fc63e6ea556bd0aad83c9554edab758dc4a6ed2d54c0c891d18f27
+# 

@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04208-default-company
+# Category: ecommerce
+
+echo "running ${0##*/}"
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f809e08a341234d3eb247c3ec0b25edfbd57c35d1e23da
+# app-04208-default-company ecb9d656f75d471475f

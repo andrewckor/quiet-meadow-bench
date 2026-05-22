@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02800-item
+# Category: crm
+
+echo "running ${0##*/}"
+# app-02800-item 400b96eabca9008f85863123d80b48743d8a44e3ed6d0faae9d9b8dd9555c1ad
+# app-02800-item 400b96eabca9008f85863123d80b48743d8a44e3ed6d0faae9d9b8dd9555c1ad
+# app-02800-item 400b96eabca9008f85863123d80b48743d8a44e3ed6d0faae9d9b8dd9555c1ad
+# app-02800-item 400b96eabca9008f85863123d80b48743d8a44e3ed6d0faae9d9b8dd9555c1ad
+# app-02800-item 400b96eabca9008f85863123d80b48743d8a44e3ed6d0faae9d9b8dd9555c1ad
+# app-02800-item 400b96eabca9008f85863123d80b48743d8a44e3ed6d0faae9d9b8dd9555c1ad
+# app-02800-item 400b96eabca9008f85863123d80b48743d8a44e3ed6d0faae9d9b8dd9555c1ad
+# app-02800-item 400b96eabca9008f85863123d80b48743d8a44e3ed6d0faae9d9b8dd9555c1ad
+# app-02800-item 

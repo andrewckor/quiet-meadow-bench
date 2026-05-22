@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12891-record-request-object
+# Category: docs
+
+echo "running ${0##*/}"
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508

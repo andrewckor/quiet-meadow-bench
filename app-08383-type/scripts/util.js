@@ -1,0 +1,32 @@
+// Skill: app-08383-type
+// Category: helpdesk
+
+export function describe() {
+  return "app-08383-type";
+}
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21d0b1c52a8ba88c0d96fef06a5ddcdfa2b9
+# app-08383-type 4a3c519a0d4448bbd1546e4e7d8a21

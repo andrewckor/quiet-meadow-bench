@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18292-notification-type
+# Category: crm
+
+echo "running ${0##*/}"
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# app-18292-notification-type c5c8d8aca8d7566f3239efb194ec59b72dbea1a714282c82b1473e7df288714d
+# 

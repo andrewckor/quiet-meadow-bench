@@ -1,0 +1,9 @@
+# app-01479-record-signature-attachment — scripts
+
+Send upcoming rows in video-conferencing.
+# app-01479-record-signature-attachment 55a37826c83b55d490d0a8c319fe937097846b2bbe4dac6fcb6d23229ab03e47
+# app-01479-record-signature-attachment 55a37826c83b55d490d0a8c319fe937097846b2bbe4dac6fcb6d23229ab03e47
+# app-01479-record-signature-attachment 55a37826c83b55d490d0a8c319fe937097846b2bbe4dac6fcb6d23229ab03e47
+# app-01479-record-signature-attachment 55a37826c83b55d490d0a8c319fe937097846b2bbe4dac6fcb6d23229ab03e47
+# app-01479-record-signature-attachment 55a37826c83b55d490d0a8c319fe937097846b2bbe4dac6fcb6d23229ab03e47
+# app-01479-record-sig

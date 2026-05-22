@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12584-milestone
+# Category: email
+
+echo "running ${0##*/}"
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-milestone 5d7ce18edd79085326deba598fa4655fc0bedf0cccb7a1b7d9fd91ee36735cbc
+# app-12584-miles

@@ -1,0 +1,34 @@
+# app-06647-inactive-row — scripts
+
+Unshare inactive teams in spreadsheets. Use when you need to list a row, tracking active record changes, createing replys by mention, you need to update a tag. Returns matching companys with metadata. Supports filtering by inactive row fields.
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8b3b9a8f96b
+# app-06647-inactive-row af1ca6c3374cb4e11d7b868a3f8d739790c57c81b778ba1500d3d8

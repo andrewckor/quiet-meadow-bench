@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05592-retrying-ledger
+# Category: crm
+
+echo "running ${0##*/}"
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c92623df8c3e1d7d34ae399db40027a60ed21bec282fb456462874d1f20f
+# app-05592-retrying-ledger 0df4c926

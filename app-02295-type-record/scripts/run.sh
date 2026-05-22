@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02295-type-record
+# Category: hr
+
+echo "running ${0##*/}"
+# app-02295-type-record e199038eedd69313ed57994b9b182154b87131f35f4680fe7285997f01c1883e
+# app-02295-type-record e199038eedd69313ed57994b9b182154b87131f35f4680fe7285997f01c1883e

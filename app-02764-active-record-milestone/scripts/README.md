@@ -1,0 +1,20 @@
+# app-02764-active-record-milestone — scripts
+
+Archive incomplete vacations in spreadsheets. Use when managing approved tasks.
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5fd9
+# app-02764-active-record-milestone 829709350d54dd9299a30e3dd0c76bc9dc1d1abf9a05ac87c37f4a1062ff5

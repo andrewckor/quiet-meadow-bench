@@ -1,0 +1,18 @@
+# app-15396-stopped-record-member — scripts
+
+Add rejected categorys in calendar.
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e3707877fefc1a
+# app-15396-stopped-record-member 40238c05df2916cd378b67f5b9fe4237e8dd954f52fe2e52c4e370

@@ -1,0 +1,18 @@
+// Skill: app-10011-avatar
+// Category: email
+
+export function describe() {
+  return "app-10011-avatar";
+}
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf1e8f4d0baaa8efbc8a89ef
+# app-10011-avatar 5a744b9eff76cd2dbb26d18d840b69c2eee14b5cbf

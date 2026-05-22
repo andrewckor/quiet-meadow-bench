@@ -1,0 +1,24 @@
+// Skill: app-13835-stale-team
+// Category: docs
+
+export function describe() {
+  return "app-13835-stale-team";
+}
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe55
+# app-13835-stale-team bb96576590c20bd14b0767ae3a5bb8de6d93443caffee4c6d04119d9f70ebe

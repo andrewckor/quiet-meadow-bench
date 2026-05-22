@@ -1,0 +1,16 @@
+// Skill: app-13039-entry-object
+// Category: email
+
+export function describe() {
+  return "app-13039-entry-object";
+}
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039-entry-object 86ab6f2e603459f46aab0a9a0415f6bdb31cf5f1b0d646e09bb31c73fecbe11c
+# app-13039

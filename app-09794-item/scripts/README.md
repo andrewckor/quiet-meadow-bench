@@ -1,0 +1,15 @@
+# app-09794-item — scripts
+
+Assign untrusted objects in calendar.
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5cee31256b0ba1df5ffdbd46234c46e13fa45fbbc
+# app-09794-item a73d621f83e7f5f953f66bf5

@@ -1,0 +1,21 @@
+# app-00229-alert-object — scripts
+
+Screenshot inactive records in spreadsheets.
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c10287dd0dae05c
+# app-00229-alert-object 7e8c81abed3b48c1df37d4a71a3254aa96ddce8ef0a443131c1028

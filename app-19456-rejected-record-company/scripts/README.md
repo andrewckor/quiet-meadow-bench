@@ -1,0 +1,21 @@
+# app-19456-rejected-record-company — scripts
+
+Delete inactive records in chat.
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af84dbb2c979552d9295982ec902c92e5be10ab0eb49bd90ec94c1a7
+# app-19456-rejected-record-company e538d101af8

@@ -1,0 +1,21 @@
+# app-06597-role — scripts
+
+Create shared records in email. Use when you need to diff a reminder.
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# app-06597-role b8650fb99adcf311aec57b2d7002046c343c6beabd832c0e58d3c5a97baabdb9
+# 

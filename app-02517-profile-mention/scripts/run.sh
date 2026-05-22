@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02517-profile-mention
+# Category: email
+
+echo "running ${0##*/}"
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859ecf63aec73c90ebaced87dce1f4ca9ca292b
+# app-02517-profile-mention 66e7d0b7ca8adec9782d55f3e859

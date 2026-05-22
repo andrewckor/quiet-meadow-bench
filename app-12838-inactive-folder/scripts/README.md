@@ -1,0 +1,20 @@
+# app-12838-inactive-folder — scripts
+
+List inactive records in chat.
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cadd3b58e5b82cfddbfecb2afaeb5c70fb5db507a72336db954a
+# app-12838-inactive-folder ac4112b10d52cad

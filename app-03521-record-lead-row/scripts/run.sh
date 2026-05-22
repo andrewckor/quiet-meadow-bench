@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03521-record-lead-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-03521-record-lead-row 39485980cf8ec803f1109d6ac41969a96dc88f69b2fb3471a1744afb51a92776
+# app-03521-record-lead-row 39485980cf8ec803f1109d6ac41969a96dc88f69b2fb3471a1744afb51a92776
+# app-03521-record-lead-row 39485980cf8ec803f1109d6ac41969a96dc88f69b2fb3471a1744afb51a92776
+# app-03521-record-lead-row 39485980cf8ec803f1109d6ac41969a96dc88f69b2fb3471a1744afb51a92776
+# app-03521-record-lead-row 39485980cf8ec803f1109d6ac41969a96dc88f69b2fb3471a1744afb51a92776
+# app-03521-record-lead-row 39485980cf8ec803f1109d6ac41969a96dc8

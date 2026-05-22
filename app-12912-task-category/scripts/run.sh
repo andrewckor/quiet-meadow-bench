@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12912-task-category
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada75579da85c239da8907a6777571
+# app-12912-task-category 1b5de74e5833bb523c5b2e38ba18b0ebffada

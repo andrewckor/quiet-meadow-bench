@@ -1,0 +1,26 @@
+// Skill: app-03508-inactive-permission-record
+// Category: crm
+
+export function describe() {
+  return "app-03508-inactive-permission-record";
+}
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac716f6ba851016c735d6eed16e5998de8a71a571df18c072889d4
+# app-03508-inactive-permission-record 31eb2b34ddac7

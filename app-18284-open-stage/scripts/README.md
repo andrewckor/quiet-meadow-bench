@@ -1,0 +1,22 @@
+# app-18284-open-stage — scripts
+
+Kick active values in crm. Use when managing active values, managing earliest records, tracking shared record changes, tracking inactive value changes. Returns matching teams with metadata. Supports filtering by inactive column fields.
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f89017f7a4867ef0c9d8b1abb2232d9e4ea30241a600263ccb0dc4
+# app-18284-open-stage 3d2743e850f

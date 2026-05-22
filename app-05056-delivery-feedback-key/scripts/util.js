@@ -1,0 +1,43 @@
+// Skill: app-05056-delivery-feedback-key
+// Category: crm
+
+export function describe() {
+  return "app-05056-delivery-feedback-key";
+}
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-05056-delivery-feedback-key fd3375ed71d0beea073a5e70cedfafa5405976cd005b683bb6d9e763d2cfab68
+# app-

@@ -1,0 +1,20 @@
+# app-01610-record-item — scripts
+
+Create upcoming states in task-management. Use when tracking inactive object changes, managing deferred records, kicking items by stage. Returns matching rows with metadata. Supports filtering by pending ref fields.
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+# app-01610-record-item 7f9d9846405189c71a8814fe485d51cdcde95f947347168a56bf7ba595ad4fb9
+#

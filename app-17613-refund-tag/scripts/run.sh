@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17613-refund-tag
+# Category: crm
+
+echo "running ${0##*/}"
+# app-17613-refund-tag 9bd8e3a634da0ed2ab0b58247c224fe9de4f5065a043eb63a6f23b07ef5d5aa1
+# app-17613-refund-tag 9bd8e3a634da0ed2ab0b58247c224fe9de4f5065a043eb63a6f23b07ef5d5aa1
+# app-17613-refund-tag 9bd8e3a634da0ed2ab0b58247c224fe9de4f5065a043eb63a6f23b07ef5d5aa1
+# app-17613-refund-tag 9bd8e3a634da0ed2ab0b58247c224fe9de4f5065a043eb63a6f23b07ef5d5aa1
+# app-17613-refund-tag 9bd8e3a634da0ed2ab0b58247c224fe9de4f5065a043eb63a6f23b07ef5d5aa1
+# app-17613-refund-tag 9bd8e3a634da0ed2ab0b58247c224fe9de4f5065a043eb63a6f23b07ef5d5aa1
+# app-17613-refund-tag 9bd8e3a634da0ed2ab0b58247c224fe9de4f5065a043eb63a6f23b07ef5d5aa1
+# app-17613-refund-tag 9bd8e3a634da0ed2ab0b58247c224fe9de

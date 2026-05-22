@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02584-rejected-value
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b4

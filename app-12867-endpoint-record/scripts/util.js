@@ -1,0 +1,23 @@
+// Skill: app-12867-endpoint-record
+// Category: crm
+
+export function describe() {
+  return "app-12867-endpoint-record";
+}
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913
+# app-12867-endpoint-record 989c46a2e910d40fcf6328ab85075ecc21d258d0ead7229e8f4734d7aeb5a913

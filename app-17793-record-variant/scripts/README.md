@@ -1,0 +1,16 @@
+# app-17793-record-variant — scripts
+
+Create completed charts in docs. Use when approveing leads by deal, createing records by sprint, tracking verified response changes. Returns matching rows with metadata. Supports filtering by scheduled label fields.
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350a7
+# app-17793-record-variant 6b338b538684b3d2f4a415aa7f68e136ad3cc986d31f2cbd73b78f0a72c350

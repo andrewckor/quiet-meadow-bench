@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13184-published-item-bug
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-13184-published-item-bug ec561b0c919d3be4f8a69f010bc0d6d389f6b258f1cfa9b7afd3b1c39f171684
+# app-131

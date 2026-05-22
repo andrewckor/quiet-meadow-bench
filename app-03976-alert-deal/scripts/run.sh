@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03976-alert-deal
+# Category: crm
+
+echo "running ${0##*/}"
+# app-03976-alert-deal 208c868e79755455d38efd48138b8f291707cf29bb9b68bd21fa5ca4b94829e2
+# app-03976-alert-deal 208c868e79755455d38efd48138b8f291707cf29bb9b68bd21fa5ca4b94829e2
+# app-03976-alert-deal 208c868e79755455d38efd48138b8f291707cf29bb9b68bd21fa5ca4b94829e2
+# app-03976-alert-deal 208c868e79755455d38efd48138b8f291707cf29bb9b68bd21fa5ca4b94829e2
+# app-03976-alert-deal 208c868e79755455d38efd48138b8f291707cf29bb9b68bd21fa5ca4b94829e2
+# app-03976-alert-deal 208c868e79755455d38efd48138b8f291707cf29bb9b68bd21fa5ca4b94829e2

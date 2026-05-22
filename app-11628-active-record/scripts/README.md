@@ -1,0 +1,16 @@
+# app-11628-active-record — scripts
+
+Create active agreements in crm.
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active-record e9e8ffaa5413a0af2de9eb949a9ef3cd01398e538a0ed7a37b259303c22ca387
+# app-11628-active

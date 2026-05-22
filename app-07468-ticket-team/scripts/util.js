@@ -1,0 +1,28 @@
+// Skill: app-07468-ticket-team
+// Category: email
+
+export function describe() {
+  return "app-07468-ticket-team";
+}
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8d1aba718599
+# app-07468-ticket-team 4873cd4ce46a6b3433062ba5cf838fa1b8e0fdf61177f9cac8af8

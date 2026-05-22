@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02771-merge-request-label
+# Category: docs
+
+echo "running ${0##*/}"
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173cff3e64d59ad788b9950d1667e2b03226b32d8c88b48
+# app-02771-merge-request-label 3cb7a4282e715d33d173

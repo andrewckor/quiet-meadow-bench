@@ -1,0 +1,24 @@
+// Skill: app-13727-workflow-category
+// Category: email
+
+export function describe() {
+  return "app-13727-workflow-category";
+}
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-category 029006b313cba87e69fc75c5f8c041c06c467a57c8d7ac492568e28bc4ccf170
+# app-13727-workflow-

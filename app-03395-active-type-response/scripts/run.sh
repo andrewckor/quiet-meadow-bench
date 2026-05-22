@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03395-active-type-response
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-03395-active-type-response aa192830574331f600e1d93304fb13a4abe20f9a72559d4ce47f231ceacfe797
+# app-

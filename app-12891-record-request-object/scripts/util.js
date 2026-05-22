@@ -1,0 +1,26 @@
+// Skill: app-12891-record-request-object
+// Category: docs
+
+export function describe() {
+  return "app-12891-record-request-object";
+}
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8d3fc7767
+# app-12891-record-request-object ab293af77afd72afb30283995b63377ff671e31508f49c25be3102f8

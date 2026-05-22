@@ -1,0 +1,31 @@
+// Skill: app-06871-inactive-row
+// Category: ecommerce
+
+export function describe() {
+  return "app-06871-inactive-row";
+}
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inactive-row 6bc5fdb39ce8ca0bf800b4a8c9f6d6bce4e18efc8670acbe99c39aef0e28550b
+# app-06871-inact

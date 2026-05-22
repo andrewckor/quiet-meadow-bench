@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12058-record-comment
+# Category: email
+
+echo "running ${0##*/}"
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3e5540dcbf3c5d68a51f4274d7acf8a1ed72b33fdd48d45159a9ecf8d5f4264a
+# app-12058-record-comment 3

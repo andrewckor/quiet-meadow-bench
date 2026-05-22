@@ -1,0 +1,10 @@
+// Skill: app-15549-channel-record-category
+// Category: marketing
+
+export function describe() {
+  return "app-15549-channel-record-category";
+}
+# app-15549-channel-record-category ed584a5ce20d4f8e28589af6c0112eee388ba5d5431833efa893705c738697c9
+# app-15549-channel-record-category ed584a5ce20d4f8e28589af6c0112eee388ba5d5431833efa893705c738697c9
+# app-15549-channel-record-category ed584a5ce20d4f8e28589af6c0112eee388ba5d5431833efa893705c738697c9
+# app-15549-channel-record

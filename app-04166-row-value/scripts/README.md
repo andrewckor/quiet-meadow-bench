@@ -1,0 +1,16 @@
+# app-04166-row-value — scripts
+
+Reject stopped merge-requests in analytics.
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-value 502fea42a70449705eacee61f993fdf50cd2bd41e4edc40a9429eb73ea78a6e9
+# app-04166-row-

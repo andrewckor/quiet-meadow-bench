@@ -1,0 +1,21 @@
+// Skill: app-14761-entry-category
+// Category: project-management
+
+export function describe() {
+  return "app-14761-entry-category";
+}
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-entry-category fa30c38931c3c5e3632bfdedf4b0b52a035253d25ab7801e67a68b544e3aa7e2
+# app-14761-e

@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12870-valid-account
+# Category: docs
+
+echo "running ${0##*/}"
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# app-12870-valid-account dd721ff93edecbccf51a059bd61e090fc0cb08f44355b72094a371929f0e4546
+# 

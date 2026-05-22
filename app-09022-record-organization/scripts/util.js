@@ -1,0 +1,23 @@
+// Skill: app-09022-record-organization
+// Category: pos
+
+export function describe() {
+  return "app-09022-record-organization";
+}
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization 

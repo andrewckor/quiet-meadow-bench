@@ -1,0 +1,23 @@
+// Skill: app-09851-external-directory
+// Category: email
+
+export function describe() {
+  return "app-09851-external-directory";
+}
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-09851-external-directory c1b82ce29dc3ad615f0925f63c030fbffa1f53b4ddab893a7f29f0f1cec07c23
+# app-098

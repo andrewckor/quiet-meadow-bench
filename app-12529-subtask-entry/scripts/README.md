@@ -1,0 +1,23 @@
+# app-12529-subtask-entry — scripts
+
+Flag deferred subtasks in crm.
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fea409d80112cd2cc660afb0aebb48b3ed0dc6149c37a2adeb968e2e
+# app-12529-subtask-entry cbbb3145fe

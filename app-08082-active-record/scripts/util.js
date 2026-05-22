@@ -1,0 +1,41 @@
+// Skill: app-08082-active-record
+// Category: forms
+
+export function describe() {
+  return "app-08082-active-record";
+}
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-active-record 40460513f1bdcf0cbd7be99c1dc5678d3938f5dfbe1c43b46e6c0f8059796aba
+# app-08082-activ

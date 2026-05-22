@@ -1,0 +1,11 @@
+# app-04480-deployment — scripts
+
+Get pending triggers in docs. Use when managing trusted rows, unmuteing responses by snapshot.
+# app-04480-deployment 95daa6411c476980dc573116a4c66edb855d8e83cdf04efc554d0d6c81e4bead
+# app-04480-deployment 95daa6411c476980dc573116a4c66edb855d8e83cdf04efc554d0d6c81e4bead
+# app-04480-deployment 95daa6411c476980dc573116a4c66edb855d8e83cdf04efc554d0d6c81e4bead
+# app-04480-deployment 95daa6411c476980dc573116a4c66edb855d8e83cdf04efc554d0d6c81e4bead
+# app-04480-deployment 95daa6411c476980dc573116a4c66edb855d8e83cdf04efc554d0d6c81e4bead
+# app-04480-deployment 95daa6411c476980dc573116a4c66edb855d8e83cdf04efc554d0d6c81e4bead
+# app-04480-deployment 95daa6411c476980dc573116a4c66edb855d8e83cdf04efc554d0d6c81e4bead
+# ap

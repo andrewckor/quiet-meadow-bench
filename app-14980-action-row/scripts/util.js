@@ -1,0 +1,15 @@
+// Skill: app-14980-action-row
+// Category: email
+
+export function describe() {
+  return "app-14980-action-row";
+}
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be04fa24ef9b2e9eb0aed7f601b24249e827
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be04fa24ef9b2e9eb0aed7f601b24249e827
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be04fa24ef9b2e9eb0aed7f601b24249e827
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be04fa24ef9b2e9eb0aed7f601b24249e827
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be04fa24ef9b2e9eb0aed7f601b24249e827
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be04fa24ef9b2e9eb0aed7f601b24249e827
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be04fa24ef9b2e9eb0aed7f601b24249e827
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be04fa24ef9b2e9eb0aed7f601b24249e827
+# app-14980-action-row 19b4b338a9822d89450016efb6d5be0

@@ -1,0 +1,21 @@
+# app-07451-object-session — scripts
+
+Delete verified leads in subscriptions. Use when sending rows by row.
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502cc2f3bf60c55e6f29f699ac5ff4ce890cda79857a33ef65
+# app-07451-object-session a748b86e1a4f7b502c

@@ -1,0 +1,21 @@
+// Skill: app-10330-empty-invoice
+// Category: crm
+
+export function describe() {
+  return "app-10330-empty-invoice";
+}
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-invoice b605129f0e325a7e5a2a96ec4e763cc230664ec9b338ca4d339ae95b3bcbda94
+# app-10330-empty-in

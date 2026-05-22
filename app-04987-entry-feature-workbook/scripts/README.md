@@ -1,0 +1,14 @@
+# app-04987-entry-feature-workbook — scripts
+
+Cancel rejected kinds in ticketing. Use when managing active records, managing fresh sprints.
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67faad086b
+# app-04987-entry-feature-workbook 6efd8a7d70d2c5981cc33f4c873cadaa206ab05ba2a3476480d4ee67

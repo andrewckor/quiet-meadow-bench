@@ -1,0 +1,23 @@
+// Skill: app-16942-open-type
+// Category: crm
+
+export function describe() {
+  return "app-16942-open-type";
+}
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78cbfeacf6fead81f1926ed18c47f6901137eda68b5a77b26f5f5c636d8fb
+# app-16942-open-type 92c78c

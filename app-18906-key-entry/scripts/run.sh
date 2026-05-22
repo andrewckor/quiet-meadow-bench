@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18906-key-entry
+# Category: crm
+
+echo "running ${0##*/}"
+# app-18906-key-entry fc8707b880fe68268069f1fef7a50d054d389d256c62eb6bc9dc00b7269d30be
+# app-18906-key-entry fc8707b880fe68268069f1fef7a50d054d389d256c62eb6bc9dc00b7269d30be
+# app-18906-key-entry fc8707b880fe68268069f1fef7a50d054d389d256c62eb6bc9dc00b7269d30be
+# app-18906-key-entry fc8707b880fe68268069f1fef7a50d054d389d256c62eb6bc9dc00b7269d30be
+# app-18906-key-entry fc8707b880fe68268069f1fef7a50d054d389d256c62eb6bc9dc00b7269d30be
+# app-18906-key-entry fc8707b880fe68268069f1fef7a50d054d389d256c62eb6bc9dc00b7269d30be
+# app-18906-key-entry fc8707b880fe68268069f1fef7a50d054d389d256c62eb6bc9dc00b7269d30be
+# app-18906-key-entry fc8707b880fe68268069f1fef7a50d054d389d256c62eb6bc9dc00b7269d3

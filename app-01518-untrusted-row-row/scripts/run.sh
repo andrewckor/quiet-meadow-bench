@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01518-untrusted-row-row
+# Category: email
+
+echo "running ${0##*/}"
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79b46ebed9fddb571cd6247ee0e8ccc4dc5c0c5
+# app-01518-untrusted-row-row ac8bb9995549e203a384343cc79

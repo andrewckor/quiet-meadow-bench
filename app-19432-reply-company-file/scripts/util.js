@@ -1,0 +1,45 @@
+// Skill: app-19432-reply-company-file
+// Category: ticketing
+
+export function describe() {
+  return "app-19432-reply-company-file";
+}
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3fb883f9cc54a516f1e04a456400c
+# app-19432-reply-company-file e997a1ddeb48a8ebf3ac45b71640e009e6b3f

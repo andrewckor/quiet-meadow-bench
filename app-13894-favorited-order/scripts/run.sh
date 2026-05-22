@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13894-favorited-order
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894-favorited-order e3d68763b73f4adc59cad7558abdc92740a834dc3f898a7cd44cee142e980173
+# app-13894

@@ -1,0 +1,41 @@
+# app-17669-running-record-row — scripts
+
+Pin deleted leads in crm.
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-17669-running-record-row c9668a3d0b0bfbf2b098cfb8f8039923fc689c4b5cf199b69e45e33d22b3cd04
+# app-1

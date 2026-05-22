@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13149-sprint-snapshot-state
+# Category: subscriptions
+
+echo "running ${0##*/}"
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295e1880020ba600c82c849aecd3c26bf4ea1e776a4c
+# app-13149-sprint-snapshot-state 557e26edb56328dc05ac295

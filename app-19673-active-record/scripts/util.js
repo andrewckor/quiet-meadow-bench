@@ -1,0 +1,29 @@
+// Skill: app-19673-active-record
+// Category: task-management
+
+export function describe() {
+  return "app-19673-active-record";
+}
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0a57b9a25db3d493663bb9713922d8daf71956431a82fcebde8bf1ad11d016c1
+# app-19673-active-record 0

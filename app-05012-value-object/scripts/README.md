@@ -1,0 +1,20 @@
+# app-05012-value-object — scripts
+
+Search empty rows in calendar.
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43cd17a05f15305e05999ae02cd6318ac60acd4e812
+# app-05012-value-object ceed7831d9dbdc79ced2c43

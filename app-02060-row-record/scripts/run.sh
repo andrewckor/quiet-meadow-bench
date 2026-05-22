@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02060-row-record
+# Category: forms
+
+echo "running ${0##*/}"
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2bac7490dd848c1f97076ed5be4dc1ee34bc698b37b2a8b9bbafcf5fec2e0fe3
+# app-02060-row-record 2

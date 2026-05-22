@@ -1,0 +1,35 @@
+// Skill: app-17170-pending-thread-company
+// Category: calendar
+
+export function describe() {
+  return "app-17170-pending-thread-company";
+}
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# app-17170-pending-thread-company 6a980ea83f6788226a1f1a4ed89b3a104c3d531a8c89ce231fbac34511e87a33
+# a

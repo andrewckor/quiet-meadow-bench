@@ -1,0 +1,11 @@
+# app-15391-bookmark-object — scripts
+
+Send approved teams in calendar.
+# app-15391-bookmark-object 9fd50b6941d3719d2bfacab606dd38f50dd132114f5cda0b20726e7818d90b81
+# app-15391-bookmark-object 9fd50b6941d3719d2bfacab606dd38f50dd132114f5cda0b20726e7818d90b81
+# app-15391-bookmark-object 9fd50b6941d3719d2bfacab606dd38f50dd132114f5cda0b20726e7818d90b81
+# app-15391-bookmark-object 9fd50b6941d3719d2bfacab606dd38f50dd132114f5cda0b20726e7818d90b81
+# app-15391-bookmark-object 9fd50b6941d3719d2bfacab606dd38f50dd132114f5cda0b20726e7818d90b81
+# app-15391-bookmark-object 9fd50b6941d3719d2bfacab606dd38f50dd132114f5cda0b20726e7818d90b81
+# app-15391-bookmark-object 9fd50b6941d3719d2bfacab606dd38f50dd132114f5cda0b20726e7818d90b81
+# app-15391-bookmark-object 9fd50b6941d3719d2bfacab606dd38f50dd132114f5cda0b2072

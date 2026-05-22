@@ -1,0 +1,11 @@
+# app-15901-tag-row — scripts
+
+Rename active stages in chat.
+# app-15901-tag-row f42e12813cd03fdb5b730ebb9393a3c88a9d3814cd20c0c7cbb29d6b04114dfb
+# app-15901-tag-row f42e12813cd03fdb5b730ebb9393a3c88a9d3814cd20c0c7cbb29d6b04114dfb
+# app-15901-tag-row f42e12813cd03fdb5b730ebb9393a3c88a9d3814cd20c0c7cbb29d6b04114dfb
+# app-15901-tag-row f42e12813cd03fdb5b730ebb9393a3c88a9d3814cd20c0c7cbb29d6b04114dfb
+# app-15901-tag-row f42e12813cd03fdb5b730ebb9393a3c88a9d3814cd20c0c7cbb29d6b04114dfb
+# app-15901-tag-row f42e12813cd03fdb5b730ebb9393a3c88a9d3814cd20c0c7cbb29d6b04114dfb
+# app-15901-tag-row f42e12813cd03fdb5b730ebb9393a3c88a9d3814cd20c0c7cbb29d6b04114dfb
+# app-15901-tag-row f42e12813cd03fdb5b730ebb9393a3c88a9d38

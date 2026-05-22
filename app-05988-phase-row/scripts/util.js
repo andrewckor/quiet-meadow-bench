@@ -1,0 +1,9 @@
+// Skill: app-05988-phase-row
+// Category: crm
+
+export function describe() {
+  return "app-05988-phase-row";
+}
+# app-05988-phase-row cbf6472891c5abd61ea86bb393ad9bfd5f620faa384c1aa8dfc29cfd332233e8
+# app-05988-phase-row cbf6472891c5abd61ea86bb393ad9bfd5f620faa384c1aa8dfc29cfd332233e8
+# app-05988-phase-row cbf6472891c5abd61ea86bb393ad9bfd5f620faa384c1aa8dfc29c

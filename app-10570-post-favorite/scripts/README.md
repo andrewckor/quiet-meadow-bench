@@ -1,0 +1,15 @@
+# app-10570-post-favorite — scripts
+
+Create exclusive groups in helpdesk.
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23743a75f3c40560024abdcc86fa1f940734c17caef4
+# app-10570-post-favorite 41ab1a928551ecbff90d23

@@ -1,0 +1,39 @@
+# app-07966-record-team — scripts
+
+Update external polls in crm. Use when managing inactive entrys, searching campaigns by entry, createing categorys by ledger, exporting tags by record. Returns matching items with metadata. Supports filtering by archived row fields.
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec46f4080ecf99df3cd13ae70
+# app-07966-record-team be02e6fe9d9e32d1815393864f1dee4716d3d1eec

@@ -1,0 +1,35 @@
+# app-03303-internal-file-object — scripts
+
+Render public sprints in crm. Use when geting features by id, managing inactive rows.
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-03303-internal-file-object 870fa6484b25e78efae0e75b06ab30d5dc76c4feed04e9e519bffb21e9de35c5
+# app-

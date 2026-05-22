@@ -1,0 +1,17 @@
+// Skill: app-01716-deleted-object
+// Category: chat
+
+export function describe() {
+  return "app-01716-deleted-object";
+}
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e

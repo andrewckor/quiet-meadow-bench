@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02702-rejected-record
+# Category: task-management
+
+echo "running ${0##*/}"
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570ebcf9f3aaf0bd15d76d6261eeb9b82d1ef730c5
+# app-02702-rejected-record c17e19e13f6332f653263b570e

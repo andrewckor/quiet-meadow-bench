@@ -1,0 +1,20 @@
+# app-14678-post-record — scripts
+
+Redo rejected records in crm. Use when updateing phases by calendar-event, pining phases by object, you need to create a thread, managing old entrys. Returns matching posts with metadata. Supports filtering by unverified record fields.
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83af7c8f32a3bc7a76837af
+# app-14678-post-record 2d48d57d0a66fa4b702d721492468d4f1728abb4a83a

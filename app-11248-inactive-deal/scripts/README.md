@@ -1,0 +1,19 @@
+# app-11248-inactive-deal — scripts
+
+Delete earliest states in feature-flags.
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-inactive-deal d440741d84adafa36f236dbb8e92a5deeb7f46297879d0eb1b7f1eea259cf2f5
+# app-11248-

@@ -1,0 +1,17 @@
+// Skill: app-05714-rejected-field
+// Category: crm
+
+export function describe() {
+  return "app-05714-rejected-field";
+}
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da78a355eaf7e1ed3c8db00
+# app-05714-rejected-field 81aa5e6e1f89c644e29fe0b810daa9fb2ee8be280da

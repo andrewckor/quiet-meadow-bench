@@ -1,0 +1,15 @@
+// Skill: app-10943-new-label-account
+// Category: hr
+
+export function describe() {
+  return "app-10943-new-label-account";
+}
+# app-10943-new-label-account 727fda578b8d0776d6f8fb2cb2f809cd26544d660344dd0d8aad5729933298c2
+# app-10943-new-label-account 727fda578b8d0776d6f8fb2cb2f809cd26544d660344dd0d8aad5729933298c2
+# app-10943-new-label-account 727fda578b8d0776d6f8fb2cb2f809cd26544d660344dd0d8aad5729933298c2
+# app-10943-new-label-account 727fda578b8d0776d6f8fb2cb2f809cd26544d660344dd0d8aad5729933298c2
+# app-10943-new-label-account 727fda578b8d0776d6f8fb2cb2f809cd26544d660344dd0d8aad5729933298c2
+# app-10943-new-label-account 727fda578b8d0776d6f8fb2cb2f809cd26544d660344dd0d8aad5729933298c2
+# app-10943-new-label-account 727fda578b8d0776d6f8fb2cb2f809cd26544d660344dd0d8aad5729933298c2
+# app-10943-new-label-account 727fda578b8d0776d6f8fb2cb2f809cd26544d660344dd0d8aad5729933298c2
+# a

@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00467-upcoming-ref
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00467-upcoming-ref 9f58493117e3ae24f2b9e1ad113ca96d1fe6ea6c5fe8282fd44c27fd355575e5
+# app-00467-upcoming-ref 9f58493117e3ae24f2b9e1ad113ca96d1fe6ea6c5fe8282fd44c27fd355575e5
+# app-00467-upcoming-ref 9f58493117e3ae24f2b9e1ad113ca96d1fe6ea6c5fe8282fd44c27fd355575e5
+# app-00467-upcoming-ref 9f58493117e3ae24f2b9e1ad113ca96d1fe6ea6c5fe8282fd44c27fd355575e5
+# app-00467-upcoming-ref 9f58493117e3ae24f2b9e1ad113ca96d1fe6ea6c5fe8282fd44c27fd355575e5
+# app-00467-upcoming-ref 9f58493117e3ae24f2b9e1ad11

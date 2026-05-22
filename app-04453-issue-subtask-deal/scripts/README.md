@@ -1,0 +1,42 @@
+# app-04453-issue-subtask-deal — scripts
+
+Cancel rejected records in spreadsheets. Use when managing queued funnels, managing fresh entrys.
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal a81ec5edc4bf97300f96527b84fd3aecd2ae8d672a86716a659d6046d9b30c1d
+# app-04453-issue-subtask-deal

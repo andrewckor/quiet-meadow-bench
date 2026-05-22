@@ -1,0 +1,13 @@
+// Skill: app-02853-private-object
+// Category: forms
+
+export function describe() {
+  return "app-02853-private-object";
+}
+# app-02853-private-object e58867518d09c7237f10a4874178e69e1d549a46c3f0645e9c916ddb4e1fd444
+# app-02853-private-object e58867518d09c7237f10a4874178e69e1d549a46c3f0645e9c916ddb4e1fd444
+# app-02853-private-object e58867518d09c7237f10a4874178e69e1d549a46c3f0645e9c916ddb4e1fd444
+# app-02853-private-object e58867518d09c7237f10a4874178e69e1d549a46c3f0645e9c916ddb4e1fd444
+# app-02853-private-object e58867518d09c7237f10a4874178e69e1d549a46c3f0645e9c916ddb4e1fd444
+# app-02853-private-object e58867518d09c7237f10a4874178e69e1d549a46c3f0645e9c916ddb4e1fd444
+# app-02

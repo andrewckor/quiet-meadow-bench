@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02714-policy-organization-answer
+# Category: social-media
+
+echo "running ${0##*/}"
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# app-02714-policy-organization-answer 975c0e05d7355ede11882a68d791575dba71d1032630919ed3d33656a374816e
+# ap

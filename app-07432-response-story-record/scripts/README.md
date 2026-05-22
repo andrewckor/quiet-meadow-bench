@@ -1,0 +1,24 @@
+# app-07432-response-story-record — scripts
+
+Remove retrying rows in ads.
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app-07432-response-story-record 12d38fec8a9c149f858b0cce9abe89fb1b9e6c371bd97a4b390ba848befe0347
+# app

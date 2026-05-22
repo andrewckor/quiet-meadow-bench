@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18646-record
+# Category: chat
+
+echo "running ${0##*/}"
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945acccac1e39602ff86943f7f7c099ea83669ffe44afab07ec91d6e
+# app-18646-record ce103c8d945accc

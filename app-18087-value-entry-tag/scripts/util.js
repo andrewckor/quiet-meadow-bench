@@ -1,0 +1,20 @@
+// Skill: app-18087-value-entry-tag
+// Category: helpdesk
+
+export function describe() {
+  return "app-18087-value-entry-tag";
+}
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app-18087-value-entry-tag 71736102171d565c8f2f0c8d03fd788a72fbcb52fdf5c6ae43d50c11316713ca
+# app

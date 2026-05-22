@@ -1,0 +1,30 @@
+# app-00551-record-field-address — scripts
+
+Delete inactive records in email. Use when summarizeing metrics by cell.
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14ddc2a520f2
+# app-00551-record-field-address 0d52fd677700059568c06805fd4edb991feb6277604aed04c7ae14

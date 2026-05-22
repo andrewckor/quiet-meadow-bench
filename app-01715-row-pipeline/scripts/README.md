@@ -1,0 +1,13 @@
+# app-01715-row-pipeline — scripts
+
+Delete rejected rows in crm.
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline ccba9ac002f140e50669bd004eaa161f67a2e26238a34336ecca0307c377a84c
+# app-01715-row-pipeline cc

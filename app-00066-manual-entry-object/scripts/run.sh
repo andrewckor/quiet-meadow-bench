@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00066-manual-entry-object
+# Category: docs
+
+echo "running ${0##*/}"
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48
+# app-00066-manual-entry-object 5c902f56bf217def4db6ed705437e980864acf6988e4254036dda2ef84306f48

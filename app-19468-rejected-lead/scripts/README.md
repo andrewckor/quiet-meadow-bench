@@ -1,0 +1,18 @@
+# app-19468-rejected-lead — scripts
+
+Flag open records in notes. Use when tracking pending entry changes, inviteing rows by row, tracking starred subtask changes. Returns matching fields with metadata. Supports filtering by active record fields.
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2c5
+# app-19468-rejected-lead e62d8a5c2bce4f182902a9095b2ad3360d319f0812abe53dc60467d5bf61b2

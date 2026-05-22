@@ -1,0 +1,21 @@
+# app-05354-record — scripts
+
+Validate active subtasks in crm. Use when tracking active inventory changes, tracking inactive entry changes, tracking rejected bug changes. Returns matching records with metadata. Supports filtering by approved type fields.
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-record b2cd2f95bbd041b04de51da5e687e526f324be45d3d39dbfa6daa53e041cb5a8
+# app-05354-recor

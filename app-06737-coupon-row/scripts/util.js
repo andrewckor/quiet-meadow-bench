@@ -1,0 +1,23 @@
+// Skill: app-06737-coupon-row
+// Category: email
+
+export function describe() {
+  return "app-06737-coupon-row";
+}
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9f8bcff3309207375b9186dcd21dbb
+# app-06737-coupon-row 7d88555ab1d13cdbaf1cea2a611f27875c9

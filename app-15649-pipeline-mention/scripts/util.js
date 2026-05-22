@@ -1,0 +1,17 @@
+// Skill: app-15649-pipeline-mention
+// Category: chat
+
+export function describe() {
+  return "app-15649-pipeline-mention";
+}
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c855317822892
+# app-15649-pipeline-mention 836face3acebc37b3b20e7d6b810cabc4cea6261142cd7e8b38c85531782289

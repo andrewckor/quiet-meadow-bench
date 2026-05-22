@@ -1,0 +1,12 @@
+// Skill: app-04043-primary-record
+// Category: helpdesk
+
+export function describe() {
+  return "app-04043-primary-record";
+}
+# app-04043-primary-record 9b078bfd13569c4ae48d15afef5924002b1c85b98dd5b341f1e6146719c9553d
+# app-04043-primary-record 9b078bfd13569c4ae48d15afef5924002b1c85b98dd5b341f1e6146719c9553d
+# app-04043-primary-record 9b078bfd13569c4ae48d15afef5924002b1c85b98dd5b341f1e6146719c9553d
+# app-04043-primary-record 9b078bfd13569c4ae48d15afef5924002b1c85b98dd5b341f1e6146719c9553d
+# app-04043-primary-record 9b078bfd13569c4ae48d15afef5924002b1c85b98dd5b341f1e6146719c9553d
+# app-04043-primary-record 9b078bfd13569c4ae48d15afef5924002b1c85b98dd5b34

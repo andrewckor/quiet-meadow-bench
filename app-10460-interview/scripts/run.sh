@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10460-interview
+# Category: storage
+
+echo "running ${0##*/}"
+# app-10460-interview 019dd8d5fc5187bec285cc883bd368c2f4623c345fb689392427d8c554d7f6ea
+# app-10460-interview 019dd8d5fc5187bec285cc883bd368c2f4623c345fb689392427d8c554d7f6ea
+# app-10460-interview 019dd8d5fc5187bec285cc883bd368c2f4623c345fb689392427d8c554d7f6ea
+# app-10460-interview 019dd8d5fc5187bec285cc883bd368c2f4623c345fb689392427d8c554d7f6ea
+# app-10460-interview 019dd8d5fc5187bec285cc883bd368c2f4623c345fb689392427d8c554d7f6ea
+# app-10460-interview 019dd8d5fc5187bec285cc883bd368c2f4623c345fb689392427d8c554d7f6ea
+# app-10460-interview 019dd8d5fc5187bec285cc883bd368c2f4623c345fb689392427d8c554d7f6ea
+# app-10460-interview 019dd8d5fc5187bec285cc883bd368c2f4623c345fb689392427d8c554d7f6ea
+# app-10460-interview 019dd8d5fc5187bec285cc8

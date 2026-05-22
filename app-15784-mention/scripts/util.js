@@ -1,0 +1,15 @@
+// Skill: app-15784-mention
+// Category: chat
+
+export function describe() {
+  return "app-15784-mention";
+}
+# app-15784-mention e76e6f93b32d2743a0f7560bbb3d9805d2edff577b078d8ab76417a24c3f1da0
+# app-15784-mention e76e6f93b32d2743a0f7560bbb3d9805d2edff577b078d8ab76417a24c3f1da0
+# app-15784-mention e76e6f93b32d2743a0f7560bbb3d9805d2edff577b078d8ab76417a24c3f1da0
+# app-15784-mention e76e6f93b32d2743a0f7560bbb3d9805d2edff577b078d8ab76417a24c3f1da0
+# app-15784-mention e76e6f93b32d2743a0f7560bbb3d9805d2edff577b078d8ab76417a24c3f1da0
+# app-15784-mention e76e6f93b32d2743a0f7560bbb3d9805d2edff577b078d8ab76417a24c3f1da0
+# app-15784-mention e76e6f93b32d2743a0f7560bbb3d9805d2edff577b078d8ab76417a24c3f1da0
+# app-15784-mention e76e6f93b32d2743a0f7560bbb3d9805d2edff577b078d8ab76417a24c3f1da0
+# app-15784-mention e76e

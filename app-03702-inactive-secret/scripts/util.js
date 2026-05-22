@@ -1,0 +1,16 @@
+// Skill: app-03702-inactive-secret
+// Category: helpdesk
+
+export function describe() {
+  return "app-03702-inactive-secret";
+}
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60855001117ebc6
+# app-03702-inactive-secret 5cbc963f317686be93eb9404814e2c8d070b1a401a9f64cdb60

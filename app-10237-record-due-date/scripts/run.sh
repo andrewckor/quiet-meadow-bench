@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10237-record-due-date
+# Category: feature-flags
+
+echo "running ${0##*/}"
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-record-due-date 75ebe1c80bdcbaecc8a5d80d68e822bb0503559b5cd2dfdd7abbaf5c64a8e6e4
+# app-10237-reco

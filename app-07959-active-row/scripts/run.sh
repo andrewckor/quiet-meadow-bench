@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07959-active-row
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3085535b4d62de
+# app-07959-active-row a9d310ed204ae5b85fad5f5fa1ab5e60a3987af106df62593b3

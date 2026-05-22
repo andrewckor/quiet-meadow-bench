@@ -1,0 +1,13 @@
+# app-01376-record-session-row — scripts
+
+Fetch open refs in crm. Use when compressing branchs by secret.
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9dd6bc80c5d47782d2f6366b40a055b9b21d
+# app-01376-record-session-row 3073a22e87a1f590e2aef7795ebb9

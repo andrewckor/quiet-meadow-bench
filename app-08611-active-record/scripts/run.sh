@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08611-active-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e2f1ef32861af0d4ea65fa39d592
+# app-08611-active-record 2d66e95917f6f4bac9d72a8d9bc7fdc11372e

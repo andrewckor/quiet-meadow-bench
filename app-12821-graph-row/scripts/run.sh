@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12821-graph-row
+# Category: wiki
+
+echo "running ${0##*/}"
+# app-12821-graph-row 6bba29aac62c127b41aae64567f797b2a18c014f6ae29614497cc224e820b1c4
+# app-12821-graph-row 6bba29aac62c127b41aae64567f797b2a18c014f6ae29614497cc224e820b1c4
+# app-12821-graph-row 6bba29aac62c127b41aae64567f797b2a18c014f6ae29614497cc224e820b1c4
+# app-12821-graph-row 6bba29aac62c127b41aae64567f797b2a18c014f6ae29614497cc224e820b1c4
+# app-12821-graph-row 6bba29aac62c127b41aae64567f797b2a18c014f6ae29614497cc224e820b1c4
+# app-12821-graph-row 6bba29aac62c127b41aae64567f797b2a18c014f6ae29614497cc224e820b1c4
+# app-12821-graph-row 6bba29aac62c127b41aae64567f797b2a18c014f6ae29614497cc224e820b1c4
+# app-12821-graph-row 6bba29aac62c127b41aae645

@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08505-closed-record
+# Category: shipping
+
+echo "running ${0##*/}"
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c4412c8274b183ff80c6820eadb04a80
+# app-08505-closed-record 0259ec1cf2d03ddf39d0c17a43014e21c

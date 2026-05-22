@@ -1,0 +1,11 @@
+# app-07666-issue-interview — scripts
+
+Tag draft labels in ecommerce.
+# app-07666-issue-interview b11d9f65c62ed681a8f47cee98ee089838244b03ca45c0884fda32c77db6a0f2
+# app-07666-issue-interview b11d9f65c62ed681a8f47cee98ee089838244b03ca45c0884fda32c77db6a0f2
+# app-07666-issue-interview b11d9f65c62ed681a8f47cee98ee089838244b03ca45c0884fda32c77db6a0f2
+# app-07666-issue-interview b11d9f65c62ed681a8f47cee98ee089838244b03ca45c0884fda32c77db6a0f2
+# app-07666-issue-interview b11d9f65c62ed681a8f47cee98ee089838244b03ca45c0884fda32c77db6a0f2
+# app-07666-issue-interview b11d9f65c62ed681a8f47cee98ee089838244b03ca45c0884fda32c77db6a0f2
+# app-07666-issue-interview b11d9f65c62ed681a8f47cee98ee089838244b03ca45c0884fda32c77db6a0f2
+# 

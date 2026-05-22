@@ -1,0 +1,45 @@
+// Skill: app-01527-key-entry-directory
+// Category: marketing
+
+export function describe() {
+  return "app-01527-key-entry-directory";
+}
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe53702a5a0fe33f9b5aac5113b91c1d4cda74af0d36
+# app-01527-key-entry-directory 085075bbe72c5c3ac744fe

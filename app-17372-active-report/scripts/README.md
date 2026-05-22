@@ -1,0 +1,11 @@
+# app-17372-active-report — scripts
+
+Unassign approved objects in monitoring.
+# app-17372-active-report 6def141b70525871ef258163ec658d9a5bd0a54d0c6130d30ffdf0dad0340ea8
+# app-17372-active-report 6def141b70525871ef258163ec658d9a5bd0a54d0c6130d30ffdf0dad0340ea8
+# app-17372-active-report 6def141b70525871ef258163ec658d9a5bd0a54d0c6130d30ffdf0dad0340ea8
+# app-17372-active-report 6def141b70525871ef258163ec658d9a5bd0a54d0c6130d30ffdf0dad0340ea8
+# app-17372-active-report 6def141b70525871ef258163ec658d9a5bd0a54d0c6130d30ffdf0dad0340ea8
+# app-17372-active-report 6def141b70525871ef258163ec658d9a5bd0a54d0c6130d30ffdf0dad0340ea8
+# app-17372-active-report 6def141b70525871ef258163ec658d9a5bd0a54d0c6130d30ffdf0dad0340ea8
+# app-17372-active

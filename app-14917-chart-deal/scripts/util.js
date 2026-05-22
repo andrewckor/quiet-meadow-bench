@@ -1,0 +1,17 @@
+// Skill: app-14917-chart-deal
+// Category: spreadsheets
+
+export function describe() {
+  return "app-14917-chart-deal";
+}
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c7964dd9a29d29d7ebd55afde50e
+# app-14917-chart-deal fd9ea861b77ac7521785d9305419b5988cb0c79

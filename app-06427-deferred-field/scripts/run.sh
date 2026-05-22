@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06427-deferred-field
+# Category: hr
+
+echo "running ${0##*/}"
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# app-06427-deferred-field 6f42aaca3b112f8b4e5495e92ef0c435b8d6c6f476d93f563952ec554fc32ffe
+# a

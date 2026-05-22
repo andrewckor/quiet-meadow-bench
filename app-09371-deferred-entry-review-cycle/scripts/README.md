@@ -1,0 +1,41 @@
+# app-09371-deferred-entry-review-cycle — scripts
+
+Rename queued sessions in knowledge-base. Use when geting records by tag.
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2ddc2d51cff5c1c542030c42dbc723f072ebbc
+# app-09371-deferred-entry-review-cycle 4d682e72ba83224f998890871a2

@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05023-inactive-field-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96213fa4d3093863868787dd6e4af59ac778052ca3f40dd469a15
+# app-05023-inactive-field-row 29f6f058d4e96

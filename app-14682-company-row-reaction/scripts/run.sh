@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14682-company-row-reaction
+# Category: docs
+
+echo "running ${0##*/}"
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec63735576cb64b6e221291ab24
+# app-14682-company-row-reaction 4dff8647f47f2cfb00f45b6fff24635cada70ec6373557

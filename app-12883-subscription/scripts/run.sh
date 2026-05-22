@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12883-subscription
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app-12883-subscription bec12ca2ecaaeeb45013e02d1ffcd6c39d28fbe0a74230b1544fed604215e2e9
+# app

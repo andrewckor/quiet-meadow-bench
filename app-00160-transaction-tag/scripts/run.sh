@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00160-transaction-tag
+# Category: docs
+
+echo "running ${0##*/}"
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca95a154cbf5efbb350c55ee9da02adc7bb2aaf0
+# app-00160-transaction-tag bb21e01f8cad6487c6ea4b9dca9

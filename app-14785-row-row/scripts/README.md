@@ -1,0 +1,20 @@
+# app-14785-row-row — scripts
+
+Delete inactive records in crm. Use when managing active labels, you need to find a row.
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf359f5cff0500d8e
+# app-14785-row-row bd0efc9641ca49a1e4b1bbf86b4020acc8abadf38b96ee3bf3

@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13660-object-kind
+# Category: error-tracking
+
+echo "running ${0##*/}"
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f946c52ad1cd88052f7cbf0fd2b26cb9bfa44bb0af740c88e2ff4da74e4
+# app-13660-object-kind 05f39f9

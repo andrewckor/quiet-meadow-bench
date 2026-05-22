@@ -1,0 +1,18 @@
+# app-08196-stale-message-status — scripts
+
+Compare upcoming builds in logistics. Use when managing closed statuss, createing incidents by label, createing signatures by tag, tracking active item changes. Returns matching records with metadata. Supports filtering by closed record fields.
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-stale-message-status db30e8cf7e66591cc36a44cdb9f7f79128f04eeefecdd5b40ab493bfa233bb48
+# app-08196-st

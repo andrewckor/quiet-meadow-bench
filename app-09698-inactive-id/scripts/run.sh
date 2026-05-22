@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09698-inactive-id
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-09698-inactive-id a3cf3ed54020dafe9d5cab674f35ba91812e8a884c7483b708d01dda59d82e6a
+# app-09698-inactive-id a3cf3ed54020dafe9d5cab674f35ba91812e8a884c7483b708d01dda59d82e6a
+# app-09698-inactive-id a3cf3ed54020dafe9d5cab674f35ba91812e8a884c7483b708d01dda59d82e6a
+# app-09698-inactive-id a3cf3ed54020dafe9d5cab674f35ba91812e8a884c7483b708d01dda59d82e6a
+# app-09698-inactive-id a3cf3ed54020dafe9d5cab674f35ba91812e8a884c7483b708d01dda59d82e6a
+# app-09698-inactive-id a3cf3ed54020dafe9d5cab674f35ba91812e8a884c7483b708d01dda59d82e6a
+# app-09698-inactive-id a3cf3ed54020dafe9d5cab674f35ba91812e8a884c7483b708d01dda59d82e6a
+# app-09698-inactive-id a3cf3ed54020dafe9d5cab674f35ba91812e8a884c7

@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09336-active-type
+# Category: identity
+
+echo "running ${0##*/}"
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff073dc5d009a
+# app-09336-active-type 9c501eed5dccb4342bc8de0d096f088fb3b8c7a265d78ef85b6ff07

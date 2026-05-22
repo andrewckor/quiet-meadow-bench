@@ -1,0 +1,28 @@
+// Skill: app-19430-action-subtask
+// Category: time-tracking
+
+export function describe() {
+  return "app-19430-action-subtask";
+}
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75c61cf3e8bf361e01da41b4cdf21c105b22c2
+# app-19430-action-subtask 29e26159f8ab19ffe0976d59ef75

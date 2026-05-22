@@ -1,0 +1,23 @@
+// Skill: app-17364-leave-record
+// Category: ecommerce
+
+export function describe() {
+  return "app-17364-leave-record";
+}
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-17364-leave-record 212ae2e9f4fee3c0b71490c1855d58a8f98e13d13f6e0343b0719dcfa87eca18
+# app-173

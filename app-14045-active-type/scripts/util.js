@@ -1,0 +1,8 @@
+// Skill: app-14045-active-type
+// Category: calendar
+
+export function describe() {
+  return "app-14045-active-type";
+}
+# app-14045-active-type d6a3b3373b8c2c6947a005f9876b90572547478fd3f745788ff320359292fe01
+# app-14045-active-ty

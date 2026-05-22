@@ -1,0 +1,20 @@
+// Skill: app-10024-failed-video
+// Category: dashboards
+
+export function describe() {
+  return "app-10024-failed-video";
+}
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513dc8f70
+# app-10024-failed-video 9899af744edaafc57919502abb6adfbe9b1ec7df117a403ab519a03513d

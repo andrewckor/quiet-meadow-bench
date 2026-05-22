@@ -1,0 +1,24 @@
+// Skill: app-19554-subscriber-record-key
+// Category: ticketing
+
+export function describe() {
+  return "app-19554-subscriber-record-key";
+}
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-record-key 2947f51becb4a2a062802b69cd668b3ecd2062007a21648ac1ad3c458f13c8f0
+# app-19554-subscriber-recor

@@ -1,0 +1,33 @@
+// Skill: app-06038-field-tag-category
+// Category: crm
+
+export function describe() {
+  return "app-06038-field-tag-category";
+}
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag-category e3aec08a2726d6806327e225c1500c3144be9e02eb8b43eb7cef21e7b7dd0622
+# app-06038-field-tag

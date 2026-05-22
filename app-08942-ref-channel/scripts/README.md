@@ -1,0 +1,27 @@
+# app-08942-ref-channel — scripts
+
+Mute draft fields in crm.
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb460544d6a88e0efa19e375d50cd8
+# app-08942-ref-channel ac8fbae5c7f21e6265e40bf314a712e6cccb4

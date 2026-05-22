@@ -1,0 +1,13 @@
+# app-19129-kind-record — scripts
+
+Restore pending responses in crm.
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-kind-record 3c2ed35ae1bd05fce745a4ecebb85f3169ba7efe938c12151f28808e511a9efd
+# app-19129-ki

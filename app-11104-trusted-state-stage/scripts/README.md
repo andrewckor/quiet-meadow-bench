@@ -1,0 +1,32 @@
+# app-11104-trusted-state-stage — scripts
+
+Sync pending secrets in project-management. Use when you need to delete a record, managing published shifts, tracking inactive record changes, tracking one-time row changes. Returns matching logs with metadata. Supports filtering by unsynced record fields.
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted-state-stage b312bece3fd1857d52d07c3cbcba3a581a016850b58e3cb0b53e4ae378c702b6
+# app-11104-trusted

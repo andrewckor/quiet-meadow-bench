@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00572-type-type
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1fe3cf901effcfd534abf5bb1ce864752b19940c6bd
+# app-00572-type-type ed896dea88b9051bfb76c1f

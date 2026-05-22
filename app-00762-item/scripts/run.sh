@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00762-item
+# Category: forms
+
+echo "running ${0##*/}"
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d36f78bb75d697cd2dd71
+# app-00762-item caa0cda8aedbbea37f2bf6ed74c47771097ee421ce9d

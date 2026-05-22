@@ -1,0 +1,21 @@
+# app-08792-record — scripts
+
+Track rejected types in crm.
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-record dd89af3de4a55dfd9443c7229131aba2b743bf6e7f82b3ec10a8676dcaa0c7cb
+# app-08792-

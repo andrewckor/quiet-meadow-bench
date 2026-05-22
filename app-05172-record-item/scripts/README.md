@@ -1,0 +1,24 @@
+# app-05172-record-item — scripts
+
+Fetch active bookmarks in notes.
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-05172-record-item fe36a98a9d66f5ab7c42ec9dbf0fa4808c9dfd0c339a7dd57b10c844e39ac3b8
+# app-0

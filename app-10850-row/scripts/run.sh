@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10850-row
+# Category: support
+
+echo "running ${0##*/}"
+# app-10850-row f6711f5057e8362cc064a13b77eb17c15406ed06d7214f278cb7a3b52308c4df
+# app-10850-row f6711f5057e8362cc064a13b77eb17c15406ed06d7214f278cb7a3b52308c4df
+# app-10850-row f6711f5057e8362cc064a13b77eb17c15406ed06d7214f278cb7a3b52308c4df
+# app-10850-row f6711f5057e8362cc064a13b77eb17c15406ed06d7214f278cb7a3b52308c4df
+# app-10850-r

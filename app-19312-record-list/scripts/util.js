@@ -1,0 +1,32 @@
+// Skill: app-19312-record-list
+// Category: crm
+
+export function describe() {
+  return "app-19312-record-list";
+}
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974ccbbbf2f5ee5ea980fc8a830
+# app-19312-record-list d051f9af752e06ad5c26ba50f09539c5723f9974

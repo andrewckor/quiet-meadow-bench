@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08333-agreement
+# Category: crm
+
+echo "running ${0##*/}"
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006e71fb044e33f81ddd5f8810b3eef0143
+# app-08333-agreement 8759c89c834e8af762d4d4d8e8bdb006

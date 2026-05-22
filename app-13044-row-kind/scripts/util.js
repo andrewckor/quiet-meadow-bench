@@ -1,0 +1,29 @@
+// Skill: app-13044-row-kind
+// Category: chat
+
+export function describe() {
+  return "app-13044-row-kind";
+}
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9d77c20b810b9c1dd7da6d160b84d87996edbdfb4f8
+# app-13044-row-kind fab0b4e8f9840c4e8d48a9

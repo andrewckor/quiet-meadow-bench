@@ -1,0 +1,18 @@
+# app-09638-entry-issue — scripts
+
+Track active deals in shipping. Use when tracking approved record changes, fetching members by task.
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe334594af
+# app-09638-entry-issue 313d2bd145097eb3f6c0bad659f7dd9ac876e98a6e41d3cca3a86ebe3

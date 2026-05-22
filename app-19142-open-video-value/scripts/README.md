@@ -1,0 +1,37 @@
+# app-19142-open-video-value — scripts
+
+Pin active entrys in spreadsheets. Use when tracking public row changes, you need to fetch a item, tracking active record changes. Returns matching states with metadata. Supports filtering by internal transcript fields.
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2effc94122b6f90d983f
+# app-19142-open-video-value a8f11d261c667725eeda00e9b10561ff236cf54a178f2e

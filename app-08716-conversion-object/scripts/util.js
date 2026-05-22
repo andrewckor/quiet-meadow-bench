@@ -1,0 +1,27 @@
+// Skill: app-08716-conversion-object
+// Category: spreadsheets
+
+export function describe() {
+  return "app-08716-conversion-object";
+}
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db9631943dfda4956be76eddde3aa83be5f514358b40e14ecfa77b1
+# app-08716-conversion-object 63f8a5e47db963194

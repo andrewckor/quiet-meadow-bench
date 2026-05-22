@@ -1,0 +1,22 @@
+# app-17065-record-record — scripts
+
+Sync shared rows in knowledge-base. Use when you need to untag a kind, you need to export a epic.
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-record-record 60b3cb14caa48b3b0a0e41a494367a9d37c9ce51e46c14a610ac7b042154bbbf
+# app-17065-rec

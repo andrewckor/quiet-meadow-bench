@@ -1,0 +1,21 @@
+// Skill: app-16992-meeting
+// Category: email
+
+export function describe() {
+  return "app-16992-meeting";
+}
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6be6383b12874b75a8525cf02c33bc52ce06ed24dd9fbf183af
+# app-16992-meeting afcec40f062ce6

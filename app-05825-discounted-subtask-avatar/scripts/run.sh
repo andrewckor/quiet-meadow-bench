@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05825-discounted-subtask-avatar
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discounted-subtask-avatar 5fab0e6696d0067078f26f9325f682da23a9ba19a1e0c4c5f33d591f3e2f1f3b
+# app-05825-discount

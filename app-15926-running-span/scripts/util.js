@@ -1,0 +1,21 @@
+// Skill: app-15926-running-span
+// Category: spreadsheets
+
+export function describe() {
+  return "app-15926-running-span";
+}
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd6447d040885bc7261bc167cf1
+# app-15926-running-span 39b8fc9917be1a82e3d8f219c3a40b1ba21ecfd644

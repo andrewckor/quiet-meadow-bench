@@ -1,0 +1,26 @@
+# app-18529-stale-label — scripts
+
+Calculate inactive releases in identity.
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd7c581df9f6690ea79d4b3b9a92cf8a59051
+# app-18529-stale-label 96133fbc0ea3e348baa1df8212afd

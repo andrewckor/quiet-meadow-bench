@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08917-inactive-shipment
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d94dc0112c47150faa04a3d4a8fb5
+# app-08917-inactive-shipment e80531a1aa865cf491ec750123c61f73d55d

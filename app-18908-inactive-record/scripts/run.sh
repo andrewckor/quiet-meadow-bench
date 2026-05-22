@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18908-inactive-record
+# Category: forms
+
+echo "running ${0##*/}"
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5f60b614f5068b3ba7a58fe2f56099accba98b7b1d666d44422b6543adcd8cd
+# app-18908-inactive-record b5

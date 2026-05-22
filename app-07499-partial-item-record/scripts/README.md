@@ -1,0 +1,24 @@
+# app-07499-partial-item-record — scripts
+
+Calculate archived ids in devtools. Use when fetching variants by label.
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-07499-partial-item-record 0b45a72bf9cd20e1f6ab078ce032602c06cbae5385b349d84b1507ecc7d69e96
+# app-

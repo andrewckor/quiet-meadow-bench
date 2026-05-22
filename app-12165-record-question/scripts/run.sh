@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12165-record-question
+# Category: email
+
+echo "running ${0##*/}"
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-record-question 4fea203cf9445dc2145673ae40f04baa5b6d14c3a6e04ab9955cae5c8718a028
+# app-12165-rec

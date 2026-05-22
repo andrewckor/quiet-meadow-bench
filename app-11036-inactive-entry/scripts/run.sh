@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11036-inactive-entry
+# Category: crm
+
+echo "running ${0##*/}"
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2d82ae5b8f1c8
+# app-11036-inactive-entry 644be2cbfed4f00f97614789427c93de4ec3fca664b8831fd0b2

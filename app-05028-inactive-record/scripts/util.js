@@ -1,0 +1,25 @@
+// Skill: app-05028-inactive-record
+// Category: crm
+
+export function describe() {
+  return "app-05028-inactive-record";
+}
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-0502

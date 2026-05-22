@@ -1,0 +1,15 @@
+// Skill: app-17306-record
+// Category: forms
+
+export function describe() {
+  return "app-17306-record";
+}
+# app-17306-record 870754d7923aeaa55af37bff5868b13cfda2acc476ef8d7d9b217940fa0373a4
+# app-17306-record 870754d7923aeaa55af37bff5868b13cfda2acc476ef8d7d9b217940fa0373a4
+# app-17306-record 870754d7923aeaa55af37bff5868b13cfda2acc476ef8d7d9b217940fa0373a4
+# app-17306-record 870754d7923aeaa55af37bff5868b13cfda2acc476ef8d7d9b217940fa0373a4
+# app-17306-record 870754d7923aeaa55af37bff5868b13cfda2acc476ef8d7d9b217940fa0373a4
+# app-17306-record 870754d7923aeaa55af37bff5868b13cfda2acc476ef8d7d9b217940fa0373a4
+# app-17306-record 870754d7923aeaa55af37bff5868b13cfda2acc476ef8d7d9b217940fa0373a4
+# app-17306-record 870754d7923aeaa55af37bff5868b13cfda2acc476ef8d7d9b217940fa0373a4
+# app-17306-

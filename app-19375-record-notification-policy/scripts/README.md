@@ -1,0 +1,24 @@
+# app-19375-record-notification-policy — scripts
+
+Delete active rows in spreadsheets. Use when tracking rejected role changes, tracking approved row changes, managing active fields. Returns matching companys with metadata. Supports filtering by upcoming record fields.
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e507d5724baca35b7
+# app-19375-record-notification-policy 7f24c52f10b86443606c7a7f33496504ac0c07aae0ea7c9e50

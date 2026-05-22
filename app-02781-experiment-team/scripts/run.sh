@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02781-experiment-team
+# Category: invoicing
+
+echo "running ${0##*/}"
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f

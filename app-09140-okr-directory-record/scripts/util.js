@@ -1,0 +1,40 @@
+// Skill: app-09140-okr-directory-record
+// Category: email
+
+export function describe() {
+  return "app-09140-okr-directory-record";
+}
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e2f499ff56ba5ec830270bae0bb9a3fd8c5e8
+# app-09140-okr-directory-record fa48676d0064fc9f869aa746ca8e

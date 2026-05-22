@@ -1,0 +1,14 @@
+# app-04363-subscriber-shipment — scripts
+
+Sync open licenses in email. Use when monitoring records by record, managing pending objects, tracking pinned campaign changes, createing records by item. Returns matching agreements with metadata. Supports filtering by inactive item fields.
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+# app-04363-subscriber-shipment 78a7635914ac5be00901c8023a8db4611f84a9a49142a0653a36de762b7ff562
+#

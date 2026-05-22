@@ -1,0 +1,27 @@
+// Skill: app-05690-inactive-record
+// Category: calendar
+
+export function describe() {
+  return "app-05690-inactive-record";
+}
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive-record 24c1be78ed68dc14c1ee80ea15a5854f6c0a3293be603bf11af4e0faeddd4687
+# app-05690-inactive

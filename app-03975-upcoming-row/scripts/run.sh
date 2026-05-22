@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03975-upcoming-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23d65b34e197eac6
+# app-03975-upcoming-row 33bff0e78226b2b9ccb705b4c3e88a96a01e79f37aaf3e3e23

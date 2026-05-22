@@ -1,0 +1,9 @@
+// Skill: app-05444-earliest-channel
+// Category: chat
+
+export function describe() {
+  return "app-05444-earliest-channel";
+}
+# app-05444-earliest-channel aec671c6c7fddfff8c0cf1c5dff67c13d9727137d0011f052249fc2c27756c1c
+# app-05444-earliest-channel aec671c6c7fddfff8c0cf1c5dff67c13d9727137d0011f052249fc2c27756c1c
+# app-05444-earliest-chan

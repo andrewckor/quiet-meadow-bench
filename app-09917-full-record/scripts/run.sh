@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09917-full-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631800d1
+# app-09917-full-record bf22aaf5a1b2adf86c2d209e1ea7abbe9182b694cc7eb53a779519db631

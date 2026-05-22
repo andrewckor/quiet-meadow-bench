@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18719-field-trace
+# Category: docs
+
+echo "running ${0##*/}"
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f84107af0248546e0168f564fe326d2e920df6c3fa8e340db2bb2aa4c46eeb
+# app-18719-field-trace 78f8

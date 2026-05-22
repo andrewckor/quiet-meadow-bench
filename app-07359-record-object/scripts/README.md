@@ -1,0 +1,24 @@
+# app-07359-record-object — scripts
+
+Update archived records in crm. Use when managing overdue rows, listing records by record.
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d2c321c91da1dbdb580e2321916e58af
+# app-07359-record-object 5beae47a245ee3e497f8277edd120af8d

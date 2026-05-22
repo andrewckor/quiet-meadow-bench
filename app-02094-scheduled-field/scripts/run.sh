@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02094-scheduled-field
+# Category: email
+
+echo "running ${0##*/}"
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de36698776d8a32a7b83f55fac
+# app-02094-scheduled-field f6d9403ff27ff1cc811768c8e6264cd5f38597de

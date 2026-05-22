@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07528-active-field-leave
+# Category: crm
+
+echo "running ${0##*/}"
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-leave 053daabd6af46b40c087d98491be55ccfeb0e99435ef520ee766fa4a0a0ac426
+# app-07528-active-field-

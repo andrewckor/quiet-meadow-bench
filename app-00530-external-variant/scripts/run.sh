@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00530-external-variant
+# Category: booking
+
+echo "running ${0##*/}"
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f44554e036bcceda0920afd52fb382d739c
+# app-00530-external-variant adf23c5ce18da4ab73ab171dc12f1f4

@@ -1,0 +1,24 @@
+// Skill: app-08127-label-record-notification
+// Category: subscriptions
+
+export function describe() {
+  return "app-08127-label-record-notification";
+}
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c

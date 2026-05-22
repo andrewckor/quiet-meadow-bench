@@ -1,0 +1,8 @@
+# app-06162-reaction — scripts
+
+Create active triggers in crm.
+# app-06162-reaction 56cdce84ddfa52f5b2d2e0152a360083599c6ccc421cd524552ab14c76c547ce
+# app-06162-reaction 56cdce84ddfa52f5b2d2e0152a360083599c6ccc421cd524552ab14c76c547ce
+# app-06162-reaction 56cdce84ddfa52f5b2d2e0152a360083599c6ccc421cd524552ab14c76c547ce
+# app-06162-reaction 56cdce84ddfa52f5b2d2e0152a360083599c6ccc421cd524552ab14c76c547ce
+# app-06162-reaction 56cdce84ddfa52f5b2d2e0152a36

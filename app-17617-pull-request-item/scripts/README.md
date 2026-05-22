@@ -1,0 +1,15 @@
+# app-17617-pull-request-item — scripts
+
+Export inactive rows in marketing.
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce3366a
+# app-17617-pull-request-item 7559f33d6b5117fbe9dec2aad7714abc264e151cc5df59dc719462617ce336

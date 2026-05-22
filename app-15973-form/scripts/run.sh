@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15973-form
+# Category: notes
+
+echo "running ${0##*/}"
+# app-15973-form 89d5141efa151129a9495cb940d78dc29fd7e1e1fd329baf375c9108db13f057
+# app-15973-form 89d5141efa151129a9495cb940d78dc29fd7e1e1fd329baf375c9108db13f057
+# app-15973

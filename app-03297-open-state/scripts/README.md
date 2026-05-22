@@ -1,0 +1,7 @@
+# app-03297-open-state — scripts
+
+Decrypt inactive rows in crm.
+# app-03297-open-state bdb008324eefb31c7b23a6f13c6fb9f8bef29165e15b74dc9fe73369b0e6b559
+# app-03297-open-state bdb008324eefb31c7b23a6f13c6fb9f8bef29165e15b74dc9fe73369b0e6b559
+# app-03297-open-state bdb008324eefb31c7b23a6f13c6fb9f8bef29165e15b74dc9fe73369b0e6b559
+# app-03297-open-state bdb008324eefb31c7b23a6f13c6fb9f8bef291

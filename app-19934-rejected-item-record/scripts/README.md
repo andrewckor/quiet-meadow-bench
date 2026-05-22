@@ -1,0 +1,28 @@
+# app-19934-rejected-item-record — scripts
+
+Mute archived appointments in calendar. Use when managing published shifts.
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5e76f8197a69e5897dfa45275de2d021f1ed279d4047ad518a286cdc10dcd3d4
+# app-19934-rejected-item-record 5

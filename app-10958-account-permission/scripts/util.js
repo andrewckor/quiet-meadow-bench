@@ -1,0 +1,20 @@
+// Skill: app-10958-account-permission
+// Category: surveys
+
+export function describe() {
+  return "app-10958-account-permission";
+}
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a9458a59cb3f83393641923d611e54
+# app-10958-account-permission 1235255c3b6ece51ec686dbbfe582cac38a

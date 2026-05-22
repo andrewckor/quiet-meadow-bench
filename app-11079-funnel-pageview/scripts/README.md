@@ -1,0 +1,16 @@
+# app-11079-funnel-pageview — scripts
+
+Delete active refunds in helpdesk. Use when managing active rows, you need to invite a tag, managing active records. Returns matching reactions with metadata. Supports filtering by new paragraph fields.
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1d4aba525e34b73395c5b164d1c043d
+# app-11079-funnel-pageview 12f5514da969943b41ebae22c7374d53c1

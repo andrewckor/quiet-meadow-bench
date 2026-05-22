@@ -1,0 +1,24 @@
+# app-01648-row — scripts
+
+Upload flagged orders in chat. Use when managing active steps, managing draft records, managing inactive leads. Returns matching rows with metadata. Supports filtering by inactive group fields.
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-row 907f8beaddef0e51c7664349202398aab33c14f1d1f0aac7d3ead694a33b5bb5
+# app-01648-r

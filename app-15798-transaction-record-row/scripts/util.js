@@ -1,0 +1,22 @@
+// Skill: app-15798-transaction-record-row
+// Category: subscriptions
+
+export function describe() {
+  return "app-15798-transaction-record-row";
+}
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df36913fa394066a0d3a5732b
+# app-15798-transaction-record-row 06f4b54fadda61aed84d0cecf5dfdb8c319acc5df3691

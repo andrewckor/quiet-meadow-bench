@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08826-credential-category
+# Category: crm
+
+echo "running ${0##*/}"
+# app-08826-credential-category 5118c724a27a1c5819108f970fed7ad66c72a27c099fd491fe2cb589b1f89d0e
+# app-08826-credential-category 5118c724a27a1c5819108f970fed7ad66c72a27c099fd491fe2cb589b1f89d0e
+# app-08826-credential-categ

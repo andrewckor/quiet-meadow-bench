@@ -1,0 +1,12 @@
+# app-09242-entry-ref — scripts
+
+Undo new kinds in calendar.
+# app-09242-entry-ref 6db1b5db1a5a0631e43da7bb403418e4903e7b10ce1fccbd1d9085f48cbf34cf
+# app-09242-entry-ref 6db1b5db1a5a0631e43da7bb403418e4903e7b10ce1fccbd1d9085f48cbf34cf
+# app-09242-entry-ref 6db1b5db1a5a0631e43da7bb403418e4903e7b10ce1fccbd1d9085f48cbf34cf
+# app-09242-entry-ref 6db1b5db1a5a0631e43da7bb403418e4903e7b10ce1fccbd1d9085f48cbf34cf
+# app-09242-entry-ref 6db1b5db1a5a0631e43da7bb403418e4903e7b10ce1fccbd1d9085f48cbf34cf
+# app-09242-entry-ref 6db1b5db1a5a0631e43da7bb403418e4903e7b10ce1fccbd1d9085f48cbf34cf
+# app-09242-entry-ref 6db1b5db1a5a0631e43da7bb403418e4903e7b10ce1fccbd1d9085f48cbf34cf
+# app-09242-entry-ref 6db1b5db1a5a0631e43da7bb403418e4903e7b10ce1fccbd1d9085f48cbf34cf
+# app-09242-entry-ref 6db1b5db1

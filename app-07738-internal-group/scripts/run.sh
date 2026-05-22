@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07738-internal-group
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc2ffdb880a6b888837c510a0e
+# app-07738-internal-group 5a68524df4057ed4647b7743e7ef6579ceca65cc

@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05969-key
+# Category: chat
+
+echo "running ${0##*/}"
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770
+# app-05969-key eaadc3b3aafbacc62d5daf5fe8b96afe10e2738e452b1bdab21d92a224554770

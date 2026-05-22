@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19095-inactive-credential
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf077808a24d98fadf270615d5ad81b6ccb774be6d06a
+# app-19095-inactive-credential 7e662bac1f7220bef18cf

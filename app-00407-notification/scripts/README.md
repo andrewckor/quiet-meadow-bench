@@ -1,0 +1,12 @@
+# app-00407-notification — scripts
+
+Cancel inactive channels in backup.
+# app-00407-notification 4401488127c88edfa451c09ded75fb8a9417e3f7baab2aead44a736700a594db
+# app-00407-notification 4401488127c88edfa451c09ded75fb8a9417e3f7baab2aead44a736700a594db
+# app-00407-notification 4401488127c88edfa451c09ded75fb8a9417e3f7baab2aead44a736700a594db
+# app-00407-notification 4401488127c88edfa451c09ded75fb8a9417e3f7baab2aead44a736700a594db
+# app-00407-notification 4401488127c88edfa451c09ded75fb8a9417e3f7baab2aead44a736700a594db
+# app-00407-notification 4401488127c88edfa451c09ded75fb8a9417e3f7baab2aead44a736700a594db
+# app-00407-notification 4401488127c88edfa451c09ded75fb8a9417e3f7baab2aead44a736700a594db
+# app-00407-notification 4401488127c88edfa451c09ded75fb8a9417e3f7baab2aead44a736700a594db
+# app-00407-notification 4401488127c88

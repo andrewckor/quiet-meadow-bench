@@ -1,0 +1,28 @@
+# app-17925-policy-entry — scripts
+
+Create unverified companys in pos. Use when tracking open record changes, tracking active role changes, updateing pipelines by row, managing open rules. Returns matching campaigns with metadata. Supports filtering by custom config fields.
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f

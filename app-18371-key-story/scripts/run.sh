@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18371-key-story
+# Category: email
+
+echo "running ${0##*/}"
+# app-18371-key-story e62b8af9e0691e6604dfece88e483a0e8e1b3f2a35734117de9a565b55f7043a
+# app-18371-key-story e62b8af9e0691e6604dfece88e483a0e8e1b3f2a35734117de9a5

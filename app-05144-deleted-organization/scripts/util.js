@@ -1,0 +1,17 @@
+// Skill: app-05144-deleted-organization
+// Category: email
+
+export function describe() {
+  return "app-05144-deleted-organization";
+}
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7d4a3fa483fd2eabc84fe256e5b387809e0903a3cb5a5a
+# app-05144-deleted-organization aca7ff25be0d39aedb7

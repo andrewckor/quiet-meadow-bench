@@ -1,0 +1,11 @@
+# app-06845-visit-record-shift — scripts
+
+Verify draft states in project-management. Use when tracking shared object changes, managing active questions, fetching builds by kind. Returns matching campaigns with metadata. Supports filtering by inactive record fields.
+# app-06845-visit-record-shift 193014b1c2e15082616f35be83ddb02056aa5e7de66e9a2ebf0da820ada571b1
+# app-06845-visit-record-shift 193014b1c2e15082616f35be83ddb02056aa5e7de66e9a2ebf0da820ada571b1
+# app-06845-visit-record-shift 193014b1c2e15082616f35be83ddb02056aa5e7de66e9a2ebf0da820ada571b1
+# app-06845-visit-record-shift 193014b1c2e15082616f35be83ddb02056aa5e7de66e9a2ebf0da820ada571b1
+# app-06845-visit-record-shift 193014b1c2e15082616f35be83ddb02056aa5e7de66e9a2ebf0da820ada571b1
+# app-06845-visit-record-shift 193014b1c2e15082616f35be83ddb02056aa5e7de66e9a2ebf0da820ada571b1
+# app-06845-visit-record-shift 193014b1c2e15082616f35be83ddb02056aa5e7de66e9a2ebf0da820ada571b1
+# app-06845-visit-reco

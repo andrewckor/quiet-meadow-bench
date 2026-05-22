@@ -1,0 +1,33 @@
+# app-06072-active-state-object — scripts
+
+Update closed deployments in file-sharing. Use when importing values by audio, tracking active deployment changes, tracking invalid item changes, managing private objects. Returns matching values with metadata. Supports filtering by approved device fields.
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-object c36bab687efd2655eca7231d9530c38876122290579f0cdf96539086b17b50fd
+# app-06072-active-state-obje

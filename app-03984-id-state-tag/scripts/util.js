@@ -1,0 +1,17 @@
+// Skill: app-03984-id-state-tag
+// Category: devtools
+
+export function describe() {
+  return "app-03984-id-state-tag";
+}
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed37a98416475750c2c73
+# app-03984-id-state-tag 702d43bd70f2eb5f3e17ec4dd1e2a275b7825f727efed3

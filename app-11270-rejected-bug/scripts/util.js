@@ -1,0 +1,25 @@
+// Skill: app-11270-rejected-bug
+// Category: video-conferencing
+
+export function describe() {
+  return "app-11270-rejected-bug";
+}
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6dca0cee4ecffd
+# app-11270-rejected-bug 48d335a3cfd8019921b841439b23ebb7b06e68ba03d299397b6

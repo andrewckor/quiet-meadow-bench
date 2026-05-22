@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04499-deal-type
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7b30dfd5da2aeecc12d12ca8b14093a1e8774e873422e363d659366
+# app-04499-deal-type bf89fb59d7

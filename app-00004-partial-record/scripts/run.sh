@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00004-partial-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# app-00004-partial-record d43eec3ef20e7ce7f9b0abfc1fe37cdb7ecc6e330ad84a77414891ec27ead891
+# 

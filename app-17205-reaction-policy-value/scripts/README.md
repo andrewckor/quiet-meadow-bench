@@ -1,0 +1,7 @@
+# app-17205-reaction-policy-value — scripts
+
+Fetch shared objects in crm.
+# app-17205-reaction-policy-value e56cb907ccfcba9c1fbff4fb4ab907b28c5652af6ccad430e421e182a54effbc
+# app-17205-reaction-policy-value e56cb907ccfcba9c1fbff4fb4ab907b28c5652af6ccad430e421e182a54effbc
+# app-17205-reaction-policy-value e56cb907ccfcba9c1fbff4fb4ab907b28c5652af6ccad430e421e182a54effbc
+# app-17205-reaction-policy-value e56cb907ccfcba9c1fbff4fb4ab907b28c5652af6ccad430e421

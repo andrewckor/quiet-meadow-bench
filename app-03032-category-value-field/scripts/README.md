@@ -1,0 +1,11 @@
+# app-03032-category-value-field — scripts
+
+Kick inactive bugs in crm.
+# app-03032-category-value-field 73983724be924fae9ef750365619cb9747172b71bd5fe8be487da20d56b50cac
+# app-03032-category-value-field 73983724be924fae9ef750365619cb9747172b71bd5fe8be487da20d56b50cac
+# app-03032-category-value-field 73983724be924fae9ef750365619cb9747172b71bd5fe8be487da20d56b50cac
+# app-03032-category-value-field 73983724be924fae9ef750365619cb9747172b71bd5fe8be487da20d56b50cac
+# app-03032-category-value-field 73983724be924fae9ef750365619cb9747172b71bd5fe8be487da20d56b50cac
+# app-03032-category-value-field 73983724be924fae9ef750365619cb9747172b71bd5fe8be487da20d56b50cac
+# app-03032-category-value-field 73983724be924fae9ef750365619cb9747172b71bd5fe8be487da20d56b50cac
+# app-03032-category-value-field 73983724be924fae9ef750365

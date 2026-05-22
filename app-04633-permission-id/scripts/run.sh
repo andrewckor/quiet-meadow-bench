@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04633-permission-id
+# Category: crm
+
+echo "running ${0##*/}"
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71e

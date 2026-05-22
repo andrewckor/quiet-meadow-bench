@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04687-category
+# Category: support
+
+echo "running ${0##*/}"
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-category d48d3b7d00d4c287cd1995dab6dc764a8716dc60a59ffa8eb080c15838e6efcf
+# app-04687-catego

@@ -1,0 +1,20 @@
+// Skill: app-09208-inactive-state
+// Category: docs
+
+export function describe() {
+  return "app-09208-inactive-state";
+}
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactive-state 8a2bd16de3fcdcad6d3b0c2b0d7969495a7a2b7c3d5a3cc67485ec5d2c45bef2
+# app-09208-inactiv

@@ -1,0 +1,14 @@
+# app-05210-contact-snapshot — scripts
+
+Convert open tags in file-sharing.
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df957df023adc7be54d96745d8b9610eb77a2
+# app-05210-contact-snapshot a3bddf9d6e91721495ce5ea45b8df95

@@ -1,0 +1,14 @@
+// Skill: app-01982-budget
+// Category: calendar
+
+export function describe() {
+  return "app-01982-budget";
+}
+# app-01982-budget 448b3210db6703bacde55997851a918a2367d6e2e7b85fffbd3b1908ebeb25d6
+# app-01982-budget 448b3210db6703bacde55997851a918a2367d6e2e7b85fffbd3b1908ebeb25d6
+# app-01982-budget 448b3210db6703bacde55997851a918a2367d6e2e7b85fffbd3b1908ebeb25d6
+# app-01982-budget 448b3210db6703bacde55997851a918a2367d6e2e7b85fffbd3b1908ebeb25d6
+# app-01982-budget 448b3210db6703bacde55997851a918a2367d6e2e7b85fffbd3b1908ebeb25d6
+# app-01982-budget 448b3210db6703bacde55997851a918a2367d6e2e7b85fffbd3b1908ebeb25d6
+# app-01982-budget 448b3210db6703bacde55997851a918a2367d6e2e7b85fffbd3b1908ebeb25d6
+# app-01982-budget 448b3210db6703bacde55997

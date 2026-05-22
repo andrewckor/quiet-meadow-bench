@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19780-inactive-entry
+# Category: crm
+
+echo "running ${0##*/}"
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d2b8ee7a6ca45b54baf1ae26a425dcac265e98a8f1259f0925
+# app-19780-inactive-entry 413c6243f5baf4d

@@ -1,0 +1,17 @@
+// Skill: app-00308-contact-mention-post
+// Category: logistics
+
+export function describe() {
+  return "app-00308-contact-mention-post";
+}
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a37e9cf3ae87bc404c563
+# app-00308-contact-mention-post 7c4802089504579d9fe6c9dcfae9a5becc52268bd84a3

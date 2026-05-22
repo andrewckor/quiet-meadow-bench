@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17289-record
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-17289-record 5cab8be8102bd39e0f4c313a3e56156ea502541f70bc9b3169061ac67bfb4e81
+# app-17289-record 5cab8be8102bd39e0f4c313a3e56156ea502541f70bc9b3169061ac67bfb4e81
+# app-17289-record 5cab8be8102bd39e0f4c313a3e56156ea502541f70bc9b3169061ac67bfb4e81
+# app-17289-record 5cab8be8102bd39e0f4c313a3e56156ea502541f70bc9b3169061ac67bfb4e81
+# app-17289-record 5cab8be8102bd39e0f4c313a3e56156ea502541f70bc9b3169061ac67bfb4e81
+# app-17289-record 5cab8be8102bd39e0f4c313a3e56156ea502541f70bc9b3169061ac67bfb4e81
+# app-17289-record 5cab8be8102bd39e0f4c313a3e56156ea502541f70bc9b3169061ac67bfb4e81
+# app-17289-record 5cab8be8102bd39e0f4c31

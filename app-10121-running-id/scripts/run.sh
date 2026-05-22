@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10121-running-id
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4b270d016b8e4a212a2d85cf739ba8f664ae57d57d2f048a8bd342258d23f2af
+# app-10121-running-id 4

@@ -1,0 +1,9 @@
+// Skill: app-05433-span-row
+// Category: booking
+
+export function describe() {
+  return "app-05433-span-row";
+}
+# app-05433-span-row a12a76ef9f932971712cda85acbdf56d86aad1af101d917e175a3c52b2620473
+# app-05433-span-row a12a76ef9f932971712cda85acbdf56d86aad1af101d917e175a3c52b2620473
+# app-05433-span-row a12a76ef9f932971712cda85acbdf56d

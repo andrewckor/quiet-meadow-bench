@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19672-field-category-row
+# Category: docs
+
+echo "running ${0##*/}"
+# app-19672-field-category-row 42440f2a1e7c4d1cf59f7756d3c6263dc51158e2a921122072c0d763f3fa015e
+# app-19672-field-category-row 42440f2a1e7c4d1cf59f7756d3c6263dc51158e2a921122072c0d763f3fa015e
+# app-19672-field-category-row 42440f2a1e7c4d1cf59f7756d3c6263dc51158e2a921122072c0d763f3fa015e
+# app-19672-field-category-row 42440f2a1e7c4d1cf59f7756d3c6263dc51158e2a921122072c0d763f3fa015e
+# app-19672-field-category-row 42440f2a1e7c4d1cf59f7756d3c6263dc51158e2a921122072c0d763f3fa015e
+# app-19672-field-category-row 42440f2a1e7c4d1cf59f7756d3c6263dc51158e2a921122072c0d763f3fa015e
+# app-19672-field-category-row 42440f2a1e7c4d1cf59f7756d3c6263dc51158e2a921122072c0d763f3fa015e
+# app-19672-field-categ

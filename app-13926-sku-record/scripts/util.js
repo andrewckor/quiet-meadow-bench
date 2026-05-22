@@ -1,0 +1,44 @@
+// Skill: app-13926-sku-record
+// Category: booking
+
+export function describe() {
+  return "app-13926-sku-record";
+}
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e0cd52479de3fca83dd3cae6dab22d06bd395ad202eeeb30a90b
+# app-13926-sku-record 4b241d220791e

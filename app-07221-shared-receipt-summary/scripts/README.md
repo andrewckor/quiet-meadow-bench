@@ -1,0 +1,10 @@
+# app-07221-shared-receipt-summary — scripts
+
+Archive active rows in crm.
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# app-07221-shared-receipt-summary b0f40f49283e8c96cda58a7ceb2b7fedadcecf4cc64bcca36448a65f0a2ca230
+# ap

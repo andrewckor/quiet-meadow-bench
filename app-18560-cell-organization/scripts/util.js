@@ -1,0 +1,10 @@
+// Skill: app-18560-cell-organization
+// Category: crm
+
+export function describe() {
+  return "app-18560-cell-organization";
+}
+# app-18560-cell-organization 80c6d58b766e5497689bcd9dfc151bbc9dfa5132d6e6f46d6e9bd06557eb5db2
+# app-18560-cell-organization 80c6d58b766e5497689bcd9dfc151bbc9dfa5132d6e6f46d6e9bd06557eb5db2
+# app-18560-cell-organization 80c6d58b766e5497689bcd9dfc151bbc9dfa5132d6e6f46d6e9bd06557eb5db2
+# app-18560-cell-organization 80c6d58b766e5497689bcd9dfc151bb

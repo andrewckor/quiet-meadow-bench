@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09352-category-record-directory
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category-record-directory e4e81450fa4bc6c8741c7aea181272677d9e2c8dec6b2b52c3d0bfb479188b90
+# app-09352-category

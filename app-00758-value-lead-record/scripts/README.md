@@ -1,0 +1,43 @@
+# app-00758-value-lead-record — scripts
+
+Delete local records in events. Use when tracking unverified value changes.
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6be598845eae5f29c4f409d86d79059a5c42a1f1
+# app-00758-value-lead-record 8a60bc45e50d6befda7ba51d6b

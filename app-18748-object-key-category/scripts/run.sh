@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18748-object-key-category
+# Category: email
+
+echo "running ${0##*/}"
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec166a5cfc9428ade60c5c8
+# app-18748-object-key-category dd548ca3ef8eca0c872faadb75db28a5760866804ec

@@ -1,0 +1,19 @@
+// Skill: app-16508-applicant
+// Category: crm
+
+export function describe() {
+  return "app-16508-applicant";
+}
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4aca65eac6
+# app-16508-applicant 7febffbffe79e384acd6fb3775168df862ddb388f4923f2f0fc55c4

@@ -1,0 +1,26 @@
+# app-04802-key — scripts
+
+Create public querys in crm. Use when you need to archive a entry.
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fcae9468b89de627b7aee6d4cf5e7e16fcfde9010e9a28a9ecdc0e622258
+# app-04802-key b8d3fca

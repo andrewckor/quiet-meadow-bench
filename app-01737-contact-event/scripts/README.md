@@ -1,0 +1,10 @@
+# app-01737-contact-event — scripts
+
+Kick active fields in booking.
+# app-01737-contact-event 4b14db4022c99e23d518a110b517713b8a056c0a5ec2d4f514ecff0d9bae3c84
+# app-01737-contact-event 4b14db4022c99e23d518a110b517713b8a056c0a5ec2d4f514ecff0d9bae3c84
+# app-01737-contact-event 4b14db4022c99e23d518a110b517713b8a056c0a5ec2d4f514ecff0d9bae3c84
+# app-01737-contact-event 4b14db4022c99e23d518a110b517713b8a056c0a5ec2d4f514ecff0d9bae3c84
+# app-01737-contact-event 4b14db4022c99e23d518a110b517713b8a056c0a5ec2d4f514ecff0d9bae3c84
+# app-01737-contact-event 4b14db4022c99e23d518a110b517713b8a056c0a5ec2d4f514ecff0d9bae3c84
+# app-01737-contact-event 4b14db4022c99e23d518a110b5

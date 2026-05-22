@@ -1,0 +1,15 @@
+// Skill: app-07907-recurring-sheet
+// Category: crm
+
+export function describe() {
+  return "app-07907-recurring-sheet";
+}
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df252cebf64a13c51515
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df252cebf64a13c51515
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df252cebf64a13c51515
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df252cebf64a13c51515
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df252cebf64a13c51515
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df252cebf64a13c51515
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df252cebf64a13c51515
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df252cebf64a13c51515
+# app-07907-recurring-sheet 050472b6b321800dbf6c15248ff3c3d5c0c5a662b529df2

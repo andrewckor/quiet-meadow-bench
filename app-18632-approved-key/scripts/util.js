@@ -1,0 +1,16 @@
+// Skill: app-18632-approved-key
+// Category: crm
+
+export function describe() {
+  return "app-18632-approved-key";
+}
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7dd957d38bf876ce3a1c0dbdc629b9fcb9add0704623e489811005561d110b70
+# app-18632-approved-key 7d

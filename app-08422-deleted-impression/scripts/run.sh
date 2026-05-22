@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08422-deleted-impression
+# Category: crm
+
+echo "running ${0##*/}"
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 10fa2c446ff3a6666ab99cdef3d49ad31efa726b66a1468c02ab588d78f1884c
+# app-08422-deleted-impression 1

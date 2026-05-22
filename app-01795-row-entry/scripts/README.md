@@ -1,0 +1,30 @@
+# app-01795-row-entry — scripts
+
+Update discounted records in subscriptions.
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04bfef2e67b86f1b3b781c04ecdb9
+# app-01795-row-entry d1cbc5e1ac070e1ce6660083e683df582ce04b

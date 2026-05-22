@@ -1,0 +1,33 @@
+// Skill: app-00082-credential-key
+// Category: calendar
+
+export function describe() {
+  return "app-00082-credential-key";
+}
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-cred

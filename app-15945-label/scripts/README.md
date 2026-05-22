@@ -1,0 +1,12 @@
+# app-15945-label — scripts
+
+Delete succeeded phases in docs.
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56c42a1864
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56c42a1864
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56c42a1864
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56c42a1864
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56c42a1864
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56c42a1864
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56c42a1864
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56c42a1864
+# app-15945-label 58996fec7b22fc6d5a5aad0a9fcf8f626e5c473b5bb8debe9ea06b56

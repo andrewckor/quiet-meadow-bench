@@ -1,0 +1,12 @@
+// Skill: app-09544-category
+// Category: email
+
+export function describe() {
+  return "app-09544-category";
+}
+# app-09544-category 25f1a0536cf913ed603c1f4282534891a6bb15d3adb3ef352197a1ba7d7a2b45
+# app-09544-category 25f1a0536cf913ed603c1f4282534891a6bb15d3adb3ef352197a1ba7d7a2b45
+# app-09544-category 25f1a0536cf913ed603c1f4282534891a6bb15d3adb3ef352197a1ba7d7a2b45
+# app-09544-category 25f1a0536cf913ed603c1f4282534891a6bb15d3adb3ef352197a1ba7d7a2b45
+# app-09544-category 25f1a0536cf913ed603c1f4282534891a6bb15d3adb3ef352197a1ba7d7a2b45
+# app-09544-category 25f1a0536cf913ed603c1f4282534891a6bb15d3adb3ef352197a1ba7d7a2b

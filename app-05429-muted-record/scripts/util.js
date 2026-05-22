@@ -1,0 +1,14 @@
+// Skill: app-05429-muted-record
+// Category: email
+
+export function describe() {
+  return "app-05429-muted-record";
+}
+# app-05429-muted-record 7ee4c9affe2297c290ad339a1026632353bcddb13a3361e758c483308e63a881
+# app-05429-muted-record 7ee4c9affe2297c290ad339a1026632353bcddb13a3361e758c483308e63a881
+# app-05429-muted-record 7ee4c9affe2297c290ad339a1026632353bcddb13a3361e758c483308e63a881
+# app-05429-muted-record 7ee4c9affe2297c290ad339a1026632353bcddb13a3361e758c483308e63a881
+# app-05429-muted-record 7ee4c9affe2297c290ad339a1026632353bcddb13a3361e758c483308e63a881
+# app-05429-muted-record 7ee4c9affe2297c290ad339a1026632353bcddb13a3361e758c483308e63a881
+# app-05429-muted-record 7ee4c9affe2297c290ad339a1026632353bcddb13a3361e758c483308e63a881
+# app-0

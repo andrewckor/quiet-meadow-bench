@@ -1,0 +1,20 @@
+// Skill: app-14018-key-notification
+// Category: calendar
+
+export function describe() {
+  return "app-14018-key-notification";
+}
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc38fb06b
+# app-14018-key-notification 81329a1dbe167081744994eee81ed11aa055915cd4d44be4055e55dfc3

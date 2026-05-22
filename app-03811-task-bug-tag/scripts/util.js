@@ -1,0 +1,10 @@
+// Skill: app-03811-task-bug-tag
+// Category: video-conferencing
+
+export function describe() {
+  return "app-03811-task-bug-tag";
+}
+# app-03811-task-bug-tag 5cc64b8cb375805532526c416340566335ff26c70755eae6309bf94b71da0712
+# app-03811-task-bug-tag 5cc64b8cb375805532526c416340566335ff26c70755eae6309bf94b71da0712
+# app-03811-task-bug-tag 5cc64b8cb375805532526c416340566335ff26c70755eae6309bf94b71da0712
+# app-03811-task-bug-tag 5cc64b8cb375805532526c416340566335ff26c70755eae6309bf94b71da07

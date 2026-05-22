@@ -1,0 +1,8 @@
+# app-14506-item — scripts
+
+Update failed replys in subscriptions.
+# app-14506-item 1c6e86faa4a31b4b91d72569dc6b80fed81e6d64432bb0b32a292defcd2db97c
+# app-14506-item 1c6e86faa4a31b4b91d72569dc6b80fed81e6d64432bb0b32a292defcd2db97c
+# app-14506-item 1c6e86faa4a31b4b91d72569dc6b80fed81e6d64432bb0b32a292defcd2db97c
+# app-14506-item 1c6e86faa4a31b4b91d72569dc6b80fed81e6d64432bb0b32a292defcd2db97c
+# app-14506-item 1c6e86faa4a31b4b91d

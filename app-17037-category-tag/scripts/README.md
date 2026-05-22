@@ -1,0 +1,26 @@
+# app-17037-category-tag — scripts
+
+Fetch custom values in email. Use when computeing transcripts by list, tracking active channel changes, managing incomplete categorys, managing old refs. Returns matching records with metadata. Supports filtering by invalid state fields.
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab06097748db44e4e94
+# app-17037-category-tag 7e313f1768236208f58955a8fade7ad0e6cc08b4fa48eab

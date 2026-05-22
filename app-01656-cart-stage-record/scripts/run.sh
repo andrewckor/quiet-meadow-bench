@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01656-cart-stage-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c3c3434df486a89fb4300d
+# app-01656-cart-stage-record 8bd567ea03f979d01f9f1d21af26dc97c90782d2d9c

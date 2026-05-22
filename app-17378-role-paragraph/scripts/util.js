@@ -1,0 +1,19 @@
+// Skill: app-17378-role-paragraph
+// Category: crm
+
+export function describe() {
+  return "app-17378-role-paragraph";
+}
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b4cecaf8d313bae
+# app-17378-role-paragraph 3b176863823850098e12c8904ae746320ec6ffe75e27c9ae9b

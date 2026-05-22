@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17756-record-chart
+# Category: chat
+
+echo "running ${0##*/}"
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da46584bfa7a0a02e01fd764b5e0c53af86c564063eec5a996a51ceac943f
+# app-17756-record-chart 730da4658

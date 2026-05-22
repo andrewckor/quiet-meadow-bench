@@ -1,0 +1,14 @@
+// Skill: app-15276-succeeded-record-type
+// Category: payments
+
+export function describe() {
+  return "app-15276-succeeded-record-type";
+}
+# app-15276-succeeded-record-type 26ebdd3d14fe569e21c85045f650762d2c4745e69fa934d9267b18a0f1163edc
+# app-15276-succeeded-record-type 26ebdd3d14fe569e21c85045f650762d2c4745e69fa934d9267b18a0f1163edc
+# app-15276-succeeded-record-type 26ebdd3d14fe569e21c85045f650762d2c4745e69fa934d9267b18a0f1163edc
+# app-15276-succeeded-record-type 26ebdd3d14fe569e21c85045f650762d2c4745e69fa934d9267b18a0f1163edc
+# app-15276-succeeded-record-type 26ebdd3d14fe569e21c85045f650762d2c4745e69fa934d9267b18a0f1163edc
+# app-15276-succeeded-record-type 26ebdd3d14fe569e21c85045f650762d2c4745e69fa934d9267b18a0f1163edc
+# app-15276-succeeded-record-type 26ebdd3d14fe569e21c85045f650762d2c4745e69fa934d9267b18a0f1163edc
+# app-15276-succeeded-record-type 26ebdd3d14fe569e21c85045f

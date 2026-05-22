@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13956-blocked-question
+# Category: email
+
+echo "running ${0##*/}"
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444ede285c
+# app-13956-blocked-question dce86f7385435754639ffeb6772b8fad2c231effb65d852b573cff444

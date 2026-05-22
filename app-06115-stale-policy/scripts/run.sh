@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06115-stale-policy
+# Category: crm
+
+echo "running ${0##*/}"
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca
+# app-06115-stale-policy 41c8a7ffdc1d983d0e2e8d16b9ffb80c354e73debc9710fb2b6fd014fae7f2ca

@@ -1,0 +1,22 @@
+# app-02781-experiment-team — scripts
+
+Update inactive conversions in invoicing. Use when managing active bookmarks, createing records by group, managing active charts, fetching kinds by segment. Returns matching entrys with metadata. Supports filtering by inactive key fields.
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac57151dc95474be8fe06b48a227f928cff13340ff94a5d7eb31
+# app-02781-experiment-team 5d5032f9afe6ac5

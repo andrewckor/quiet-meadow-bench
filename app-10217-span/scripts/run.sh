@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10217-span
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# app-10217-span 154fecddee04e4b395a38b6774183eb1f58c23ddd4fda35c4fb4788cf8f5bfac
+# 

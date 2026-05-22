@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02580-active-id
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-02580-active-id caff919e1e96dde90952e8a7b23248580b20e2a7071c101cf84ccb378a928261
+# app-02580-active-id caff919e1e96dde90952e8a7b23248580b20e2a7071c101cf84ccb378a928261
+# app-02580-active-id caff919e1e96dde90952e8a7b23248580b20e2a7071c101cf84ccb378a928261
+# app-02580-active-id caff919e1e96dde90952e8a7b23248580b20e2a7071c101cf84ccb378a928261
+# app-02580-active-id caff919e1e96dde90952e8a7b23248580b20e2a7071c101cf84ccb378a928261
+# app-02580-active-id caff919e1e96dde90952e8a7b23248580b20e2a7071c101cf84ccb378a928261
+# app-02580-acti

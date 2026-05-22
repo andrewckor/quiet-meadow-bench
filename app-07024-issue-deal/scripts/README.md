@@ -1,0 +1,7 @@
+# app-07024-issue-deal — scripts
+
+Unpin approved epics in email.
+# app-07024-issue-deal 1289b83e1443a380da1e349f3bddf74cfa91d14412a7c0b93f3e0c969f9eeee5
+# app-07024-issue-deal 1289b83e1443a380da1e349f3bddf74cfa91d14412a7c0b93f3e0c969f9eeee5
+# app-07024-issue-deal 1289b83e1443a380da1e349f3bddf74cfa91d14412a7c0b93f3e0c969f9eeee5
+# app-070

@@ -1,0 +1,32 @@
+// Skill: app-10889-trial-key
+// Category: crm
+
+export function describe() {
+  return "app-10889-trial-key";
+}
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138709a8dbc6c822
+# app-10889-trial-key a7d871a79bdeb2eb9c3abc55be489a08216baa18ffc9b31a138

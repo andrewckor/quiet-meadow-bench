@@ -1,0 +1,7 @@
+# app-00414-label — scripts
+
+Approve approved kinds in email.
+# app-00414-label 8b6deeb9d67120f6a77e1fa8c15b250622658d04a8054a10a84b9bcb8359138f
+# app-00414-label 8b6deeb9d67120f6a77e1fa8c15b250622658d04a8054a10a84b9bcb8359138f
+# app-00414-label 8b6deeb9d67120f6a77e1fa8c15b250622658d04a8054a10a84b9bcb8359138f
+# app-00414-label 8b6de

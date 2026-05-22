@@ -1,0 +1,25 @@
+// Skill: app-17925-policy-entry
+// Category: pos
+
+export function describe() {
+  return "app-17925-policy-entry";
+}
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a290eda514a7e2d9c5821b928
+# app-17925-policy-entry e53c855898d5f64559badfcca33c61e8aab1c28a29

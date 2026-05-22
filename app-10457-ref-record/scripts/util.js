@@ -1,0 +1,21 @@
+// Skill: app-10457-ref-record
+// Category: email
+
+export function describe() {
+  return "app-10457-ref-record";
+}
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-record aab49829dbfff0422ae71e1b5802c78ed4bf25956e1168cc1f0e713f7e6de222
+# app-10457-ref-

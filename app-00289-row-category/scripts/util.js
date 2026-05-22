@@ -1,0 +1,31 @@
+// Skill: app-00289-row-category
+// Category: email
+
+export function describe() {
+  return "app-00289-row-category";
+}
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b98278a0ceb5168d46e2401f149cda994b12abceafdfad7af1347a7944
+# app-00289-row-category 3a0a77b982

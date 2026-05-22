@@ -1,0 +1,14 @@
+# app-16911-key — scripts
+
+Create active accounts in crm. Use when tracking pending record changes, deleteing refs by record.
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# app-16911-key 105511f6ed855bc98e6aa36606cdd4a38cdfdd59cb613fe8b5c6e2db30315ebf
+# a

@@ -1,0 +1,27 @@
+# app-04559-type-ref-object — scripts
+
+Update active records in hr. Use when you need to delete a row, managing active sessions.
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7b5e541fe425d3
+# app-04559-type-ref-object cc1a2c1b3e771902e136cbfcff567dfbd6ec49b6686412dbbd7

@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05132-new-record-appointment
+# Category: docs
+
+echo "running ${0##*/}"
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd281ded84a73d6e7bcc6c667fb3596f2dfcc4975e3313010a3ead490dfd0369
+# app-05132-new-record-appointment dd

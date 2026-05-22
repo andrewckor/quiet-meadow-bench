@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16402-rejected-type
+# Category: crm
+
+echo "running ${0##*/}"
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e279286e973d74e1713257bba3b61d9e1d61746ed0638fc7e0b56afff1bbaa
+# app-16402-rejected-type d5e2

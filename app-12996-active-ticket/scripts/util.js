@@ -1,0 +1,24 @@
+// Skill: app-12996-active-ticket
+// Category: helpdesk
+
+export function describe() {
+  return "app-12996-active-ticket";
+}
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6c
+# app-12996-active-ticket 9fbc0de85e4e83b723cdc27f7960973b44a11410371196f75ccdfcaa1176cf6

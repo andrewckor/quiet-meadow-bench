@@ -1,0 +1,17 @@
+# app-09005-delivery-subtask — scripts
+
+Create shared groups in recruiting. Use when searching objects by entry.
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c36f8adb8acf5d92f07
+# app-09005-delivery-subtask 5e12b4abab9ce34965ee6fa3d145e53898a2b72e374a4c

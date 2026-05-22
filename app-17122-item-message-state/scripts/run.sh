@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17122-item-message-state
+# Category: email
+
+echo "running ${0##*/}"
+# app-17122-item-message-state 295af7ae4be79f5e124622b367079f298dc07413c4fa722ac424b5c4d7258951
+# app-17122-item-message-state 295af7ae4be79f5e124622b367079f298dc07413c4fa722ac424b5c4d7258951
+# app-17122-item-message-state 295af7ae4be79f5e124622b367079f298dc07413c4fa722ac424b5c4d7258951
+# app-17122-item-message-state 295af7ae4be79f5e124622b367079f298dc07413c4fa722ac424b5c4d7258951
+# app-17122-item-message-state 295af7ae4be79f5e124622b367079f298dc07413c4fa722ac424b5c4d7258951
+# app-17122-item-message-state 295af7ae4be79f5e124622b367079f298

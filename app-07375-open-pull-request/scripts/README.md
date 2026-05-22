@@ -1,0 +1,39 @@
+# app-07375-open-pull-request — scripts
+
+Screenshot external records in inventory. Use when managing active teams.
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa00969f6ccb3b
+# app-07375-open-pull-request 2911452e7e51e248cd230a793b3b89a1c5cbd7420f7b7fa6c1fa

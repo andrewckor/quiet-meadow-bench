@@ -1,0 +1,20 @@
+// Skill: app-12101-inactive-transaction
+// Category: crm
+
+export function describe() {
+  return "app-12101-inactive-transaction";
+}
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0455f10711cbe17be5c4f5cb3914cb73cb50230e728d310261c5
+# app-12101-inactive-transaction ced775a2b54a0

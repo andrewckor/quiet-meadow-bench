@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12066-token-company
+# Category: subscriptions
+
+echo "running ${0##*/}"
+# app-12066-token-company 61e30a6477ff8bf5d1d5b8e41bdb3934518967ed3b542a8cac75fbe577ed2666
+# app-12066-token-company 61e30a6477ff8bf5d1d5b8e41bdb3934518967ed3b542a8cac75fbe577ed2666
+# app-12066-token-company 61e30a6477ff8bf5d1d5b8e41bdb3934518967ed3b542a8cac75fbe577ed2666
+# app-12066-token-company 61e30a6477ff8bf5d1d5b8e41bdb3934518967ed3b542a8cac75fbe577ed2666
+# app-12066-token-company 61e30a6477ff8bf5d1d5b8e41bdb3934518967ed3b542a8cac75fbe577ed2666
+# app-12066-token-company 61e30a6477ff8bf5d1d5b8e41bdb3934518967ed3b542a8cac75fbe577ed2666
+# app-12066-token-company 61e30a6477ff8bf5d1d5b8e41bdb3934518967ed3b542a8cac75fbe577ed2666
+# app-12066-token-company 61e30a6477ff8bf5d1d5b8e41bdb3934518967ed3b542a8cac75fbe577e

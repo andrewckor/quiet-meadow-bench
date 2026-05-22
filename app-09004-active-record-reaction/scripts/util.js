@@ -1,0 +1,10 @@
+// Skill: app-09004-active-record-reaction
+// Category: invoicing
+
+export function describe() {
+  return "app-09004-active-record-reaction";
+}
+# app-09004-active-record-reaction 49da24520e658e8c71658c29327b42a1043b40e923d9a289d303b52b59a6abdc
+# app-09004-active-record-reaction 49da24520e658e8c71658c29327b42a1043b40e923d9a289d303b52b59a6abdc
+# app-09004-active-record-reaction 49da24520e658e8c71658c29327b42a1043b40e923d9a289d303b52b59a6abdc
+# app-09004

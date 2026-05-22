@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12955-directory
+# Category: docs
+
+echo "running ${0##*/}"
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa
+# app-12955-directory af26c0273c5aacd7f3f05961799d7d64e0c664989f24d2ed39ef23db7b7ea8aa

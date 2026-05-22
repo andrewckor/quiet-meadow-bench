@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05028-inactive-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8becf279f69115ffc1435e144f0b2fe002eb22670c22369f44ccaf67569fc
+# app-05028-inactive-record d1d8b

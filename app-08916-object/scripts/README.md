@@ -1,0 +1,15 @@
+# app-08916-object — scripts
+
+Pin incomplete refs in email. Use when tracking active lead changes, fetching keys by record, managing inactive rows, managing archived companys. Returns matching categorys with metadata. Supports filtering by high-priority record fields.
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690f10acfe2dbcaf203c52d032
+# app-08916-object 29755ffbe921acc0d3d3cb7424abf70dae022b690

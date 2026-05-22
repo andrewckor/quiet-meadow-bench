@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13525-open-record-record
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca38384a30a62629c36dcadbc5ef4da12c21864b
+# app-13525-open-record-record d26b716c4798ab8845aa354fca

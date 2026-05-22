@@ -1,0 +1,20 @@
+// Skill: app-06790-unverified-record
+// Category: ticketing
+
+export function describe() {
+  return "app-06790-unverified-record";
+}
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f8471a9d6bfccaffc29ea70f56843aff21c82581c0a89593383e802ced2a
+# app-06790-unverified-record bd36f84

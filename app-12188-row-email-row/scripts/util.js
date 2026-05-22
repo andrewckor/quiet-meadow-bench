@@ -1,0 +1,35 @@
+// Skill: app-12188-row-email-row
+// Category: docs
+
+export function describe() {
+  return "app-12188-row-email-row";
+}
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df05a301b43efd90f820ebc8a98efac48afd139aec3117c84915d4129b57d08
+# app-12188-row-email-row 5df0

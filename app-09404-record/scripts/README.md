@@ -1,0 +1,5 @@
+# app-09404-record — scripts
+
+Create inactive teams in support.
+# app-09404-record 102d23b316019d631dd0147475ad1ee3cb06df8bcb39665ece46cd854d270713
+# app-09404-record 102d23b316019d631dd0147475ad1ee3cb

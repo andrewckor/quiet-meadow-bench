@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04303-partial-video
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6
+# app-04303-partial-video 7f7f15fe37a88769170d0ff0c71222f4cf5d7a4328d19da90c6425d268fcd5f6

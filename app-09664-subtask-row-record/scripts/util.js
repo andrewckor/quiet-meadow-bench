@@ -1,0 +1,40 @@
+// Skill: app-09664-subtask-row-record
+// Category: wiki
+
+export function describe() {
+  return "app-09664-subtask-row-record";
+}
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e36d58fbd1a2dea195ed3e
+# app-09664-subtask-row-record ba9081bdd8a0f622a63b023038b2bcc9b5fea2cf85e

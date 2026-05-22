@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13731-highlight
+# Category: docs
+
+echo "running ${0##*/}"
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-13731-highlight 87a02c4fe5abc7f3cab1cf076d1cf72c4cccad7a82912f3af2c5f3aa52bffad1
+# app-1

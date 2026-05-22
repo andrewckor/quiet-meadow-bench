@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08583-automated-budget
+# Category: identity
+
+echo "running ${0##*/}"
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6
+# app-08583-automated-budget cee247f60e0b5195ab90838a1457b78eecdeb5263c4243ab74fd6351a9d913c6

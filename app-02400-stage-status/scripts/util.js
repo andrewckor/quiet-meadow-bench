@@ -1,0 +1,9 @@
+// Skill: app-02400-stage-status
+// Category: crm
+
+export function describe() {
+  return "app-02400-stage-status";
+}
+# app-02400-stage-status 40e74f2b0384510c191e1b91b28e158c3f65fa51b3102bdac76be8d746e6b5f5
+# app-02400-stage-status 40e74f2b0384510c191e1b91b28e158c3f65fa51b3102bdac76be8d746e6b5f5
+# app-02400-stage-

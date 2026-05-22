@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19007-agreement-record-type
+# Category: docs
+
+echo "running ${0##*/}"
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec95db5e1b04ab1326e263318a18226ca26dda839bc82d4d
+# app-19007-agreement-record-type 48521c56a246f11eec9

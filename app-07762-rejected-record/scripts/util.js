@@ -1,0 +1,18 @@
+// Skill: app-07762-rejected-record
+// Category: ads
+
+export function describe() {
+  return "app-07762-rejected-record";
+}
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-record 4193f0e7bea4d5a555732f6eb8fd0b91b0c0d3dcc923c1adcc04c4b34845222c
+# app-07762-rejected-reco

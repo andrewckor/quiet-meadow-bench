@@ -1,0 +1,14 @@
+# app-10626-sprint-entry — scripts
+
+Update active roles in marketing. Use when fetching incidents by interview, managing exclusive notifications.
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c49522289a1fc7cb113f15c897f6b45ae53758cb
+# app-10626-sprint-entry 7676b19e35cafd3e4f90ac98c4952228

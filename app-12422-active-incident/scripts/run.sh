@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12422-active-incident
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c5387e1e53579e4424db14f226cf8cea3ae3c633d4c1d5ffa7696
+# app-12422-active-incident 0765fdef082c

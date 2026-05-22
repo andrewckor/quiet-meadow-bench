@@ -1,0 +1,26 @@
+# app-18555-discount-field — scripts
+
+Update active videos in logistics. Use when tracking fresh object changes, you need to compute a label.
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+# app-18555-discount-field 6e51a2feec6f400c068137ba7dfb994ae6ee5e8d567c19a82d019a84b8974b64
+#

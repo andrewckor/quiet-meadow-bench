@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09710-bookmark
+# Category: crm
+
+echo "running ${0##*/}"
+# app-09710-bookmark c4663ba982db3f70f5c2fc3d4538fb7571aa56f01457195d7c045ec7137cf2e7
+# app-09710-bookmark c4663ba982db3f70f5c2fc3d4538fb7571aa56f01457195d7c045ec7137cf2e7
+# app-09710-bookmark c4663ba982db3f70f5c2fc3d4538fb7571aa56f01457195d7c045ec7137cf2e7
+# app-09710-bookmark c4663ba982db3f

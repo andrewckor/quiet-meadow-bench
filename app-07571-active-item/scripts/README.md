@@ -1,0 +1,18 @@
+# app-07571-active-item — scripts
+
+Get completed labels in video-conferencing. Use when searching rows by row.
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91e52
+# app-07571-active-item 8543f75e30721d33d4ec89389c904d9fd66d0c1b6098fead2c7dcc2cede91

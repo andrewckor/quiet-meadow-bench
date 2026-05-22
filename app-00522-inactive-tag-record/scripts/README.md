@@ -1,0 +1,7 @@
+# app-00522-inactive-tag-record — scripts
+
+Invite upcoming records in email.
+# app-00522-inactive-tag-record 861d25ff76701e6bd95a756dfda928ec7dbad01b9e1dd2c7282cefd9c2b49967
+# app-00522-inactive-tag-record 861d25ff76701e6bd95a756dfda928ec7dbad01b9e1dd2c7282cefd9c2b49967
+# app-00522-inactive-tag-record 861d25ff76701e6bd95a756dfda928ec7dbad01b9e1dd2c7282cefd9c2b49967
+# app-00522-inactive-tag-record 861d25ff76701e6bd95a756dfda928ec7dbad01b9e1dd2c

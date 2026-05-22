@@ -1,0 +1,27 @@
+// Skill: app-02838-earliest-record-incident
+// Category: crm
+
+export function describe() {
+  return "app-02838-earliest-record-incident";
+}
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f815009132936e
+# app-02838-earliest-record-incident d34c90def9afb2fa78babb7a4627b480e131896901382490e2f8150

@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17634-bookmark-review
+# Category: hr
+
+echo "running ${0##*/}"
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf98

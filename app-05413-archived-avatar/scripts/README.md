@@ -1,0 +1,18 @@
+# app-05413-archived-avatar — scripts
+
+Group active organizations in payroll.
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-archived-avatar 92c6c80f57950baac114dddafdc16cdea32e20c19ab2ec0635df9ae482747eca
+# app-05413-arch

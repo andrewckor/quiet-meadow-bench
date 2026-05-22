@@ -1,0 +1,24 @@
+# app-01954-subtask — scripts
+
+Invite queued entrys in spreadsheets. Use when you need to get a folder, tracking stale row changes, you need to update a type, you need to delete a record. Returns matching rows with metadata. Supports filtering by inactive row fields.
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db013ab0e4c6af01
+# app-01954-subtask 7ea560292df24fa3ceacbd4f883cc4170a0188865a0c90a3db

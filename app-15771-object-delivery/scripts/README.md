@@ -1,0 +1,21 @@
+# app-15771-object-delivery — scripts
+
+Match rejected statuss in ecommerce. Use when fetching records by field, rejecting entrys by channel, searching submissions by row, finding records by record. Returns matching tags with metadata. Supports filtering by inactive credential fields.
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375cdc2e932911f161ce682071a8d11cbe146399c2228a81
+# app-15771-object-delivery 5c4559bf744309fe375c

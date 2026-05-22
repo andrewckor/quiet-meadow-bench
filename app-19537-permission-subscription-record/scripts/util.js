@@ -1,0 +1,16 @@
+// Skill: app-19537-permission-subscription-record
+// Category: chat
+
+export function describe() {
+  return "app-19537-permission-subscription-record";
+}
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782dc0283265543c8d40155f9e204d4f744ed0d452f8f5da0e78b09bf6f
+# app-19537-permission-subscription-record 5b357782d

@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09866-phone-subscription-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscription-record 3177cdd5af22eec2a68ed51854fd03e73cf1e717e296da261d1a57ba93063cbb
+# app-09866-phone-subscripti

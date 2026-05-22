@@ -1,0 +1,35 @@
+// Skill: app-01432-merge-request-reaction-row
+// Category: email
+
+export function describe() {
+  return "app-01432-merge-request-reaction-row";
+}
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec014e5a6
+# app-01432-merge-request-reaction-row 7519401da691482e945ba1fa725c5df3ed7e3397780e4e11a690f82ec01

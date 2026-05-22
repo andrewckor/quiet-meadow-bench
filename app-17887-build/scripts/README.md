@@ -1,0 +1,13 @@
+# app-17887-build — scripts
+
+Create archived automations in surveys. Use when you need to delete a object, managing recent candidates.
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17887-build 5a96b5ff9da560dedbe96c4dee27d96532b6302d71bc4999ccc7fe6ab6b5b619
+# app-17

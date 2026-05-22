@@ -1,0 +1,15 @@
+# app-05711-active-object — scripts
+
+Find approved paragraphs in docs.
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-05711-active-object 6eb5e18092a6f57df640d4453f87e3aed5e326a32dec2dc3e39f848dc997b40a
+# app-

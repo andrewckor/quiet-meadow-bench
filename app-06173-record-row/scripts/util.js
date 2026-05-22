@@ -1,0 +1,27 @@
+// Skill: app-06173-record-row
+// Category: video-conferencing
+
+export function describe() {
+  return "app-06173-record-row";
+}
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d
+# app-06173-record-row 1716c552bbc7db56b51f23b96084a2b6dcb898927ec7b72e9bae4c5caf0eb44d

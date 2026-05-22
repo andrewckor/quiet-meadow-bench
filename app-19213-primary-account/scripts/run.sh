@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19213-primary-account
+# Category: file-sharing
+
+echo "running ${0##*/}"
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a2f34
+# app-19213-primary-account 0bfce4efdc19c99c6ccd859fb48d1acc4a4570981bf533e1c31d5b7cfb0a

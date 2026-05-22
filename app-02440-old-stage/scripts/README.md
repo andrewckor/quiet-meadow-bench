@@ -1,0 +1,24 @@
+# app-02440-old-stage — scripts
+
+Update deleted leads in crm. Use when managing succeeded sprints.
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe11137
+# app-02440-old-stage cb91ca67ca9b2bcbca1848e63b40b4f447eece550facded123fcfa449fe

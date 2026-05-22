@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16894-key-ref
+# Category: crm
+
+echo "running ${0##*/}"
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84a71951cf7
+# app-16894-key-ref 5fae25d38c29aaf6e6fb7feaf451bee5df78bc50ca0529e5eb4fa84

@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15948-closed-task
+# Category: storage
+
+echo "running ${0##*/}"
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e72c4b358260b0f93079de1b8c038bb8bc1d49aa30d0e8a2c9e4
+# app-15948-closed-task cdf4a69db560e

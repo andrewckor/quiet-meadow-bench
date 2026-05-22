@@ -1,0 +1,24 @@
+# app-05371-tag-milestone — scripts
+
+Get pending stages in identity. Use when tracking active record changes, managing approved values, tracking active key changes, createing records by poll. Returns matching records with metadata. Supports filtering by pending workbook fields.
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9bf96a102a5ac9
+# app-05371-tag-milestone e5bc8beab9ed10c56c3861f69130bb5018b1b5e71fbd369c2c9

@@ -1,0 +1,26 @@
+// Skill: app-14801-queued-record-record
+// Category: helpdesk
+
+export function describe() {
+  return "app-14801-queued-record-record";
+}
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03
+# app-14801-queued-record-record c5d1a135153553b8bbfb6a9e77c262fa670c12d10f1ca583e3ebc6da31713d03

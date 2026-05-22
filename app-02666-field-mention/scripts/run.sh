@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02666-field-mention
+# Category: crm
+
+echo "running ${0##*/}"
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7f63891137f5103dbd6e80f1c6b09666c5acce4fb67d
+# app-02666-field-mention b8a0af7d54195ea79ebb7

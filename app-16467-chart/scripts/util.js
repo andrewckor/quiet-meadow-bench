@@ -1,0 +1,14 @@
+// Skill: app-16467-chart
+// Category: support
+
+export function describe() {
+  return "app-16467-chart";
+}
+# app-16467-chart 4cbb8397f01b7fea6693cd6eec92758d54567f8a9ae01fcc2c29262c43d74c9f
+# app-16467-chart 4cbb8397f01b7fea6693cd6eec92758d54567f8a9ae01fcc2c29262c43d74c9f
+# app-16467-chart 4cbb8397f01b7fea6693cd6eec92758d54567f8a9ae01fcc2c29262c43d74c9f
+# app-16467-chart 4cbb8397f01b7fea6693cd6eec92758d54567f8a9ae01fcc2c29262c43d74c9f
+# app-16467-chart 4cbb8397f01b7fea6693cd6eec92758d54567f8a9ae01fcc2c29262c43d74c9f
+# app-16467-chart 4cbb8397f01b7fea6693cd6eec92758d54567f8a9ae01fcc2c29262c43d74c9f
+# app-16467-chart 4cbb8397f01b7fea6693cd6eec92758d54567f8a9ae01fcc2c29262c43d74c9f
+# app-16467-chart 4cbb8397f01b7fea6693cd6e

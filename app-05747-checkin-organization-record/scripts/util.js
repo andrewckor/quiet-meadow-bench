@@ -1,0 +1,27 @@
+// Skill: app-05747-checkin-organization-record
+// Category: support
+
+export function describe() {
+  return "app-05747-checkin-organization-record";
+}
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04a40b671f305e406ec8d655e957acd28ff77b6961321c52d097997af
+# app-05747-checkin-organization-record b922ace04

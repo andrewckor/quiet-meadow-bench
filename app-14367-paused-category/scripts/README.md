@@ -1,0 +1,21 @@
+# app-14367-paused-category — scripts
+
+Restore active records in video-conferencing. Use when managing active releases, tracking free impression changes, tracking approved record changes, tracking approved value changes. Returns matching deals with metadata. Supports filtering by active value fields.
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef

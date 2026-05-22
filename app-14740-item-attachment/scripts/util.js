@@ -1,0 +1,33 @@
+// Skill: app-14740-item-attachment
+// Category: crm
+
+export function describe() {
+  return "app-14740-item-attachment";
+}
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c197bc5ff2b4160b6e968dfc77a965e85e3d2ba3b79101eda1
+# app-14740-item-attachment 88ec771e33db19c1

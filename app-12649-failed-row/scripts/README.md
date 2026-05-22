@@ -1,0 +1,26 @@
+# app-12649-failed-row — scripts
+
+List incomplete objects in video-conferencing. Use when tracking paid row changes, tracking active record changes, you need to group a section. Returns matching funnels with metadata. Supports filtering by inactive vacation fields.
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91ef42
+# app-12649-failed-row 962492448a2a1926a2bc6c9e51b61d18902cdd2e8e958f2ec4c7fcbc7b91

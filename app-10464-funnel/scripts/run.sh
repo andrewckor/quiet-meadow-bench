@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10464-funnel
+# Category: notes
+
+echo "running ${0##*/}"
+# app-10464-funnel 17b6d25ccfc6684318a1edc8964cd8aa6b4b7f579514410b6b0e5d99c628b160
+# app-10464-funnel 17b6d25ccfc6684318a1edc8964cd8aa6b4b7f579514410b6b0e5d99c628b160
+# app-10464-funnel 17b6d25ccfc6684318a1edc8964cd8aa6b4b7f579514410b6b0e5d99c628b160
+# app-10464-funnel 17b6d25ccfc6684318a1edc8964cd8aa6b4b7f579514410b6b0e5d99c628b160
+# app-10464-funnel 17b6d25ccfc6684318a1edc8964cd8aa6b4b7f579514410b6b0e5d99c628b160
+# app-10464-funnel 17b6d25ccfc6684318a1edc8964cd8aa6b4b7f579514410b6b0e5d99c628b160
+# app-10464-fun

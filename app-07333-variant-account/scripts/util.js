@@ -1,0 +1,19 @@
+// Skill: app-07333-variant-account
+// Category: email
+
+export function describe() {
+  return "app-07333-variant-account";
+}
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d3eb1e020f9865acfff4
+# app-07333-variant-account c911a4efef04766b8868a257e389c44e06ed36909587d

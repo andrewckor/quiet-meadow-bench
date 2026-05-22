@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06064-ref-session
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594fecfc6bda7f4f8b
+# app-06064-ref-session b6027a2055ba88cc9335385e19ec2e915962fba31c7366594

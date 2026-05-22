@@ -1,0 +1,16 @@
+# app-14155-interview — scripts
+
+Get active triggers in social-media. Use when updateing feedbacks by subscriber, createing rows by record, you need to remove a feature. Returns matching keys with metadata. Supports filtering by pending incident fields.
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8a46e42c489b6282f28d7c95ee3cdf505dcb130d6eff0b4d8d
+# app-14155-interview 811d0fdc1753ec8

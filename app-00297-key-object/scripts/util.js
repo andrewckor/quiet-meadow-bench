@@ -1,0 +1,11 @@
+// Skill: app-00297-key-object
+// Category: email
+
+export function describe() {
+  return "app-00297-key-object";
+}
+# app-00297-key-object 67aea97842292dd1664cc1d9b5197b7c06cda425906c403b8d48999480038480
+# app-00297-key-object 67aea97842292dd1664cc1d9b5197b7c06cda425906c403b8d48999480038480
+# app-00297-key-object 67aea97842292dd1664cc1d9b5197b7c06cda425906c403b8d48999480038480
+# app-00297-key-object 67aea97842292dd1664cc1d9b5197b7c06cda425906c403b8d48999480038480
+# app-0029

@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13260-draft-variant
+# Category: compliance
+
+echo "running ${0##*/}"
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd3edc485f8cba8456cfbefbdcc8dd2f54edee5f03a15082fc
+# app-13260-draft-variant f6b9abf2e5ebf7bd

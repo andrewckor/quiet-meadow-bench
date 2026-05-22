@@ -1,0 +1,11 @@
+# app-15335-overdue-record — scripts
+
+Send active deals in helpdesk. Use when removeing statuss by row.
+# app-15335-overdue-record 4148800caadc82958740bf8afaffdabdf6c1dd25e6eadc6eb74597f1fe292426
+# app-15335-overdue-record 4148800caadc82958740bf8afaffdabdf6c1dd25e6eadc6eb74597f1fe292426
+# app-15335-overdue-record 4148800caadc82958740bf8afaffdabdf6c1dd25e6eadc6eb74597f1fe292426
+# app-15335-overdue-record 4148800caadc82958740bf8afaffdabdf6c1dd25e6eadc6eb74597f1fe292426
+# app-15335-overdue-record 4148800caadc82958740bf8afaffdabdf6c1dd25e6eadc6eb74597f1fe292426
+# app-15335-overdue-record 4148800caadc82958740bf8afaffdabdf6c1dd25e6eadc6eb74597f1fe292426
+# app-15335-overdue-record 4148800caadc82958740bf8afaffdabdf6c1dd25e6eadc6eb74597f1fe292426
+# app-15335-overdue-record 4148800caadc82958740bf8afaffdabdf6c1dd25e6eadc6eb7

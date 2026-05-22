@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19412-active-record
+# Category: subscriptions
+
+echo "running ${0##*/}"
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record 94f30c387e5ebc066a4bda150b9ec1c52fdaf23f67dca4e19fa2148820b4525b
+# app-19412-active-record

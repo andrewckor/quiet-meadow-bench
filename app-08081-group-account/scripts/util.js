@@ -1,0 +1,20 @@
+// Skill: app-08081-group-account
+// Category: email
+
+export function describe() {
+  return "app-08081-group-account";
+}
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d2296b2fdc70a740137dac73e342cebcc867285f3ecef09aa437a393
+# app-08081-group-account a0db63d2d22

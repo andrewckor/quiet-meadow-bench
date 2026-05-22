@@ -1,0 +1,35 @@
+# app-17391-item-deal-config — scripts
+
+Create active workbooks in crm. Use when exporting records by kind, tracking draft record changes.
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a56040aed664971fd56cfb
+# app-17391-item-deal-config 706058b2da23f93cdfdb815eaaa61a95849393aff4a5

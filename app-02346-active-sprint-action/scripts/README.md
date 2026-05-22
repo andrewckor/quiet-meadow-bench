@@ -1,0 +1,15 @@
+# app-02346-active-sprint-action — scripts
+
+Tag pending reports in booking. Use when deleteing records by block, restoreing items by row.
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c6d77ee8ebadb870392185c4dc8824
+# app-02346-active-sprint-action dd92f5bc58491f6707f28a0191c68584f2c

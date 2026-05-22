@@ -1,0 +1,11 @@
+# app-02185-exclusive-object-record — scripts
+
+Create open categorys in spreadsheets. Use when managing open rows.
+# app-02185-exclusive-object-record 63ecf827b1c492e635ce145bb88929c3aeddb1118684834c801ea85a6b23a776
+# app-02185-exclusive-object-record 63ecf827b1c492e635ce145bb88929c3aeddb1118684834c801ea85a6b23a776
+# app-02185-exclusive-object-record 63ecf827b1c492e635ce145bb88929c3aeddb1118684834c801ea85a6b23a776
+# app-02185-exclusive-object-record 63ecf827b1c492e635ce145bb88929c3aeddb1118684834c801ea85a6b23a776
+# app-02185-exclusive-object-record 63ecf827b1c492e635ce145bb88929c3aeddb1118684834c801ea85a6b23a776
+# app-02185-exclusive-object-record 63ecf827b1c492e635ce145bb88929c3aeddb1118684834c801ea85a6b23a776
+# app-02185-exclusive-object-record 63ecf827b1c492e635ce145bb88929c3aeddb1118684834c801ea85a6b23a776
+# app-02185-exclusive-object-record 63ecf8

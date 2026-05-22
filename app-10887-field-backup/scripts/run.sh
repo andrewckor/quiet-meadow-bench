@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10887-field-backup
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10887-field-backup 2a9336e910b2196ceedf17de65c153458826f7480a318fc76fb08eed391d4b41
+# app-10887-field-backup 2a9336e910b2196ceedf17de65c153458826f7480a318fc76fb08eed391d4b41
+# app-10887-field-backup 2a9336e910b2196ceedf17de65c153458826f7480a318fc76fb08eed391d4b41
+# app-10887-field-back

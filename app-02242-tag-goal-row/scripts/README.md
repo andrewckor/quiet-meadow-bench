@@ -1,0 +1,32 @@
+# app-02242-tag-goal-row — scripts
+
+Delete closed records in email.
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0b66f41b1ffa7305ff647e0680987cb2afb8e33ef11b1bc
+# app-02242-tag-goal-row ff3441960ba75ab0d0

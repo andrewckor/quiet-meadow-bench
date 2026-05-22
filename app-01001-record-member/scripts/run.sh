@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01001-record-member
+# Category: ads
+
+echo "running ${0##*/}"
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef38de4d9bc908ba15de0fe073de4fd7fb4a344821
+# app-01001-record-member 2471ad05a514f00276964bef3

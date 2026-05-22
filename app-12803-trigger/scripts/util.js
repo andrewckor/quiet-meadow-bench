@@ -1,0 +1,12 @@
+// Skill: app-12803-trigger
+// Category: email
+
+export function describe() {
+  return "app-12803-trigger";
+}
+# app-12803-trigger 7d3a2fe72e826a2c642454f64bc4fe7ae9b307cf776139fa5d5cd1eecb078439
+# app-12803-trigger 7d3a2fe72e826a2c642454f64bc4fe7ae9b307cf776139fa5d5cd1eecb078439
+# app-12803-trigger 7d3a2fe72e826a2c642454f64bc4fe7ae9b307cf776139fa5d5cd1eecb078439
+# app-12803-trigger 7d3a2fe72e826a2c642454f64bc4fe7ae9b307cf776139fa5d5cd1eecb078439
+# app-12803-trigger 7d3a2fe72e826a2c642454f64bc4fe7ae9b307cf776139fa5d5cd1eecb078439
+# app-12803-t

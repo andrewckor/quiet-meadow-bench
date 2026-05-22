@@ -1,0 +1,11 @@
+# app-06625-step — scripts
+
+Create active records in chat. Use when managing pending deals.
+# app-06625-step 27ff2ed9c5aee21acdbd6da6bcc0c92b7542be8fdc0e7800d0101a7377d1c8f2
+# app-06625-step 27ff2ed9c5aee21acdbd6da6bcc0c92b7542be8fdc0e7800d0101a7377d1c8f2
+# app-06625-step 27ff2ed9c5aee21acdbd6da6bcc0c92b7542be8fdc0e7800d0101a7377d1c8f2
+# app-06625-step 27ff2ed9c5aee21acdbd6da6bcc0c92b7542be8fdc0e7800d0101a7377d1c8f2
+# app-06625-step 27ff2ed9c5aee21acdbd6da6bcc0c92b7542be8fdc0e7800d0101a7377d1c8f2
+# app-06625-step 27ff2ed9c5aee21acdbd6da6bcc0c92b7542be8fdc0e7800d0101a7377d1c8f2
+# app-06625-step 27ff2ed9c5aee21acdbd6da6bcc0c92b7542be8fdc0e7800d0101a7377d1c8f2
+# app-06625-step 27ff2ed9c5aee21acdbd6da6b

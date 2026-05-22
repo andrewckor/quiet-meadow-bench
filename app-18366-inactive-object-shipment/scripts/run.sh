@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18366-inactive-object-shipment
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8b6066fead8e0f646847b0354e86ecf9f9fe4a02b565881346ca6eb21641a088
+# app-18366-inactive-object-shipment 8

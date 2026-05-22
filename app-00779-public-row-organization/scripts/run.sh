@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00779-public-row-organization
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f96d8a991aec42722c092cc006e
+# app-00779-public-row-organization 9404a633e34b3d8a03ff186d147e324d13a93f

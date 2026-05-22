@@ -1,0 +1,23 @@
+// Skill: app-00733-chart-trigger-credential
+// Category: chat
+
+export function describe() {
+  return "app-00733-chart-trigger-credential";
+}
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-00733-chart-trigger-credential d496a7e2b3d8ec17cc248c6599d6b3f60c7eaeb930575ebea4af452669dbfbe3
+# app-0073

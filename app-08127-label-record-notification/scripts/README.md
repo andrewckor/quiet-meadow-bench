@@ -1,0 +1,25 @@
+# app-08127-label-record-notification — scripts
+
+Tag inactive builds in subscriptions. Use when assigning records by entry, tracking queued entry changes, managing closed rows. Returns matching groups with metadata. Supports filtering by deleted product fields.
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6488c0f093f253cb9f77efc75d8859cc92c8074868253
+# app-08127-label-record-notification eed692c2784ff1454ad6

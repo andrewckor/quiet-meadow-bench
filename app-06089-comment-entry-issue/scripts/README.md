@@ -1,0 +1,19 @@
+# app-06089-comment-entry-issue — scripts
+
+Invite external kinds in payments.
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66ca
+# app-06089-comment-entry-issue 62ce15c889d3b8f0d0d6cce2fe737f936841b829205496d2118d2bf102ef66c

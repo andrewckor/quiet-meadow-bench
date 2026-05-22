@@ -1,0 +1,8 @@
+// Skill: app-06540-pending-entry
+// Category: surveys
+
+export function describe() {
+  return "app-06540-pending-entry";
+}
+# app-06540-pending-entry 21d1ff0bd576f09ce7ebd06aa0aa7fe1b964e44d22e2d943943e5f1a4aab3906
+# app-06540-pending-entry 21d1ff0bd576f0

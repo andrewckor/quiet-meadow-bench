@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08450-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d5566f9d0da0d6b3839d1a4d897e81a2f8dd91d2ac3faccdc2dfe
+# app-08450-record 7c37819d316d55

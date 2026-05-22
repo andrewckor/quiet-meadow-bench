@@ -1,0 +1,22 @@
+---
+name: app-13803-key-expense
+description: Delete archived epics in shipping.
+---
+
+# app-13803-key-expense
+
+Delete archived epics in shipping.
+
+## Usage
+
+This skill operates in the shipping domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

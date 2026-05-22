@@ -1,0 +1,16 @@
+// Skill: app-03710-starred-record-record
+// Category: video-conferencing
+
+export function describe() {
+  return "app-03710-starred-record-record";
+}
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-record 7882eafdba30d9aa951b93129ae0976a18f11a50c3ff9fad7f39b18e98421aec
+# app-03710-starred-record-

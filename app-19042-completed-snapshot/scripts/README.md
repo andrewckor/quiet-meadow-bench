@@ -1,0 +1,12 @@
+# app-19042-completed-snapshot — scripts
+
+Convert deleted balances in docs.
+# app-19042-completed-snapshot 6de68d3343ffcb3bbb00823b6c2b77fc30fabac1ee16165bcc8893569d1a8c3e
+# app-19042-completed-snapshot 6de68d3343ffcb3bbb00823b6c2b77fc30fabac1ee16165bcc8893569d1a8c3e
+# app-19042-completed-snapshot 6de68d3343ffcb3bbb00823b6c2b77fc30fabac1ee16165bcc8893569d1a8c3e
+# app-19042-completed-snapshot 6de68d3343ffcb3bbb00823b6c2b77fc30fabac1ee16165bcc8893569d1a8c3e
+# app-19042-completed-snapshot 6de68d3343ffcb3bbb00823b6c2b77fc30fabac1ee16165bcc8893569d1a8c3e
+# app-19042-completed-snapshot 6de68d3343ffcb3bbb00823b6c2b77fc30fabac1ee16165bcc8893569d1a8c3e
+# app-19042-completed-snapshot 6de68d3343ffcb3bbb00823b6c2b77fc30fabac1ee16165bcc8893569d1a8c3e
+# app-19042-completed-snapshot 6de68d3343ffcb3bbb00823b6c2b77fc30fabac1ee16165bcc8893569d1a8c3e
+# app-19042-completed-snapshot 6de68d3343ffcb3bb

@@ -1,0 +1,34 @@
+// Skill: app-14781-active-setting
+// Category: email
+
+export function describe() {
+  return "app-14781-active-setting";
+}
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1dc5428a27f2aa46d7016f4ec41c03276c519f6cc84078972eff
+# app-14781-active-setting ae96e6fac95f1

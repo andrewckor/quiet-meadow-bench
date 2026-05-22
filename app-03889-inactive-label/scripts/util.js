@@ -1,0 +1,11 @@
+// Skill: app-03889-inactive-label
+// Category: ci-cd
+
+export function describe() {
+  return "app-03889-inactive-label";
+}
+# app-03889-inactive-label 6a59fdd8c284161c0a83231499d1c0b9b46b97053c6394abb0a32845723726c0
+# app-03889-inactive-label 6a59fdd8c284161c0a83231499d1c0b9b46b97053c6394abb0a32845723726c0
+# app-03889-inactive-label 6a59fdd8c284161c0a83231499d1c0b9b46b97053c6394abb0a32845723726c0
+# app-03889-inactive-label 6a59fdd8c284161c0a83231499d1c0b9b46b97053c6394abb0a32845723726c0
+# app-03889-inactive-label 6a59fdd8c284161c0a83231499d1c0b9b46b97053c6394abb0a32845723726

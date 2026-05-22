@@ -1,0 +1,12 @@
+# app-12131-item-record-stage — scripts
+
+List rejected tables in ticketing.
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6a62fc9e5af3286142
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6a62fc9e5af3286142
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6a62fc9e5af3286142
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6a62fc9e5af3286142
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6a62fc9e5af3286142
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6a62fc9e5af3286142
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6a62fc9e5af3286142
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6a62fc9e5af3286142
+# app-12131-item-record-stage 0c2a5d99bbdc94a9822b202a1438cb48643e38c4e1ef1b6

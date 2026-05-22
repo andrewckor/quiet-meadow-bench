@@ -1,0 +1,38 @@
+// Skill: app-17692-item-subtask
+// Category: crm
+
+export function describe() {
+  return "app-17692-item-subtask";
+}
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5cda80bb614
+# app-17692-item-subtask 50152eeddbc7edfe94668583ce50d9aeed63c58a3fdfaf1b6cc0a5

@@ -1,0 +1,37 @@
+// Skill: app-05644-inactive-span
+// Category: helpdesk
+
+export function describe() {
+  return "app-05644-inactive-span";
+}
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc1667f08
+# app-05644-inactive-span 82b2b1ef342d67e910462aea29eeca1abcc9666d4f84d49c9a9cf42fc16

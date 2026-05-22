@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03657-candidate-record-id
+# Category: crm
+
+echo "running ${0##*/}"
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-cand

@@ -1,0 +1,12 @@
+// Skill: app-03088-signature-plan
+// Category: docs
+
+export function describe() {
+  return "app-03088-signature-plan";
+}
+# app-03088-signature-plan f3aaa622944265ca2d2206ec136cf9cf58f244ac0b103d004f87ff13aa6eedc0
+# app-03088-signature-plan f3aaa622944265ca2d2206ec136cf9cf58f244ac0b103d004f87ff13aa6eedc0
+# app-03088-signature-plan f3aaa622944265ca2d2206ec136cf9cf58f244ac0b103d004f87ff13aa6eedc0
+# app-03088-signature-plan f3aaa622944265ca2d2206ec136cf9cf58f244ac0b103d004f87ff13aa6eedc0
+# app-03088-signature-plan f3aaa622944265ca2d2206ec136cf9cf58f244ac0b103d004f87ff13aa6eedc0
+# app-03088-signature-plan f3aaa622944265ca2d2206ec136c

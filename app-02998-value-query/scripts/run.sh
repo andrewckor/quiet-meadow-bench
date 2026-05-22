@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02998-value-query
+# Category: payments
+
+echo "running ${0##*/}"
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55b

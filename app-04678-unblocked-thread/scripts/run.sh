@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04678-unblocked-thread
+# Category: logistics
+
+echo "running ${0##*/}"
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04678-unblocked-thread 8a3208528e9dde029e2628b33dd71f3338ab4cca14bf7acecb730c6f4523cda8
+# app-04

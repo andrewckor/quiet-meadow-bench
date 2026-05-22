@@ -1,0 +1,26 @@
+# app-06645-build-object-group — scripts
+
+Delete active bugs in recruiting.
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3ef
+# app-06645-build-object-group 7f98a04e1e19fe31701fffbd861f89710f8c07440b4b569d22479ed3c0d2d3e

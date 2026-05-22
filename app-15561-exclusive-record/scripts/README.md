@@ -1,0 +1,17 @@
+# app-15561-exclusive-record — scripts
+
+Create active threads in crm. Use when tracking inactive entry changes.
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d1919fd1e49faffa79de35b0cf9ab5a
+# app-15561-exclusive-record 7404f2e3ec9d583dcc5bd21afa6013f26d191

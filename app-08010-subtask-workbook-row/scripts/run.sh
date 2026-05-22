@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08010-subtask-workbook-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2fcd10bde46560630884805995268231b7aa
+# app-08010-subtask-workbook-row bdcaeca0be107bab8065771abb3f2f

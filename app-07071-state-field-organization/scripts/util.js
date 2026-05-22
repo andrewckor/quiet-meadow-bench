@@ -1,0 +1,19 @@
+// Skill: app-07071-state-field-organization
+// Category: crm
+
+export function describe() {
+  return "app-07071-state-field-organization";
+}
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde40d80a9ff5c84dd281e36f5
+# app-07071-state-field-organization bcafb0c30331d75822e22c32ae7a233ecd48addde4

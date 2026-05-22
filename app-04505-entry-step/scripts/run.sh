@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04505-entry-step
+# Category: pos
+
+echo "running ${0##*/}"
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-04505-entry-step 3ece094ae4c1f2c583e3b72996cfa1ad0edb553a32af8ab84c07855c107c5b1f
+# app-0450

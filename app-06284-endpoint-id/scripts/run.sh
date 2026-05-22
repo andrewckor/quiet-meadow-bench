@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06284-endpoint-id
+# Category: email
+
+echo "running ${0##*/}"
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48da5a8
+# app-06284-endpoint-id 782ca7ce3bb144d96652b939923cafccde98e358c396917cc7311cf3f48d

@@ -1,0 +1,28 @@
+// Skill: app-04092-primary-ref
+// Category: video-conferencing
+
+export function describe() {
+  return "app-04092-primary-ref";
+}
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf8770
+# app-04092-primary-ref a7c06236f46db00a6e1b327afed3dcda19a9f1d8b6579ba38ced079ae9cf

@@ -1,0 +1,22 @@
+---
+name: app-09235-record
+description: Receive pending values in crm. Use when you need to archive a session, tracking rejected type changes.
+---
+
+# app-09235-record
+
+Receive pending values in crm. Use when you need to archive a session, tracking rejected type changes.
+
+## Usage
+
+This skill operates in the crm domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

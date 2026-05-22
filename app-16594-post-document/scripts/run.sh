@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16594-post-document
+# Category: chat
+
+echo "running ${0##*/}"
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab605bc3effcd48b
+# app-16594-post-document 62348ea26022e2ac822fea901cf0d216b95513acae84d3d1ab6

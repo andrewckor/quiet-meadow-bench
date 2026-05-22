@@ -1,0 +1,15 @@
+# app-14873-object — scripts
+
+Create pending entrys in crm. Use when tracking fresh summary changes.
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526ebf073c
+# app-14873-object 89fe1b5fbd52cfa9dfbd92bbf7464ddd5b260d29f180d2db917c13526

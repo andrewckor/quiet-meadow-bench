@@ -1,0 +1,12 @@
+# app-05557-object-row-record — scripts
+
+Fetch active stages in invoicing.
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507ee68c48b0addd43dbc7369b6958b00f3f
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507ee68c48b0addd43dbc7369b6958b00f3f
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507ee68c48b0addd43dbc7369b6958b00f3f
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507ee68c48b0addd43dbc7369b6958b00f3f
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507ee68c48b0addd43dbc7369b6958b00f3f
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507ee68c48b0addd43dbc7369b6958b00f3f
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507ee68c48b0addd43dbc7369b6958b00f3f
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507ee68c48b0addd43dbc7369b6958b00f3f
+# app-05557-object-row-record 9b83409c3d78c6f352407a3b7320507e

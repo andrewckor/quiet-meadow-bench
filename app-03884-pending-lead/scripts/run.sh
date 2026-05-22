@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03884-pending-lead
+# Category: email
+
+echo "running ${0##*/}"
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6b80d22120e63522bcefb3b6295c0156ee896
+# app-03884-pending-lead e7bfc50da9bf5bb79600b8b96fd6

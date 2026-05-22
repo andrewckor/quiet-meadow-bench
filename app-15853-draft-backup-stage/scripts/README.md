@@ -1,0 +1,23 @@
+# app-15853-draft-backup-stage — scripts
+
+Get active permissions in crm. Use when updateing records by stage, tracking inactive phase changes.
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9abdde1c924a6091480b63a655d8db6df37bb226d80ed2b2159f
+# app-15853-draft-backup-stage d7b1f38adf6b9ab

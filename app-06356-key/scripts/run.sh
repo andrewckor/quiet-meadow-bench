@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06356-key
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d4520757b53a2e518cecb7a4f
+# app-06356-key 2a7cd55b3a3ea58b3f59abdf1fabc26aed85901d45

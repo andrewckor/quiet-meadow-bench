@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10265-closed-entry
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-10265-closed-entry e37f44356b9d383e64950637fc76cdfd1efa7def9d2e3d2c63479db7a1d32e80
+# app-10265-closed-entry e37f44356b9d383e64950637fc76cdfd1efa7def9d2e3d2c63479db7a1d32e80
+# app-10265-closed-entry e37f44356b9d383e64950637fc76cdfd1efa7def9d2e3d2c63479db7a1d32e80
+# app-10265-closed-entry e37f44356b9d383e64950637fc76cdfd1efa7def9d2e3d2c63479db7a1d32e80
+# app-10265-closed-entry e37f44356b9d383e64950637fc76cdfd

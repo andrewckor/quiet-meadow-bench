@@ -1,0 +1,43 @@
+// Skill: app-01439-inactive-row-key
+// Category: logistics
+
+export function describe() {
+  return "app-01439-inactive-row-key";
+}
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31503fc5e6f48f10d60e
+# app-01439-inactive-row-key af410f2e75c81e6fb2bac4db40a0221514288ef12d7a31

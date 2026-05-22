@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06453-cell-entry-setting
+# Category: payments
+
+echo "running ${0##*/}"
+# app-06453-cell-entry-setting 02c42ba88147241e31a29b41a67896bd72dc49f85ff500c332957ca8d0147e34
+# app-06453-cell-entry-setting 02c42ba88147241e31a29b41a67896bd72dc49

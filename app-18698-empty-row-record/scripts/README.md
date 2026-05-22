@@ -1,0 +1,25 @@
+# app-18698-empty-row-record — scripts
+
+Update active records in crm. Use when managing pending deals.
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb84cc8c52647f0d3228a8369e3e8110eacde46aa3d93085caff775ab1e9
+# app-18698-empty-row-record 0fe3bb8

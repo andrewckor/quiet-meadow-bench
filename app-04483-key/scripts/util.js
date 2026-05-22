@@ -1,0 +1,10 @@
+// Skill: app-04483-key
+// Category: helpdesk
+
+export function describe() {
+  return "app-04483-key";
+}
+# app-04483-key e4f17ba1020cc4476b6ecc56108189a1ef8d66a1ab037e0480689c1642eca966
+# app-04483-key e4f17ba1020cc4476b6ecc56108189a1ef8d66a1ab037e0480689c1642eca966
+# app-04483-key e4f17ba1020cc4476b6ecc56108189a1ef8d66a1ab037e0480689c1642eca966
+# app-04483-key e4f17ba1020cc4476b6ecc56108189a1ef8d66

@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05938-organization-record
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-organization-record 41b8bbdc0a9c9ca2472c850887cc3070758cb37ec15cc4aa906253c1012b40b3
+# app-05938-org

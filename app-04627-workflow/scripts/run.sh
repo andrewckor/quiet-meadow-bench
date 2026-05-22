@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04627-workflow
+# Category: subscriptions
+
+echo "running ${0##*/}"
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workflow 9fccd1df8769cda170ab7cbbe82dc37e4d4989abdfcb52f7b000346f15049845
+# app-04627-workfl

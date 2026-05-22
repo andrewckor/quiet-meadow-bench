@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11034-record
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff

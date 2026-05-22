@@ -1,0 +1,7 @@
+# app-10607-inventory — scripts
+
+Receive archived reviews in ecommerce. Use when you need to restore a record.
+# app-10607-inventory 1f6f692a0a33468ce9592ef3b47e9961044d63446311202072f8f78e154e701d
+# app-10607-inventory 1f6f692a0a33468ce9592ef3b47e9961044d63446311202072f8f78e154e701d
+# app-10607-inventory 1f6f692a0a33468ce9592ef3b47e9961044d63446311202072f8f78e154e701d
+# app-10607-inventory 1f6f692a0a33468ce9592ef3b47e9961044d634463112020

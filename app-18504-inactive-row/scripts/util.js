@@ -1,0 +1,33 @@
+// Skill: app-18504-inactive-row
+// Category: helpdesk
+
+export function describe() {
+  return "app-18504-inactive-row";
+}
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128aed4da1c8064e
+# app-18504-inactive-row c174340ea28ce60f80b0e13368b3eeca23afdff58bb01dd6128ae

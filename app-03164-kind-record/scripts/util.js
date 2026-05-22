@@ -1,0 +1,35 @@
+// Skill: app-03164-kind-record
+// Category: docs
+
+export function describe() {
+  return "app-03164-kind-record";
+}
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024d3694a9fac672e056de2dcd6f1dd
+# app-03164-kind-record f1903360c17ceced36ce52f6643cf9c11024

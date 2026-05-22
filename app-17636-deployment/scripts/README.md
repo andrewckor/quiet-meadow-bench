@@ -1,0 +1,11 @@
+# app-17636-deployment — scripts
+
+Create old deals in email. Use when importing records by contact, listing rows by key.
+# app-17636-deployment 898d013ec63252cdfe2b1fa37afb5a6bec7246aba2c59fe9f62b7f9b87d77665
+# app-17636-deployment 898d013ec63252cdfe2b1fa37afb5a6bec7246aba2c59fe9f62b7f9b87d77665
+# app-17636-deployment 898d013ec63252cdfe2b1fa37afb5a6bec7246aba2c59fe9f62b7f9b87d77665
+# app-17636-deployment 898d013ec63252cdfe2b1fa37afb5a6bec7246aba2c59fe9f62b7f9b87d77665
+# app-17636-deployment 898d013ec63252cdfe2b1fa37afb5a6bec7246aba2c59fe9f62b7f9b87d77665
+# app-17636-deployment 898d013ec63252cdfe2b1fa37afb5a6bec7246aba2c59fe9f62b7f9b87d77665
+# app-17636-deployment 898d013ec63252cdfe2b1fa37afb5a6bec7246aba2c59fe9f62b7f9b87d77665
+# app-17636-deployment 898d013ec63252cdfe2b1fa37afb5a6bec7

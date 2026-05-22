@@ -1,0 +1,11 @@
+// Skill: app-17828-label-row-kind
+// Category: email
+
+export function describe() {
+  return "app-17828-label-row-kind";
+}
+# app-17828-label-row-kind 59e55f7866a27925ca2ad92fd2563aeffcb54356e97c05df71cf46166e502663
+# app-17828-label-row-kind 59e55f7866a27925ca2ad92fd2563aeffcb54356e97c05df71cf46166e502663
+# app-17828-label-row-kind 59e55f7866a27925ca2ad92fd2563aeffcb54356e97c05df71cf46166e502663
+# app-17828-label-row-kind 59e55f7866a27925ca2ad92fd2563aeffcb54356e97c05df71cf46166e502663
+# app-17828-label-row-kind 59e55f7866a27925ca2ad92fd2563aeffcb54356e97c05df71cf46166e5

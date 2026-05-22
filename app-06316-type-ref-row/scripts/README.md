@@ -1,0 +1,16 @@
+# app-06316-type-ref-row — scripts
+
+Add active records in video-conferencing.
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678dc48ebe3178ab497a6511f00b3df35a4
+# app-06316-type-ref-row a7bf32a3b1b00bceb8a9077c82d75678d

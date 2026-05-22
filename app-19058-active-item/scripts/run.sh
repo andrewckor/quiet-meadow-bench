@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19058-active-item
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# app-19058-active-item d358285a7cb27f8b3fc0cdf87d26917aa76051217a3aa3c80355fffa656dc64a
+# 

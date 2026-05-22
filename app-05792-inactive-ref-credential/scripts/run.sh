@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05792-inactive-ref-credential
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf9bd71f557c75c87308c31a809b60944d6e50e4cc0511a320f64f964cc0
+# app-05792-inactive-ref-credential d676bf

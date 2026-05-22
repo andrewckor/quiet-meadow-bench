@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05710-record-permission-audience
+# Category: payments
+
+echo "running ${0##*/}"
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-record-permission-audience f66987b86ce8359885fa8a7faa1d9e281f2b95e829afa8dc50c8e3f796e02888
+# app-05710-reco

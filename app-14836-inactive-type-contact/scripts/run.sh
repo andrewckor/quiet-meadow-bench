@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14836-inactive-type-contact
+# Category: crm
+
+echo "running ${0##*/}"
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9e634d442fe0c7d2711d0d2c274bc3deb57a6ce238cadefabbf657c00d59eb0
+# app-14836-inactive-type-contact c9

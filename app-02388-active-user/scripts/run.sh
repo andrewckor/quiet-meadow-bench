@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02388-active-user
+# Category: crm
+
+echo "running ${0##*/}"
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a17ceddc02bae5aa06fd67e6cb845e9bebde8886e19beb691a
+# app-02388-active-user 62d8216afdc731a

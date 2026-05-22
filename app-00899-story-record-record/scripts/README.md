@@ -1,0 +1,20 @@
+# app-00899-story-record-record — scripts
+
+React open alerts in project-management.
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a7314c94a3ec61463bfc6e7c6651d1e00e29a10ef35837c
+# app-00899-story-record-record c3a526c967e809bf9a731

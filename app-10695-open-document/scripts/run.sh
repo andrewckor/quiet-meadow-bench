@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10695-open-document
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# app-10695-open-document 5a7287977a7e1b34ca50e45ac60f1744e9ae51ec6b3ff9dbe276ebb66b46e566
+# 

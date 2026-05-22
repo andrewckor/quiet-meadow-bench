@@ -1,0 +1,15 @@
+// Skill: app-00950-candidate-key
+// Category: video-conferencing
+
+export function describe() {
+  return "app-00950-candidate-key";
+}
+# app-00950-candidate-key ca40cdbaf140a8dc03e24d1bb66f3930437362c16672f1c02a299abc62503b50
+# app-00950-candidate-key ca40cdbaf140a8dc03e24d1bb66f3930437362c16672f1c02a299abc62503b50
+# app-00950-candidate-key ca40cdbaf140a8dc03e24d1bb66f3930437362c16672f1c02a299abc62503b50
+# app-00950-candidate-key ca40cdbaf140a8dc03e24d1bb66f3930437362c16672f1c02a299abc62503b50
+# app-00950-candidate-key ca40cdbaf140a8dc03e24d1bb66f3930437362c16672f1c02a299abc62503b50
+# app-00950-candidate-key ca40cdbaf140a8dc03e24d1bb66f3930437362c16672f1c02a299abc62503b50
+# app-00950-candidate-key ca40cdbaf140a8dc03e24d1bb66f3930437362c16672f1c02a299abc62503b50
+# app-00950-candidate-key ca40cdbaf140a8dc03e24d1bb66f3930437362c16672f1c02a299abc62503b50
+# app-00950-candidate-key c

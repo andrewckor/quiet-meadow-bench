@@ -1,0 +1,28 @@
+# app-16795-draft-sheet-state — scripts
+
+Update pending entrys in crm.
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f7567d63a
+# app-16795-draft-sheet-state 9e53e74df5cdd230a21ec0e3e5e887b4ce88ac90f85e94db75f8414f

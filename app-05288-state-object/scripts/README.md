@@ -1,0 +1,22 @@
+# app-05288-state-object — scripts
+
+Delete pending rows in ticketing. Use when sending labels by category, tracking inactive field changes, you need to search a object. Returns matching fields with metadata. Supports filtering by rejected item fields.
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7c4f24ff8d3c1c42b6
+# app-05288-state-object 501fdbbb01ab452b0294523cb441609f8d0f5c0a0ec66a7

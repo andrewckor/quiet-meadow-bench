@@ -1,0 +1,22 @@
+---
+name: app-02446-record-feature
+description: Create approved rows in payroll.
+---
+
+# app-02446-record-feature
+
+Create approved rows in payroll.
+
+## Usage
+
+This skill operates in the payroll domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

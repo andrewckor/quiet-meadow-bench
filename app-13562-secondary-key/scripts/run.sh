@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13562-secondary-key
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab0
+# app-13562-secondary-key 244e966167fd1cb076e2505ed7fd033fbbbbc60792ea3a9e7d72b9e67fdc1ab

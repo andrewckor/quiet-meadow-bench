@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12987-untrusted-record-group
+# Category: email
+
+echo "running ${0##*/}"
+# app-12987-untrusted-record-group fd3161d05556dd8df0a8b62c2839e610f103a5a31f96d4cff9170e6b3a52e3b3
+# app-12987-untrusted-record-group fd3161d05556dd8df0a8b62c2839e610f103a5a31f96d4cff9170e6b3a52e3b3
+# app-12987-untrusted-record-group fd3161d05556dd8d

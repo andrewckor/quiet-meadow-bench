@@ -1,0 +1,24 @@
+// Skill: app-17777-notification
+// Category: email
+
+export function describe() {
+  return "app-17777-notification";
+}
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0feef7cca485801c48f69100bb5d592bb84a2
+# app-17777-notification c3edfa3c062d7115a20744fbfcc0

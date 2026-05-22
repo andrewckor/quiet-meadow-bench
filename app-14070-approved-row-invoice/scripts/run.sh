@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14070-approved-row-invoice
+# Category: shipping
+
+echo "running ${0##*/}"
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d8b1a427d4304c9663a3b5355b786dbd7beaa6
+# app-14070-approved-row-invoice f613dadf385556cd70bdf34647d

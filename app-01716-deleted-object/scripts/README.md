@@ -1,0 +1,21 @@
+# app-01716-deleted-object — scripts
+
+Create external commits in chat. Use when you need to approve a state, tracking internal deal changes, listing logs by comment, auditing stages by value. Returns matching rows with metadata. Supports filtering by active request fields.
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689fc153a19
+# app-01716-deleted-object b7e1788ddb0c694b8c8c5771346a7c449f58acca99e016fafb09f689f

@@ -1,0 +1,9 @@
+// Skill: app-06485-tag
+// Category: email
+
+export function describe() {
+  return "app-06485-tag";
+}
+# app-06485-tag d97106d404022229aee5e8d153516b8b9b76b7385b6df1a01d28cb5153081922
+# app-06485-tag d97106d404022229aee5e8d153516b8b9b76b7385b6df1a01d28cb5153081922
+# app-06485-tag d97106d404022229aee5e8d153516b8b9b76b7385b6df1a

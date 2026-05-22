@@ -1,0 +1,18 @@
+# app-09510-running-issue-id — scripts
+
+Delete default records in project-management.
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 702e92638dc44bc42dda44ffbeab9c74a4e9bda1ca37751e44f92cff856edd0a
+# app-09510-running-issue-id 70

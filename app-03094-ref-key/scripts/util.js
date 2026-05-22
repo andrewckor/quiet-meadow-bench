@@ -1,0 +1,34 @@
+// Skill: app-03094-ref-key
+// Category: support
+
+export function describe() {
+  return "app-03094-ref-key";
+}
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8463f5aa4b0aca041b2e5971cd66db745f66f5c34e4b69cfc4bce
+# app-03094-ref-key a41e1cfb75b8

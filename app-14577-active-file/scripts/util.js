@@ -1,0 +1,12 @@
+// Skill: app-14577-active-file
+// Category: ticketing
+
+export function describe() {
+  return "app-14577-active-file";
+}
+# app-14577-active-file 548c5b61d9cb0305b3c394b94b4cfab80b10bfdbba6e2287898d4254165b41d4
+# app-14577-active-file 548c5b61d9cb0305b3c394b94b4cfab80b10bfdbba6e2287898d4254165b41d4
+# app-14577-active-file 548c5b61d9cb0305b3c394b94b4cfab80b10bfdbba6e2287898d4254165b41d4
+# app-14577-active-file 548c5b61d9cb0305b3c394b94b4cfab80b10bfdbba6e2287898d4254165b41d4
+# app-14577-active-file 548c5b61d9cb0305b3c394b94b4cfab80b10bfdbba6e2287898d4254165b41d4
+# app-14577-active-file 548c5b6

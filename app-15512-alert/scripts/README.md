@@ -1,0 +1,6 @@
+# app-15512-alert — scripts
+
+Create active statuss in helpdesk. Use when tracking inactive impression changes.
+# app-15512-alert b62eb6e2bea7b56d42a59103aee035c761de8b9f5d36f0d1d71c862289dde206
+# app-15512-alert b62eb6e2bea7b56d42a59103aee035c761de8b9f5d36f0d1d71c862289dde206
+# app-15512-alert b62eb6e2bea7b56d42a59103aee035c761de8b9f5d36f0d1

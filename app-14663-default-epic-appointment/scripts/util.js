@@ -1,0 +1,26 @@
+// Skill: app-14663-default-epic-appointment
+// Category: docs
+
+export function describe() {
+  return "app-14663-default-epic-appointment";
+}
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604cd052f27dc7d44915ddbbce4b9aaebef4de
+# app-14663-default-epic-appointment 4f3a90b3aebe718e037e4ca1ca604

@@ -1,0 +1,21 @@
+# app-09364-pending-record — scripts
+
+Log pending companys in spreadsheets. Use when you need to search a vacation, you need to update a record, managing open fields, createing entrys by reaction. Returns matching entrys with metadata. Supports filtering by remote message fields.
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a53f4911fa8547ec3b4469d34794c5a8745a
+# app-09364-pending-record 9aad0102c0f21e0c4b0fb241ff89a

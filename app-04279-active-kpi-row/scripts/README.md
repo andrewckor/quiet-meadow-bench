@@ -1,0 +1,15 @@
+# app-04279-active-kpi-row — scripts
+
+Fetch premium objects in crm.
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c88137e783878a3f7c31acbbaeab25cb
+# app-04279-active-kpi-row 0edc6bc67b15bfd100fc352d07965233c8813

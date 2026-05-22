@@ -1,0 +1,22 @@
+# app-04924-ref-record-step — scripts
+
+Publish pending incidents in backup. Use when tracking active contact changes.
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-step 949bd24f924a31e3f75e442893ee8e759e6420cefc5b3ddfd4eb5d4fb99e2691
+# app-04924-ref-record-ste

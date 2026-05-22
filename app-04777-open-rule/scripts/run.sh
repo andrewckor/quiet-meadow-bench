@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04777-open-rule
+# Category: invoicing
+
+echo "running ${0##*/}"
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f87063f6d8a411bcaeee97cd98ddaf3
+# app-04777-open-rule fa9ca225de24daee755c51ce13660a985f8

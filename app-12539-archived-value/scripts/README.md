@@ -1,0 +1,16 @@
+# app-12539-archived-value — scripts
+
+Receive active statuss in inventory. Use when updateing responses by group, tracking open record changes.
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e72fe08dfc3a5984c99d6ab429c8a2df7d86e16e5
+# app-12539-archived-value 448a116e403b1aaa8f27103e

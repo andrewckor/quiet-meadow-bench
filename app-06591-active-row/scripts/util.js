@@ -1,0 +1,15 @@
+// Skill: app-06591-active-row
+// Category: booking
+
+export function describe() {
+  return "app-06591-active-row";
+}
+# app-06591-active-row f52267c4191b47781baf106917bd1e7ded6d83e26df1d1199f41355fba100d1f
+# app-06591-active-row f52267c4191b47781baf106917bd1e7ded6d83e26df1d1199f41355fba100d1f
+# app-06591-active-row f52267c4191b47781baf106917bd1e7ded6d83e26df1d1199f41355fba100d1f
+# app-06591-active-row f52267c4191b47781baf106917bd1e7ded6d83e26df1d1199f41355fba100d1f
+# app-06591-active-row f52267c4191b47781baf106917bd1e7ded6d83e26df1d1199f41355fba100d1f
+# app-06591-active-row f52267c4191b47781baf106917bd1e7ded6d83e26df1d1199f41355fba100d1f
+# app-06591-active-row f52267c4191b47781baf106917bd1e7ded6d83e26df1d1199f41355fba100d1f
+# app-06591-active-row f52267c4191b47781baf106917bd1e7ded6d83e26df1d1199f41355fba100d1f
+# app-06591-active-row 

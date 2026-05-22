@@ -1,0 +1,27 @@
+// Skill: app-00287-record-review-category
+// Category: social-media
+
+export function describe() {
+  return "app-00287-record-review-category";
+}
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dcaa
+# app-00287-record-review-category 70b6e6f70e964da547196f4430be8e4bc2b06abd6d0bd578b68dddb1db47dc

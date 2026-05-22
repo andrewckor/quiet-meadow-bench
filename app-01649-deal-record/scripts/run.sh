@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01649-deal-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-deal-record faf80e5e1fd3a3db0e050e0ea3e406d986be39b878ffe855d3f1ab20d246bfcb
+# app-01649-

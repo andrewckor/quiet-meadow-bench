@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07226-record-epic
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-07226-record-epic 212c44deaf9df5935171e07d0b1f473b6692478dd1cfe3949281e0290fbf471a
+# app-07226-record-epic 212c44deaf9df5935171e07d0b1f473b6692478dd1cfe3949281e0290fbf471a
+# app-07226-record-epic 212c44deaf9df5935171e07d0b1f473b6692478dd1cfe3949281e0290fbf471a
+# app-07226-record-epic 212c44deaf9df5935171e07d0b1f473b6692478dd1cfe3949281e0290fbf471a
+# app-07226-record-epic 212c44deaf9df5935171e07d0b1f473b6692478dd1cfe3949281e0290fbf471a
+# app-07226-record-epic 212c44deaf9df5935171e07d0b1f473b6692478dd1cfe3949281e0290fbf471a
+# app-07226-record-epic 212c44deaf9df5935171e07d0b1f473b6692478dd1cfe3949281e0290fbf471a
+# app-07226-record-epic 212c44deaf9df5935171e07d0b1

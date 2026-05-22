@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03448-record-entry-id
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-03448-record-entry-id b52c1b49e93ac268b5269e86c2ef0d03845f5f114d3f13ab636c7876fa326a67
+# app-03448-record-entry-id b52c1b49e93ac268b5269e86c2ef0d03845f5f114d3f13ab636c7876fa326a67
+# app-03448-record-entry-id b52c1b49e93ac268b5269e86c2ef0d03845f5f114d3f13ab636c7876fa326a67
+# app-03448-record-entry-id b52c1b49e93ac268b5269e86c2ef0d03845f5f114d3f13ab636c7876fa326a67
+# app-03448-record-entry-id b52c1

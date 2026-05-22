@@ -1,0 +1,31 @@
+# app-02021-entry-type-row — scripts
+
+Search inactive companys in storage. Use when managing inactive records, you need to unpin a key, you need to assign a record. Returns matching refs with metadata. Supports filtering by closed phase fields.
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# app-02021-entry-type-row 4eecb28c9b99ef1e59471de0d7ffb0fc62ed24fc81d3b6d7ddac288c92e0fedd
+# 

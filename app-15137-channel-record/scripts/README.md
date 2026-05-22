@@ -1,0 +1,14 @@
+# app-15137-channel-record — scripts
+
+Export closed objects in project-management. Use when tracking active entry changes, managing pending values.
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2440975ec94da3556ee8284851d61c2177f53d75f85f07c8d280922bbf4f6ab9
+# app-15137-channel-record 2

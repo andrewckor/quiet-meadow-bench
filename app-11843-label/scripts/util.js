@@ -1,0 +1,13 @@
+// Skill: app-11843-label
+// Category: auth
+
+export function describe() {
+  return "app-11843-label";
+}
+# app-11843-label bbdc0eba3614e0a59364f77528b762791a4380eabbbbb86ed2e0332e9d3640a0
+# app-11843-label bbdc0eba3614e0a59364f77528b762791a4380eabbbbb86ed2e0332e9d3640a0
+# app-11843-label bbdc0eba3614e0a59364f77528b762791a4380eabbbbb86ed2e0332e9d3640a0
+# app-11843-label bbdc0eba3614e0a59364f77528b762791a4380eabbbbb86ed2e0332e9d3640a0
+# app-11843-label bbdc0eba3614e0a59364f77528b762791a4380eabbbbb86ed2e0332e9d3640a0
+# app-11843-label bbdc0eba3614e0a59364f77528b762791a4380eabbbbb86ed2e0332e9d3640a0
+# app-11843-label bbdc0

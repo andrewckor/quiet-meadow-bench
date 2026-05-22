@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19585-upcoming-key
+# Category: crm
+
+echo "running ${0##*/}"
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e369cca3a1d488e8ba2f4c35ed672ed22d85e
+# app-19585-upcoming-key 52e6696e81eeaec89d2fe2cf182e3

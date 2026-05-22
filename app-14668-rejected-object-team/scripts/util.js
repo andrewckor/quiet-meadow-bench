@@ -1,0 +1,20 @@
+// Skill: app-14668-rejected-object-team
+// Category: feature-flags
+
+export function describe() {
+  return "app-14668-rejected-object-team";
+}
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62ab6ea
+# app-14668-rejected-object-team 5913e995df2f67781d623ec559c9d1f4c92ce63247057231b79d2d18a62

@@ -1,0 +1,13 @@
+// Skill: app-15796-rejected-row
+// Category: docs
+
+export function describe() {
+  return "app-15796-rejected-row";
+}
+# app-15796-rejected-row ece49f2003aee8f4592a00881744693549dd310e9e2e9e731136b7508b9ab7c5
+# app-15796-rejected-row ece49f2003aee8f4592a00881744693549dd310e9e2e9e731136b7508b9ab7c5
+# app-15796-rejected-row ece49f2003aee8f4592a00881744693549dd310e9e2e9e731136b7508b9ab7c5
+# app-15796-rejected-row ece49f2003aee8f4592a00881744693549dd310e9e2e9e731136b7508b9ab7c5
+# app-15796-rejected-row ece49f2003aee8f4592a00881744693549dd310e9e2e9e731136b7508b9ab7c5
+# app-15796-rejected-row ece49f2003aee8f4592a00881744693549dd310e9e2e9e731136b7508b9ab7c5
+# app-15796-reject

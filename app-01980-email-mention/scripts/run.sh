@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01980-email-mention
+# Category: payments
+
+echo "running ${0##*/}"
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a374c1aef18
+# app-01980-email-mention b1bd93713a621dadcfe8dce335e33ac9f8a2ef7c8fa60b05745b4a37

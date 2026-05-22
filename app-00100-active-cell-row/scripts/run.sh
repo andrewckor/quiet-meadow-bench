@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00100-active-cell-row
+# Category: auth
+
+echo "running ${0##*/}"
+# app-00100-active-cell-row 99b28ea69b4bfa854144b1a6d5cf98c8de0aeab29ee41f43a8c98f3af470a335
+# app-00100-active-cell-row 99b28ea69b4bfa854144b1a6d5cf98c8de0aeab29ee41f43a8c98f3af470a335
+# app-00100-active-cell-row 99b28ea69b4bfa854144b1a6d5cf98c8de0aeab29ee41f43a8c98f3af470a335
+# app-00100-active-cell-row 99b28ea69b4bfa854144b1a6d5cf98c8de0aeab29ee41f43a8c98f3af470a335
+# app-00100-active-cell-row 99b28ea69

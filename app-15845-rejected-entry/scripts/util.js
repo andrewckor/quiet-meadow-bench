@@ -1,0 +1,29 @@
+// Skill: app-15845-rejected-entry
+// Category: email
+
+export function describe() {
+  return "app-15845-rejected-entry";
+}
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0e551b
+# app-15845-rejected-entry 0f9c8c7ab4893ca1b8c75e218cea2155c5bc030df4372effe0106ecc7f0

@@ -1,0 +1,22 @@
+// Skill: app-17657-item-workbook
+// Category: email
+
+export function describe() {
+  return "app-17657-item-workbook";
+}
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d2982d4b0aea8976d63fcb551b62586c9
+# app-17657-item-workbook 4a632afe1ff4fd337b25a55f6b288e0d29

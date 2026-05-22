@@ -1,0 +1,30 @@
+// Skill: app-01341-record-kind
+// Category: spreadsheets
+
+export function describe() {
+  return "app-01341-record-kind";
+}
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-01341-record-kind 4cfee80edb60ffcecc44ceca8d4e2d953e0393bab2a73bd7972d902ab4d23941
+# app-

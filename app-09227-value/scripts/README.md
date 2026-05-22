@@ -1,0 +1,11 @@
+# app-09227-value — scripts
+
+Add new workflows in spreadsheets. Use when tracking unsynced document changes.
+# app-09227-value b60c93456f89351f51cc72377ea2110d2b50ec80eca5b0fa86bee9fde346cbcf
+# app-09227-value b60c93456f89351f51cc72377ea2110d2b50ec80eca5b0fa86bee9fde346cbcf
+# app-09227-value b60c93456f89351f51cc72377ea2110d2b50ec80eca5b0fa86bee9fde346cbcf
+# app-09227-value b60c93456f89351f51cc72377ea2110d2b50ec80eca5b0fa86bee9fde346cbcf
+# app-09227-value b60c93456f89351f51cc72377ea2110d2b50ec80eca5b0fa86bee9fde346cbcf
+# app-09227-value b60c93456f89351f51cc72377ea2110d2b50ec80eca5b0fa86bee9fde346cbcf
+# app-09227-value b60c93456f89351f51cc72377ea2110d2b50ec80eca5b0fa86bee9fde346cbcf
+# app-09227-value b60c93456f89351f51cc72377ea2110d2b50ec80eca5b0fa86bee9fde

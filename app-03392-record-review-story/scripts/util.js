@@ -1,0 +1,34 @@
+// Skill: app-03392-record-review-story
+// Category: marketing
+
+export function describe() {
+  return "app-03392-record-review-story";
+}
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d334a7c5bbb3ecd0ec3a95db9a8ce3fba
+# app-03392-record-review-story 2697e75cfe1d101c7abe2640d572444d3

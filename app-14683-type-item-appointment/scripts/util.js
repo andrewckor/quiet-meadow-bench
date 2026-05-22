@@ -1,0 +1,34 @@
+// Skill: app-14683-type-item-appointment
+// Category: wiki
+
+export function describe() {
+  return "app-14683-type-item-appointment";
+}
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac2b614ebc28cda2e135d7a
+# app-14683-type-item-appointment c530b99b4f9b5176ff5df0497485f355273eea101ac

@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02206-row-company
+# Category: crm
+
+echo "running ${0##*/}"
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebea653b5d8b1d0e0a1f8906374a5fd9a885adfc376f
+# app-02206-row-company 5b349efee4e7f5b515bbebe

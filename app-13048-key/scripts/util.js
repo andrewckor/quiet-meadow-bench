@@ -1,0 +1,11 @@
+// Skill: app-13048-key
+// Category: surveys
+
+export function describe() {
+  return "app-13048-key";
+}
+# app-13048-key 682f46f026a35c24c554f36fb4d0d52aa746769c3b4f2ab5be4d059d4d21e2aa
+# app-13048-key 682f46f026a35c24c554f36fb4d0d52aa746769c3b4f2ab5be4d059d4d21e2aa
+# app-13048-key 682f46f026a35c24c554f36fb4d0d52aa746769c3b4f2ab5be4d059d4d21e2aa
+# app-13048-key 682f46f026a35c24c554f36fb4d0d52aa746769c3b4f2ab5be4d059d4d21e2aa
+# app-13048-key 682f46f026a35c24c554f36fb4d0d52aa746769c3b4f2ab5

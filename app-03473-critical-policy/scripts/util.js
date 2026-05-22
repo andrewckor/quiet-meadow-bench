@@ -1,0 +1,21 @@
+// Skill: app-03473-critical-policy
+// Category: ci-cd
+
+export function describe() {
+  return "app-03473-critical-policy";
+}
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a433d71bfd33178d52485331ca2ceb052fd5c96bcbabaf031621
+# app-03473-critical-policy 95d08d1fb453a4

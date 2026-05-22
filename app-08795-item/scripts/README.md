@@ -1,0 +1,11 @@
+# app-08795-item — scripts
+
+Create active items in docs. Use when managing secondary ids, updateing feature-flags by automation, managing inactive values. Returns matching deals with metadata. Supports filtering by open submission fields.
+# app-08795-item 232d82555d6034e53907a5b36dfdd95e0a2f012a30dc433a7f8385119050c995
+# app-08795-item 232d82555d6034e53907a5b36dfdd95e0a2f012a30dc433a7f8385119050c995
+# app-08795-item 232d82555d6034e53907a5b36dfdd95e0a2f012a30dc433a7f8385119050c995
+# app-08795-item 232d82555d6034e53907a5b36dfdd95e0a2f012a30dc433a7f8385119050c995
+# app-08795-item 232d82555d6034e53907a5b36dfdd95e0a2f012a30dc433a7f8385119050c995
+# app-08795-item 232d82555d6034e53907a5b36dfdd95e0a2f012a30dc433a7f8385119050c995
+# app-08795-item 232d82555d6034e53907a5b36dfdd95e0a2f012a30dc433a7f8385119050c995
+# app-08795-item 232d82555d6034e53907a5b36dfdd95e0a2f012a30dc433a7f8385119

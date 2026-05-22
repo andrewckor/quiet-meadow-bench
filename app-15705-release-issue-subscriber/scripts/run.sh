@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15705-release-issue-subscriber
+# Category: support
+
+echo "running ${0##*/}"
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8d732e4c56a5b06f274a86aadc6e1133d1087f41f70e072cf9066
+# app-15705-release-issue-subscriber d611e9546ba8

@@ -1,0 +1,16 @@
+// Skill: app-02322-offer-row
+// Category: calendar
+
+export function describe() {
+  return "app-02322-offer-row";
+}
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50fe3a1308a5932f84a870a385d10521dca24359da8f5b1dd60be7a27fd59
+# app-02322-offer-row 0ec50f

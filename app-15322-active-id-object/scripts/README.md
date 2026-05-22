@@ -1,0 +1,35 @@
+# app-15322-active-id-object — scripts
+
+Create closed records in crm.
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f034aee9d18ca
+# app-15322-active-id-object 79caf72faa1f045a5b15ba01fb25ada094096e6c81430d09006f03

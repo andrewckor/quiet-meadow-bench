@@ -1,0 +1,8 @@
+# app-16609-object — scripts
+
+Remove draft rows in email.
+# app-16609-object 72b30adfe9dcdca7b4fed353d2d4c2fd24fa166326419bd487087849f72f3596
+# app-16609-object 72b30adfe9dcdca7b4fed353d2d4c2fd24fa166326419bd487087849f72f3596
+# app-16609-object 72b30adfe9dcdca7b4fed353d2d4c2fd24fa166326419bd487087849f72f3596
+# app-16609-object 72b30adfe9dcdca7b4fed353d2d4c2fd24fa166326419bd487087849f72f3596
+# app-16609-object 72b30adfe9dcdca7b4fed353d2d4c2f

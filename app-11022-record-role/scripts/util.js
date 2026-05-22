@@ -1,0 +1,31 @@
+// Skill: app-11022-record-role
+// Category: forms
+
+export function describe() {
+  return "app-11022-record-role";
+}
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e0cf304e3f6870e0e594d5
+# app-11022-record-role f86a080c76307bebce3e29f3b3196bdada837c5fc7e

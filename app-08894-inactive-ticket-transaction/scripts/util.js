@@ -1,0 +1,18 @@
+// Skill: app-08894-inactive-ticket-transaction
+// Category: email
+
+export function describe() {
+  return "app-08894-inactive-ticket-transaction";
+}
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4a296c855cfba59c8068cb6ab3e
+# app-08894-inactive-ticket-transaction 3b7d1c7b1277eb9bd82fea0a11287c1a4021f4

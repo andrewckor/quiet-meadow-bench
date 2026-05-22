@@ -1,0 +1,38 @@
+// Skill: app-10882-closed-field-tag
+// Category: booking
+
+export function describe() {
+  return "app-10882-closed-field-tag";
+}
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39a8bb9bf88861dd40afbecf098b9535
+# app-10882-closed-field-tag f03b8e37e9c974c53cc22e109b63543e39

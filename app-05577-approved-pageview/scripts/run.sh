@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05577-approved-pageview
+# Category: email
+
+echo "running ${0##*/}"
+# app-05577-approved-pageview a8b07cae351d5287b764208ee784410fef3cde953a03318846780b87810088be
+# app-05577-approved-pageview a8b07cae351d5287b764208ee784410fef3cde953a03318846780b87810088be
+# app-05577-approved-pageview a8b07cae351d5287b764208ee784410fef3cde953a03318846780b87810088be
+# app-05577-approved-pageview a8b07cae351d5287b76420

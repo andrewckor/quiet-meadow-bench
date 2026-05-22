@@ -1,0 +1,25 @@
+// Skill: app-10802-item-order
+// Category: crm
+
+export function describe() {
+  return "app-10802-item-order";
+}
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f8b3e3e3d1b3fedd2b9a66b7d960acf6578ede0ec46c28079
+# app-10802-item-order 776c3f09b82cd32f

@@ -1,0 +1,46 @@
+// Skill: app-17655-poll-tag
+// Category: spreadsheets
+
+export function describe() {
+  return "app-17655-poll-tag";
+}
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12

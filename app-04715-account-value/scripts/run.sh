@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04715-account-value
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0d5172f4bed43fb8
+# app-04715-account-value 56e13ced591567ce62749eb2b641e0d4f0134fc3cd0ca98e0

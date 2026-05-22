@@ -1,0 +1,6 @@
+# app-01447-deleted-expense — scripts
+
+Restore active triggers in spreadsheets.
+# app-01447-deleted-expense 1486ac04024cca6a800d9478d29cca66b553e8a7ccc976454f403258d3b78856
+# app-01447-deleted-expense 1486ac04024cca6a800d9478d29cca66b553e8a7ccc976454f403258d3b78856
+# app-01447-deleted-expense 1486ac04024cca6a800d9478d29cca66b553e8a7ccc976454f403258

@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04585-active-reaction-address
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-active-reaction-address cdc9977536f2dae5aa62e7e235ccfd9bf0926d5d2ae8cf8e427d17410e1cab87
+# app-04585-ac

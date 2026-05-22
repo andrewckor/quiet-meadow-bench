@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15670-campaign
+# Category: chat
+
+echo "running ${0##*/}"
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd9494ba4bd5a46db9f2bc36eaa2060e353eacf790e9cc8c88
+# app-15670-campaign 9c4307b9e1021bdd

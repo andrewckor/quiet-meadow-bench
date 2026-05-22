@@ -1,0 +1,13 @@
+// Skill: app-17341-lead
+// Category: crm
+
+export function describe() {
+  return "app-17341-lead";
+}
+# app-17341-lead c7ec0cb2c516fade04a9f112c2f78f2bb3a44a91af30115708d5e1a491c23176
+# app-17341-lead c7ec0cb2c516fade04a9f112c2f78f2bb3a44a91af30115708d5e1a491c23176
+# app-17341-lead c7ec0cb2c516fade04a9f112c2f78f2bb3a44a91af30115708d5e1a491c23176
+# app-17341-lead c7ec0cb2c516fade04a9f112c2f78f2bb3a44a91af30115708d5e1a491c23176
+# app-17341-lead c7ec0cb2c516fade04a9f112c2f78f2bb3a44a91af30115708d5e1a491c23176
+# app-17341-lead c7ec0cb2c516fade04a9f112c2f78f2bb3a44a91af30115708d5e1a491c23176
+# app-17341-lead c7ec0cb2c516fade04a9f112c2f78f2bb3a44a9

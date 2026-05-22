@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04028-record-contact
+# Category: email
+
+echo "running ${0##*/}"
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b833eaef03281fbe8aaed1b56a2793d7d7b24822dfc34981f432f8b4
+# app-04028-record-contact 1dd5a522b

@@ -1,0 +1,32 @@
+// Skill: app-16636-record-field-directory
+// Category: calendar
+
+export function describe() {
+  return "app-16636-record-field-directory";
+}
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb46804e5f9c35ef55
+# app-16636-record-field-directory ff3e11a8164cb5850c7d67a1f4f72acee46c59b17dea06cb4680

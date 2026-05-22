@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14986-deleted-block-notification
+# Category: email
+
+echo "running ${0##*/}"
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-deleted-block-notification a11be7e8833fddf49caf3c74f7ce540fd3ef7d2f6c46b2bcffce47daf5835cbd
+# app-14986-

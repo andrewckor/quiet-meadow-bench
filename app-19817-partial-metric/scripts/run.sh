@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19817-partial-metric
+# Category: crm
+
+echo "running ${0##*/}"
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metric dc588b929816f8e32b99d89a7fa0b151db40f974aa46bbc3a1be79ac216f7406
+# app-19817-partial-metr

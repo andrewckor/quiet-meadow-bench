@@ -1,0 +1,12 @@
+# app-10627-rejected-phase — scripts
+
+Delete active values in crm.
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04d4dd7acaf07b436ec
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04d4dd7acaf07b436ec
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04d4dd7acaf07b436ec
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04d4dd7acaf07b436ec
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04d4dd7acaf07b436ec
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04d4dd7acaf07b436ec
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04d4dd7acaf07b436ec
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04d4dd7acaf07b436ec
+# app-10627-rejected-phase 0a09f17cbe076e66e2e53f32c824fa0e0e13230b3d89a04

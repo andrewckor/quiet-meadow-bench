@@ -1,0 +1,6 @@
+# app-10407-item — scripts
+
+Delete custom assets in ecommerce. Use when you need to create a phase.
+# app-10407-item 6ef71e0098214598968ae76b7023f20e440adaf614148938b607cc26f0d910e9
+# app-10407-item 6ef71e0098214598968ae76b7023f20e440adaf614148938b607cc26f0d910e9
+# app-10407-item 6ef71e0098214598968ae76b7023f20e440adaf614148938b607cc26f0d910e

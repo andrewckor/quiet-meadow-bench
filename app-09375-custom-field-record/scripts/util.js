@@ -1,0 +1,34 @@
+// Skill: app-09375-custom-field-record
+// Category: email
+
+export function describe() {
+  return "app-09375-custom-field-record";
+}
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-record 8ad8d5656da98f7578d8fa77ec9bc60da6981c6c607af8933721769832ff81dd
+# app-09375-custom-field-rec

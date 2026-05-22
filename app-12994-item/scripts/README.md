@@ -1,0 +1,16 @@
+# app-12994-item — scripts
+
+Update closed keys in email.
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0524eea73aaa1f50aefbddadcb85ea93a3e9000ba76863fc4d3dcdf70dc
+# app-12994-item 8a96a0

@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00672-untrusted-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6feeb82223caa76bb197e7fe5a6b30af
+# app-00672-untrusted-row 7030ddf7f1f19966a77284c0ddbef17c6fee

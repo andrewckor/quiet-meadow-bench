@@ -1,0 +1,28 @@
+# app-17993-ref-account — scripts
+
+Update stopped phases in ads.
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# app-17993-ref-account 0bac2c8aad4e78bda75f19c699a3854711db8024cf114f2bd6497faee5a35f8c
+# ap

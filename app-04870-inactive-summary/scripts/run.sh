@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04870-inactive-summary
+# Category: support
+
+echo "running ${0##*/}"
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf31431750ca9dbe3ca2d73178892f094bdbbc1748e6ab57021a8
+# app-04870-inactive-summary 6c0afebbfa2bf3

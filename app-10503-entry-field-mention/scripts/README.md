@@ -1,0 +1,16 @@
+# app-10503-entry-field-mention — scripts
+
+Update pending spans in calendar. Use when you need to redo a record, managing unbilled audios.
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e988473809061b1af919aa1010c872d64f1d0a808eea99a56672ea6c3b4a
+# app-10503-entry-field-mention 3b81e9884738090

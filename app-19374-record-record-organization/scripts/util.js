@@ -1,0 +1,21 @@
+// Skill: app-19374-record-record-organization
+// Category: email
+
+export function describe() {
+  return "app-19374-record-record-organization";
+}
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-record-organization 88b5099fbda93ec7824af2050fb48b7b784870999413628760f5850c0ae5ff7a
+# app-19374-record-re

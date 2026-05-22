@@ -1,0 +1,12 @@
+// Skill: app-02612-organization
+// Category: auth
+
+export function describe() {
+  return "app-02612-organization";
+}
+# app-02612-organization 6d7ba880c565e98c331d5f495e0edefbf3790100e6621f3971b301909bdefdf3
+# app-02612-organization 6d7ba880c565e98c331d5f495e0edefbf3790100e6621f3971b301909bdefdf3
+# app-02612-organization 6d7ba880c565e98c331d5f495e0edefbf3790100e6621f3971b301909bdefdf3
+# app-02612-organization 6d7ba880c565e98c331d5f495e0edefbf3790100e6621f3971b301909bdefdf3
+# app-02612-organization 6d7ba880c565e98c331d5f495e0edefbf3790100e6621f3971b301909bdefdf3
+# app-02612-organization 6d7ba880c565e98c331d5f495e0ed

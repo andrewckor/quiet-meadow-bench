@@ -1,0 +1,34 @@
+// Skill: app-09294-active-record-permission
+// Category: security
+
+export function describe() {
+  return "app-09294-active-record-permission";
+}
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d673fd5ecb4a1d8a70317a4ad39b1d22c99afe46ce6835f0c
+# app-09294-active-record-permission 85002d8101353a6d

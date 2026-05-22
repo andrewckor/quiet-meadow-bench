@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17247-channel-pageview-lead
+# Category: pos
+
+echo "running ${0##*/}"
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6f469429d9b4eb6b2823
+# app-17247-channel-pageview-lead 89f99e9ce5fbdbdfb13c99761fdd214eb248529a335d6

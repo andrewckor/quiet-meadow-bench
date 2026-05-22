@@ -1,0 +1,11 @@
+# app-03540-pending-document — scripts
+
+Archive unverified threads in crm.
+# app-03540-pending-document a8cf77022cecbddcd56771ea1ceabe40bdcb907ec7987695b8738a47453dd9bd
+# app-03540-pending-document a8cf77022cecbddcd56771ea1ceabe40bdcb907ec7987695b8738a47453dd9bd
+# app-03540-pending-document a8cf77022cecbddcd56771ea1ceabe40bdcb907ec7987695b8738a47453dd9bd
+# app-03540-pending-document a8cf77022cecbddcd56771ea1ceabe40bdcb907ec7987695b8738a47453dd9bd
+# app-03540-pending-document a8cf77022cecbddcd56771ea1ceabe40bdcb907ec7987695b8738a47453dd9bd
+# app-03540-pending-document a8cf77022cecbddcd56771ea1ceabe40bdcb907ec7987695b8738a47453dd9bd
+# app-03540-pending-document a8cf77022cecbddcd56771ea1ceabe40bdcb907ec7987695b8738a47453dd9bd
+# app-03540-pending-document a8cf77022cecbddcd56771ea1ceabe40bdcb907ec798

@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09811-active-row-deal
+# Category: social-media
+
+echo "running ${0##*/}"
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed169134048b016f7462fd365
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed169134048b016f7462fd365
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed169134048b016f7462fd365
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed169134048b016f7462fd365
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed169134048b016f7462fd365
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed169134048b016f7462fd365
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed169134048b016f7462fd365
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed169134048b016f7462fd365
+# app-09811-active-row-deal 57d4d29f1e802f8adbfef825330c097d62014e4ed16913404

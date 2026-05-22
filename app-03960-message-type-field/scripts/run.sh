@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03960-message-type-field
+# Category: error-tracking
+
+echo "running ${0##*/}"
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6bdcf35ded508e08df5cc72dbd8e7f925238d21e4d433f1f80
+# app-03960-message-type-field 6bc435f1e8492f6b

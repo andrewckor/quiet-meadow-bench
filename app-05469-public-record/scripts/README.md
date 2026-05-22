@@ -1,0 +1,11 @@
+# app-05469-public-record — scripts
+
+Update pending items in crm. Use when sending quotes by record.
+# app-05469-public-record 2a946b2e716573c47ea797b6cdec9c3d60e958303db10435f97ca4ffcfe696d6
+# app-05469-public-record 2a946b2e716573c47ea797b6cdec9c3d60e958303db10435f97ca4ffcfe696d6
+# app-05469-public-record 2a946b2e716573c47ea797b6cdec9c3d60e958303db10435f97ca4ffcfe696d6
+# app-05469-public-record 2a946b2e716573c47ea797b6cdec9c3d60e958303db10435f97ca4ffcfe696d6
+# app-05469-public-record 2a946b2e716573c47ea797b6cdec9c3d60e958303db10435f97ca4ffcfe696d6
+# app-05469-public-record 2a946b2e716573c47ea797b6cdec9c3d60e958303db10435f97ca4ffcfe696d6
+# app-05469-public-record 2a946b2e716573c47ea797b6cdec9c3d60e958303db10435f97ca4ffcfe696d6
+# app-05469-public-record 2a946b2e716573c47ea797b6cdec9c3d60e958303d

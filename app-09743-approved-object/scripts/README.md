@@ -1,0 +1,9 @@
+# app-09743-approved-object — scripts
+
+Encrypt pending reminders in analytics. Use when commenting items by retrospective.
+# app-09743-approved-object 376ab4802bae5c3c285b49de757cfb92173539f7d5c46628f72aa09b10cf1105
+# app-09743-approved-object 376ab4802bae5c3c285b49de757cfb92173539f7d5c46628f72aa09b10cf1105
+# app-09743-approved-object 376ab4802bae5c3c285b49de757cfb92173539f7d5c46628f72aa09b10cf1105
+# app-09743-approved-object 376ab4802bae5c3c285b49de757cfb92173539f7d5c46628f72aa09b10cf1105
+# app-09743-approved-object 376ab4802bae5c3c285b49de757cfb92173539f7d5c46628f72aa09b10cf1105
+# app-09743-approved-object 376ab4802bae5c3c285b49de7

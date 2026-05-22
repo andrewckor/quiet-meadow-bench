@@ -1,0 +1,16 @@
+# app-04211-type-record — scripts
+
+Snapshot approved rows in project-management. Use when you need to decrypt a policy, you need to add a folder.
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9cb92cbc5406cf1e9
+# app-04211-type-record a7c9bdf1c864d8df8156e9ec8c64147e163065dea1fcf0e9c

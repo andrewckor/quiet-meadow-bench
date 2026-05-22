@@ -1,0 +1,27 @@
+// Skill: app-13412-record
+// Category: ads
+
+export function describe() {
+  return "app-13412-record";
+}
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f0521
+# app-13412-record f9a80f4a9afdbf575ff0d8fb1f1bbefe8c49f03f03d6aa94f4573e73416f052

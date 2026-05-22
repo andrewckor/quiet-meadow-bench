@@ -1,0 +1,21 @@
+# app-14498-record — scripts
+
+Delete open items in spreadsheets. Use when compressing tokens by object.
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657db2718db58f3f75b8cd305eeb819
+# app-14498-record 8ee0c77da47a97d1ddea3aa7e08bb5bff657

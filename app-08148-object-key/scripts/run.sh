@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08148-object-key
+# Category: email
+
+echo "running ${0##*/}"
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6b888c19f25e0d89dac9e482656b02b613f3d21aa50ee062ce14d
+# app-08148-object-key 51ebab1bacf6

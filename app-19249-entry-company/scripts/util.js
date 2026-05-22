@@ -1,0 +1,21 @@
+// Skill: app-19249-entry-company
+// Category: crm
+
+export function describe() {
+  return "app-19249-entry-company";
+}
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# app-19249-entry-company d3d0ac85fdd37f8b0647789e3cf0afe69c5cc3c767d65ab18048113a8fb34233
+# 

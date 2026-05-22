@@ -1,0 +1,22 @@
+# app-13019-closed-record — scripts
+
+Update upcoming mentions in devtools. Use when you need to rate a row, managing secondary ids, updateing workflows by field. Returns matching addresss with metadata. Supports filtering by stale object fields.
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d9118425dbba9c45943024b7542f321fbc5b4e5172c79e76c97a56ed99bd2
+# app-13019-closed-record c88d91

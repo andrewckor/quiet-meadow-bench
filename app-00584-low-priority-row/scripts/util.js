@@ -1,0 +1,22 @@
+// Skill: app-00584-low-priority-row
+// Category: crm
+
+export function describe() {
+  return "app-00584-low-priority-row";
+}
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e8043f9d343c478468d3e548df3171698b27eaa18aced2090cce2
+# app-00584-low-priority-row 1164dfc41c3e80

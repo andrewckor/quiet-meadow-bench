@@ -1,0 +1,21 @@
+# app-15628-record-reaction — scripts
+
+Delete open values in crm. Use when managing overdue merge-requests, managing archived replys.
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-reaction 71ec89d48b905ea36f1d3f00d56c258392a14d7d9dd26a3af292a57624efad70
+# app-15628-record-rea

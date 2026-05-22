@@ -1,0 +1,10 @@
+# app-08746-pending-alert — scripts
+
+Unassign failed channels in email. Use when tracking pending record changes.
+# app-08746-pending-alert 9495a0c9ce541ad903b153a2e9a044210c49a3c8743f17d317aa563cd26e351b
+# app-08746-pending-alert 9495a0c9ce541ad903b153a2e9a044210c49a3c8743f17d317aa563cd26e351b
+# app-08746-pending-alert 9495a0c9ce541ad903b153a2e9a044210c49a3c8743f17d317aa563cd26e351b
+# app-08746-pending-alert 9495a0c9ce541ad903b153a2e9a044210c49a3c8743f17d317aa563cd26e351b
+# app-08746-pending-alert 9495a0c9ce541ad903b153a2e9a044210c49a3c8743f17d317aa563cd26e351b
+# app-08746-pending-alert 9495a0c9ce541ad903b153a2e9a044210c49a3c8743f17d317aa563cd26e351b
+# app-08746-pending-alert 9495a0c9ce541ad903b153a2e9a044210c49a3c8743f17

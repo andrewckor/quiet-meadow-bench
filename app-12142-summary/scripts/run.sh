@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12142-summary
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-summary 62be8dd7b76c346daafb76c370bacca11f89fcf1a652cd399eec04522cb0809a
+# app-12142-sum

@@ -1,0 +1,9 @@
+# app-12565-tag — scripts
+
+Create archived objects in spreadsheets. Use when finding records by variant.
+# app-12565-tag 3e30e3b4b26a075076dca3bbf233a852fb83711a6c5c2eefe8e12fd8d69d6933
+# app-12565-tag 3e30e3b4b26a075076dca3bbf233a852fb83711a6c5c2eefe8e12fd8d69d6933
+# app-12565-tag 3e30e3b4b26a075076dca3bbf233a852fb83711a6c5c2eefe8e12fd8d69d6933
+# app-12565-tag 3e30e3b4b26a075076dca3bbf233a852fb83711a6c5c2eefe8e12fd8d69d6933
+# app-12565-tag 3e30e3b4b26a075076dca3bbf233a852fb83711a6c5c2eefe8e12fd8d69d6933
+# app-12565-tag 3e

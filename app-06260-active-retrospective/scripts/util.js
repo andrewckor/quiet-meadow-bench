@@ -1,0 +1,25 @@
+// Skill: app-06260-active-retrospective
+// Category: spreadsheets
+
+export function describe() {
+  return "app-06260-active-retrospective";
+}
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-active-retrospective 0b9ba4b72b97ff5796c4e455594ba2863671010d18e9105eea7167ea9b0acd84
+# app-06260-acti

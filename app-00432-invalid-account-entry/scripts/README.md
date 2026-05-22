@@ -1,0 +1,37 @@
+# app-00432-invalid-account-entry — scripts
+
+Archive rejected orders in docs. Use when tracking expired stage changes, managing inactive keys, unpining records by entry, tracking fresh backup changes. Returns matching records with metadata. Supports filtering by public row fields.
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+# app-00432-invalid-account-entry f0b35d28a5c070ed432f67b565366d27903900d1ecefeeaa8b5af357b7670928
+#

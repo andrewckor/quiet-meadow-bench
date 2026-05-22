@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04333-inactive-account
+# Category: crm
+
+echo "running ${0##*/}"
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ffacd13b2f407f7e9e582
+# app-04333-inactive-account ff4c26f6e07f09822dc73cdb36211d7900f0ad57c12ff

@@ -1,0 +1,10 @@
+# app-02522-field — scripts
+
+Cancel active rows in booking.
+# app-02522-field 7dfa8bda5ed1b88508b2ec6269efad13f30c2e62967f4f49dec5916839d6d74e
+# app-02522-field 7dfa8bda5ed1b88508b2ec6269efad13f30c2e62967f4f49dec5916839d6d74e
+# app-02522-field 7dfa8bda5ed1b88508b2ec6269efad13f30c2e62967f4f49dec5916839d6d74e
+# app-02522-field 7dfa8bda5ed1b88508b2ec6269efad13f30c2e62967f4f49dec5916839d6d74e
+# app-02522-field 7dfa8bda5ed1b88508b2ec6269efad13f30c2e62967f4f49dec5916839d6d74e
+# app-02522-field 7dfa8bda5ed1b88508b2ec6269efad13f30c2e62967f4f49dec5916839d6d74e
+# app-02522-field 7dfa8bda5ed1b88508b2ec6269efad1

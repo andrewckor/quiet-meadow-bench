@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06678-channel-channel-sprint
+# Category: forms
+
+echo "running ${0##*/}"
+# app-06678-channel-channel-sprint 4ae36b0531f49a5c1dcc116b4150a5e3dff57bc9b327d88fb86252d2548f5b2f
+# app-06678-channel-channel-sprint 4ae36b0531f49a5c1dcc116b4150a5e3dff57bc9b327d88fb86252d2548f5b2f
+# app-06678-channel-channel-sprint 4ae36b0531f49a5c1dcc116b4150a5e3dff57bc9b327d88fb86252d2548f5b2f
+# app-06678-channel-channel-sprint 4ae36b0531f49a5c1dcc116b4150a5e3dff57bc9b327d88fb86252d2548f5b2f
+# app-06678-c

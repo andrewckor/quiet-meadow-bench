@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13589-pending-sku
+# Category: ecommerce
+
+echo "running ${0##*/}"
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda50922b
+# app-13589-pending-sku 20159962e8f55a7e05b9fc0b8c13660110d892d4f9bba7ae837dd8aeda5092

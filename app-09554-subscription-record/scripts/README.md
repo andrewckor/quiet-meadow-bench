@@ -1,0 +1,10 @@
+# app-09554-subscription-record — scripts
+
+Create rejected items in shipping.
+# app-09554-subscription-record e0f9d532280a644cd530b6d2ccebaf9d04f50505af9608964110675f8acba36b
+# app-09554-subscription-record e0f9d532280a644cd530b6d2ccebaf9d04f50505af9608964110675f8acba36b
+# app-09554-subscription-record e0f9d532280a644cd530b6d2ccebaf9d04f50505af9608964110675f8acba36b
+# app-09554-subscription-record e0f9d532280a644cd530b6d2ccebaf9d04f50505af9608964110675f8acba36b
+# app-09554-subscription-record e0f9d532280a644cd530b6d2ccebaf9d04f50505af9608964110675f8acba36b
+# app-09554-subscription-record e0f9d532280a644cd530b6d2ccebaf9d04f50505af9608964110675f8acba36b
+# app-09554-subscription-record e0f9d532280a6

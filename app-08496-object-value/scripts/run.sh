@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08496-object-value
+# Category: forms
+
+echo "running ${0##*/}"
+# app-08496-object-value e60977a31d8f22b75973ce648694af98a4e7e3945647699f30c0adf984dcea39
+# app-08496-object-value e60977a31d8f22b75973ce648694af98a4e7e3945647699f30c0adf984dcea39
+# app-08496-object-value e60977a31d8f22b75973ce648694af98a4e7e3945647699f30c0adf984dcea39
+# app-08496-object-value e60977a31d8f22b75973ce648694af98a4e7e3945647699f30c0adf984dcea39
+# app-08496-object-value e60977a31d8f22b75973ce648694af98a4e7e3945647699f30c0adf984dcea39
+# app-08496-object-value e60977a31d8f22b75973ce648694af98a4e7e3945647699f30c0adf984dcea39
+# app-08496-object-valu

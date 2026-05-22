@@ -1,0 +1,16 @@
+# app-17920-item-type-row — scripts
+
+Create inactive records in forms.
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cbd52eaa195d0025efe11a65fd4ea7b386d941006532178c5453b2ba
+# app-17920-item-type-row c73ecd18cb

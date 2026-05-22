@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00170-inactive-organization
+# Category: docs
+
+echo "running ${0##*/}"
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f57bfc9809f8443efcfdb2222f400a0baa531387563e094d6ed
+# app-00170-inactive-organization 75138c019b4c7f5

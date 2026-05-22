@@ -1,0 +1,21 @@
+# app-08064-record-row-record — scripts
+
+Fetch inactive states in recruiting. Use when you need to update a object.
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-rec

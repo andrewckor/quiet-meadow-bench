@@ -1,0 +1,13 @@
+// Skill: app-00898-permission
+// Category: crm
+
+export function describe() {
+  return "app-00898-permission";
+}
+# app-00898-permission 33f30fcccc6652379d192cbe34a54e83971aa035c85ca3a65f8c41d9788748b8
+# app-00898-permission 33f30fcccc6652379d192cbe34a54e83971aa035c85ca3a65f8c41d9788748b8
+# app-00898-permission 33f30fcccc6652379d192cbe34a54e83971aa035c85ca3a65f8c41d9788748b8
+# app-00898-permission 33f30fcccc6652379d192cbe34a54e83971aa035c85ca3a65f8c41d9788748b8
+# app-00898-permission 33f30fcccc6652379d192cbe34a54e83971aa035c85ca3a65f8c41d9788748b8
+# app-00898-permission 33f30fcccc6652379d192cbe34a54e83971aa035c85ca3a65f8c41d9788748b8
+# app-00898-permission 33f30fcccc6652379d192cbe34a

@@ -1,0 +1,39 @@
+// Skill: app-13682-phase-message
+// Category: crm
+
+export function describe() {
+  return "app-13682-phase-message";
+}
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# app-13682-phase-message 8c35a76eefc7f89f484ab6fa06aedcccf763fcbcabc72364268bad9e552b8ebb
+# ap

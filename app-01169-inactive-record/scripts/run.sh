@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01169-inactive-record
+# Category: social-media
+
+echo "running ${0##*/}"
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-record b4826989c38cb16b4fa98c9a39a60ed2e91ce6efb0089d05bd0412107c15f3b1
+# app-01169-inactive-rec

@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03563-inactive-label-refund
+# Category: crm
+
+echo "running ${0##*/}"
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8dadf01e3968e297556504c2a0c87be8e3a3c17437a26b8035a90
+# app-03563-inactive-label-refund 3da1ab80bcd8da

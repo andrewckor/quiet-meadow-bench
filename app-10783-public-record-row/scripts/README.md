@@ -1,0 +1,17 @@
+# app-10783-public-record-row — scripts
+
+Approve approved records in wiki.
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e5694f84b5ed8e15e07731f27bb45916657
+# app-10783-public-record-row f706ec7c7fbbbb149ccf38edb5786e569

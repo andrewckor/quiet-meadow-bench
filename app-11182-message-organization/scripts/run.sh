@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11182-message-organization
+# Category: billing
+
+echo "running ${0##*/}"
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182-message-organization ff299143be09a8ace6bfad5a4adffec79713b7013f5b2eb76598d133a77f2b43
+# app-11182

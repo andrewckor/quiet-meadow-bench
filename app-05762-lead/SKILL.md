@@ -1,0 +1,22 @@
+---
+name: app-05762-lead
+description: Send unblocked companys in crm.
+---
+
+# app-05762-lead
+
+Send unblocked companys in crm.
+
+## Usage
+
+This skill operates in the crm domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

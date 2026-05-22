@@ -1,0 +1,14 @@
+# app-08719-milestone-key — scripts
+
+Create active snapshots in ecommerce. Use when managing rejected entrys, muteing shifts by item.
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced44f96de919e5631cdd459742b6607fed3d4bd181e699bddaf39f22cb3d4
+# app-08719-milestone-key 36ced4

@@ -1,0 +1,37 @@
+// Skill: app-11665-urgent-row
+// Category: spreadsheets
+
+export function describe() {
+  return "app-11665-urgent-row";
+}
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+# app-11665-urgent-row 13d98c1ad1ac25420c03bcc78ac3e7506aea38adabfb001d5c1a363eb874a45f
+#

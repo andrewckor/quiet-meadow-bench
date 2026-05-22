@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02078-recent-row
+# Category: identity
+
+echo "running ${0##*/}"
+# app-02078-recent-row c888caf1f4764830d4a7b86d78d9c9b99dbeb34c8da19c29288a14b7b5e22296
+# app-02078-recent-row c888caf1f4764830d4a7b86d78d9c9b99dbeb34c8da19c29288a14b7b5e22296
+# app-02078-recent-row c888caf1f4764830d4a7b86d78d9c9b99dbeb34c8da19c29288a14b7b5e22296
+# app-02078-recent-row c888caf1f4764830d4a7b86d78d9c9b99dbeb34c8da19c29288a14b7b5e22296
+# app-02078-recent-row c888caf1f4764830d4a7b86d78d9c9b99dbeb34c8da19c29288a14b7b5e22296
+# app-02078-recent-row c888caf1f4764830d4a7b86d78d9c9b99db

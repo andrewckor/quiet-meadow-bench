@@ -1,0 +1,28 @@
+# app-11633-tag — scripts
+
+Delete open leads in ticketing. Use when searching polls by issue, tracking inactive meeting changes.
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a72fbafc86cbd6b95f4ef551ee5fa227dadb8fd91d2
+# app-11633-tag 6d1c6f9fedc69f7975d40a7

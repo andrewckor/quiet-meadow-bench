@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02834-draft-task
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-02834-draft-task e6947b0348b9620b46c4c86c92775b9cb5685a7c825ccca7b25ed653d62b7ce3
+# app-02834-draft-task e6947b0348b9620b46c4c86c92775b9cb5685a7c825ccca7b25ed653d62b7ce3
+# app-02834-draft-task e6947b0348b9620b46c4c86c92

@@ -1,0 +1,20 @@
+// Skill: app-06633-deleted-phase
+// Category: payments
+
+export function describe() {
+  return "app-06633-deleted-phase";
+}
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+# app-06633-deleted-phase bbf764b7dbf6abf0680b1164b56642a87efac7a8344e26012f5e98f7f228a1e1
+#

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14463-inactive-key
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-14463-inactive-key a60d246b0ac8e4bca908715d2891b9bb8df4d61dcfe04097305141f99f9f1ab3
+# app-14463-inactive-key a60d246b0ac8e4bca908715d2891b9bb8df4d61dcfe04097305141f99f9f1ab3
+# app-14463-inactive-key a60d246b0ac8e4bca908715d2891b9bb8df4d61dcfe04097305141f99f9f1ab3
+# app-14463-inactive-key a60d246b0ac8e4bca908715d2891b9bb8df4d61dcfe04097305141f99f9f1ab

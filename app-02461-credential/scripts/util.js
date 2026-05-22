@@ -1,0 +1,19 @@
+// Skill: app-02461-credential
+// Category: email
+
+export function describe() {
+  return "app-02461-credential";
+}
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eace40c9a9667c23c7a8edc88f46df42aeb5e6c89453ca95beca972777
+# app-02461-credential 32fdc5eac

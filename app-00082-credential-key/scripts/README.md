@@ -1,0 +1,27 @@
+# app-00082-credential-key — scripts
+
+Approve fresh records in calendar. Use when tracking completed goal changes, createing values by span.
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# app-00082-credential-key 3babd4ac021c4d7197b1aae0e7fdcff3a2eb2d24035864106176a796d27cd730
+# 

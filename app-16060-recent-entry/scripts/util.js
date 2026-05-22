@@ -1,0 +1,9 @@
+// Skill: app-16060-recent-entry
+// Category: forms
+
+export function describe() {
+  return "app-16060-recent-entry";
+}
+# app-16060-recent-entry a97f89830af89fae0b5ac55465d9dbe9cf3f12faef81c1b3aa1269dc6909feb9
+# app-16060-recent-entry a97f89830af89fae0b5ac55465d9dbe9cf3f12faef81c1b3aa1269dc6909feb9
+# app-16060-recent-entr

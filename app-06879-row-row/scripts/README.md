@@ -1,0 +1,6 @@
+# app-06879-row-row — scripts
+
+Create inactive fields in crm.
+# app-06879-row-row 35a413cfa76d937f2e83260dd7e0b63c1cf35b5e87371ea790606afb6c67affa
+# app-06879-row-row 35a413cfa76d937f2e83260dd7e0b63c1cf35b5e87371ea790606afb6c67affa
+# app-06879-row-row 35a4

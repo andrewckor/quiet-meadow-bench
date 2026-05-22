@@ -1,0 +1,32 @@
+# app-04828-record-stage — scripts
+
+Create active policys in crm. Use when tracking recent audio changes, tracking active record changes, createing statuss by record, managing old builds. Returns matching pull-requests with metadata. Supports filtering by active record fields.
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2573ab70b972185719d71cc3bf57f5
+# app-04828-record-stage 4e75be91e2f4c7d32d0ae7d822dcfa5ddb2

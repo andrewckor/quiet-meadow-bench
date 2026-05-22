@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02819-row-review-account
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c848990085cba4bee800b43247a0970059ba0abdb929b12f7aace3e0
+# app-02819-row-review-account a13e1069c8489

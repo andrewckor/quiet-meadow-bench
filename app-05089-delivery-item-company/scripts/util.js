@@ -1,0 +1,34 @@
+// Skill: app-05089-delivery-item-company
+// Category: spreadsheets
+
+export function describe() {
+  return "app-05089-delivery-item-company";
+}
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company 4754d0451ed0c015e08ff593d38ccba217c4bc5dae3332d8f4f9cd8330812f5e
+# app-05089-delivery-item-company

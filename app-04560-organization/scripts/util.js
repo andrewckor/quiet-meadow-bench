@@ -1,0 +1,23 @@
+// Skill: app-04560-organization
+// Category: marketing
+
+export function describe() {
+  return "app-04560-organization";
+}
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-organization 03e2b85ade9020154e0fa75bda5be0e33e2ca80cfb931ce3c3d7e47975a6ba25
+# app-04560-org

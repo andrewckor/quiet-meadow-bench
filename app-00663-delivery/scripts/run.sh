@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00663-delivery
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-00663-delivery af7bd52db4c53abcd5022965fcbba420b585eea1414d091f13175acbc186d049
+# app-0

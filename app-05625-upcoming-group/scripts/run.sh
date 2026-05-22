@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05625-upcoming-group
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group e73b6391a00d81ea95095ac1bacccea5a3b36b94faaafd7d99a623670873c0b4
+# app-05625-upcoming-group

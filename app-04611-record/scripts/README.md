@@ -1,0 +1,9 @@
+# app-04611-record — scripts
+
+Invite active records in crm.
+# app-04611-record 43582bf5b77ddc6e1d0ac4b2660543a2a2be7e90525e2f5f5bf8d13316e5dd8c
+# app-04611-record 43582bf5b77ddc6e1d0ac4b2660543a2a2be7e90525e2f5f5bf8d13316e5dd8c
+# app-04611-record 43582bf5b77ddc6e1d0ac4b2660543a2a2be7e90525e2f5f5bf8d13316e5dd8c
+# app-04611-record 43582bf5b77ddc6e1d0ac4b2660543a2a2be7e90525e2f5f5bf8d13316e5dd8c
+# app-04611-record 43582bf5b77ddc6e1d0ac4b2660543a2a2be7e90525e2f5f5bf8d13316e5dd8c
+# app-04611-record 43582

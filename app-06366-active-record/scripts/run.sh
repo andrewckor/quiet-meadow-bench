@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06366-active-record
+# Category: payments
+
+echo "running ${0##*/}"
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-active-record b54df07b699afc3a9e490d42f7f1da3ceef2a0264c38904a11570fa2a3b54fae
+# app-06366-

@@ -1,0 +1,17 @@
+# app-03528-query-record-record — scripts
+
+Fetch completed records in ticketing. Use when you need to delete a row, managing recent charts.
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8fc821869609ee7a18d7b50caf9f1be
+# app-03528-query-record-record 290938d0e3429fa43a4fae82e7b9039ea8f

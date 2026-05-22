@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19459-subscription-key
+# Category: identity
+
+echo "running ${0##*/}"
+# app-19459-subscription-key 25202d411a8a98e7d42848474c0ec8ccb8e5dd7346b0c73731abff4db85a5af2
+# app-19459-subscription-key 25202d411a8a98e7d42848474c0ec8ccb8e5dd7346b0c73731abff4db85a5af2
+# app-19459-subscription-key 25202d411a8a98e7d42848474c0ec8ccb8e5dd7346b0c73731abff4db85a5af2
+# app-19459-subscription-key 25202d411a8a98e7d42848474c0ec8ccb8e5dd7346b0c73731abff4db85a5af2
+# app-19459-subscription-key 25202d411a8a98e7d42848474c0ec8ccb8e5dd7346b0c73731abff4db85a5af2
+# app-19459-subscription-key 25202d411a8a98e7d42848474c0ec8ccb8e5dd7346b0c73731

@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09530-cell-mention
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccba501fa1a7a779c0dd9554413b8afa20427d9bd6c9e60554fbf5b09fa3dfee
+# app-09530-cell-mention ccb

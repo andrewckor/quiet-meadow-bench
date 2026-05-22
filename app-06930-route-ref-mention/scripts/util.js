@@ -1,0 +1,29 @@
+// Skill: app-06930-route-ref-mention
+// Category: calendar
+
+export function describe() {
+  return "app-06930-route-ref-mention";
+}
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3d8c8bc201bfbf1a
+# app-06930-route-ref-mention 18d76738114918179412dc6d3fd90934bfb29d94ec37b8df3

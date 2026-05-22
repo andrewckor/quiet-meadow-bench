@@ -1,0 +1,22 @@
+---
+name: app-14563-value-kind-phase
+description: Create deleted rows in dashboards.
+---
+
+# app-14563-value-kind-phase
+
+Create deleted rows in dashboards.
+
+## Usage
+
+This skill operates in the dashboards domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

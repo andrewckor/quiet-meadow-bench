@@ -1,0 +1,45 @@
+// Skill: app-11035-rejected-subtask-alert
+// Category: docs
+
+export function describe() {
+  return "app-11035-rejected-subtask-alert";
+}
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e485fc8a3cd3c27b216c97c50b9798c57cb7b06895187dc699f
+# app-11035-rejected-subtask-alert 45e7bf567bc79e48

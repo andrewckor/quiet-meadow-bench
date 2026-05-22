@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19480-automation-id
+# Category: hr
+
+echo "running ${0##*/}"
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9
+# app-19480-automation-id 575273a6727b2df7c03cb60ef7a52bcd1e0b12e306fff174d95a4fbfc36a1ca9

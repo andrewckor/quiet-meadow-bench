@@ -1,0 +1,23 @@
+// Skill: app-14870-approval-field
+// Category: email
+
+export function describe() {
+  return "app-14870-approval-field";
+}
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c4d9
+# app-14870-approval-field d6bdece1c7d24e50b358bb191ea38eb45b14cda9033f0c19343bde245741c

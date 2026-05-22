@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15729-pending-record-account
+# Category: support
+
+echo "running ${0##*/}"
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e463182b
+# app-15729-pending-record-account f5194adec853ed33da1897906d9baad64975bd8f83ab9efdabb129e0e46

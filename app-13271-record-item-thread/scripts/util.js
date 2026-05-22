@@ -1,0 +1,26 @@
+// Skill: app-13271-record-item-thread
+// Category: crm
+
+export function describe() {
+  return "app-13271-record-item-thread";
+}
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878546e1e1abd9a31e88b4ce50ccca
+# app-13271-record-item-thread 27ea190a122036ae01ebc4bd88e84b1299878

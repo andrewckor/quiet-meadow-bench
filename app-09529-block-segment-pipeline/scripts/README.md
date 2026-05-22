@@ -1,0 +1,19 @@
+# app-09529-block-segment-pipeline — scripts
+
+Unassign active categorys in chat. Use when createing trackings by type, managing archived filters.
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318959cd2bb15d7fbeda
+# app-09529-block-segment-pipeline 1caae1ed311953753f74a9abb5c2ed6580cea359071f318

@@ -1,0 +1,13 @@
+// Skill: app-01216-draft-category-key
+// Category: crm
+
+export function describe() {
+  return "app-01216-draft-category-key";
+}
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d45

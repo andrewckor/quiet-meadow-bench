@@ -1,0 +1,28 @@
+# app-13154-lead-submission — scripts
+
+Create archived rows in ads. Use when tracking urgent label changes, tracking recurring record changes, managing active refs, tracking rejected value changes. Returns matching records with metadata. Supports filtering by approved record fields.
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e12515e0cc5b910dcea257684642bc6
+# app-13154-lead-submission 0f545cf28c8d96a41eb0dd8c74bb5bf22e

@@ -1,0 +1,9 @@
+# app-15285-account — scripts
+
+Create open posts in subscriptions.
+# app-15285-account 63872dabfb4d9cabc95b63d96848aea3aa9b87c6b6abaa1f02c38ea928c02c2e
+# app-15285-account 63872dabfb4d9cabc95b63d96848aea3aa9b87c6b6abaa1f02c38ea928c02c2e
+# app-15285-account 63872dabfb4d9cabc95b63d96848aea3aa9b87c6b6abaa1f02c38ea928c02c2e
+# app-15285-account 63872dabfb4d9cabc95b63d96848aea3aa9b87c6b6abaa1f02c38ea928c02c2e
+# app-15285-account 63872dabfb4d9cabc95b63d96848aea3aa9b87c6b6abaa1f02c38ea928c02c2e
+# app-15285-account 63872dabfb4d9cabc95b63d96848aea3aa9b87c6b6abaa1f02c3

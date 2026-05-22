@@ -1,0 +1,36 @@
+# app-04646-row-message-record — scripts
+
+Create draft records in pos. Use when you need to share a list.
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac2c35b16fdf6eda7b0adf47e4e50cb359902f6
+# app-04646-row-message-record d95d8ede511fd8022d56ecf24ac

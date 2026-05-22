@@ -1,0 +1,37 @@
+// Skill: app-07931-deleted-review-reaction
+// Category: crm
+
+export function describe() {
+  return "app-07931-deleted-review-reaction";
+}
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-07931-deleted-review-reaction 36ede4af17c165a71a79e44c7bddd65f538e728442ecd432638ce7372bdaa1fd
+# app-0

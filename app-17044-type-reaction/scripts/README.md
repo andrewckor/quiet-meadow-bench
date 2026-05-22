@@ -1,0 +1,10 @@
+# app-17044-type-reaction — scripts
+
+Remove active types in crm.
+# app-17044-type-reaction cc5b684b86e20273e4b3c8601b541e0f4f71d3f1f824581cbcf8ffb4343825de
+# app-17044-type-reaction cc5b684b86e20273e4b3c8601b541e0f4f71d3f1f824581cbcf8ffb4343825de
+# app-17044-type-reaction cc5b684b86e20273e4b3c8601b541e0f4f71d3f1f824581cbcf8ffb4343825de
+# app-17044-type-reaction cc5b684b86e20273e4b3c8601b541e0f4f71d3f1f824581cbcf8ffb4343825de
+# app-17044-type-reaction cc5b684b86e20273e4b3c8601b541e0f4f71d3f1f824581cbcf8ffb4343825de
+# app-17044-type-reaction cc5b684b86e20273e4b3c8601b541e0f4f71d3f1f824581cbcf8ffb4343825de
+# app-17044-type-reaction cc5b68

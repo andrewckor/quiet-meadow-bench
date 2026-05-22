@@ -1,0 +1,13 @@
+// Skill: app-04919-primary-ledger
+// Category: events
+
+export function describe() {
+  return "app-04919-primary-ledger";
+}
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae

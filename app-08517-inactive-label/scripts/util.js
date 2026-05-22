@@ -1,0 +1,9 @@
+// Skill: app-08517-inactive-label
+// Category: analytics
+
+export function describe() {
+  return "app-08517-inactive-label";
+}
+# app-08517-inactive-label d38e701bd8bc83586bcaf386c13a7268a4e240b3b64cdd46bc350872385741a0
+# app-08517-inactive-label d38e701bd8bc83586bcaf386c13a7268a4e240b3b64cdd46bc350872385741a0
+# app-08517-inactive-label d38e701bd8bc83586bcaf38

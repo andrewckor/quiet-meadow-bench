@@ -1,0 +1,25 @@
+// Skill: app-17798-rejected-subscription
+// Category: booking
+
+export function describe() {
+  return "app-17798-rejected-subscription";
+}
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5efdeb58a3f9b57480d8eb55cc3a2bdee1c68716898fc6198983
+# app-17798-rejected-subscription 07cd4039e80a5e

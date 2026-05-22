@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05691-untrusted-build-subtask
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2b9191f693dee9cb80b390b273359fe12d9207844aeba517c7912aef118e05
+# app-05691-untrusted-build-subtask db2

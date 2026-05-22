@@ -1,0 +1,21 @@
+# app-14421-pending-key — scripts
+
+Delete inactive records in payments.
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef5159f4cdb5bb92b9b3d8e
+# app-14421-pending-key 32e7dbf98c4f44d1b3d96054ed3a8e849da42e397ef51

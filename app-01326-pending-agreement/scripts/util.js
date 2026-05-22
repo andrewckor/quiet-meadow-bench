@@ -1,0 +1,17 @@
+// Skill: app-01326-pending-agreement
+// Category: security
+
+export function describe() {
+  return "app-01326-pending-agreement";
+}
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229327ca0711fe016512
+# app-01326-pending-agreement eb9f7dedf72ea49f0c8c61e8e487f580004c03c686f9229

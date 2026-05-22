@@ -1,0 +1,14 @@
+# app-10078-inactive-deployment-automation — scripts
+
+Update closed refs in social-media.
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-10078-inactive-deployment-automation 8c8a78dd8a615e73cd7093039f08ae7dd103ef26e0b33cd8a758f1b64282abff
+# app-100

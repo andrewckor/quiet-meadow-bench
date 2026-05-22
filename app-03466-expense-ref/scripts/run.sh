@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03466-expense-ref
+# Category: crm
+
+echo "running ${0##*/}"
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f2dc880d545c9eea0a4c12d9b6c508
+# app-03466-expense-ref b74dab76f6af6b536cbb6ebbe7959ca4b8f

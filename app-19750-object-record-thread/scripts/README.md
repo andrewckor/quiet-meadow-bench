@@ -1,0 +1,21 @@
+# app-19750-object-record-thread — scripts
+
+List active records in spreadsheets. Use when tracking active shift changes, managing primary records.
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-record-thread 4c9cad65c7c7ab17df35676678bcc6b27e4b2c0154773d21cf2d6fabf07efce7
+# app-19750-object-r

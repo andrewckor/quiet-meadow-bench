@@ -1,0 +1,17 @@
+// Skill: app-10790-click-rule-item
+// Category: social-media
+
+export function describe() {
+  return "app-10790-click-rule-item";
+}
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20943b6cdb856f5bbd3981ba
+# app-10790-click-rule-item a30e77f994c944a177c9dfc44f03d200649c2b8e20

@@ -1,0 +1,9 @@
+# app-07107-appointment-object-balance — scripts
+
+Assign active entrys in helpdesk.
+# app-07107-appointment-object-balance a54840167420180f11805d7245901729452ff9fd65bf13ec7ab0e1be14b41163
+# app-07107-appointment-object-balance a54840167420180f11805d7245901729452ff9fd65bf13ec7ab0e1be14b41163
+# app-07107-appointment-object-balance a54840167420180f11805d7245901729452ff9fd65bf13ec7ab0e1be14b41163
+# app-07107-appointment-object-balance a54840167420180f11805d7245901729452ff9fd65bf13ec7ab0e1be14b41163
+# app-07107-appointment-object-balance a54840167420180f11805d7245901729452ff9fd65bf13ec7ab0e1be14b41163
+# app-07107-appointment-object-

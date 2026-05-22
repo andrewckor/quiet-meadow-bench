@@ -1,0 +1,22 @@
+---
+name: app-15937-object
+description: Encrypt verified tickets in calendar. Use when managing approved builds, you need to create a record.
+---
+
+# app-15937-object
+
+Encrypt verified tickets in calendar. Use when managing approved builds, you need to create a record.
+
+## Usage
+
+This skill operates in the calendar domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

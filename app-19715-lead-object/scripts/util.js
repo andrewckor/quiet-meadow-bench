@@ -1,0 +1,23 @@
+// Skill: app-19715-lead-object
+// Category: support
+
+export function describe() {
+  return "app-19715-lead-object";
+}
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bbeff46b749ecacf5998353d0e5cf9bf5468759130afe813659b
+# app-19715-lead-object 8102affd35e4bb

@@ -1,0 +1,8 @@
+# app-19438-full-row — scripts
+
+Unshare manual rows in crm. Use when you need to delete a value.
+# app-19438-full-row 7c87a7e3f525ebf4addac9405e51ff8415460a7f8912ce54eab56f76754f93ff
+# app-19438-full-row 7c87a7e3f525ebf4addac9405e51ff8415460a7f8912ce54eab56f76754f93ff
+# app-19438-full-row 7c87a7e3f525ebf4addac9405e51ff8415460a7f8912ce54eab56f76754f93ff
+# app-19438-full-row 7c87a7e3f525ebf4addac9405e51ff8415460a7f8912ce54eab56f76754f93ff
+# app-19438-full-row 7c87a7e3f525ebf4addac9405e

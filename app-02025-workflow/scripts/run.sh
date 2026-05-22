@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02025-workflow
+# Category: email
+
+echo "running ${0##*/}"
+# app-02025-workflow 051c00ac6301daaf6e91d16f6995377ba6e72d13597f6727f9ad5dceade62246
+# app-02025-workflow 051c00ac6301daaf6e91d16f6995377ba6e72d13597f6727f9ad5dceade62246
+# app-02025-workflow 051c00ac6301daaf6e91d16f6995377ba6e72d13597f6727f9ad5dceade62246
+# app-02025-workflow 051c00ac6301daaf6e91d16f6995377ba6e72d13597f6727f9ad5dceade62246
+# app-02025-workflow 051c00ac6301daaf6e91d16f6995377ba6e72d13597f6727f9ad5dceade62246
+# app-02025-workflow 051c00ac6301daaf6e91d16f6995377ba6e72d13597f6727f9ad5dceade62246
+# app-02025-workflow 051c00ac6301daaf6e91d16f6995377ba6e72d13597f6727f9ad5dceade62246
+# app-02025-workflow 051c00ac6301daaf6e91d16f6995377ba6e72d13597f6

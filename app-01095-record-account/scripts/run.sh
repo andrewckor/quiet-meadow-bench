@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01095-record-account
+# Category: chat
+
+echo "running ${0##*/}"
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad744fe40e14c6e618d9845f6
+# app-01095-record-account 8509e7dbf15525bc44c389ffe6b530365575befad74

@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14945-company-entry-review
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647cb1cca7dc99ea93725a294d7c1a3d5fcc0
+# app-14945-company-entry-review f0850b0f506cbc220a5fc76d6c3647c

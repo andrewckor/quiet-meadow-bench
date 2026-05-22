@@ -1,0 +1,10 @@
+// Skill: app-02518-local-poll-record
+// Category: feature-flags
+
+export function describe() {
+  return "app-02518-local-poll-record";
+}
+# app-02518-local-poll-record 71baf1128690b9655bf7086c025f1d03f8f7ed6600b5435177a0fa2670059d2b
+# app-02518-local-poll-record 71baf1128690b9655bf7086c025f1d03f8f7ed6600b5435177a0fa2670059d2b
+# app-02518-local-poll-record 71baf1128690b9655bf7086c025f1d03f8f7ed6600b5435177a0fa2670059d2b
+# app-02518-local-poll-record 71baf1128690b9655bf7086c025f1d03f8f7ed6600b5435177a0fa2670

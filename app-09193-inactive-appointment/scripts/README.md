@@ -1,0 +1,15 @@
+# app-09193-inactive-appointment — scripts
+
+List stopped companys in crm.
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de54f9fb4ee9afcb6d80
+# app-09193-inactive-appointment d4edc3c181834c736e9d53ebd3a96249d05151984479de

@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11811-active-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7bab4c0c9edf43385
+# app-11811-active-record b6b8b7e2114c232ace5bed3b353bb278024d825af6f47cb7

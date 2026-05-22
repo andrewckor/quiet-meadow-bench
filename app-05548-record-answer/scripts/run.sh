@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05548-record-answer
+# Category: support
+
+echo "running ${0##*/}"
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f6e7b794bce7ad5b40785906005e462d0bdf2ebcb5b9de91c6
+# app-05548-record-answer 3cd7cb76de4257f

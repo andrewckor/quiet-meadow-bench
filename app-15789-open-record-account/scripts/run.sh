@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15789-open-record-account
+# Category: chat
+
+echo "running ${0##*/}"
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade600ee3d9b269424c39d4eefccbc95f6d8de42d72baca06c
+# app-15789-open-record-account 44e5fa7873bcd7ade6

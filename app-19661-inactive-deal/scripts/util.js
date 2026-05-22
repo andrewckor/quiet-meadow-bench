@@ -1,0 +1,38 @@
+// Skill: app-19661-inactive-deal
+// Category: email
+
+export function describe() {
+  return "app-19661-inactive-deal";
+}
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69a0cb3b4ad996119c
+# app-19661-inactive-deal 1787cf8197cdba54fb9eac841df6e496da9dfa8693035a69

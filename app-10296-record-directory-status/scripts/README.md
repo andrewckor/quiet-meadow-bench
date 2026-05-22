@@ -1,0 +1,19 @@
+# app-10296-record-directory-status — scripts
+
+Create published rows in crm.
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c620e82490d149ea069578770b
+# app-10296-record-directory-status b3dafa8dd7028c8b1ef3d259a1d6c908fbb8d3c62

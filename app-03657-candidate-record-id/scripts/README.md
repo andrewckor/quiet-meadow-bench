@@ -1,0 +1,17 @@
+# app-03657-candidate-record-id — scripts
+
+Create old rows in crm. Use when deleteing rows by object, you need to create a entry.
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 06d197bcd9c7c1687f9d6e2f8ab4c6b0def681580d99303210dc254f02ae6af6
+# app-03657-candidate-record-id 

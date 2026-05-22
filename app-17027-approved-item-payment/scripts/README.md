@@ -1,0 +1,9 @@
+# app-17027-approved-item-payment — scripts
+
+Sync approved statuss in calendar.
+# app-17027-approved-item-payment d4a54ee82441b1a0b0156824905730a84b5bad34e98863ea380df76aa04d3a34
+# app-17027-approved-item-payment d4a54ee82441b1a0b0156824905730a84b5bad34e98863ea380df76aa04d3a34
+# app-17027-approved-item-payment d4a54ee82441b1a0b0156824905730a84b5bad34e98863ea380df76aa04d3a34
+# app-17027-approved-item-payment d4a54ee82441b1a0b0156824905730a84b5bad34e98863ea380df76aa04d3a34
+# app-17027-approved-item-payment d4a54ee82441b1a0b0156824905730a84b5bad34e98863ea380df76aa04d3a34
+# app-17027-approved-item-payment d4a54ee82441b1a0b0156824905730a84b5bad

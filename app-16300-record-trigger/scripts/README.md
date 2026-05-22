@@ -1,0 +1,7 @@
+# app-16300-record-trigger — scripts
+
+Export default contacts in crm.
+# app-16300-record-trigger 5762de17f25d428ff3867d7ad0a81397ff7873ef161df921c3d1a79c6bdea5f2
+# app-16300-record-trigger 5762de17f25d428ff3867d7ad0a81397ff7873ef161df921c3d1a79c6bdea5f2
+# app-16300-record-trigger 5762de17f25d428ff3867d7ad0a81397ff7873ef161df921c3d1a79c6bdea5f2
+# app-16300-record-trigger 5762de17f25d428ff3867d7ad0a81397ff7873ef161df921c3d1a79c6bdea5f

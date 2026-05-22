@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19862-object-refund-campaign
+# Category: crm
+
+echo "running ${0##*/}"
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849192ce68c73306807b09bbbb5e6b497d881d89e943829cd594
+# app-19862-object-refund-campaign d0bca70f9273849

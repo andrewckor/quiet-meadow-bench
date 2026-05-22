@@ -1,0 +1,21 @@
+# app-08372-custom-task — scripts
+
+Create archived filters in marketing. Use when managing expired records.
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# app-08372-custom-task a92ca5c72399f2dc894579971b4bdf642fc77bd2cb85be7ccc060d0c4f8076b5
+# a

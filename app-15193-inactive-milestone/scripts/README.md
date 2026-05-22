@@ -1,0 +1,9 @@
+# app-15193-inactive-milestone — scripts
+
+Delete open stages in docs.
+# app-15193-inactive-milestone f0ee7e8cd1c560d9356e8b69a696b68b1a04d9209486c4246bb5f33867da5bff
+# app-15193-inactive-milestone f0ee7e8cd1c560d9356e8b69a696b68b1a04d9209486c4246bb5f33867da5bff
+# app-15193-inactive-milestone f0ee7e8cd1c560d9356e8b69a696b68b1a04d9209486c4246bb5f33867da5bff
+# app-15193-inactive-milestone f0ee7e8cd1c560d9356e8b69a696b68b1a04d9209486c4246bb5f33867da5bff
+# app-15193-inactive-milestone f0ee7e8cd1c560d9356e8b69a696b68b1a04d9209486c4246bb5f33867da5bff
+# app-15193-inactive-milestone f0ee7e8cd1c560d9356e8b69a696b68b1a

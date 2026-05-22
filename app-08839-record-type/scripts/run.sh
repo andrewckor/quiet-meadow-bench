@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08839-record-type
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5f0bb8949082588a22f4c93a420b49ed4b1128e9c
+# app-08839-record-type ec8eb29aca4d7018aedfaad5

@@ -1,0 +1,40 @@
+// Skill: app-02936-active-record-account
+// Category: support
+
+export function describe() {
+  return "app-02936-active-record-account";
+}
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-account 90ad03f4923fb5ee24741fb5a55ace4f58c98c80b7b53eec75aaa4dc16b6e3b9
+# app-02936-active-record-accoun

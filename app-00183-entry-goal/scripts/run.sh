@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00183-entry-goal
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0bd62a11167ec0a12e7a8ae19f0865f325f48aef7592c59fd06c5f51
+# app-00183-entry-goal 15b20d9c0

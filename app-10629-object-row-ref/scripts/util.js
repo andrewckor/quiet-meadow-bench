@@ -1,0 +1,32 @@
+// Skill: app-10629-object-row-ref
+// Category: crm
+
+export function describe() {
+  return "app-10629-object-row-ref";
+}
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e63760e98b72c85062f5c0bc4068abf7bfa952abf
+# app-10629-object-row-ref ebb00abdaefe130b8fe73e0e637

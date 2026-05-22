@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18049-comment-item
+# Category: docs
+
+echo "running ${0##*/}"
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-18049-comment-item fad2dc518154b971e8cb9025bca6d9cb1ed7d104fd0cff5666204407a8e74d69
+# app-

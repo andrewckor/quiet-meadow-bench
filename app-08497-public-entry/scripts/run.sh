@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08497-public-entry
+# Category: email
+
+echo "running ${0##*/}"
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c6d5791c18d8121d678
+# app-08497-public-entry fd96d0e0c28cc67d6e7d8aab8c1726b7a87cdf2ddc7e5c

@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17655-poll-tag
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464ccbdcf12330e5a6c0fa8890794edce6e6503db0d7aae2c61354
+# app-17655-poll-tag c8cadd22b8464cc

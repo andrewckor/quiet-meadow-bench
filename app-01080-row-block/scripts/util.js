@@ -1,0 +1,10 @@
+// Skill: app-01080-row-block
+// Category: marketing
+
+export function describe() {
+  return "app-01080-row-block";
+}
+# app-01080-row-block 348c8c19905a54a37a964b4fddee2d5a668920ee00d1fff4903c83b79a7e0185
+# app-01080-row-block 348c8c19905a54a37a964b4fddee2d5a668920ee00d1fff4903c83b79a7e0185
+# app-01080-row-block 348c8c19905a54a37a964b4fddee2d5a668920ee00d1fff4903c83b79a7e0185
+# app-01080-row-block 348c8c19905a54a37a964b4fddee2d5a668920ee00d1fff4903c83b79a7

@@ -1,0 +1,15 @@
+# app-16703-inventory — scripts
+
+Kick untrusted types in calendar.
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e771c03a0f0ee4c0eadf15ca78a7f853480e78f977ff8634f0bcc4
+# app-16703-inventory ada09fde46e7

@@ -1,0 +1,38 @@
+# app-14960-tag-id — scripts
+
+Update closed tokens in crm.
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef5f3e6201f8f67e801ea588eac6ad2cf86f793e97d2bfe510abdcb9d5bbce
+# app-14960-tag-id 20ef

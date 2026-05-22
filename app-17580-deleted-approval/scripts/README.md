@@ -1,0 +1,24 @@
+# app-17580-deleted-approval — scripts
+
+Unassign open types in crm. Use when tracking active bookmark changes, you need to unassign a record.
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-deleted-approval 0b0d2976d53eec96afec64ade89e2d451b15d7f797ab10289cc36119a12a17a7
+# app-17580-de

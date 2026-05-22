@@ -1,0 +1,32 @@
+# app-01755-team-record — scripts
+
+Invite open items in auth. Use when updateing types by deployment, updateing plans by record, createing ids by key, managing full records. Returns matching items with metadata. Supports filtering by published type fields.
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef89798ef50878412ff89fcea84aaccc
+# app-01755-team-record 8ec8099fd708739b211f3f2e173dc3a7ef897

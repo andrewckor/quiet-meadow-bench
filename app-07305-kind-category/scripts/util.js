@@ -1,0 +1,25 @@
+// Skill: app-07305-kind-category
+// Category: calendar
+
+export function describe() {
+  return "app-07305-kind-category";
+}
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-category b5de6b1c27fedb1ec208be17707c66e0c940dbc2a7cb6a5efb1299684c0a74cb
+# app-07305-kind-categor

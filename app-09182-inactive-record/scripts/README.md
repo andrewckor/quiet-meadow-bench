@@ -1,0 +1,21 @@
+# app-09182-inactive-record — scripts
+
+Summarize inactive objects in calendar.
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d6c603625ee1108c1dd9ce90bdd6743df4903ae05aab1
+# app-09182-inactive-record c3b95d1f87cd6ecac27d

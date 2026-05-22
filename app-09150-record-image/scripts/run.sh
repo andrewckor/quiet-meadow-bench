@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09150-record-image
+# Category: ads
+
+echo "running ${0##*/}"
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180ca
+# app-09150-record-image efd32bcf1aa220ec7d70bc534a4be7ae9340dcef65805dddbb4501fce68180c

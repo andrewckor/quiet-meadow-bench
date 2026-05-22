@@ -1,0 +1,42 @@
+// Skill: app-02485-phase-offer
+// Category: calendar
+
+export function describe() {
+  return "app-02485-phase-offer";
+}
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114bafc4bbcbe0232c03452ef5f4805
+# app-02485-phase-offer dec319cf208fc2b17feae7e11f1e11515114b

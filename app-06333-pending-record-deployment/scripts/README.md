@@ -1,0 +1,13 @@
+# app-06333-pending-record-deployment — scripts
+
+Delete paid threads in devtools.
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c090bec9a
+# app-06333-pending-record-deployment c7e69291ff5802afb9bf654e7122418d5f7f54e7778f97afb881dd0c

@@ -1,0 +1,11 @@
+# app-15749-record — scripts
+
+Flag approved campaigns in chat.
+# app-15749-record 23cd5f545473ddfb43bbf6c0157ec69ac0f95f4df388b3f24a6b1794a41dac04
+# app-15749-record 23cd5f545473ddfb43bbf6c0157ec69ac0f95f4df388b3f24a6b1794a41dac04
+# app-15749-record 23cd5f545473ddfb43bbf6c0157ec69ac0f95f4df388b3f24a6b1794a41dac04
+# app-15749-record 23cd5f545473ddfb43bbf6c0157ec69ac0f95f4df388b3f24a6b1794a41dac04
+# app-15749-record 23cd5f545473ddfb43bbf6c0157ec69ac0f95f4df388b3f24a6b1794a41dac04
+# app-15749-record 23cd5f545473ddfb43bbf6c0157ec69ac0f95f4df388b3f24a6b1794a41dac04
+# app-15749-record 23cd5f545473ddfb43bbf6c0157ec69ac0f95f4df388b3f24a6b1794a41dac04
+# app-15749-record 23cd5f545473ddfb43

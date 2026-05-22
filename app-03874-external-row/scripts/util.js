@@ -1,0 +1,40 @@
+// Skill: app-03874-external-row
+// Category: spreadsheets
+
+export function describe() {
+  return "app-03874-external-row";
+}
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e8777a61ec4dee78a9715fadfed30e084273bbdcf79af5daff3f12fa81ce0126
+# app-03874-external-row e87

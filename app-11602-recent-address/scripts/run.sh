@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11602-recent-address
+# Category: email
+
+echo "running ${0##*/}"
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c3328062763376690e231b0ed3e9c2c03cc7fb1fb0eabefe377e
+# app-11602-recent-address b80611e1ce91c33280627

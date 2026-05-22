@@ -1,0 +1,8 @@
+# app-09533-old-preference-experiment — scripts
+
+Update inactive surveys in crm.
+# app-09533-old-preference-experiment 47fa37b9b21349622b8c0c72b0dd5917a9257e38467cf2035618db3d50f3dfdb
+# app-09533-old-preference-experiment 47fa37b9b21349622b8c0c72b0dd5917a9257e38467cf2035618db3d50f3dfdb
+# app-09533-old-preference-experiment 47fa37b9b21349622b8c0c72b0dd5917a9257e38467cf2035618db3d50f3dfdb
+# app-09533-old-preference-experiment 47fa37b9b21349622b8c0c72b0dd5917a9257e38467cf2035618db3d50f3dfdb
+# app-09533-old-preference-experiment 47fa37b9b21349622b8c0c72b0dd5917a

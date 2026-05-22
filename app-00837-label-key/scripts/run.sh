@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00837-label-key
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371c6bda739b40997e24ddb03a0d472e27ec79bdccfba69633ced0a9
+# app-00837-label-key a67ae514371

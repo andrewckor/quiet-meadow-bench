@@ -1,0 +1,15 @@
+# app-19713-field-field-type — scripts
+
+Flag closed logs in crm.
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e4d76e9e7b5a0f0afdfbb8c763c0fa74307
+# app-19713-field-field-type 2ac09508984b5608a3f51b983c303e

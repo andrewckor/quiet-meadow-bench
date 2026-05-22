@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06986-entry-row
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-06986-entry-row 68e5f6f9af086d735d09bfb0e966d1f3439081933f181d504ff70bb37e17c489
+# app-06986-entry-row 68e5f6f9af086d735d09bfb0e966d1f3439081933f181d504ff70bb37e17c489
+# app-06986-entry-row 68e5f6f9af086d735d09bfb0e966d1f3439081933f181d504ff70bb37e17c489
+# app-06986-entry-row 68e5f6f9af086d735d09bfb0e966d1f3439081933f181d504ff70bb37e17c489
+# app-06986-entry-row 68e5f6f9af086d735d09bfb0e966d1f3439081933f181d504ff70bb37e17c489
+# app-06986-entry-row 68e5f6f9af086d735d09bfb0e966d1f3439081933f181d504ff70bb37e17c489

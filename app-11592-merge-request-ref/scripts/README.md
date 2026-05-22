@@ -1,0 +1,33 @@
+# app-11592-merge-request-ref — scripts
+
+Receive active items in crm. Use when tracking published table changes, geting snapshots by category.
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1d5c82a09ef22b8fb2470b4e4ddc86c77bdac33614333198bf98981006eac
+# app-11592-merge-request-ref 72a1

@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19301-closed-tag-field
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc76569ba6aa00ff8e4f18ea90d98a2
+# app-19301-closed-tag-field 3b5f9b6182dc2af42bd33bc1b74345ca0dc7656

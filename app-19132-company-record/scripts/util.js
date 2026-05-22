@@ -1,0 +1,14 @@
+// Skill: app-19132-company-record
+// Category: invoicing
+
+export function describe() {
+  return "app-19132-company-record";
+}
+# app-19132-company-record ece4891f40170be9902648ade8cd0a4330878357e77170735172be247c2fcbf7
+# app-19132-company-record ece4891f40170be9902648ade8cd0a4330878357e77170735172be247c2fcbf7
+# app-19132-company-record ece4891f40170be9902648ade8cd0a4330878357e77170735172be247c2fcbf7
+# app-19132-company-record ece4891f40170be9902648ade8cd0a4330878357e77170735172be247c2fcbf7
+# app-19132-company-record ece4891f40170be9902648ade8cd0a4330878357e77170735172be247c2fcbf7
+# app-19132-company-record ece4891f40170be9902648ade8cd0a4330878357e77170735172be247c2fcbf7
+# app-19132-company-record ece4891f40170be9902648ade8cd0a4330878357e77170735172be247c2fcbf7
+# app-19132-company-record ece4891f40

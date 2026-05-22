@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16681-high-priority-label-pageview
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-label-pageview f1188ca36394380c69e53b14b1a3dca3fc2902429d6d9656e18c55fe5523e15d
+# app-16681-high-priority-la

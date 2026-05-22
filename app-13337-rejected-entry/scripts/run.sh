@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13337-rejected-entry
+# Category: file-sharing
+
+echo "running ${0##*/}"
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# app-13337-rejected-entry c02d2a7abaf651d6b9ccc5108339039b136a98d531d47174ceae4051c3776d58
+# 

@@ -1,0 +1,10 @@
+// Skill: app-05261-record-phase
+// Category: support
+
+export function describe() {
+  return "app-05261-record-phase";
+}
+# app-05261-record-phase c95fd88684b365c171f387497b4375c1e83dd351d38e04c3d0abaf5bc5dd4188
+# app-05261-record-phase c95fd88684b365c171f387497b4375c1e83dd351d38e04c3d0abaf5bc5dd4188
+# app-05261-record-phase c95fd88684b365c171f387497b4375c1e83dd351d38e04c3d0abaf5bc5dd4188
+# app-05261-record-phase c95fd88684b365c171f387497b4375c1e83dd351d38e04c3d0abaf

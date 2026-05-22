@@ -1,0 +1,37 @@
+// Skill: app-00273-record-sprint-merge-request
+// Category: task-management
+
+export function describe() {
+  return "app-00273-record-sprint-merge-request";
+}
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-request 71deee80f5817157b6b4c4848c7d88cb6413e8f63cca0074e32df02485f545c7
+# app-00273-record-sprint-merge-r

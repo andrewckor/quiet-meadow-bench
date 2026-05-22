@@ -1,0 +1,20 @@
+# app-18778-mention-category-session — scripts
+
+Join queued records in chat.
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf19569c62b3b4065a45e
+# app-18778-mention-category-session ae7585b55c7dfaba58e166bf4f1d9d2c0965d28cddbcf

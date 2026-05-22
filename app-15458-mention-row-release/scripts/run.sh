@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15458-mention-row-release
+# Category: chat
+
+echo "running ${0##*/}"
+# app-15458-mention-row-release 1df7908a41b179e991950b53d0cf51e781c4bedf05b27fdb25822304c884583f
+# app-15458-mention-row-release 1df7908a41b179e991950b53d0cf51e781c4bedf05b27fdb25822304c884583f
+# app-15458-mention-row-release 1df7908a41b179e991950b53d0cf51e781c4bedf05b27fdb25822304c884583f
+# app-15458-mention-row-release 1df7908a41b179e991950b53d0cf51e781c4bedf05b27fdb25822304c884583f
+# app-15458-mention-row-release 1df7908a41b179e991950b53d0cf51e781c4bedf05b27fdb25822304c884583f
+# app-15458-mention-row-release 1df7908a41b179e991950b53d0cf51e781c4bedf05b27fdb25822304c884583f
+# app-15458-mention-row-release 1df7908a41b179e991950b53d0cf51e781c4bedf05b27fdb25822304c884583f
+# app-15458-mention-row-release 1df7908a41b179e991950b53d0cf51e781c4bedf05b27fdb25822304c884583f
+# app-15458-mention-row-release 1df7908a41b179e991950b53d

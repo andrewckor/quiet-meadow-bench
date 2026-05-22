@@ -1,0 +1,18 @@
+# app-11194-quote — scripts
+
+Pin published rows in email. Use when createing alerts by record.
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194-quote bf7fb5aeef6cc89e4a4544cf66a14d9cae8c662ff70692b994c01c5d3963f9af
+# app-11194

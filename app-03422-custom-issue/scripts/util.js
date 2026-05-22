@@ -1,0 +1,14 @@
+// Skill: app-03422-custom-issue
+// Category: support
+
+export function describe() {
+  return "app-03422-custom-issue";
+}
+# app-03422-custom-issue 4f01ea6f1dad90adf3a58dce40347812b7d9e37034367e669e02c307426d4924
+# app-03422-custom-issue 4f01ea6f1dad90adf3a58dce40347812b7d9e37034367e669e02c307426d4924
+# app-03422-custom-issue 4f01ea6f1dad90adf3a58dce40347812b7d9e37034367e669e02c307426d4924
+# app-03422-custom-issue 4f01ea6f1dad90adf3a58dce40347812b7d9e37034367e669e02c307426d4924
+# app-03422-custom-issue 4f01ea6f1dad90adf3a58dce40347812b7d9e37034367e669e02c307426d4924
+# app-03422-custom-issue 4f01ea6f1dad90adf3a58dce40347812b7d9e37034367e669e02c307426d4924
+# app-03422-custom-issue 4f01ea6f1dad90adf3a58dce40347812b7d9e37034367e669e02c307426d4924
+# app-03422-custom-is

@@ -1,0 +1,8 @@
+// Skill: app-13776-build-entry
+// Category: pos
+
+export function describe() {
+  return "app-13776-build-entry";
+}
+# app-13776-build-entry 91308e98e8eee91cbb07e1ecb16219047a3c64c2820627e04d5b8d675bc7b935
+# app-13776-build-entry 91308e98e8eee91cbb07e1ecb16219047

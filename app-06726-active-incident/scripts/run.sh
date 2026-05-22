@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06726-active-incident
+# Category: email
+
+echo "running ${0##*/}"
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06726-active-incident c34dd8af5dbc10583570412b499aa04476d03f69ccb3fd7593aebe415694ab27
+# app-06

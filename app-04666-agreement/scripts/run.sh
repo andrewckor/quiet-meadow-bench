@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04666-agreement
+# Category: logistics
+
+echo "running ${0##*/}"
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7c0d6745ffcc7f60d67eb15c10d38856cfaf236
+# app-04666-agreement 35a149e82a79f701b4ad3cbcf7

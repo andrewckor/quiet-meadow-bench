@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15800-invalid-object
+# Category: forms
+
+echo "running ${0##*/}"
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae698f4ced2201d825a101f7668967627eaa69a5c48b63a9b
+# app-15800-invalid-object 670a983bce4a7a6ae6

@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00919-row
+# Category: chat
+
+echo "running ${0##*/}"
+# app-00919-row b5905922fc69a00b3d3236699b2f6d80952af2da30c55c077c2d60187ca7a546
+# app-00919-row b5905922fc69a00b3d3236699b2f6d80952af2da30c55c077c2d60187ca7a546
+# app-00919-row b5905922fc69a00b3d3236699b2f6d80952af2da30c55c077c2d60187ca7a546
+# app-00919-row b5905922fc69a00b3d3236699b2f6d80952af2da30c55c077c2d60187ca7a546
+# 

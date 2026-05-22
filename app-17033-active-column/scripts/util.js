@@ -1,0 +1,12 @@
+// Skill: app-17033-active-column
+// Category: calendar
+
+export function describe() {
+  return "app-17033-active-column";
+}
+# app-17033-active-column 98ea39b30ed4433d19dc527bc00b05a752514c1964c0b3122f432bf9d17c238a
+# app-17033-active-column 98ea39b30ed4433d19dc527bc00b05a752514c1964c0b3122f432bf9d17c238a
+# app-17033-active-column 98ea39b30ed4433d19dc527bc00b05a752514c1964c0b3122f432bf9d17c238a
+# app-17033-active-column 98ea39b30ed4433d19dc527bc00b05a752514c1964c0b3122f432bf9d17c238a
+# app-17033-active-column 98ea39b30ed4433d19dc527bc00b05a752514c1964c0b3122f432bf9d17c238a
+# app-17033-active-column 98ea39b30ed4

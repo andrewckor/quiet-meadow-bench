@@ -1,0 +1,8 @@
+// Skill: app-11342-inactive-key
+// Category: docs
+
+export function describe() {
+  return "app-11342-inactive-key";
+}
+# app-11342-inactive-key 9be7934c98101d93920ff417a6e32c7d7e8ef4e35b1e3a64e6cfe8951c0d7417
+# app-11342-inactiv

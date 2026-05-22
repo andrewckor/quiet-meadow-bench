@@ -1,0 +1,14 @@
+# app-00925-record-value — scripts
+
+Add active accounts in marketing. Use when tracking active row changes, you need to calculate a category.
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f6a01dfa499e3a95
+# app-00925-record-value 1e62f0dae6a3b4d5893e4d5ee5485c811619566fa58fca06f

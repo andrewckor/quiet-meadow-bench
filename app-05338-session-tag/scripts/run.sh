@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05338-session-tag
+# Category: forms
+
+echo "running ${0##*/}"
+# app-05338-session-tag 5d918cbd4768890037e498812f2fd5221b7899d38152431bda249f2b84dccecf
+# app-05338-session-tag 5d918cbd4768890037e498812f2fd5221b7899d38152431bda249f2b84dccecf
+# app-05338-session-tag 5d918cbd4768890037e498812f2fd5221b7899d38152431bda249f2b84dccecf
+# app-05338-session-tag 5d918cbd4768890037e498812f2fd5221b7899d38152431bda249f2b84dccecf
+# app-05338-session-tag 5d918cbd4768890037e498812f2fd5221b7899d38152431bda249f2b84dccecf
+# app-05338-session-tag 5d918cbd4768890037e498812f2fd5221b7899d38152431bda249f2b84dccecf
+# app-05338-session-tag 5d918cbd4768890037e498812f2fd5221b7899d38152431bda249f2b84dccecf
+# app-05338-session-tag 

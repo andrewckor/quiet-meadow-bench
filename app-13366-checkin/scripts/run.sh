@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13366-checkin
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b44dd1e980db
+# app-13366-checkin 0cf647123b75082d6f9eaeb6fd8c707d4eecff207f0f15f50367b4

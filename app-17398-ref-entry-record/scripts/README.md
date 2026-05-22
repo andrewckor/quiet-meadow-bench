@@ -1,0 +1,44 @@
+# app-17398-ref-entry-record — scripts
+
+Mute refunded keys in crm. Use when syncing fields by interview, you need to kick a mention.
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398-ref-entry-record 4c7b7d5e82518a821bc956389be8d22eeac4c8f9fa9f1261a4b42f68f6ebdeee
+# app-17398

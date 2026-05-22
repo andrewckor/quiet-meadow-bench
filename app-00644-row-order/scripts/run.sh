@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00644-row-order
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# app-00644-row-order bb739c2ba81da52e83fed9d10719ab9a036ddbe0b73b02618ab0a1e47fd6a6a1
+# 

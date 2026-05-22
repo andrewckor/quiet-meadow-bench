@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13391-company-record
+# Category: scheduling
+
+echo "running ${0##*/}"
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d6cded50c4fed347dd5162c4d7a827864d1f
+# app-13391-company-record 05a43ff912d58346bbac2d6ad487d

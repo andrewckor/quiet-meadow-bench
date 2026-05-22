@@ -1,0 +1,19 @@
+// Skill: app-11750-funnel-record
+// Category: surveys
+
+export function describe() {
+  return "app-11750-funnel-record";
+}
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d8544d
+# app-11750-funnel-record 6b63e4ebce3229a232d7ab77f4ed9f621bf6045b348dbb9364b1e69590d

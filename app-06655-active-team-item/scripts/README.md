@@ -1,0 +1,21 @@
+# app-06655-active-team-item — scripts
+
+Update starred rows in spreadsheets. Use when you need to delete a action, managing pinned issues.
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2329a80abc30ca64df72fcb9ee4d70d13ea06d68b
+# app-06655-active-team-item 6798814b8c5a849d373b32f2

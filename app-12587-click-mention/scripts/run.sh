@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12587-click-mention
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1ef65ca73e03c53e6f8c2e5570dd6bd4bbd97f3317e64f400efe91c6ebf
+# app-12587-click-mention 9791c1e

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12280-record-kpi-applicant
+# Category: email
+
+echo "running ${0##*/}"
+# app-12280-record-kpi-applicant 63ca2fb1236df78e17501e85d01e137a2c03caddf9613fcb15a6bbf8120d4f08
+# app-12280-record-kpi-applicant 63ca2fb1236df78e17501e85d01e137a2c03caddf9613fcb15a6bbf8120d4f08
+# app-12280-record-kpi-applicant 63ca2fb12

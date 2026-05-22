@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12483-field-state
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-12483-field-state 4ed53586c7fa834b7199d46d06e711b6ee864c1e4a179aea4f4e38193c53e029
+# app-12483-field-state 4ed53586c7fa834b7199d46d06e711b6ee864c1e4a179aea4f4e38193c53e029
+# app-12483-field-state 4ed53586c7fa834b7199d46d06e711b6ee864c1e4a179aea4f4e38193c53e029
+# app-12483-field-state 4ed53586c7fa834b7199d46d06e711b6ee864c1e4a179aea4f4e38193c53e029
+# app-12483-fie

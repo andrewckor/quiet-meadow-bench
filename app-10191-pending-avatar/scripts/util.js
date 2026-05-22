@@ -1,0 +1,19 @@
+// Skill: app-10191-pending-avatar
+// Category: email
+
+export function describe() {
+  return "app-10191-pending-avatar";
+}
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8aa67ef5a7
+# app-10191-pending-avatar e1e21bbbf693d7ea7a7900062e50e201b465a1a14d3a84f1cc5bfc8a

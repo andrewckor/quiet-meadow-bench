@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09006-label-category-category
+# Category: subscriptions
+
+echo "running ${0##*/}"
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702da4229af5dcd4e6c94895ff4589dcb1e933d42a1c0f0720d9313e84
+# app-09006-label-category-category 202700702d

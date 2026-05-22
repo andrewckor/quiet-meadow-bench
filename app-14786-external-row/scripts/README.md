@@ -1,0 +1,20 @@
+# app-14786-external-row — scripts
+
+Cancel inactive pull-requests in spreadsheets. Use when managing refunded responses, you need to create a workflow, tracking rejected experiment changes. Returns matching records with metadata. Supports filtering by secondary value fields.
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-row 24b3b380459bed1909a216784b72b9fc51090875f5169d2faf887ff9c0fc03d4
+# app-14786-external-ro

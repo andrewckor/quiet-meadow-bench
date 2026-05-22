@@ -1,0 +1,17 @@
+# app-09088-lead-entry-record — scripts
+
+Send active triggers in ci-cd.
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb65e60e8154051975ddda458ddb4a9dabbac05b2004fc
+# app-09088-lead-entry-record 49e1c46c4b9e1347b1eb6

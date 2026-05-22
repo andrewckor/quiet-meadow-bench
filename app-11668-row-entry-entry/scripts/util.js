@@ -1,0 +1,10 @@
+// Skill: app-11668-row-entry-entry
+// Category: docs
+
+export function describe() {
+  return "app-11668-row-entry-entry";
+}
+# app-11668-row-entry-entry d7e2f6d38b7eda0ce27766440759bf3c2e9215d7ce602a49d435ec8a81fa3613
+# app-11668-row-entry-entry d7e2f6d38b7eda0ce27766440759bf3c2e9215d7ce602a49d435ec8a81fa3613
+# app-11668-row-entry-entry d7e2f6d38b7eda0ce27766440759bf3c2e9215d7ce602a49d435ec8a81fa3613
+# app-11668-row

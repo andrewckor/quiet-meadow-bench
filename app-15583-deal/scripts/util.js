@@ -1,0 +1,11 @@
+// Skill: app-15583-deal
+// Category: knowledge-base
+
+export function describe() {
+  return "app-15583-deal";
+}
+# app-15583-deal b0b6e8182610e4202df5b6ec53deebea4f0edf680702c3349c77a15783d9787f
+# app-15583-deal b0b6e8182610e4202df5b6ec53deebea4f0edf680702c3349c77a15783d9787f
+# app-15583-deal b0b6e8182610e4202df5b6ec53deebea4f0edf680702c3349c77a15783d9787f
+# app-15583-deal b0b6e8182610e4202df5b6ec53deebea4f0edf680702c3349c77a15783d9787f
+# app-15583-dea

@@ -1,0 +1,19 @@
+// Skill: app-06374-critical-entry
+// Category: docs
+
+export function describe() {
+  return "app-06374-critical-entry";
+}
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entry 27c83e2efffc28f92edf1e9d602df16ac7cb77c79841a37c10050cc1c9d06363
+# app-06374-critical-entr

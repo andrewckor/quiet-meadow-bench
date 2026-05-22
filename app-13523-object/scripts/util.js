@@ -1,0 +1,13 @@
+// Skill: app-13523-object
+// Category: support
+
+export function describe() {
+  return "app-13523-object";
+}
+# app-13523-object dbe3e7d541e70e46da34b11ccbf0a234dcffc8b975ec393c68e5017bb3c2a23e
+# app-13523-object dbe3e7d541e70e46da34b11ccbf0a234dcffc8b975ec393c68e5017bb3c2a23e
+# app-13523-object dbe3e7d541e70e46da34b11ccbf0a234dcffc8b975ec393c68e5017bb3c2a23e
+# app-13523-object dbe3e7d541e70e46da34b11ccbf0a234dcffc8b975ec393c68e5017bb3c2a23e
+# app-13523-object dbe3e7d541e70e46da34b11ccbf0a234dcffc8b975ec393c68e5017bb3c2a23e
+# app-13523-object dbe3e7d541e70e46da34b11ccbf0a234dcffc8b975ec393c68e5017bb3c2a23e
+# 

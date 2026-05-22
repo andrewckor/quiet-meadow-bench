@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09206-object
+# Category: auth
+
+echo "running ${0##*/}"
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-09206-object 849bbbcaac78414b211d7f12e2c05a06b19b4da54cbbb9c9fe05c2cccf89841a
+# app-0920

@@ -1,0 +1,17 @@
+// Skill: app-17460-alert-state-campaign
+// Category: file-sharing
+
+export function describe() {
+  return "app-17460-alert-state-campaign";
+}
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6ae74e47100b932fd
+# app-17460-alert-state-campaign 86ff5e73e0b909ce0f313987301cb88825f62250251f55e6

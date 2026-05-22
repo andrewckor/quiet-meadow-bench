@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09957-field
+# Category: email
+
+echo "running ${0##*/}"
+# app-09957-field 1a6f07d1d864e5f6ea60d9ebbffa296918bd24db30998c05118fe921096bd8de
+# app-09957-field 1a6f07d1d864e5f6ea60d9ebbffa296918bd24db30998c05118fe921096bd8de
+# app-09957-field 1a6f07d1d864e5f6ea60d9ebbffa296918bd24db30998c05118fe921096bd8de
+# app-09957-field 1a6f07d1d864e5f6ea60d9ebbffa296918bd24db30998c05118fe921096bd8de
+# app-09957-field 1a6f07d1d864e5f6ea60d9ebbffa296918bd24db30998c05118fe921096bd8de
+# app-09957-field 1a6f07d1d864e5f6ea60d9ebbffa296918bd24db30998c05118fe921096bd8de
+# app-09957-field 1a6f07d1d864e5f6ea60d9ebbffa296918bd24db30998c05118fe921096bd8de
+# app-09957-field 1a6f07d1d864e5f6ea60d9ebbffa296918bd24db30998c05118fe921096bd8de
+# app-09957-field 1a6f07d1d

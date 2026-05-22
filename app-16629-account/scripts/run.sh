@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16629-account
+# Category: chat
+
+echo "running ${0##*/}"
+# app-16629-account 13f7312866076e3f42d03ff3c8bcdfcbe8387ab3277afc406798c67b215591ef
+# app-16629-account 13f7312866076e3f42d03ff3c8bcdfcbe8387ab3277afc406798c67b215591ef
+# app-16629-account 13f7312866076e3f42d03ff3c8bcdfcbe

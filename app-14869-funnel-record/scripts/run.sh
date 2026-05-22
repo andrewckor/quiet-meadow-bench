@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14869-funnel-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-14869-funnel-record 2e7a7afcc32ba23fc3ba19aca0cf1fbe945eb1b4a6f42aa4b90b56f679734763
+# app-1486

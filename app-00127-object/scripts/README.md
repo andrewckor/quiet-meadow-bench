@@ -1,0 +1,9 @@
+# app-00127-object — scripts
+
+Fetch latest phases in crm. Use when managing active states, managing shared sessions.
+# app-00127-object 8e47b047c901485357651bd2ce0cfe6c1e11ffc9757d0e23d188f16c2ec8d2e5
+# app-00127-object 8e47b047c901485357651bd2ce0cfe6c1e11ffc9757d0e23d188f16c2ec8d2e5
+# app-00127-object 8e47b047c901485357651bd2ce0cfe6c1e11ffc9757d0e23d188f16c2ec8d2e5
+# app-00127-object 8e47b047c901485357651bd2ce0cfe6c1e11ffc9757d0e23d188f16c2ec8d2e5
+# app-00127-object 8e47b047c901485357651bd2ce0cfe6c1e11ffc9757d0e23d188f16c2ec8d2e5
+# app-00127-object 8e47b047c901485357651bd2ce0cfe6c1e11ffc9757d0e23d188f16c2ec8

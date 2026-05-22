@@ -1,0 +1,20 @@
+# app-01611-private-host — scripts
+
+Delete active objects in email. Use when tracking active deal changes, managing internal notifications.
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3fa45cdd5fbd4e42b
+# app-01611-private-host aca00d3b12416240a6677a3ed192190054b787dff2162fe3

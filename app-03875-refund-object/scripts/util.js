@@ -1,0 +1,9 @@
+// Skill: app-03875-refund-object
+// Category: video-conferencing
+
+export function describe() {
+  return "app-03875-refund-object";
+}
+# app-03875-refund-object 3b440efe661966668f30303b82965db48f9be0ae747af11d27efe7d4e64c60a1
+# app-03875-refund-object 3b440efe661966668f30303b82965db48f9be0ae747af11d27efe7d4e64c60a1
+# app-03875-refund-object 

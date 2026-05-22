@@ -1,0 +1,26 @@
+// Skill: app-05491-entry-record-kind
+// Category: docs
+
+export function describe() {
+  return "app-05491-entry-record-kind";
+}
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d154bfb2b46e9f9ac7d3eb0d5e8c914527567d50ab2c75fe845
+# app-05491-entry-record-kind e581a0df62846d

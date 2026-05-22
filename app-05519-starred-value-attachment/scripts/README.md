@@ -1,0 +1,13 @@
+# app-05519-starred-value-attachment — scripts
+
+Update pending rows in spreadsheets. Use when tracking rejected record changes, tracking inactive item changes.
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-attachment 7ca14d77ab752ca3ea04ba55121e71ad2223870940eef323d532eaf65e3029af
+# app-05519-starred-value-at

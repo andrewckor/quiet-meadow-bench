@@ -1,0 +1,17 @@
+// Skill: app-04939-active-object
+// Category: scheduling
+
+export function describe() {
+  return "app-04939-active-object";
+}
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-04939-active-object c1161be2d293adeb9fe2a17031326f68600c0512a249f5385befb4b8dfdc6eb4
+# app-0493

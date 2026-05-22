@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01769-ticket
+# Category: forms
+
+echo "running ${0##*/}"
+# app-01769-ticket 2341b64d3440a446e4ea9a551dd20c50205c8e11d71ad0b5b79a22c2390cff0e
+# app-01769-ticket 2341b64d3440a446e4ea9a551dd20c50205c8e11d71ad0b5b79a22c2390cff0e
+# app-01769-ticket 2341b64d3440a446e4ea9a551dd20c50205c8e11d71ad0b5b79a22c2390cff0e
+# app-01769-ticket 2341b64d3440a446e4ea9a551dd20c50205c8e11d71ad0b5b79a22c2390cff0e
+# app-

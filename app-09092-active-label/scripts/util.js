@@ -1,0 +1,9 @@
+// Skill: app-09092-active-label
+// Category: error-tracking
+
+export function describe() {
+  return "app-09092-active-label";
+}
+# app-09092-active-label 43be908b8a95acbd76c8661fa398370e024173411f2fb5a28a2ce9e1bc6a4b08
+# app-09092-active-label 43be908b8a95acbd76c8661fa398370e024173411f2fb5a28a2ce9e1bc6a4b08
+# app-09092-active-lab

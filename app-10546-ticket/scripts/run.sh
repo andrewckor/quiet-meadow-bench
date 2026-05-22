@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10546-ticket
+# Category: email
+
+echo "running ${0##*/}"
+# app-10546-ticket 0e880abf53663593976a924558c341a82b3d6f97800a3bb8f987a871c7f38f6d
+# app-10546-ticket 0e880abf53663593976a924558c341a82b3d6f97800a3bb8f987a871c7f38f6d
+# app-10546-ticket 0e880abf53663593976a924558c341a82b3d6f97800a3bb8f987a871c7f38f6d
+# app-10546-ticket 0e880abf53663593976a924558c341a82b3d6f97800a3bb8f987a871c7f38f6d
+# app-10546-ticket 0e880abf5

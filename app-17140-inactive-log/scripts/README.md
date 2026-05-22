@@ -1,0 +1,15 @@
+# app-17140-inactive-log — scripts
+
+Restore rejected entrys in subscriptions. Use when tracking public span changes.
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log 8c2bcdf66a07ceb059dfff5bf26f6243136318d44cc475f3074b34dcb4093bcc
+# app-17140-inactive-log

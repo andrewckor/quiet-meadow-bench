@@ -1,0 +1,25 @@
+// Skill: app-17667-row-group
+// Category: accounting
+
+export function describe() {
+  return "app-17667-row-group";
+}
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff56bffa2f40fc8eb04863f14b830d87a461b1fabc717840be0d91d
+# app-17667-row-group 5a2c0f616ff

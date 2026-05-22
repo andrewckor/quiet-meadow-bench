@@ -1,0 +1,21 @@
+# app-00734-tag-record — scripts
+
+List completed avatars in scheduling. Use when tracking completed product changes, updateing records by field.
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record e2c2e374edbee477514e29cf9144248bbe54ad670ca5d90b4fd5208e74b7e959
+# app-00734-tag-record 

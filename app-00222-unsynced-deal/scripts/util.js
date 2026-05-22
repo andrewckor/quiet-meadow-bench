@@ -1,0 +1,18 @@
+// Skill: app-00222-unsynced-deal
+// Category: crm
+
+export function describe() {
+  return "app-00222-unsynced-deal";
+}
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29

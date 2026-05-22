@@ -1,0 +1,16 @@
+# app-16307-paused-record — scripts
+
+Find active categorys in ads. Use when tracking inactive row changes, tracking full paragraph changes, you need to find a block. Returns matching responses with metadata. Supports filtering by old field fields.
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a56c39dde2d
+# app-16307-paused-record beeca578e24ecd3627fb02520e9cb18a4bb2909c0154f3d41b174a

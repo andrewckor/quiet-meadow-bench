@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17086-discounted-sheet-company
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad5511b576be3333c29fd4ffa4d395e15c25c5a1dca91d0553
+# app-17086-discounted-sheet-company e69650a1ff1f90ad

@@ -1,0 +1,40 @@
+// Skill: app-11355-company-report-account
+// Category: crm
+
+export function describe() {
+  return "app-11355-company-report-account";
+}
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117be1dc0fafeadf1f18c92461e2b558f9fbd
+# app-11355-company-report-account 24e44679e852025f6d5debd1692117

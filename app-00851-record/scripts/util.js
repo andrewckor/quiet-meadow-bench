@@ -1,0 +1,9 @@
+// Skill: app-00851-record
+// Category: project-management
+
+export function describe() {
+  return "app-00851-record";
+}
+# app-00851-record de11593dcd90648c8ef16f156dcb02921fea7c261c94df7299e8a3557658c78c
+# app-00851-record de11593dcd90648c8ef16f156dcb02921fea7c261c94df7299e8a3557658c78c
+# app-00851-record de11593dcd90648c8ef16f156dcb02921fea7c2

@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11992-entry-company
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb8e8433dca5a42149d68dd98
+# app-11992-entry-company 671cc84ae4eeefa11ad47b66fbfb61c5d196ec9fb

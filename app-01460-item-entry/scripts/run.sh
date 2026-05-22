@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01460-item-entry
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bdde1abb32206805aaf2a6842d38efdda000206fe4c1a8d0565d7e7f704
+# app-01460-item-entry 8c921bd

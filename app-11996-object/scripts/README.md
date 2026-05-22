@@ -1,0 +1,11 @@
+# app-11996-object — scripts
+
+Fetch published ids in support.
+# app-11996-object 3dde0aa57ff937b040c476308da4dd882a4068dc301bacd669eadfd4caf2584b
+# app-11996-object 3dde0aa57ff937b040c476308da4dd882a4068dc301bacd669eadfd4caf2584b
+# app-11996-object 3dde0aa57ff937b040c476308da4dd882a4068dc301bacd669eadfd4caf2584b
+# app-11996-object 3dde0aa57ff937b040c476308da4dd882a4068dc301bacd669eadfd4caf2584b
+# app-11996-object 3dde0aa57ff937b040c476308da4dd882a4068dc301bacd669eadfd4caf2584b
+# app-11996-object 3dde0aa57ff937b040c476308da4dd882a4068dc301bacd669eadfd4caf2584b
+# app-11996-object 3dde0aa57ff937b040c476308da4dd882a4068dc301bacd669eadfd4caf2584b
+# app-11996-object 3dde0aa57ff937b040c4763

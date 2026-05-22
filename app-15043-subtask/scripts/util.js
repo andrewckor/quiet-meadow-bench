@@ -1,0 +1,11 @@
+// Skill: app-15043-subtask
+// Category: calendar
+
+export function describe() {
+  return "app-15043-subtask";
+}
+# app-15043-subtask 024b2aa21e714f95717785caf3f404dad56ec73c49acb51534a9681742103b75
+# app-15043-subtask 024b2aa21e714f95717785caf3f404dad56ec73c49acb51534a9681742103b75
+# app-15043-subtask 024b2aa21e714f95717785caf3f404dad56ec73c49acb51534a9681742103b75
+# app-15043-subtask 024b2aa21e714f95717785caf3f404dad56ec73c49acb51534a9681742103b75
+# app-15043-subtask 024b2aa21e714f95717785caf3f404da

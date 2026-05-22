@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02477-record-object
+# Category: docs
+
+echo "running ${0##*/}"
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-object bc5ae7c702b42ee8b69a1111dae9a5a90c401d9a313f25816cabe3b90da5ff1a
+# app-02477-record-ob

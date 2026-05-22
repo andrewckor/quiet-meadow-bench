@@ -1,0 +1,21 @@
+# app-08908-inactive-build-record — scripts
+
+Update inactive steps in devtools.
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactive-build-record 703e2cd673fe0947a23a3314b6bbd93daefb886365ac0ca56ea2ed79be75ae0f
+# app-08908-inactiv

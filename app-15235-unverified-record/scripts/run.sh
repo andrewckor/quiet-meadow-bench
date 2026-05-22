@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15235-unverified-record
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f53862e654b70c11db2194d9456d6a86fce4925697bfa4de
+# app-15235-unverified-record cfda0cf0cbc403d2f5

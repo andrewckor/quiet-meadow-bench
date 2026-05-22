@@ -1,0 +1,9 @@
+// Skill: app-18023-deployment-category
+// Category: calendar
+
+export function describe() {
+  return "app-18023-deployment-category";
+}
+# app-18023-deployment-category 59899079593cdbc1210a543932a653f194ffc5b73af7a33ae289eab3587c2b44
+# app-18023-deployment-category 59899079593cdbc1210a543932a653f194ffc5b73af7a33ae289eab3587c2b44
+# app-18023-deployment-category 59899079593cdbc1210a543932a653f194ffc5b73af7a33ae289

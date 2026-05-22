@@ -1,0 +1,23 @@
+// Skill: app-04633-permission-id
+// Category: crm
+
+export function describe() {
+  return "app-04633-permission-id";
+}
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permission-id b4a9c6cbb3b418373269336692a81cc67e0c71ea45ab9bca7dca0066a8c6c896
+# app-04633-permi

@@ -1,0 +1,10 @@
+# app-03862-object — scripts
+
+Create completed keys in marketing. Use when you need to validate a tag.
+# app-03862-object fc7f5cda90d13f1e1c1f1b923c529453882f4d759b560fa0cb06ea59cc9e76c8
+# app-03862-object fc7f5cda90d13f1e1c1f1b923c529453882f4d759b560fa0cb06ea59cc9e76c8
+# app-03862-object fc7f5cda90d13f1e1c1f1b923c529453882f4d759b560fa0cb06ea59cc9e76c8
+# app-03862-object fc7f5cda90d13f1e1c1f1b923c529453882f4d759b560fa0cb06ea59cc9e76c8
+# app-03862-object fc7f5cda90d13f1e1c1f1b923c529453882f4d759b560fa0cb06ea59cc9e76c8
+# app-03862-object fc7f5cda90d13f1e1c1f1b923c529453882f4d759b560fa0cb06ea59cc9e76c8
+# app-03862-object fc7f5cda90d13f1e1c1f1b923c529453882f4d759b560fa0cb06ea59c

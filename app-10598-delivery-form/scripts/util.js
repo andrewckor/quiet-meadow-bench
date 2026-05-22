@@ -1,0 +1,35 @@
+// Skill: app-10598-delivery-form
+// Category: accounting
+
+export function describe() {
+  return "app-10598-delivery-form";
+}
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbbb8e13e5bf8
+# app-10598-delivery-form 2482b0efc8d8c4c4de69fa4532cdb62799e0738c55603bb3d80dbb

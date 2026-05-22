@@ -1,0 +1,10 @@
+# app-08253-estimate — scripts
+
+Create pending keys in ads.
+# app-08253-estimate e3cc4ca9a7f24f6d7b4944c57cb6904d17dbcdeeea7eb6e0145d68e09e30544b
+# app-08253-estimate e3cc4ca9a7f24f6d7b4944c57cb6904d17dbcdeeea7eb6e0145d68e09e30544b
+# app-08253-estimate e3cc4ca9a7f24f6d7b4944c57cb6904d17dbcdeeea7eb6e0145d68e09e30544b
+# app-08253-estimate e3cc4ca9a7f24f6d7b4944c57cb6904d17dbcdeeea7eb6e0145d68e09e30544b
+# app-08253-estimate e3cc4ca9a7f24f6d7b4944c57cb6904d17dbcdeeea7eb6e0145d68e09e30544b
+# app-08253-estimate e3cc4ca9a7f24f6d7b4944c57cb6904d17dbcdeeea7eb6e0145d68e09e30544b
+# app-08253-estimate e3cc4ca9a7f24f6d7b4944c57cb6904d17dbcdeeea7

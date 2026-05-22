@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12290-active-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-12290-active-record 4afdcb0c00199768c564346eae06973d1b19702d3fec06683a2567d27e09b363
+# app-12290-active-record 4afdcb0c00199768c564346eae06973d1b19702d3fec06683a2567d27e09b363
+# app-12290-active-record 4afdcb0c00199768c564346eae06973d1b19702d3fec06683a2567d27e09b363
+# app-12290-active-record 4afdcb0c00199768c564346eae06973d1b19702d3fec06683a2567d27e09b363
+# app-12290-active-record 4afdcb0c00199768c564346eae06973d1b19702d3fec06683a2567d27e09b363
+# app-12290-active-record 4afdcb0c00199768c564346eae06973d1b19702d3fec06683a2567d

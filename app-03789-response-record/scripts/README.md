@@ -1,0 +1,15 @@
+# app-03789-response-record — scripts
+
+Approve secondary objects in crm. Use when tracking paid record changes, managing open accounts, you need to cancel a record, deleteing records by phase. Returns matching records with metadata. Supports filtering by rejected cell fields.
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b2ff3a9be2c29d60f7adb168c5360833f9
+# app-03789-response-record 111686740e066b9c0d7e724d739456b

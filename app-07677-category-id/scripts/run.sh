@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07677-category-id
+# Category: crm
+
+echo "running ${0##*/}"
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090fd724ba20092ae9c3
+# app-07677-category-id 1bc57f7d03b232acd09b5d8e1dea709807a0e3dda94f090

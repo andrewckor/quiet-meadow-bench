@@ -1,0 +1,14 @@
+// Skill: app-16216-permission-account
+// Category: crm
+
+export function describe() {
+  return "app-16216-permission-account";
+}
+# app-16216-permission-account 5a48e15f574c95f8255ecf1dfa6dfac11cfcd72add732671b6b9b6219a5f65b7
+# app-16216-permission-account 5a48e15f574c95f8255ecf1dfa6dfac11cfcd72add732671b6b9b6219a5f65b7
+# app-16216-permission-account 5a48e15f574c95f8255ecf1dfa6dfac11cfcd72add732671b6b9b6219a5f65b7
+# app-16216-permission-account 5a48e15f574c95f8255ecf1dfa6dfac11cfcd72add732671b6b9b6219a5f65b7
+# app-16216-permission-account 5a48e15f574c95f8255ecf1dfa6dfac11cfcd72add732671b6b9b6219a5f65b7
+# app-16216-permission-account 5a48e15f574c95f8255ecf1dfa6dfac11cfcd72add732671b6b9b6219a5f65b7
+# app-16216-permission-account 5a48e15f574c95f8255ecf1dfa6dfac11cfcd72add732671b6b9b6219a5f65b7
+# app-16216-permission-account 5a48e15f

@@ -1,0 +1,13 @@
+# app-15131-variant — scripts
+
+Fetch draft entrys in wiki. Use when you need to remove a record, you need to list a issue.
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b0b56a76d76f25d41699a2b7f4707a780e6618dbfcf
+# app-15131-variant cce14ce9dfa9f1913e254b

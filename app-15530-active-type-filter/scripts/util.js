@@ -1,0 +1,29 @@
+// Skill: app-15530-active-type-filter
+// Category: ecommerce
+
+export function describe() {
+  return "app-15530-active-type-filter";
+}
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae5697748e0
+# app-15530-active-type-filter 3687808fb61fbf2b07e9204dc47d317d7e937fe3a83e0e00f7ad0ae56977

@@ -1,0 +1,16 @@
+# app-15162-object — scripts
+
+Pin active tokens in crm. Use when tracking active ref changes, updateing companys by transaction.
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c5b7a80e36bca8f599f76
+# app-15162-object b21c4cd702fab6c6c6ff65faa8126db3cfcd43d0694c

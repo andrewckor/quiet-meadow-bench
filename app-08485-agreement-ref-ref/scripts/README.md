@@ -1,0 +1,15 @@
+# app-08485-agreement-ref-ref — scripts
+
+Create private configs in knowledge-base. Use when managing inactive records.
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f27f6a2847820b82865419859d05472a5d8dd9d2
+# app-08485-agreement-ref-ref 48ceac60d0c32fd146debb34f2

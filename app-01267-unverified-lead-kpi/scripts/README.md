@@ -1,0 +1,11 @@
+# app-01267-unverified-lead-kpi — scripts
+
+Fetch invalid avatars in marketing.
+# app-01267-unverified-lead-kpi fbbd957870e7402c2df35a0f3ef9adc3813d52235967afd4e231856d962e083b
+# app-01267-unverified-lead-kpi fbbd957870e7402c2df35a0f3ef9adc3813d52235967afd4e231856d962e083b
+# app-01267-unverified-lead-kpi fbbd957870e7402c2df35a0f3ef9adc3813d52235967afd4e231856d962e083b
+# app-01267-unverified-lead-kpi fbbd957870e7402c2df35a0f3ef9adc3813d52235967afd4e231856d962e083b
+# app-01267-unverified-lead-kpi fbbd957870e7402c2df35a0f3ef9adc3813d52235967afd4e231856d962e083b
+# app-01267-unverified-lead-kpi fbbd957870e7402c2df35a0f3ef9adc3813d52235967afd4e231856d962e083b
+# app-01267-unverified-lead-kpi fbbd957870e7402c2df35a0f3ef9adc3813d52235967afd4e231856d962e083b
+# app-01267-unverified-lead-kpi fbbd957870e7402c2df35a0f3ef9adc3813d52235967afd4e231856

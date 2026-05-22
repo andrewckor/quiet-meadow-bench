@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00776-rejected-record
+# Category: file-sharing
+
+echo "running ${0##*/}"
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4be5bfa3d176c0777ddd844d5
+# app-00776-rejected-record c0cd40a994e9de5414d9600c57094d578575ffe4

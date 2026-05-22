@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06334-subscriber-video
+# Category: crm
+
+echo "running ${0##*/}"
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a1

@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06927-active-entry
+# Category: docs
+
+echo "running ${0##*/}"
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-06927-active-entry 25c060ed87fc15fcab004abc0ee9d724dc71bc6555fb21dfb7ac88af2c793961
+# app-

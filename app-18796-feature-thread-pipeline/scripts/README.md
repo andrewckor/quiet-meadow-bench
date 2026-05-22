@@ -1,0 +1,26 @@
+# app-18796-feature-thread-pipeline — scripts
+
+Remove closed items in accounting. Use when deleteing records by stage, tracking default bug changes.
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860beae0b01f2c428a151ed4e1d64d39281fc103c8dfa0f7d8ef66fcfc
+# app-18796-feature-thread-pipeline b18b9d860b

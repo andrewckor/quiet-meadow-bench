@@ -1,0 +1,24 @@
+// Skill: app-00970-pending-record-record
+// Category: crm
+
+export function describe() {
+  return "app-00970-pending-record-record";
+}
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3fd68a91e5a03ccc4ecf35d36d0e29a8cedda06b75e5380c5e9802ddb6ada7b2
+# app-00970-pending-record-record 3

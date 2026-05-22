@@ -1,0 +1,10 @@
+// Skill: app-17690-active-id
+// Category: calendar
+
+export function describe() {
+  return "app-17690-active-id";
+}
+# app-17690-active-id ec333a84216769d1d1a36d5c07baf016111a82e839ac3756f9b0e317b76a2264
+# app-17690-active-id ec333a84216769d1d1a36d5c07baf016111a82e839ac3756f9b0e317b76a2264
+# app-17690-active-id ec333a84216769d1d1a36d5c07baf016111a82e839ac3756f9b0e317b76a2264
+# app-17690-active-id ec333a842167

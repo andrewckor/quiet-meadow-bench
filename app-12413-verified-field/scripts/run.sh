@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12413-verified-field
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app-12413-verified-field 7e2a057dff11f2c1d528b2fac6ea1cf04fbc571d2d77f01f6aa45f7bb922703b
+# app

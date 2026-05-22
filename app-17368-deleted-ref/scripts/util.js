@@ -1,0 +1,26 @@
+// Skill: app-17368-deleted-ref
+// Category: marketing
+
+export function describe() {
+  return "app-17368-deleted-ref";
+}
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa49a8ed9a470d30fb724c
+# app-17368-deleted-ref 81fe319b91becc5a9bacf29841088fb5ebb027c522fa

@@ -1,0 +1,13 @@
+# app-15273-field-setting — scripts
+
+Sync recurring sessions in chat. Use when managing approved types, syncing rows by id.
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572f1d299574d2
+# app-15273-field-setting 55af47288c9b25bcd334c2d33abb9fd43c34f41fff826570c6572

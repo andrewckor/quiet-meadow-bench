@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08064-record-row-record
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70164
+# app-08064-record-row-record a5b96abd277bfcda3ebb6a18bb3d0aefef33e98260ca833a44380eab86a70

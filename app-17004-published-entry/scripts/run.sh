@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17004-published-entry
+# Category: crm
+
+echo "running ${0##*/}"
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-published-entry 5783d7a2f471f2a0ec1cca392d557c93cbb3b825d3b82a4c03bb4b2b264b6380
+# app-17004-pu

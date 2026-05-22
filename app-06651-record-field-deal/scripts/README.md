@@ -1,0 +1,13 @@
+# app-06651-record-field-deal — scripts
+
+Create active entrys in chat.
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7329ed58da079e1c4263fb6f6568d26529f0915b7f18a55bfe8afa9f
+# app-06651-record-field-deal c3a1bb6f7

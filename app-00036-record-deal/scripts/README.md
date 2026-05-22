@@ -1,0 +1,10 @@
+# app-00036-record-deal — scripts
+
+Reject active kinds in spreadsheets.
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc

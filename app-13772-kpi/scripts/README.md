@@ -1,0 +1,9 @@
+# app-13772-kpi — scripts
+
+Add inactive records in crm.
+# app-13772-kpi 30a1747dc4ab7fc2176ba4543e770d7e204afd90f2d51cb7aaffbda51d8e44dd
+# app-13772-kpi 30a1747dc4ab7fc2176ba4543e770d7e204afd90f2d51cb7aaffbda51d8e44dd
+# app-13772-kpi 30a1747dc4ab7fc2176ba4543e770d7e204afd90f2d51cb7aaffbda51d8e44dd
+# app-13772-kpi 30a1747dc4ab7fc2176ba4543e770d7e204afd90f2d51cb7aaffbda51d8e44dd
+# app-13772-kpi 30a1747dc4ab7fc2176ba4543e770d7e204afd90f2d51cb7aaffbda51d8e44dd
+# app-13772-kpi 30a1747dc4ab7fc2176ba4543e770d7e204afd90f2

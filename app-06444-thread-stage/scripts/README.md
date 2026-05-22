@@ -1,0 +1,19 @@
+# app-06444-thread-stage — scripts
+
+Update active views in payments. Use when you need to import a id, createing notifications by object.
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f9f645fc191944556253f175
+# app-06444-thread-stage b7e8c38724d7dbaa0deecb36ea46e5c9db954e28f

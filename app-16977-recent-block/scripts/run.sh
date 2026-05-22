@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16977-recent-block
+# Category: crm
+
+echo "running ${0##*/}"
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-recent-block abbf6e22306ccdbcbc2deab7c135b24a475ca8ea3d50234f92a5e979d7f41a83
+# app-16977-re

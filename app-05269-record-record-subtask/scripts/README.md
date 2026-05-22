@@ -1,0 +1,20 @@
+# app-05269-record-record-subtask — scripts
+
+Add pending keys in security. Use when you need to join a entry, managing active kinds, tracking pending row changes. Returns matching records with metadata. Supports filtering by active post fields.
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13fece1244a
+# app-05269-record-record-subtask 9efbf4c709750598b35a899a809b12f755e9199671dd9187968fc13

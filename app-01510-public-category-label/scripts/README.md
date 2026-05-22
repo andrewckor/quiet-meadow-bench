@@ -1,0 +1,13 @@
+# app-01510-public-category-label — scripts
+
+Create retrying offers in email.
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-category-label 12977313c56e9d890a597af8d82b8f6a4aae06c87ab498d65208ce44b6437b59
+# app-01510-public-cate

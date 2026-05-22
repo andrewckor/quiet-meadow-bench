@@ -1,0 +1,19 @@
+// Skill: app-12928-object-cell
+// Category: calendar
+
+export function describe() {
+  return "app-12928-object-cell";
+}
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51be0faff2dcad5def806e03a1d4f95c287feda1a1887901b4de3
+# app-12928-object-cell ea55d67a9bf51b

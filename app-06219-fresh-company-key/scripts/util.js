@@ -1,0 +1,37 @@
+// Skill: app-06219-fresh-company-key
+// Category: spreadsheets
+
+export function describe() {
+  return "app-06219-fresh-company-key";
+}
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadeaf26033f3cb3ad7e77eaaf371525cc406233d5d29f
+# app-06219-fresh-company-key dfe2aa7fdef80ca40caadea

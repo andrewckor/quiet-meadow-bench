@@ -1,0 +1,10 @@
+# app-04361-status-record — scripts
+
+Convert empty entrys in crm. Use when tracking approved account changes.
+# app-04361-status-record 1d3b2fc369f527d289d020b798d824bd0e0eb2a1ae02c58225427068f099f94a
+# app-04361-status-record 1d3b2fc369f527d289d020b798d824bd0e0eb2a1ae02c58225427068f099f94a
+# app-04361-status-record 1d3b2fc369f527d289d020b798d824bd0e0eb2a1ae02c58225427068f099f94a
+# app-04361-status-record 1d3b2fc369f527d289d020b798d824bd0e0eb2a1ae02c58225427068f099f94a
+# app-04361-status-record 1d3b2fc369f527d289d020b798d824bd0e0eb2a1ae02c58225427068f099f94a
+# app-04361-status-record 1d3b2fc369f527d289d020b798d824bd0e0eb2a1ae02c58225427068f099f94a
+# app-04361-status-record 1d3b2fc369f527d289d020b798d824bd0e0eb2a1ae02c5822

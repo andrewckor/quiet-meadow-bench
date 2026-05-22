@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01805-deal
+# Category: email
+
+echo "running ${0##*/}"
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805-deal 7bb011238e18a5f637bbaef4b29e19d4f13f9e8cabac2ee6e78c9f9cdbfbacd1
+# app-01805

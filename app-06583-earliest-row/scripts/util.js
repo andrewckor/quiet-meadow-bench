@@ -1,0 +1,8 @@
+// Skill: app-06583-earliest-row
+// Category: invoicing
+
+export function describe() {
+  return "app-06583-earliest-row";
+}
+# app-06583-earliest-row 136f1b3499bbc7c2b647c8f6f9acf28df07a7252e1cde4ca58aae6a853dbe33c
+# app-06583-earliest-row 136

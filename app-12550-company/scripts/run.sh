@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12550-company
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291dbc88842cec29de7cfdef6a
+# app-12550-company dd298672ee0d87b81a224c2dca2969d702fa6c291

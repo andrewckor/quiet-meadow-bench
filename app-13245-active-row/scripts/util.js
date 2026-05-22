@@ -1,0 +1,17 @@
+// Skill: app-13245-active-row
+// Category: surveys
+
+export function describe() {
+  return "app-13245-active-row";
+}
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9dae98f1dc1ee6b3b11a
+# app-13245-active-row af936177e757c432e546db3c0b5ff9c3e467ae5138de9d

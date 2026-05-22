@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07598-account-object
+# Category: social-media
+
+echo "running ${0##*/}"
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f9f9f8fe67b847d4
+# app-07598-account-object e21fa1219a25e1129cc3e25091aa2f4b3e7d2c015191fbb0f

@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18774-primary-item
+# Category: ads
+
+echo "running ${0##*/}"
+# app-18774-primary-item e80e73ce8c42018153a056f2ef9a9b59bda0a7170e3c4c170c8dae0b2c99fba5
+# app-18774-primary-item e80e73ce8c42018153a056f2ef9a9b59bda0a7170e3c4c170c8dae0b2c99fba5
+# app-18774-primary-item e80e73ce8c42018153a056f2ef9a9b59bda0a7170e3c4c170c8dae0b2c99fba5
+# app-18774-primary-item e80e73ce8c42018153a056f2ef9a9b59bda0a7170e3c4c170c8dae0b2c99fba5
+# app-18774-primary-item e80e73ce8c42018153a056f2ef9a9b59bda0a7170e3c4c170c8dae0b2c99fba5
+# app-18774-primary-item e80e73ce8c42018153a056f2ef9a9b59bda0a7170e3c4c170c8dae0b2c99fba5
+# app-18774-primary-item e80e73ce8c42018153a056f2ef9a9b59bda0a7170e3c4c170c8dae0b2c99fba5
+# app-18774-primary-item e80e73ce8c42018153a056f2ef9a9b59bda0a7170e3c4c170c8dae0b2c99fba5
+# app-18774-primary-ite

@@ -1,0 +1,18 @@
+# app-09230-closed-setting — scripts
+
+Verify active companys in file-sharing.
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f4ffb81d2dbeca106b6290953df7133c
+# app-09230-closed-setting c6a0ccbd5b42d2e9f110697aeb70f592f

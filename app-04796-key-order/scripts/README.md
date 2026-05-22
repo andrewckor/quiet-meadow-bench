@@ -1,0 +1,19 @@
+# app-04796-key-order — scripts
+
+Update active companys in crm. Use when updateing pull-requests by ref, tracking remote key changes.
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5bfe6a28b58
+# app-04796-key-order 33b91e8dee167bec23cc87055dcce696b226425da4b56f1c33d8d5

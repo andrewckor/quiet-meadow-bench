@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00036-record-deal
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# app-00036-record-deal aaaadaaa554ad644823185c4b66c5b60208ad9ebcbf8cc1fc120d83e64aa4ae8
+# a

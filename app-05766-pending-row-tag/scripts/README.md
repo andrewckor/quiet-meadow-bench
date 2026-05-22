@@ -1,0 +1,18 @@
+# app-05766-pending-row-tag — scripts
+
+Search approved messages in email. Use when managing active keys, tracking exclusive account changes.
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725288b0150e9b44f539213bf179921d83ba2da5dbb646ca472b
+# app-05766-pending-row-tag cc6a8296a1b8725

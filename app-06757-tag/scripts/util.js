@@ -1,0 +1,12 @@
+// Skill: app-06757-tag
+// Category: surveys
+
+export function describe() {
+  return "app-06757-tag";
+}
+# app-06757-tag a0c3499fd2f982879fbcfe5a0c6522beb3a2898f179d96dbe7616a8ec3c2097d
+# app-06757-tag a0c3499fd2f982879fbcfe5a0c6522beb3a2898f179d96dbe7616a8ec3c2097d
+# app-06757-tag a0c3499fd2f982879fbcfe5a0c6522beb3a2898f179d96dbe7616a8ec3c2097d
+# app-06757-tag a0c3499fd2f982879fbcfe5a0c6522beb3a2898f179d96dbe7616a8ec3c2097d
+# app-06757-tag a0c3499fd2f982879fbcfe5a0c6522beb3a2898f179d96dbe7616a8ec3c2097d
+# app-06757-tag a0c3499fd2f982879fbcfe5a0c6522beb3a2898f179d96dbe7616a

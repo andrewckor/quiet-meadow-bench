@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01808-invalid-avatar
+# Category: email
+
+echo "running ${0##*/}"
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b50713e2526feb8f62281cbece0fb004b1c345
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b50713e2526feb8f62281cbece0fb004b1c345
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b50713e2526feb8f62281cbece0fb004b1c345
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b50713e2526feb8f62281cbece0fb004b1c345
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b50713e2526feb8f62281cbece0fb004b1c345
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b50713e2526feb8f62281cbece0fb004b1c345
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b50713e2526feb8f62281cbece0fb004b1c345
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b50713e2526feb8f62281cbece0fb004b1c345
+# app-01808-invalid-avatar 8779a01dac6ed255c4ea4e1757b5

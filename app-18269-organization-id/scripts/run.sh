@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18269-organization-id
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e884a7417db42057ab40c450c62cffa9
+# app-18269-organization-id 3cd3076af99e9e914cf8dae5e7b20801e88

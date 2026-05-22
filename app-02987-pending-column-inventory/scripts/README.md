@@ -1,0 +1,16 @@
+# app-02987-pending-column-inventory — scripts
+
+Mute public tickets in spreadsheets.
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe4fb3b2e176d07e78109bdd1ea2c945c94111017
+# app-02987-pending-column-inventory 538661d440a476d5c272b79fe

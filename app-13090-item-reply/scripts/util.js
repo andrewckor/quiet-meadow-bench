@@ -1,0 +1,28 @@
+// Skill: app-13090-item-reply
+// Category: crm
+
+export function describe() {
+  return "app-13090-item-reply";
+}
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e0e8
+# app-13090-item-reply 147b3cdc9ca63d92eaa519e551a3cbed43c74d508dd8348deee2f4eb23a0e

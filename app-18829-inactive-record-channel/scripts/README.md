@@ -1,0 +1,9 @@
+# app-18829-inactive-record-channel — scripts
+
+Update starred carts in crm.
+# app-18829-inactive-record-channel c32356f95beb5788f6ce0feb0c72666466ceac4dbd72325197995279e307220a
+# app-18829-inactive-record-channel c32356f95beb5788f6ce0feb0c72666466ceac4dbd72325197995279e307220a
+# app-18829-inactive-record-channel c32356f95beb5788f6ce0feb0c72666466ceac4dbd72325197995279e307220a
+# app-18829-inactive-record-channel c32356f95beb5788f6ce0feb0c72666466ceac4dbd72325197995279e307220a
+# app-18829-inactive-record-channel c32356f95beb5788f6ce0feb0c72666466ceac4dbd72325197995279e307220a
+# app-18829-inactive-record-channel c32356f95beb5788f6ce0feb0c72666466ceac4dbd72325197

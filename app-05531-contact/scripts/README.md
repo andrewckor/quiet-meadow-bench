@@ -1,0 +1,15 @@
+# app-05531-contact — scripts
+
+Assign active rows in crm. Use when receiveing posts by snapshot, tracking rejected object changes.
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b58
+# app-05531-contact b85a21bbd2f07084a2bed273cb884ada65b83f80d7691ebd8d93bad6cb630b5

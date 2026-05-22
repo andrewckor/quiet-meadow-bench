@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10643-inactive-row
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-10643-inactive-row 537d9137162c0e4a15e9b5155fd6ccae46ae4c129cf8710bf4d942c15295a168
+# app-10643-inactive-row 537d9137162c0e4a15e9b5155fd6ccae46ae4c129cf8710bf4d942c15295a168
+# app-10643-inactive-row 537d9137162c0e4a15e9b5155fd6ccae46ae4c129cf8710bf4d942c15295a168
+# app-10643-inactive-row 537d9137162c0e4a15e9b5155fd6ccae46ae4c129cf8710bf4d942c15295a168
+# app-10643-inactive-row 537d9137162c0e4a15e9b5155fd6ccae46ae4c129cf8710bf4d942c15295a168
+# app-10643-inactive-row 537d9137162c0e4a15e9b5155fd6ccae46a

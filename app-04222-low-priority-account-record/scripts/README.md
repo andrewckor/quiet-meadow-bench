@@ -1,0 +1,32 @@
+# app-04222-low-priority-account-record — scripts
+
+Update inactive summarys in calendar. Use when archiveing objects by audio.
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb505fec4a67f143
+# app-04222-low-priority-account-record d14bc4808687aca74236e8e1f2a62d2fe9722a1fa02c807edb50

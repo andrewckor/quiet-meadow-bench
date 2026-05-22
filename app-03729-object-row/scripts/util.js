@@ -1,0 +1,11 @@
+// Skill: app-03729-object-row
+// Category: video-conferencing
+
+export function describe() {
+  return "app-03729-object-row";
+}
+# app-03729-object-row 313794ff80707c3261d6327b523fb58aebc2595239173a5b29675c5e2e81d61b
+# app-03729-object-row 313794ff80707c3261d6327b523fb58aebc2595239173a5b29675c5e2e81d61b
+# app-03729-object-row 313794ff80707c3261d6327b523fb58aebc2595239173a5b29675c5e2e81d61b
+# app-03729-object-row 313794ff80707c3261d6327b523fb58aebc2595239173a5b29675c5e2e81d61b
+# app-03729-object-row 313794ff80707c3261d6327b523fb58aebc2595239173a5

@@ -1,0 +1,18 @@
+// Skill: app-03838-category
+// Category: knowledge-base
+
+export function describe() {
+  return "app-03838-category";
+}
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c12698b64d93cb85b940a5d4ab44d1b9aea67236a1ac1b4333be8d818fb82acd
+# app-03838-category c

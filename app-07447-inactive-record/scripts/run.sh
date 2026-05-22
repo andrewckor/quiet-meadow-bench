@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07447-inactive-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record c83ae8f4b517a38ac8abc1dd54c0d0b392f826161e6069342b32c2d61e04744e
+# app-07447-inactive-record 

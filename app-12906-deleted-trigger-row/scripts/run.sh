@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12906-deleted-trigger-row
+# Category: email
+
+echo "running ${0##*/}"
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-12906-deleted-trigger-row 078a84ee4f12e0d8da54024fea2fd6bc51d9dd5855e180742de78a21c6d64d6d
+# app-1290

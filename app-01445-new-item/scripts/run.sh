@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01445-new-item
+# Category: crm
+
+echo "running ${0##*/}"
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048cad14b3fdded0021a7e9bd3fab099
+# app-01445-new-item 109e7fb47aed4316bdeffff88d51e046048ca

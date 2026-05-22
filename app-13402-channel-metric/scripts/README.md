@@ -1,0 +1,15 @@
+# app-13402-channel-metric — scripts
+
+Update untrusted stages in crm. Use when tracking inactive phone changes, tracking inactive entry changes.
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-metric f2b0741ad8269d97a6595f3fd48cffc5b8d4c66cbf23b426087cbd4c6fe97634
+# app-13402-channel-

@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13498-rejected-item
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194da5c4415781dfac39f4faf142ffa
+# app-13498-rejected-item b5cc53d45100766e4b229fc82e1a5d978194

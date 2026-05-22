@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17770-inactive-standup-workbook
+# Category: email
+
+echo "running ${0##*/}"
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-standup-workbook f1ff5fff89af17f82248b381b3aff0ccee19d30d4ff3fe5244e6b5e0c0bbdc87
+# app-17770-inactive-

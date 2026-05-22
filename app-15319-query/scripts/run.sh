@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15319-query
+# Category: task-management
+
+echo "running ${0##*/}"
+# app-15319-query 87531ee495c255abff394869180611e8e433be73344dd85a9de9661df2ea0a79
+# app-15319-query 87531ee495c255abff394869180611e8e433be73344dd85a9de9661df2ea0a79
+# app-15319-query 87531ee495c255abff394869180611e8e433be73344dd85a9de9661df2ea0a79
+# app-15319-query 87531ee495c255abff394869180611e8e433be73344dd85a9de9661df2ea0a79
+# app-15319-query 87531ee495c255abff394869180611e8e433be73344dd85a9de9661df2ea0a79
+# app-15319-query 87531ee495c255abff3948

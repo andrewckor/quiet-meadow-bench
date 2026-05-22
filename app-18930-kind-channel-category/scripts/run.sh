@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18930-kind-channel-category
+# Category: email
+
+echo "running ${0##*/}"
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b4194d866469eea43a46a
+# app-18930-kind-channel-category 5baf3fc6fd94f41d6581c28a6b652ccfe134dd4c344b41

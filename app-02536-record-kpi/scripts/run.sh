@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02536-record-kpi
+# Category: marketing
+
+echo "running ${0##*/}"
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# app-02536-record-kpi f556177973b4dcd13ca1ae660625f51d39cde905c6f2bbb614fb99b10d5cb7cd
+# ap

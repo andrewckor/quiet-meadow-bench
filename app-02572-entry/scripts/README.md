@@ -1,0 +1,10 @@
+# app-02572-entry — scripts
+
+Create pending campaigns in calendar. Use when scheduleing lists by record.
+# app-02572-entry 047da12bace2444e2f04e87b5ae7effa898455c02ae8f628a3d29451fd5f4599
+# app-02572-entry 047da12bace2444e2f04e87b5ae7effa898455c02ae8f628a3d29451fd5f4599
+# app-02572-entry 047da12bace2444e2f04e87b5ae7effa898455c02ae8f628a3d29451fd5f4599
+# app-02572-entry 047da12bace2444e2f04e87b5ae7effa898455c02ae8f628a3d29451fd5f4599
+# app-02572-entry 047da12bace2444e2f04e87b5ae7effa898455c02ae8f628a3d29451fd5f4599
+# app-02572-entry 047da12bace2444e2f04e87b5ae7effa898455c02ae8f628a3d29451fd5f4599
+# app-02572-entry 047da12bace2444e2f0

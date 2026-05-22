@@ -1,0 +1,30 @@
+# app-06974-row-row — scripts
+
+Summarize private discounts in crm.
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c990b352c7a2345c0e42d69cfd41761aa6d3ae28eee5d4bea352aecdc8
+# app-06974-row-row ec29f1c9

@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08463-report-account
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e8bf70a3f5808c3486c1b5eb7181effb16fbdfccfd
+# app-08463-report-account 2b39884e0cf318f4dbcc83e

@@ -1,0 +1,20 @@
+# app-06467-deleted-row-subtask — scripts
+
+Sync approved statuss in backup. Use when canceling entrys by trigger.
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b870
+# app-06467-deleted-row-subtask 7b2c65fdfb5c321c3b067d74d46e68abd568e3c280758d025f3d07276be5b8

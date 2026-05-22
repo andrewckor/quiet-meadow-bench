@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16683-account
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0419fcc1085636159b3347b649a
+# app-16683-account cbc0852e6d9cf1a7d7d8dff8106cd6ccde08f0

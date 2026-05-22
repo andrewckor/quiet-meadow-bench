@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13948-expense-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce6e27637eef074a520c14e2c3531b980adac93114b03bb52b6b
+# app-13948-expense-record 0ecfa9e55e9bce

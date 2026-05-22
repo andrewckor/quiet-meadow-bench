@@ -1,0 +1,24 @@
+// Skill: app-14895-paused-type
+// Category: wiki
+
+export function describe() {
+  return "app-14895-paused-type";
+}
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# app-14895-paused-type 8ed796ed867d0fa2e2ac84f6dbfb2b18d523634bf77ec2d619414655bf559cee
+# ap

@@ -1,0 +1,20 @@
+// Skill: app-04186-permission-type
+// Category: dashboards
+
+export function describe() {
+  return "app-04186-permission-type";
+}
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a3393b178c7afa3f
+# app-04186-permission-type 7bbd3c925690084e0ec5295ab3a0da979773a7ea8beb8c82a33

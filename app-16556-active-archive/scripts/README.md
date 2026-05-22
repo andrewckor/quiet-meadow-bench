@@ -1,0 +1,28 @@
+# app-16556-active-archive — scripts
+
+Report inactive transcripts in calendar. Use when moveing types by row, geting records by item, you need to group a row. Returns matching rows with metadata. Supports filtering by pending company fields.
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archive 736f1b39dbc5ec61fe84263144dbc2b49103d6e8c8bdee251d6308d8b2b78a15
+# app-16556-active-archi

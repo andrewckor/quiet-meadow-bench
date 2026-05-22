@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06865-rejected-object
+# Category: email
+
+echo "running ${0##*/}"
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# app-06865-rejected-object b0d7f46f1e3563618ad00ca4f029defb14505cdf0b3650c270e48b9c26d75f5b
+# ap

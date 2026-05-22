@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15873-deleted-item-thread
+# Category: forms
+
+echo "running ${0##*/}"
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thread e10e0ddd5fb85e535d2ffb6fdcf73a43e656cdf885d899aa653efce2c7040a01
+# app-15873-deleted-item-thre

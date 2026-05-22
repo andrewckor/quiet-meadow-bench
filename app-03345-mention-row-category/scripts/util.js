@@ -1,0 +1,25 @@
+// Skill: app-03345-mention-row-category
+// Category: docs
+
+export function describe() {
+  return "app-03345-mention-row-category";
+}
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1c1453a14d4b9bbae6ae49
+# app-03345-mention-row-category a4ff5a32abef7ac1f1ce3fc24d67dc106c1aad844f1

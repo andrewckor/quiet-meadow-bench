@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00080-ledger-tag-record
+# Category: dashboards
+
+echo "running ${0##*/}"
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-00080-ledger-tag-record 0ff10bb7868bf7d1b62af2a4f55ea6043c42d962ebe38ef2d259c9c982877f0c
+# app-

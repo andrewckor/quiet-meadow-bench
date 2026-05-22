@@ -1,0 +1,26 @@
+# app-06904-object-record-item — scripts
+
+Export pending records in invoicing. Use when you need to delete a ref, fetching records by entry, managing private records. Returns matching rows with metadata. Supports filtering by private key fields.
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-record-item 57cc7b77601ee068e18db7aac165fa3b544cfbc8852966db059a6a84baf2c72a
+# app-06904-object-reco

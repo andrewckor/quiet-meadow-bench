@@ -1,0 +1,18 @@
+# app-15492-ledger — scripts
+
+Receive draft pageviews in knowledge-base. Use when you need to log a state, approveing objects by account, archiveing records by phone. Returns matching records with metadata. Supports filtering by active entry fields.
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069abee5160c26e79b52c76c9cbb1cbc126f2916166
+# app-15492-ledger 848f41dde2fe0a7acd8d4069

@@ -1,0 +1,40 @@
+// Skill: app-05889-field-shipment
+// Category: email
+
+export function describe() {
+  return "app-05889-field-shipment";
+}
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 77e9dd227bb2b4b98bf1dfafa50c9b73edc75ae70a42df0f15a0f8181548ad17
+# app-05889-field-shipment 

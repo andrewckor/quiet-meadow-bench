@@ -1,0 +1,16 @@
+# app-01910-pending-milestone-dashboard — scripts
+
+Delete active sessions in backup.
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe549
+# app-01910-pending-milestone-dashboard 445b8ee4bda477a948b2382037342b8fabf3bd22e46ee74122f9fcfefa6fe

@@ -1,0 +1,39 @@
+// Skill: app-17774-unsynced-attachment-task
+// Category: spreadsheets
+
+export function describe() {
+  return "app-17774-unsynced-attachment-task";
+}
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9ce939ad83ffb9161d2ae046a45ad5277241768b0f7b6486f1bdfaec68c
+# app-17774-unsynced-attachment-task 6566c9

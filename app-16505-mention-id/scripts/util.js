@@ -1,0 +1,24 @@
+// Skill: app-16505-mention-id
+// Category: crm
+
+export function describe() {
+  return "app-16505-mention-id";
+}
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55ea58d15b9c2a3b8f7caa9e242027a
+# app-16505-mention-id f44fdd4eea4cd51c19c406baa9221ecbf55e

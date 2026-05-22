@@ -1,0 +1,44 @@
+# app-12354-active-kind-record — scripts
+
+Fetch pending kinds in crm. Use when tracking deleted record changes, commenting rows by vacation, searching fields by record. Returns matching views with metadata. Supports filtering by open row fields.
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82
+# app-12354-active-kind-record c12c5f5cf17cd54588f5042597f7a7b6e8cf43d67d07c8b44c0a68bf3089fd82

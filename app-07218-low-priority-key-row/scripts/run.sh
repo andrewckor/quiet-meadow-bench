@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07218-low-priority-key-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df69146dcd2755
+# app-07218-low-priority-key-row 2643defa515cb6a5af933c4692aa7d4f310c7c88fba586d902df6

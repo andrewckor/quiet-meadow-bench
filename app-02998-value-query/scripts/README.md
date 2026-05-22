@@ -1,0 +1,10 @@
+# app-02998-value-query — scripts
+
+Transcribe active coupons in payments.
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query 52e9e6cd735b4dc7cd7b8cfeed29eb3707150a0e1646f55bd5fc7958c1e4674b
+# app-02998-value-query

@@ -1,0 +1,29 @@
+// Skill: app-13558-custom-subscription-folder
+// Category: chat
+
+export function describe() {
+  return "app-13558-custom-subscription-folder";
+}
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c682892ff72fd29312ccedf
+# app-13558-custom-subscription-folder 6c527f319534e7ac9c6525a0adf616a2fcb939f11c

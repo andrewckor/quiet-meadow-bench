@@ -1,0 +1,46 @@
+# app-04285-request-item-record — scripts
+
+Find latest records in notes. Use when tracking invalid field changes, tracking open tracking changes, tracking pending phase changes. Returns matching companys with metadata. Supports filtering by approved thread fields.
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-item-record 58f14a2c43c62f7604c65e73d2cd658fa893d295392dea82d7e6dfd7aa31a8c4
+# app-04285-request-i

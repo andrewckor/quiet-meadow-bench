@@ -1,0 +1,18 @@
+# app-10823-active-type — scripts
+
+Untag rejected leads in calendar. Use when you need to create a tag, managing active teams.
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-type 61892f015efceeb2ceb38b6bce1fbc8f7d02ef0a8d6d0bb1b5584e7d81c2f12d
+# app-10823-active-ty

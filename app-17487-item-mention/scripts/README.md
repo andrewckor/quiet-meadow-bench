@@ -1,0 +1,8 @@
+# app-17487-item-mention — scripts
+
+Create pending builds in email.
+# app-17487-item-mention edaaaaf3c34595c393e9e8ca42e7a53dc155aa03d77ddb191a71c119ed79209e
+# app-17487-item-mention edaaaaf3c34595c393e9e8ca42e7a53dc155aa03d77ddb191a71c119ed79209e
+# app-17487-item-mention edaaaaf3c34595c393e9e8ca42e7a53dc155aa03d77ddb191a71c119ed79209e
+# app-17487-item-mention edaaaaf3c34595c393e9e8ca42e7a53dc155aa03d77ddb191a71c119ed79209e
+# app-17487-item-mention edaaaaf3c34595c393e9e8ca42e7a53dc155aa03d

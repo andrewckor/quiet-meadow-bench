@@ -1,0 +1,32 @@
+# app-16606-item-contact-folder — scripts
+
+Remove running records in crm. Use when managing active rows.
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283311205cbed9e1fa3320ecf5c74203bcb24c638de2
+# app-16606-item-contact-folder 030f2bc2fa507ea5208c283

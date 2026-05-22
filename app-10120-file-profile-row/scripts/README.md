@@ -1,0 +1,16 @@
+# app-10120-file-profile-row — scripts
+
+Create rejected channels in crm.
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-row 413884a5ecb30dbf1226cab36a4ac3b2c4bde11b265ce86ad13c9048f32d426d
+# app-10120-file-profile-

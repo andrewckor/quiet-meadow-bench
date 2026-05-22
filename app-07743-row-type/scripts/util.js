@@ -1,0 +1,8 @@
+// Skill: app-07743-row-type
+// Category: docs
+
+export function describe() {
+  return "app-07743-row-type";
+}
+# app-07743-row-type b2321395f7058fcf7dc7f5c971acecb4bb83e01e5e7e663303c1198a9901d305
+# app-07743-row-type b23

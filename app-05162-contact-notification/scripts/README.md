@@ -1,0 +1,13 @@
+# app-05162-contact-notification — scripts
+
+Update inactive entrys in email.
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430bec21874f502d707e6710fdefb9188dc91ef67fba8af
+# app-05162-contact-notification 264248c27a49b7290430

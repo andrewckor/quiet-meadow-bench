@@ -1,0 +1,33 @@
+// Skill: app-15538-record-stage
+// Category: crm
+
+export function describe() {
+  return "app-15538-record-stage";
+}
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fcee
+# app-15538-record-stage bd822a96879fdfacc2d23ed7fe2700247ca9a9392f9d52a87d8e83584ba1fc

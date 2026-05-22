@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08738-permission-permission
+# Category: billing
+
+echo "running ${0##*/}"
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-08738-permission-permission dd949d3fc7b902cef984ac868fce1bb68d31a50425d52443550586c4a49b9cfb
+# app-0873

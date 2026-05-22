@@ -1,0 +1,25 @@
+# app-03238-record-record — scripts
+
+Untag open tasks in forms. Use when updateing releases by record, syncing ids by entry, approveing records by entry, you need to remove a record. Returns matching objects with metadata. Supports filtering by approved id fields.
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27bdc30ae98efb0da312a3d1021e8d9468a0c74e9539b572c5a62884ae503889
+# app-03238-record-record 27b

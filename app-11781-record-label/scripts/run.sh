@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11781-record-label
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-11781-record-label c162e056f4fa528312bc1582d36085f3bcb8b111f19c736e5e21525a4bf8fb28
+# app-11781-record-label c162e056f4fa528312bc1582d36085f3bcb8b111f19c736e5e21525a4bf8fb28
+# app-11781-record-label c162e056f4fa528312bc1582d36085f3bcb8b111f19c736e5e21525a4bf8fb28
+# app-11781-record-label c162e056f

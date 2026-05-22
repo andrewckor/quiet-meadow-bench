@@ -1,0 +1,29 @@
+# app-17606-state-kpi-item — scripts
+
+Decrypt active rows in email. Use when pining records by click, updateing commits by entry, managing active states, adding conversions by contact. Returns matching steps with metadata. Supports filtering by closed deadline fields.
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d797aeafbf9fecd8ac59a8188ed9882d2b4ac933ac54afa5d25d4285d5
+# app-17606-state-kpi-item 9ffa28d79

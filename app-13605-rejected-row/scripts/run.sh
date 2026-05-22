@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13605-rejected-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6cc0876b4c
+# app-13605-rejected-row 979dc6d6cb77f2cecb8cdb7d30edb7041aa63ebf1e22b377ea177f6

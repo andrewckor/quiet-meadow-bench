@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16655-open-review-deal
+# Category: support
+
+echo "running ${0##*/}"
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d883cb0bb0b65fc872708608f1139d2f4637e
+# app-16655-open-review-deal 5e04ff7e74c2af838cac6d07fd2d8

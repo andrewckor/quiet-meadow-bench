@@ -1,0 +1,18 @@
+// Skill: app-10599-deal-trigger-notification
+// Category: crm
+
+export function describe() {
+  return "app-10599-deal-trigger-notification";
+}
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d6057989244b4c09c3be7403e14b6495a4bf390
+# app-10599-deal-trigger-notification 4b99da0f2fc95ab6b8ac33a40d

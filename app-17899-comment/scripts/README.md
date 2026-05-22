@@ -1,0 +1,13 @@
+# app-17899-comment — scripts
+
+Approve inactive accounts in ci-cd. Use when you need to fetch a incident, managing rejected threads, tracking invalid ref changes. Returns matching items with metadata. Supports filtering by public goal fields.
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b45cbdbd365bbce
+# app-17899-comment 5b28f17bbc40ab3b7a1b9de326f52de87ea4b95ab7b3f6480b

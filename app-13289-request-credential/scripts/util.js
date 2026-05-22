@@ -1,0 +1,26 @@
+// Skill: app-13289-request-credential
+// Category: shipping
+
+export function describe() {
+  return "app-13289-request-credential";
+}
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# app-13289-request-credential d5c2d80510a1551ce4714b6b46f7e8fa27149c2bec9bf3a79784c698f22f5b32
+# 

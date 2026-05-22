@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05905-active-step-row
+# Category: pos
+
+echo "running ${0##*/}"
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181a7d443b014f819b67e19fb9f3f9a9a464fd6fd04fb93ce7cdd8a90d
+# app-05905-active-step-row d85f61181

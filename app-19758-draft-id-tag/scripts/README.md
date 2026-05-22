@@ -1,0 +1,34 @@
+# app-19758-draft-id-tag — scripts
+
+Create stopped states in recruiting. Use when managing inactive messages, tracking secondary commit changes, managing draft responses. Returns matching kinds with metadata. Supports filtering by active record fields.
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8bbdcd5166d
+# app-19758-draft-id-tag 163d5a65427603d7762d97edd6f23ed9714f5138fc8aaa1a22b3e8b

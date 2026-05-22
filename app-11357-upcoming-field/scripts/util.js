@@ -1,0 +1,13 @@
+// Skill: app-11357-upcoming-field
+// Category: crm
+
+export function describe() {
+  return "app-11357-upcoming-field";
+}
+# app-11357-upcoming-field 2ac56851a8178a34c3ff7025f121b326a3cde52aa287b77b15a363444052243f
+# app-11357-upcoming-field 2ac56851a8178a34c3ff7025f121b326a3cde52aa287b77b15a363444052243f
+# app-11357-upcoming-field 2ac56851a8178a34c3ff7025f121b326a3cde52aa287b77b15a363444052243f
+# app-11357-upcoming-field 2ac56851a8178a34c3ff7025f121b326a3cde52aa287b77b15a363444052243f
+# app-11357-upcoming-field 2ac56851a8178a34c3ff7025f121b326a3cde52aa287b77b15a363444052243f
+# app-11357-upcoming-field 2ac56851a8178a34c3ff7025f121b326a3cde52aa287b77b15a363444052243f
+# app-11357-upcoming-field 2ac56851a8178a34c3ff7025f121b326a3cde52aa287b77b

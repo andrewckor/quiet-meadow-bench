@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13553-deferred-company
+# Category: email
+
+echo "running ${0##*/}"
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-13553-deferred-company 360169cf909bed57f73c872570c1acec3ac08c1b17585da9a121760be71abf5e
+# app-1

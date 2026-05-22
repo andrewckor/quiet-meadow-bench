@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13079-closed-key
+# Category: email
+
+echo "running ${0##*/}"
+# app-13079-closed-key 07cba594aef03bfb0cd627f22ae2129fad6bf2503a823805d692fe091e5e3d0a
+# app-13079-closed-key 07cba594aef03bfb0cd627f22ae2129fad6bf2503a823805d692fe091e5e3d0a
+# app-13079-closed-key 07cba594aef03bfb0cd627f22ae2129fad6bf2503a823805d692fe091e5e3d0a
+# app-13079-closed-key 07cba594aef03bfb0cd627f22ae2129fad6bf2503a823805d692fe091e5e3d0a
+# app-13079-closed-key 07cba594aef03bfb0cd627f22ae2129fad6bf2503a823805d692fe091e5e3d0a
+# app-13079-closed-key

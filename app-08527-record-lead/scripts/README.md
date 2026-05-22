@@ -1,0 +1,11 @@
+# app-08527-record-lead — scripts
+
+Fetch open groups in email.
+# app-08527-record-lead 9de75457100bdc4e3ff9a8d18df0cd32380a6f2c4dad9b7e7f454227a1b9b0f2
+# app-08527-record-lead 9de75457100bdc4e3ff9a8d18df0cd32380a6f2c4dad9b7e7f454227a1b9b0f2
+# app-08527-record-lead 9de75457100bdc4e3ff9a8d18df0cd32380a6f2c4dad9b7e7f454227a1b9b0f2
+# app-08527-record-lead 9de75457100bdc4e3ff9a8d18df0cd32380a6f2c4dad9b7e7f454227a1b9b0f2
+# app-08527-record-lead 9de75457100bdc4e3ff9a8d18df0cd32380a6f2c4dad9b7e7f454227a1b9b0f2
+# app-08527-record-lead 9de75457100bdc4e3ff9a8d18df0cd32380a6f2c4dad9b7e7f454227a1b9b0f2
+# app-08527-record-lead 9de75457100bdc4e3ff9a8d18df0cd32380a6f2c4dad9b7e7f454227a1b9b0f2
+# app-08527-record-lead 9de75457100bdc4e3ff9a8d18df0cd323

@@ -1,0 +1,9 @@
+# app-02986-active-deployment — scripts
+
+Update approved contacts in project-management.
+# app-02986-active-deployment 8af9f773d1360f37e38514bd22d0ef7f9956e5ecf8b19505202dda7447fe96e1
+# app-02986-active-deployment 8af9f773d1360f37e38514bd22d0ef7f9956e5ecf8b19505202dda7447fe96e1
+# app-02986-active-deployment 8af9f773d1360f37e38514bd22d0ef7f9956e5ecf8b19505202dda7447fe96e1
+# app-02986-active-deployment 8af9f773d1360f37e38514bd22d0ef7f9956e5ecf8b19505202dda7447fe96e1
+# app-02986-active-deployment 8af9f773d1360f37e38514bd22d0ef7f9956e5ecf8b19505202dda7447fe96e1
+# app-02986-active-deployment 8af9f773d1360f37e38514bd

@@ -1,0 +1,24 @@
+// Skill: app-06659-record-type-record
+// Category: docs
+
+export function describe() {
+  return "app-06659-record-type-record";
+}
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06659-record-type-record 73f4ceeecbea113a9177d4b685cb48e15d46a750c0ee491290ae6a33c5c9628b
+# app-06

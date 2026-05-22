@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01448-signature-workflow-state
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-01448-signature-workflow-state 22a4a988ed2abb5b6ed0e805c4627a4d78755d2dc1649b773a11ec38ee50c935
+# app-01448-signature-workflow-state 22a4a988ed2abb5b6ed0e805c4627a4d78755d2dc1649b773a11ec38ee50c935
+# app-01448-signature-workflow-state 22a4a988ed2abb5b6ed0e805c4627a4d78755d2dc1649b773a11ec38ee50c935
+# app-01448-signature-workflow-state 22a4a988ed2abb5b6ed0e805c4627a4d78755d2dc1649b773a11ec38ee50c935
+# app-01448-signature-workflow-state 22a4a988ed2abb5b6ed0e805c4627a4d78755d2dc1649b773a11ec38ee50c935
+# app-01448-signature-workflow-state 22a4a988ed2abb5b6ed0e805c4627a4d78755d2dc1649b773a11ec38ee50c935
+# app-01448-signa

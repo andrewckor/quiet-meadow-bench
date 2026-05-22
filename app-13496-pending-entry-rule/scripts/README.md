@@ -1,0 +1,13 @@
+# app-13496-pending-entry-rule — scripts
+
+Create latest sprints in recruiting. Use when tracking trusted release changes, deleteing refs by row.
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-rule 75a8395bb1ab530d663d5252f502712bc580270717650bc2253fd0dda593f448
+# app-13496-pending-entry-r

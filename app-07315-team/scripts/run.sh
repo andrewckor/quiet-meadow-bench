@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07315-team
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# app-07315-team adefc4ef3c61bb8b1a1b5ed4610b32ccd4d4958735d56454b08c47d40af80bcb
+# ap

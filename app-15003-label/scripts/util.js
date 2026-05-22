@@ -1,0 +1,14 @@
+// Skill: app-15003-label
+// Category: calendar
+
+export function describe() {
+  return "app-15003-label";
+}
+# app-15003-label 0de95a8f9a4a6dbf17b6ddec25374fa7d7fa5324e2def035bd7563597d846e95
+# app-15003-label 0de95a8f9a4a6dbf17b6ddec25374fa7d7fa5324e2def035bd7563597d846e95
+# app-15003-label 0de95a8f9a4a6dbf17b6ddec25374fa7d7fa5324e2def035bd7563597d846e95
+# app-15003-label 0de95a8f9a4a6dbf17b6ddec25374fa7d7fa5324e2def035bd7563597d846e95
+# app-15003-label 0de95a8f9a4a6dbf17b6ddec25374fa7d7fa5324e2def035bd7563597d846e95
+# app-15003-label 0de95a8f9a4a6dbf17b6ddec25374fa7d7fa5324e2def035bd7563597d846e95
+# app-15003-label 0de95a8f9a4a6dbf17b6ddec25374fa7d7fa5324e2def035bd7563597d846e95
+# app-15003-label 0de95a8f9a4a6dbf17b6ddec25

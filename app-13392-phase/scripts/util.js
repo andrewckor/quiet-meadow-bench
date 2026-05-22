@@ -1,0 +1,11 @@
+// Skill: app-13392-phase
+// Category: calendar
+
+export function describe() {
+  return "app-13392-phase";
+}
+# app-13392-phase 58f29947557ccb255c8b34a96b5a3c2638615b41516ef053ad43e219f16b3cb4
+# app-13392-phase 58f29947557ccb255c8b34a96b5a3c2638615b41516ef053ad43e219f16b3cb4
+# app-13392-phase 58f29947557ccb255c8b34a96b5a3c2638615b41516ef053ad43e219f16b3cb4
+# app-13392-phase 58f29947557ccb255c8b34a96b5a3c2638615b41516ef053ad43e219f16b3cb4
+# app-13392-p

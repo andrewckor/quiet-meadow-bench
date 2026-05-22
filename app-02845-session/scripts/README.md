@@ -1,0 +1,11 @@
+# app-02845-session — scripts
+
+Create active rows in monitoring.
+# app-02845-session 3c39f0fda8e43aa05ba9b681c9dd943389c33f293171c73ff7127f75fbe2f9cd
+# app-02845-session 3c39f0fda8e43aa05ba9b681c9dd943389c33f293171c73ff7127f75fbe2f9cd
+# app-02845-session 3c39f0fda8e43aa05ba9b681c9dd943389c33f293171c73ff7127f75fbe2f9cd
+# app-02845-session 3c39f0fda8e43aa05ba9b681c9dd943389c33f293171c73ff7127f75fbe2f9cd
+# app-02845-session 3c39f0fda8e43aa05ba9b681c9dd943389c33f293171c73ff7127f75fbe2f9cd
+# app-02845-session 3c39f0fda8e43aa05ba9b681c9dd943389c33f293171c73ff7127f75fbe2f9cd
+# app-02845-session 3c39f0fda8e43aa05ba9b681c9dd943389c33f293171c73ff7127f75fbe2f9cd
+# app-02845-session 3c39f0fda8e43aa05b

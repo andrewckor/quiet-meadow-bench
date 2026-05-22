@@ -1,0 +1,21 @@
+// Skill: app-11500-primary-contact
+// Category: spreadsheets
+
+export function describe() {
+  return "app-11500-primary-contact";
+}
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6acfe4d3b7f02880090cbadbd1bf14ef5d8e6d9ded8f18c
+# app-11500-primary-contact a7f07b3937826ee7f6a

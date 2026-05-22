@@ -1,0 +1,25 @@
+// Skill: app-03152-active-task-contact
+// Category: calendar
+
+export function describe() {
+  return "app-03152-active-task-contact";
+}
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-contact 7cee168f3f94b355946df8ba27af532facb7b138bb13bf2f333cbb7aa93c856d
+# app-03152-active-task-con

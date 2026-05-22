@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19004-entry-group
+# Category: hr
+
+echo "running ${0##*/}"
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba75706199195dd7fb810b0eef2ee10e6d8112b80975e2
+# app-19004-entry-group ee6489e3a82b292fdcba7570619

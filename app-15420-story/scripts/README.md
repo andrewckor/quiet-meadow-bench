@@ -1,0 +1,9 @@
+# app-15420-story — scripts
+
+Create active products in calendar.
+# app-15420-story 212f9590a4d8b114bad7e7b234f4ab485936616bcd6daf5ee7890cebbc5f3230
+# app-15420-story 212f9590a4d8b114bad7e7b234f4ab485936616bcd6daf5ee7890cebbc5f3230
+# app-15420-story 212f9590a4d8b114bad7e7b234f4ab485936616bcd6daf5ee7890cebbc5f3230
+# app-15420-story 212f9590a4d8b114bad7e7b234f4ab485936616bcd6daf5ee7890cebbc5f3230
+# app-15420-story 212f9590a4d8b114bad7e7b234f4ab485936616bcd6daf5ee7890cebbc5f3230
+# app-15420-story 212f9590a4d8b114bad7e7b2

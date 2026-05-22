@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15739-state
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-15739-state feea543f5af24c41d4e1ad0fa21e097a00a22ba3d5baadda59ddeb6798402355
+# app-

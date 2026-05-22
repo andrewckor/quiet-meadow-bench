@@ -1,0 +1,12 @@
+# app-02862-open-object — scripts
+
+Unshare inactive members in knowledge-base.
+# app-02862-open-object 04c6738110c163acccb28a46be70ab5f97d7521848f8bbd38a80e540c8780aac
+# app-02862-open-object 04c6738110c163acccb28a46be70ab5f97d7521848f8bbd38a80e540c8780aac
+# app-02862-open-object 04c6738110c163acccb28a46be70ab5f97d7521848f8bbd38a80e540c8780aac
+# app-02862-open-object 04c6738110c163acccb28a46be70ab5f97d7521848f8bbd38a80e540c8780aac
+# app-02862-open-object 04c6738110c163acccb28a46be70ab5f97d7521848f8bbd38a80e540c8780aac
+# app-02862-open-object 04c6738110c163acccb28a46be70ab5f97d7521848f8bbd38a80e540c8780aac
+# app-02862-open-object 04c6738110c163acccb28a46be70ab5f97d7521848f8bbd38a80e540c8780aac
+# app-02862-open-object 04c6738110c163acccb28a46be70ab5f97d7521848f8bbd38a80e540c8780aac
+# app-0286

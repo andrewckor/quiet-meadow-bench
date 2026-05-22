@@ -1,0 +1,18 @@
+// Skill: app-08187-upcoming-row
+// Category: hr
+
+export function describe() {
+  return "app-08187-upcoming-row";
+}
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab09c9d178793f1d5220e79a50b3205a05501b50dff3c4dbded75e
+# app-08187-upcoming-row 008ac8894aab0

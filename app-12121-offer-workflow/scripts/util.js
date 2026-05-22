@@ -1,0 +1,22 @@
+// Skill: app-12121-offer-workflow
+// Category: docs
+
+export function describe() {
+  return "app-12121-offer-workflow";
+}
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121-offer-workflow 6135aa426a3bad3c3deca44539480435c5ac668e1b48e891e9d0d7916e8c85bb
+# app-12121

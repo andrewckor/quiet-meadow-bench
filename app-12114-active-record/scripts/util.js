@@ -1,0 +1,12 @@
+// Skill: app-12114-active-record
+// Category: docs
+
+export function describe() {
+  return "app-12114-active-record";
+}
+# app-12114-active-record dda204f6387fa2252ce0f10ad61eb81ca90d86290ddc34f5ad289e4fd699966f
+# app-12114-active-record dda204f6387fa2252ce0f10ad61eb81ca90d86290ddc34f5ad289e4fd699966f
+# app-12114-active-record dda204f6387fa2252ce0f10ad61eb81ca90d86290ddc34f5ad289e4fd699966f
+# app-12114-active-record dda204f6387fa2252ce0f10ad61eb81ca90d86290ddc34f5ad289e4fd699966f
+# app-12114-active-record dda204f6387fa2252ce0f10ad61eb81ca90d86290ddc34f5ad289e4fd699966f
+# app-12114-active-record dda204f6387fa2252ce0f10ad61eb

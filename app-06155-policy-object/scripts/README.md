@@ -1,0 +1,24 @@
+# app-06155-policy-object — scripts
+
+List unverified deployments in social-media. Use when tracking stale expense changes, tracking partial token changes.
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 3c1059a6f88d3dbd2c9aff22b9fded5a60876deb3b7531c134dba495f395c8ce
+# app-06155-policy-object 

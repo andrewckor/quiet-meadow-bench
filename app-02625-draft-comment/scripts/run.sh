@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02625-draft-comment
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4a2ba9fbd341f66b44e3058
+# app-02625-draft-comment f654d53dd69a4bb001a6a92f4350c02594e4d2dcf4

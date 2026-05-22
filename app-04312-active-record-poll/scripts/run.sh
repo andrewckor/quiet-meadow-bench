@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04312-active-record-poll
+# Category: crm
+
+echo "running ${0##*/}"
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327ddb89fb029
+# app-04312-active-record-poll 5c9b87e0891dca735d2f7ed604b41bf02fdd8731d1aaac4a9e6327

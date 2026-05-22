@@ -1,0 +1,12 @@
+// Skill: app-12446-lead-key-alert
+// Category: support
+
+export function describe() {
+  return "app-12446-lead-key-alert";
+}
+# app-12446-lead-key-alert 99161fa0504d8bc098ba57d8b542eb04358f35b9dcb2bdd15efbebc4aad7767b
+# app-12446-lead-key-alert 99161fa0504d8bc098ba57d8b542eb04358f35b9dcb2bdd15efbebc4aad7767b
+# app-12446-lead-key-alert 99161fa0504d8bc098ba57d8b542eb04358f35b9dcb2bdd15efbebc4aad7767b
+# app-12446-lead-key-alert 99161fa0504d8bc098ba57d8b542eb04358f35b9dcb2bdd15efbebc4aad7767b
+# app-12446-lead-key-alert 99161fa0504d8bc098ba57d8b542eb04358f35b9dcb2bdd15efbebc4aad7767b
+# app-1244

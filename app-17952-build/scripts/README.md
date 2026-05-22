@@ -1,0 +1,11 @@
+# app-17952-build — scripts
+
+Screenshot rejected ids in spreadsheets. Use when managing inactive items.
+# app-17952-build 8f1e92b1e1ffbbee809717c64d3fd459ed6be4a7c5fb5d3f9ae715c61aafebc8
+# app-17952-build 8f1e92b1e1ffbbee809717c64d3fd459ed6be4a7c5fb5d3f9ae715c61aafebc8
+# app-17952-build 8f1e92b1e1ffbbee809717c64d3fd459ed6be4a7c5fb5d3f9ae715c61aafebc8
+# app-17952-build 8f1e92b1e1ffbbee809717c64d3fd459ed6be4a7c5fb5d3f9ae715c61aafebc8
+# app-17952-build 8f1e92b1e1ffbbee809717c64d3fd459ed6be4a7c5fb5d3f9ae715c61aafebc8
+# app-17952-build 8f1e92b1e1ffbbee809717c64d3fd459ed6be4a7c5fb5d3f9ae715c61aafebc8
+# app-17952-build 8f1e92b1e1ffbbee809717c64d3fd459ed6be4a7c5fb5d3f9ae715c61aafebc8
+# app-17952-build 8f1e92b1e1ffbbee809717c64d3fd4

@@ -1,0 +1,28 @@
+// Skill: app-08417-milestone-row
+// Category: email
+
+export function describe() {
+  return "app-08417-milestone-row";
+}
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-row 244ca0ba61c2a8a8617342041c0287aea75cd79670ae77addf5c1ed33f3cda58
+# app-08417-milestone-

@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05838-key-record
+# Category: file-sharing
+
+echo "running ${0##*/}"
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-key-record 9f6adde2281d7229a66e7b70040b8e67fa3297cd28285e056a85fc5e27e572be
+# app-05838-k

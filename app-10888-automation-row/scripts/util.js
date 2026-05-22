@@ -1,0 +1,13 @@
+// Skill: app-10888-automation-row
+// Category: email
+
+export function describe() {
+  return "app-10888-automation-row";
+}
+# app-10888-automation-row 99ea877017b8d8dd59969150e06833363bd13d0d65a17b34dfb9d00e50a39155
+# app-10888-automation-row 99ea877017b8d8dd59969150e06833363bd13d0d65a17b34dfb9d00e50a39155
+# app-10888-automation-row 99ea877017b8d8dd59969150e06833363bd13d0d65a17b34dfb9d00e50a39155
+# app-10888-automation-row 99ea877017b8d8dd59969150e06833363bd13d0d65a17b34dfb9d00e50a39155
+# app-10888-automation-row 99ea877017b8d8dd59969150e06833363bd13d0d65a17b34dfb9d00e50a39155
+# app-10888-automation-row 99ea877017b8d8dd59969150e06833363bd13d0d65a17b34dfb9d00e50a39155
+# app-10888-automation-row 99ea877017b8d8dd59969150e0

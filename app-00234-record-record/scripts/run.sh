@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00234-record-record
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e330240ea233cc95b48dcc93bc15448
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e330240ea233cc95b48dcc93bc15448
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e330240ea233cc95b48dcc93bc15448
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e330240ea233cc95b48dcc93bc15448
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e330240ea233cc95b48dcc93bc15448
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e330240ea233cc95b48dcc93bc15448
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e330240ea233cc95b48dcc93bc15448
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e330240ea233cc95b48dcc93bc15448
+# app-00234-record-record 4a29aac3586b15b7a2d84140d174d0f31e33024

@@ -1,0 +1,29 @@
+// Skill: app-03689-inactive-leave
+// Category: docs
+
+export function describe() {
+  return "app-03689-inactive-leave";
+}
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7542f8156c39a935bdf37a3987aad2a30ad23b07d98721a7cd5c84c342ebf8d
+# app-03689-inactive-leave b7

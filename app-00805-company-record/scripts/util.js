@@ -1,0 +1,20 @@
+// Skill: app-00805-company-record
+// Category: email
+
+export function describe() {
+  return "app-00805-company-record";
+}
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1975e5f488e14
+# app-00805-company-record ada0f34503a86711e1e118aa8ed481b4fa0f3d049b794cb9e3c1

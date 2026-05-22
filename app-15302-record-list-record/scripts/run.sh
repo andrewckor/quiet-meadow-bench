@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15302-record-list-record
+# Category: ecommerce
+
+echo "running ${0##*/}"
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15302-record-list-record 861d821a0d74a3d2bbab50f7aa84ad3d37c867b6b6a94c8e99a4ba8b87e8c2ac
+# app-15

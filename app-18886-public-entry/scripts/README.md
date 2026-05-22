@@ -1,0 +1,21 @@
+# app-18886-public-entry — scripts
+
+Create starred posts in ecommerce.
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70dff6fd5252aa14d47fdc4b67943b292aefb6816ebe736dce33
+# app-18886-public-entry 861bac2e592b70d

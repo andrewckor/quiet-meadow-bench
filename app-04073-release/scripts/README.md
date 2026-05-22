@@ -1,0 +1,7 @@
+# app-04073-release — scripts
+
+Sync open records in crm.
+# app-04073-release 4c9f638fa2f2d4103cf39cb68ed0531e24967ff56ca26bf6d9b51b71b700b908
+# app-04073-release 4c9f638fa2f2d4103cf39cb68ed0531e24967ff56ca26bf6d9b51b71b700b908
+# app-04073-release 4c9f638fa2f2d4103cf39cb68ed0531e24967ff56ca26bf6d9b51b71b700b908
+# app-04073-release 4c9f638fa2f2d4103cf39cb68ed0531e24967ff56ca26

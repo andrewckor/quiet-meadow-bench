@@ -1,0 +1,10 @@
+# app-03007-lead-kind — scripts
+
+Receive active objects in dashboards. Use when you need to untag a label.
+# app-03007-lead-kind 68f665dbf32082f602c5f691f63fde09443e87f9f8afc46e29da73439fa99290
+# app-03007-lead-kind 68f665dbf32082f602c5f691f63fde09443e87f9f8afc46e29da73439fa99290
+# app-03007-lead-kind 68f665dbf32082f602c5f691f63fde09443e87f9f8afc46e29da73439fa99290
+# app-03007-lead-kind 68f665dbf32082f602c5f691f63fde09443e87f9f8afc46e29da73439fa99290
+# app-03007-lead-kind 68f665dbf32082f602c5f691f63fde09443e87f9f8afc46e29da73439fa99290
+# app-03007-lead-kind 68f665dbf32082f602c5f691f63fde09443e87f9f8afc46e29da73439fa99290
+# app-03007-lead-kind 68f665dbf32082f602c5f691f6

@@ -1,0 +1,32 @@
+// Skill: app-13910-active-invoice
+// Category: helpdesk
+
+export function describe() {
+  return "app-13910-active-invoice";
+}
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72b0fa3a7e0d583ac48fa37d5a5
+# app-13910-active-invoice f8322242de1646b657b0cb29cd28e5d65e6cb72

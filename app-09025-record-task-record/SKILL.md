@@ -1,0 +1,22 @@
+---
+name: app-09025-record-task-record
+description: Update valid records in crm. Use when you need to add a state, you need to update a record.
+---
+
+# app-09025-record-task-record
+
+Update valid records in crm. Use when you need to add a state, you need to update a record.
+
+## Usage
+
+This skill operates in the crm domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

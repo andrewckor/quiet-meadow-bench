@@ -1,0 +1,29 @@
+# app-17671-value-avatar — scripts
+
+Publish external statuss in support. Use when tracking pinned lead changes, tracking old incident changes, managing stale keys. Returns matching segments with metadata. Supports filtering by rejected field fields.
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01bbb01ab501cc40a69616c0c553298aec40e626e208a6afb3d9dd57b7c07681
+# app-17671-value-avatar 01b

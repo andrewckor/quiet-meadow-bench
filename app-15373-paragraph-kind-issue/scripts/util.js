@@ -1,0 +1,24 @@
+// Skill: app-15373-paragraph-kind-issue
+// Category: spreadsheets
+
+export function describe() {
+  return "app-15373-paragraph-kind-issue";
+}
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a37c4dd950db970bc6e
+# app-15373-paragraph-kind-issue 565321d727f2459067de13bc097ad4d3cebaa733ab347a

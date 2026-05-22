@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03910-active-address
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b3de6bb4f1b3e98331da407f68b1d96
+# app-03910-active-address 0e88c23c3bc6b576185ede29a7374f6b8b

@@ -1,0 +1,16 @@
+// Skill: app-01776-mention
+// Category: subscriptions
+
+export function describe() {
+  return "app-01776-mention";
+}
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9c4afe79f7cca63601f
+# app-01776-mention 3bfbce046587e083f5432f4df408c7ed9f50dcc05175a9

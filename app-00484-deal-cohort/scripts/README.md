@@ -1,0 +1,19 @@
+# app-00484-deal-cohort — scripts
+
+Unpin paid phases in email. Use when managing active objects, managing active fields, managing discounted accounts. Returns matching tags with metadata. Supports filtering by pending policy fields.
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-cohort 069c16ae61b527012df6fb25d2848a32a487e0f9d0c6cb7515b67f7d50e72e9e
+# app-00484-deal-coho

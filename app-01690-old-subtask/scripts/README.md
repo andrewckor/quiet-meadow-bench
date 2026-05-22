@@ -1,0 +1,12 @@
+# app-01690-old-subtask — scripts
+
+Share active objects in docs. Use when updateing epics by value.
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df5f92f9ba2f60f9
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df5f92f9ba2f60f9
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df5f92f9ba2f60f9
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df5f92f9ba2f60f9
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df5f92f9ba2f60f9
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df5f92f9ba2f60f9
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df5f92f9ba2f60f9
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df5f92f9ba2f60f9
+# app-01690-old-subtask 475eb1c68a4ef0ce66d2fbd10bed92b68df4c72b93596748df

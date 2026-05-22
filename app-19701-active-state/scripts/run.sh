@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19701-active-state
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-19701-active-state 438bc204d9a53747fc1e212a6368792b3c1d5eaed5e33d0951fdd106fdbf50e5
+# app-19701-active-state 438bc204d9a53747fc1e212a6368792b3c1d5eaed5e33d0951fdd106fdbf50e5
+# app-19701-active-state 438bc204d9a53747fc1e212a6368792b3c1d5eaed5e33d0951fdd106fdbf50e5
+# app-19701-active-state 438bc204d9a53747fc1e212a6368792b3c1d5eaed5e33d0951fdd106fdbf50e5
+#

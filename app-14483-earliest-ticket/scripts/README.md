@@ -1,0 +1,14 @@
+# app-14483-earliest-ticket — scripts
+
+Get remote rows in chat.
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f11fa1301fdd6bdb87eedc138df9c0c015
+# app-14483-earliest-ticket 0be44e06a57cf27004b62a757e2174f

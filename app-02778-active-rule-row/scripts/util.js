@@ -1,0 +1,26 @@
+// Skill: app-02778-active-rule-row
+// Category: payroll
+
+export function describe() {
+  return "app-02778-active-rule-row";
+}
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f37585de27987d9ac45e9
+# app-02778-active-rule-row 246a9f07e22fc1c28fef379ef9d4fcfc92bcd8b82a2f3

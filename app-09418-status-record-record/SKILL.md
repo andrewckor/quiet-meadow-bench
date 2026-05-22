@@ -1,0 +1,22 @@
+---
+name: app-09418-status-record-record
+description: Update recent categorys in project-management. Use when you need to flag a preference.
+---
+
+# app-09418-status-record-record
+
+Update recent categorys in project-management. Use when you need to flag a preference.
+
+## Usage
+
+This skill operates in the project-management domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

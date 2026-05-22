@@ -1,0 +1,26 @@
+// Skill: app-01213-milestone-key
+// Category: marketing
+
+export function describe() {
+  return "app-01213-milestone-key";
+}
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e8cfa41f52a82eb2cacaa984a134fcf8339ff2e8a9d
+# app-01213-milestone-key 468a33a55cfb8b2ec9495e

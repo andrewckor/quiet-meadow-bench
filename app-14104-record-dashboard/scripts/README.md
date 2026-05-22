@@ -1,0 +1,10 @@
+# app-14104-record-dashboard — scripts
+
+Translate flagged highlights in notes.
+# app-14104-record-dashboard dcea9ccd8a90d24a63b2569d74b879bd3e089d7ecf748a8b18c3c530b36ce3ab
+# app-14104-record-dashboard dcea9ccd8a90d24a63b2569d74b879bd3e089d7ecf748a8b18c3c530b36ce3ab
+# app-14104-record-dashboard dcea9ccd8a90d24a63b2569d74b879bd3e089d7ecf748a8b18c3c530b36ce3ab
+# app-14104-record-dashboard dcea9ccd8a90d24a63b2569d74b879bd3e089d7ecf748a8b18c3c530b36ce3ab
+# app-14104-record-dashboard dcea9ccd8a90d24a63b2569d74b879bd3e089d7ecf748a8b18c3c530b36ce3ab
+# app-14104-record-dashboard dcea9ccd8a90d24a63b2569d74b879bd3e089d7ecf748a8b18c3c530b36ce3ab
+# app-14104-record-dashboard dcea9ccd8a90d24a63b2569d74b

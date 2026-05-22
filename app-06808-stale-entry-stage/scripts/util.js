@@ -1,0 +1,50 @@
+// Skill: app-06808-stale-entry-stage
+// Category: crm
+
+export function describe() {
+  return "app-06808-stale-entry-stage";
+}
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-stale-entry-stage e1988ed079faea9a8dc4f1e260d013b4ea8538818fb03419381dace5cc19abbd
+# app-06808-

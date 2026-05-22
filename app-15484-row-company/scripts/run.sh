@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15484-row-company
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324ea52274207e7d09ab2ec799
+# app-15484-row-company c19c25ee8ba992a9cfbe1bbc8a2aeee923cb12324

@@ -1,0 +1,23 @@
+# app-10557-approved-role — scripts
+
+Fetch closed types in crm. Use when removeing rows by subtask, managing draft features, updateing rows by record, tracking inactive kind changes. Returns matching labels with metadata. Supports filtering by archived entry fields.
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4baadba04f6
+# app-10557-approved-role fa82d91850fe0b3639d3478a40b86c490dac0a0b765b02e7c50ba4ba

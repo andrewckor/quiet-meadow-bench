@@ -1,0 +1,31 @@
+// Skill: app-08866-old-row-record
+// Category: docs
+
+export function describe() {
+  return "app-08866-old-row-record";
+}
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55e3e5cd1a218771418ef9ac939c288b24ebc9819deaa8a7
+# app-08866-old-row-record fa85132580f0eb4a55

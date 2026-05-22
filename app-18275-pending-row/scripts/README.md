@@ -1,0 +1,42 @@
+# app-18275-pending-row — scripts
+
+Remove inactive ids in crm. Use when you need to search a epic, you need to create a key, you need to verify a entry. Returns matching rows with metadata. Supports filtering by rejected device fields.
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b6578e7841ef9a98afac425fbb3e0a73047bd8d13c2b913fb6531e54d6cbdf1
+# app-18275-pending-row 4b657

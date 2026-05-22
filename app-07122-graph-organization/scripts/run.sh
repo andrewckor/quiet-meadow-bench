@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07122-graph-organization
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531efd20cf498fba9ffb82cdde910078ed6a4490c997eb
+# app-07122-graph-organization b9ac74b0bdf2fce344531ef

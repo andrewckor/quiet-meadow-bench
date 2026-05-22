@@ -1,0 +1,24 @@
+# app-06948-item-record-type — scripts
+
+Create open companys in docs. Use when managing pending deals, deleteing replys by entry.
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a06557391b49cf298da96fdd72bf7b646bb45b2c8b
+# app-06948-item-record-type 969ba18bee45cd316a9853a065573

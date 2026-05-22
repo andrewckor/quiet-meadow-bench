@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07060-rejected-backup
+# Category: crm
+
+echo "running ${0##*/}"
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2250a4867052d7595d5dc956c
+# app-07060-rejected-backup 840e511f44f93568ecbd71d610a0045bbff2ebc2

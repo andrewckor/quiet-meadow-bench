@@ -1,0 +1,9 @@
+# app-06216-active-category — scripts
+
+Receive pending values in storage.
+# app-06216-active-category e1892ebdeb48981d9ba72fc03977985a1cafe944fe3daad392df850558c075b0
+# app-06216-active-category e1892ebdeb48981d9ba72fc03977985a1cafe944fe3daad392df850558c075b0
+# app-06216-active-category e1892ebdeb48981d9ba72fc03977985a1cafe944fe3daad392df850558c075b0
+# app-06216-active-category e1892ebdeb48981d9ba72fc03977985a1cafe944fe3daad392df850558c075b0
+# app-06216-active-category e1892ebdeb48981d9ba72fc03977985a1cafe944fe3daad392df850558c075b0
+# app-06216-active-category e1892ebdeb48981d9ba72fc03977985a1cafe944fe3daad392df85055

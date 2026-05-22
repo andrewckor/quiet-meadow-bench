@@ -1,0 +1,21 @@
+// Skill: app-16293-pending-label
+// Category: crm
+
+export function describe() {
+  return "app-16293-pending-label";
+}
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c361849af
+# app-16293-pending-label 0e3d56a90eaa65528d7be96ca92b90bce46f85f62e2cff3ed2c7b37c36

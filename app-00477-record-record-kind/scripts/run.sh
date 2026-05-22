@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00477-record-record-kind
+# Category: marketing
+
+echo "running ${0##*/}"
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad7578e1c083ca53d72d579c8bcb8a5762deed5bb06e9725569f178a1e3
+# app-00477-record-record-kind add20ad75

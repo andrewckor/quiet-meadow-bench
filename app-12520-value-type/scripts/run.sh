@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12520-value-type
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12520-value-type c412017d4c139c17b66ee0281e9b4518bf4fa2061e5cb767cec38afe84d7b03e
+# app-12520-value-type c412017d4c139c17b66ee0281e9b4518bf4fa2061e5cb767cec38afe84d7b03e
+# app-12520-value-type c412017d4c139c17b66ee0281e9b4518bf4fa2061e5cb767cec38afe84d7b03e
+# app-12520-value-type c412017d4c139c17b66ee0281e9b4518bf4fa2061e5cb767cec38afe84d7b03e
+# app-12520-value-type c412017d4c139c17b66ee0281e9b4518bf4fa2061e5cb767cec38afe84d7b03e
+# app-12520-value-type c412017d4c139c17b66ee0281

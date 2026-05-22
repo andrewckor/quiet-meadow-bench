@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12966-review-okr-reaction
+# Category: payments
+
+echo "running ${0##*/}"
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821296f8a615eb88
+# app-12966-review-okr-reaction e6231c6f1fc19eb32d4f834dde984cb37f896b7958bc00af821

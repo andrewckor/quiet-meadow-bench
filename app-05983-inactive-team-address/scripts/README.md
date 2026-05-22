@@ -1,0 +1,10 @@
+# app-05983-inactive-team-address — scripts
+
+Add active surveys in compliance.
+# app-05983-inactive-team-address 5b1ba2c10852dc4863ee53b4265160f2cf4d362fb2ea55bb902820379cf432f1
+# app-05983-inactive-team-address 5b1ba2c10852dc4863ee53b4265160f2cf4d362fb2ea55bb902820379cf432f1
+# app-05983-inactive-team-address 5b1ba2c10852dc4863ee53b4265160f2cf4d362fb2ea55bb902820379cf432f1
+# app-05983-inactive-team-address 5b1ba2c10852dc4863ee53b4265160f2cf4d362fb2ea55bb902820379cf432f1
+# app-05983-inactive-team-address 5b1ba2c10852dc4863ee53b4265160f2cf4d362fb2ea55bb902820379cf432f1
+# app-05983-inactive-team-address 5b1ba2c10852dc4863ee53b4265160f2cf4d362fb2ea55bb902820379cf432f1
+# app-05983-inactive-team-address 5b1ba2c10852dc4863ee53b4265160f2cf4d362fb2ea55bb9028

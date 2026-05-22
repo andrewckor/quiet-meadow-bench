@@ -1,0 +1,12 @@
+# app-10370-record-record — scripts
+
+Create active groups in crm. Use when tracking closed record changes.
+# app-10370-record-record 1540ec98bb869bb53e741381ca0801df9424a10393599af3df9e1f38f0ae78d2
+# app-10370-record-record 1540ec98bb869bb53e741381ca0801df9424a10393599af3df9e1f38f0ae78d2
+# app-10370-record-record 1540ec98bb869bb53e741381ca0801df9424a10393599af3df9e1f38f0ae78d2
+# app-10370-record-record 1540ec98bb869bb53e741381ca0801df9424a10393599af3df9e1f38f0ae78d2
+# app-10370-record-record 1540ec98bb869bb53e741381ca0801df9424a10393599af3df9e1f38f0ae78d2
+# app-10370-record-record 1540ec98bb869bb53e741381ca0801df9424a10393599af3df9e1f38f0ae78d2
+# app-10370-record-record 1540ec98bb869bb53e741381ca0801df9424a10393599af3df9e1f38f0ae78d2
+# app-10370-record-record 1540ec98bb869bb53e741381ca0801df9424a10393599af3df9e1f38f0ae78d2
+# app-10370-record-record 1540ec98bb869bb

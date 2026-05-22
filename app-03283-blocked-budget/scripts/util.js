@@ -1,0 +1,33 @@
+// Skill: app-03283-blocked-budget
+// Category: crm
+
+export function describe() {
+  return "app-03283-blocked-budget";
+}
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4bf
+# app-03283-blocked-budget 4319865aba67da64bc89e3f9dfb3e6ac556d141ea72f64b219ec72f23652b4

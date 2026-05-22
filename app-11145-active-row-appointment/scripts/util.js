@@ -1,0 +1,20 @@
+// Skill: app-11145-active-row-appointment
+// Category: compliance
+
+export function describe() {
+  return "app-11145-active-row-appointment";
+}
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a7849dbf1225cdab0b934510719fc5e11e0f0f616515d2970b6093f841
+# app-11145-active-row-appointment b97288a784

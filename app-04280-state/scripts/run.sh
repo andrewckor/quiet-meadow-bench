@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04280-state
+# Category: hr
+
+echo "running ${0##*/}"
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# app-04280-state f3d64e0d0d7395b914a5c85dcdb790bcbd0af2f3db64efe740e9732aca4e87e5
+# a

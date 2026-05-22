@@ -1,0 +1,22 @@
+---
+name: app-00074-id
+description: Send blocked branchs in crm.
+---
+
+# app-00074-id
+
+Send blocked branchs in crm.
+
+## Usage
+
+This skill operates in the crm domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

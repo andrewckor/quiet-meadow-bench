@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01717-subscription-step
+# Category: shipping
+
+echo "running ${0##*/}"
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-step 5ac049f207070d18f172d7abd836ae73cb0e33c1d08ce47b2a1f7a6f18da5f42
+# app-01717-subscription-st

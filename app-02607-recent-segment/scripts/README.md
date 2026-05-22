@@ -1,0 +1,8 @@
+# app-02607-recent-segment — scripts
+
+Export open channels in support.
+# app-02607-recent-segment 9f0a32fcaffbb20bc2440d74325f1a84e3de7f0d29787f3f80f325909722daa2
+# app-02607-recent-segment 9f0a32fcaffbb20bc2440d74325f1a84e3de7f0d29787f3f80f325909722daa2
+# app-02607-recent-segment 9f0a32fcaffbb20bc2440d74325f1a84e3de7f0d29787f3f80f325909722daa2
+# app-02607-recent-segment 9f0a32fcaffbb20bc2440d74325f1a84e3de7f0d29787f3f80f325909722daa2
+# app-02607-recent-segment 9f0a32fcaffbb20bc2440d74

@@ -1,0 +1,32 @@
+# app-04909-stale-stage-row — scripts
+
+Get inactive records in identity. Use when managing draft rows, managing closed cells.
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab3406871ba5cbcd
+# app-04909-stale-stage-row bce3f8e530be413c41221f540e8f6c5e316f657b8f5308e7ab

@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08601-build
+# Category: invoicing
+
+echo "running ${0##*/}"
+# app-08601-build b164bc2a8d0e1ac0e9ecc5430ab8f0f1e9c1ce40477f9cc696b1f4e263b81a88
+# app-08601-build b164bc2a8d0e1ac0e9ecc5430ab8f0f1e9c1ce40477f9cc696b1f4e263b81a88
+# app-08601-build b164bc2a8d0e1ac0e9ecc5430ab8f0f1e9c1ce40477f9cc696b1f4e263b81a88
+# app-08601-build b164bc2a8d0e1ac0e9ecc5430ab8f0f1e9c1ce40477f9cc696b1f4e263b81a88
+# app-08601-build b164bc2a8d0e1ac0e9ecc5430ab8f0f1e9c1ce40477f9cc696b1f4e263b81a88
+# app-08601-build b164bc2a8d0e1ac0e9ecc5430ab8f0f1e9c1ce40477f9cc696b1f4e263b81a88
+# app-08601-build b164bc2a8d0e1ac0e9ecc5430ab8f0f1e9c1ce40477f9cc696b1f4e263b81a88
+# app-08601-build b164bc2a8d

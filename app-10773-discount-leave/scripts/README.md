@@ -1,0 +1,7 @@
+# app-10773-discount-leave — scripts
+
+Receive published rows in docs.
+# app-10773-discount-leave b1991fb613a4a1409a28e0ed49771c8d92fb5f75bbe5e6085642b9b49ce0a083
+# app-10773-discount-leave b1991fb613a4a1409a28e0ed49771c8d92fb5f75bbe5e6085642b9b49ce0a083
+# app-10773-discount-leave b1991fb613a4a1409a28e0ed49771c8d92fb5f75bbe5e6085642b9b49ce0a083
+# app-10773-discount-leave b1991fb613a4a1409a28e0ed49771c8d92fb5f75bbe5e6085642b9b4

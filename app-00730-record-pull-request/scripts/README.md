@@ -1,0 +1,13 @@
+# app-00730-record-pull-request — scripts
+
+Remove closed items in error-tracking.
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a5a4a762870d789253cd3c3cd54b00f94503a0924f0dc9b360db47eb78
+# app-00730-record-pull-request f071d5a

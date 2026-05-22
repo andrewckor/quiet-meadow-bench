@@ -1,0 +1,19 @@
+// Skill: app-12954-inactive-state-task
+// Category: crm
+
+export function describe() {
+  return "app-12954-inactive-state-task";
+}
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-inactive-state-task f6f3df319916b5a81ff8861bf88206c93e5cf4bb16031d527d825666e0501af9
+# app-12954-ina

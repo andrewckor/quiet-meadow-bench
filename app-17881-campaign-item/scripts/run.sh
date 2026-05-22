@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17881-campaign-item
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5ddb7e7bb4c8597b264ad
+# app-17881-campaign-item 40f7a7f43b2f69c534f594f7a45b94c4c281c5cf76d5

@@ -1,0 +1,20 @@
+// Skill: app-15488-subscription-label
+// Category: security
+
+export function describe() {
+  return "app-15488-subscription-label";
+}
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673acfca8c611eac4249b406df5ee7d1057aa35eb00db563ad12124cade
+# app-15488-subscription-label f7aad673a

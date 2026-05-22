@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11093-pipeline-budget-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1bcbc5b24fba19f9
+# app-11093-pipeline-budget-record b7393882063ab3ee1c0f4e0af153e039c446b6c9996ad75f1b

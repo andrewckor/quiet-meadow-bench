@@ -1,0 +1,13 @@
+// Skill: app-00157-response
+// Category: email
+
+export function describe() {
+  return "app-00157-response";
+}
+# app-00157-response bc4bb3304ec7a52971fbeed32314dcdb40fc896024b3760caee8b0972df055db
+# app-00157-response bc4bb3304ec7a52971fbeed32314dcdb40fc896024b3760caee8b0972df055db
+# app-00157-response bc4bb3304ec7a52971fbeed32314dcdb40fc896024b3760caee8b0972df055db
+# app-00157-response bc4bb3304ec7a52971fbeed32314dcdb40fc896024b3760caee8b0972df055db
+# app-00157-response bc4bb3304ec7a52971fbeed32314dcdb40fc896024b3760caee8b0972df055db
+# app-00157-response bc4bb3304ec7a52971fbeed32314dcdb40fc896024b3760caee8b0972df055db
+# app-00157-response bc4bb3304ec7a52971fbeed3231

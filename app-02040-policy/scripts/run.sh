@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02040-policy
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bcb9edf6d71a63e279b357cf7ea45869bf
+# app-02040-policy 6f6613c8f2c8b0abd2fb451f107d33bc

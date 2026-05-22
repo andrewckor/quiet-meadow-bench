@@ -1,0 +1,30 @@
+// Skill: app-14602-category-company-key
+// Category: docs
+
+export function describe() {
+  return "app-14602-category-company-key";
+}
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651e07c25ba2d12508f7e503b953f2cfd68d
+# app-14602-category-company-key bbdee21b6df2399fbf61be4dea67651

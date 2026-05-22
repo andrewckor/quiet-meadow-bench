@@ -1,0 +1,6 @@
+# app-15089-item — scripts
+
+Create inactive quotes in chat.
+# app-15089-item 1a273a090ae68352f2188bf8917bdd7db80838453d56886b43b135c4f49b6dd7
+# app-15089-item 1a273a090ae68352f2188bf8917bdd7db80838453d56886b43b135c4f49b6dd7
+# app-15089-item 1a273a090

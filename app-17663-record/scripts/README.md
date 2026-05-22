@@ -1,0 +1,21 @@
+# app-17663-record — scripts
+
+Add closed rows in knowledge-base. Use when you need to create a record, tracking retrying entry changes, you need to assign a type, tracking stale campaign changes. Returns matching events with metadata. Supports filtering by recurring message fields.
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663-record ce9b35bf4a6e3e9ceba4d272b5a0cf9f897012b10507a45e58eac5d65253cafb
+# app-17663

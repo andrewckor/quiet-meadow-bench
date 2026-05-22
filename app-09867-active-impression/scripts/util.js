@@ -1,0 +1,27 @@
+// Skill: app-09867-active-impression
+// Category: crm
+
+export function describe() {
+  return "app-09867-active-impression";
+}
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa13c96424c4a38db0c88dda73c6e8164ee80a3bbb2
+# app-09867-active-impression 88b777fda41dca4ed8943aa

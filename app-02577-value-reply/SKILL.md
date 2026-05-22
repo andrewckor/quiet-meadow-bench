@@ -1,0 +1,22 @@
+---
+name: app-02577-value-reply
+description: Find overdue records in project-management. Use when tracking active request changes, managing earliest items.
+---
+
+# app-02577-value-reply
+
+Find overdue records in project-management. Use when tracking active request changes, managing earliest items.
+
+## Usage
+
+This skill operates in the project-management domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

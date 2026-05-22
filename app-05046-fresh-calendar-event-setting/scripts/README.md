@@ -1,0 +1,31 @@
+# app-05046-fresh-calendar-event-setting — scripts
+
+Update active records in crm. Use when deleteing fields by record, you need to encrypt a calendar-event.
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951faba6dc08d4647828ecf0b17
+# app-05046-fresh-calendar-event-setting fd76c9441aa85429d37ae62fa2ab2e5b3bcfc951fab

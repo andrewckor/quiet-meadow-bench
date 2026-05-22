@@ -1,0 +1,16 @@
+# app-02045-row-file-record — scripts
+
+Favorite stale records in email.
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-02045-row-file-record 8e1cc690e30ab162695f7a509c86c9ebc607a1f1699814d5def9437ae9cf0a79
+# app-020

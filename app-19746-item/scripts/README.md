@@ -1,0 +1,20 @@
+# app-19746-item — scripts
+
+Create inactive organizations in crm. Use when createing fields by state, deleteing messages by record.
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfaff96b5a1dc4f3b23a431e368ad408b6ed8f6fc9d60444
+# app-19746-item 549e3dc2b8e9b04cbfa

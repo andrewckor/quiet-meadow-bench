@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09390-approved-rule
+# Category: identity
+
+echo "running ${0##*/}"
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 58566ace0fdcd0e0f68be1e14d1b2c9159b195387adbfa1e175ec9f77675fb7c
+# app-09390-approved-rule 5856

@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15063-record-field
+# Category: crm
+
+echo "running ${0##*/}"
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b077718d23bef145d3cd6dbbb92f92881c3d24a9db016a
+# app-15063-record-field ccb0f069fa0b9534a3b07771

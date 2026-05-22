@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09561-active-audio
+# Category: crm
+
+echo "running ${0##*/}"
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db7e9b3c7694a84
+# app-09561-active-audio 688feb4e225b78dbe06b0e16cd87b0650c54bbf0ed167b3b5db

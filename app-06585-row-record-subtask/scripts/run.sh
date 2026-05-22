@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06585-row-record-subtask
+# Category: crm
+
+echo "running ${0##*/}"
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd0eec912f7c33901c52e586985ed9bd7dbac712b7
+# app-06585-row-record-subtask ad8ceb29008207e6863b44fd

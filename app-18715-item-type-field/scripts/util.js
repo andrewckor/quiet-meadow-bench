@@ -1,0 +1,29 @@
+// Skill: app-18715-item-type-field
+// Category: spreadsheets
+
+export function describe() {
+  return "app-18715-item-type-field";
+}
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff32704b1dd9f0e03a6b56c94a2497e33bb5bde8e7b71
+# app-18715-item-type-field 086a5ec52d88a5cd747ff3270

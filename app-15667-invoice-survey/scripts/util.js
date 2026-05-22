@@ -1,0 +1,36 @@
+// Skill: app-15667-invoice-survey
+// Category: booking
+
+export function describe() {
+  return "app-15667-invoice-survey";
+}
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa086b6700fd9
+# app-15667-invoice-survey c1a3c087eedab3d86384bb08348dcd2ed632932ff12ef1a1df9aa0

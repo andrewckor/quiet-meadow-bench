@@ -1,0 +1,29 @@
+# app-10678-published-commit-phase — scripts
+
+Update upcoming phases in email. Use when you need to get a ref.
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d612336c110e473efc33a402bf17b
+# app-10678-published-commit-phase 8e53eedb32dd07c6a2c6d8a576e1adb4052d61

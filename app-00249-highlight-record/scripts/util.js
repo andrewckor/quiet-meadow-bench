@@ -1,0 +1,21 @@
+// Skill: app-00249-highlight-record
+// Category: crm
+
+export function describe() {
+  return "app-00249-highlight-record";
+}
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc70f093ba3ffd3dba80b320f
+# app-00249-highlight-record d46d2b97bab06cc2d07ce0c9a72f38b54945e50cc

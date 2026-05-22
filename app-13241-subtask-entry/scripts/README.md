@@ -1,0 +1,28 @@
+# app-13241-subtask-entry — scripts
+
+Receive pending items in crm. Use when you need to create a feature, tracking inactive build changes.
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# app-13241-subtask-entry 8a8fc62f789686476ab229ad9e62db726f000dbb66ead5747e2d56fdf2b7b5de
+# 

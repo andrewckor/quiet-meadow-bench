@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06764-row-directory
+# Category: email
+
+echo "running ${0##*/}"
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559ccefa689a49b8e958e5bb3b06dfca196334c4df2e82cdb7ff65392c9eb238
+# app-06764-row-directory 559cce

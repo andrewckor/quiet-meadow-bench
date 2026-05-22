@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15270-closed-mention-mention
+# Category: crm
+
+echo "running ${0##*/}"
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41f9ac4f9e
+# app-15270-closed-mention-mention b94757886a3d5a8aa42e2707b95a668462a8e8254182e6f78fcd4b41

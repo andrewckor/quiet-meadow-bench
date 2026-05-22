@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14211-team-directory-key
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8d901
+# app-14211-team-directory-key ac57c6cfd9cb80571065588ee0fbac4b4cc59e9f9fe215b9a0e308a596c8

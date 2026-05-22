@@ -1,0 +1,21 @@
+# app-04115-pending-ref — scripts
+
+Create partial records in forms. Use when updateing refs by company, tracking open value changes.
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe873581d9fd4da9946055de04324cbb
+# app-04115-pending-ref 34b9bff1ffceab158a4a6c1a95da932fbe8

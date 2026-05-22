@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12346-approved-refund
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f47a564d55de4
+# app-12346-approved-refund 2c870715b9bd8e59b23573ef7d0bf28c92d8ac21ff63b7cfab0f

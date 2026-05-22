@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09836-record-reply
+# Category: booking
+
+echo "running ${0##*/}"
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500fa5d1e1d52152fa0a04efe499bc
+# app-09836-record-reply 01a6429e24bf3adb69ff426d7305992e1c500

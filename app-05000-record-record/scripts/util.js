@@ -1,0 +1,17 @@
+// Skill: app-05000-record-record
+// Category: chat
+
+export function describe() {
+  return "app-05000-record-record";
+}
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3effbc70c
+# app-05000-record-record 6acd86f14f4ceb4aa05b60ece2214e81e748d9532dbef81e3d2e86d3e

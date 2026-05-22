@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09333-balance-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-balance-record 76b4fece7cc9f4e91e5440ef3859fa4319208c9a6b0d973fa005a3b3c9b746b3
+# app-09333-bal

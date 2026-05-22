@@ -1,0 +1,9 @@
+// Skill: app-11824-state-organization
+// Category: crm
+
+export function describe() {
+  return "app-11824-state-organization";
+}
+# app-11824-state-organization ee46062cdcbe71e3a825463982e989024209d907ffc88430bc2660d38a159353
+# app-11824-state-organization ee46062cdcbe71e3a825463982e989024209d907ffc88430bc2660d38a159353
+# app-11824-state-organization ee46062cdcbe71e3a825463982e989024209d907ffc88430bc2660d3

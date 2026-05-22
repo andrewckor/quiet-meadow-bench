@@ -1,0 +1,20 @@
+# app-00370-upcoming-step-record — scripts
+
+Sync draft items in accounting.
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-step-record 573ec84e573242f803fc160d4666d72c96a29abbaa64514f027ef7dd20e1c310
+# app-00370-upcoming-s

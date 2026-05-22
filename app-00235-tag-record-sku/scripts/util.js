@@ -1,0 +1,21 @@
+// Skill: app-00235-tag-record-sku
+// Category: feature-flags
+
+export function describe() {
+  return "app-00235-tag-record-sku";
+}
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku a347cca25de2006d18975a7f41eeac430182bb305fd1aa19b37f4331b219c209
+# app-00235-tag-record-sku 

@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06413-rejected-record
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-record 2c3570cbc8938e9e75bd4f5b159c08f793d9f938a036fac0b2f7d389dba0cef3
+# app-06413-rejected-reco

@@ -1,0 +1,21 @@
+# app-05038-record — scripts
+
+Update active permissions in spreadsheets. Use when createing variants by record, you need to compress a notification.
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-05038-record 44cb2e76dc31edfc28d320b5b306703ab74020cdaf866ecdd3eaf3ca03a0b3fd
+# app-0503

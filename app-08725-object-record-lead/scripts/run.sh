@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08725-object-record-lead
+# Category: dashboards
+
+echo "running ${0##*/}"
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f12121929e5e89dfeb
+# app-08725-object-record-lead b425e2cfb3b2da5650ed9683920ec5dbacaae6632c0aa9f1212192

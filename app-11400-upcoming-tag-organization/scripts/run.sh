@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11400-upcoming-tag-organization
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c90cac
+# app-11400-upcoming-tag-organization 9fb65952baf72ec523e85ef3526491c1f254dc2e98383ba11e4dc0d528c

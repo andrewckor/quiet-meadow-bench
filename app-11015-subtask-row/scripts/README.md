@@ -1,0 +1,22 @@
+# app-11015-subtask-row — scripts
+
+Update inactive records in pos. Use when kicking channels by category.
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# app-11015-subtask-row e632352f36e1e7dcdcf67bf7c34dfbb7d980eac4c6a04b462b1424b7fa52fff2
+# 

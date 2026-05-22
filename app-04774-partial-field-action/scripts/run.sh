@@ -1,0 +1,54 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04774-partial-field-action
+# Category: support
+
+echo "running ${0##*/}"
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial-field-action a5a15b200aef0d8eff99a3a585de3c795c781099f3f13f51799fe0734ba917cf
+# app-04774-partial

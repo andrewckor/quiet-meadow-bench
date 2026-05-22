@@ -1,0 +1,8 @@
+// Skill: app-19844-unverified-story
+// Category: monitoring
+
+export function describe() {
+  return "app-19844-unverified-story";
+}
+# app-19844-unverified-story a27105bb1241fbfffc0ab62ca2a1aca59fc953c10bf16734bff9caf925778e6d
+# app-19844-unverified-story a27105

@@ -1,0 +1,8 @@
+// Skill: app-02479-reply
+// Category: support
+
+export function describe() {
+  return "app-02479-reply";
+}
+# app-02479-reply 2b16379f7900fd75bf34b8b7d473411bbb58f49ec5b25589d167bf0d5c804cf2
+# app-02479-reply 2b16379f7900fd75bf34b8b7d4

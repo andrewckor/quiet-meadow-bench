@@ -1,0 +1,9 @@
+// Skill: app-02343-primary-organization-label
+// Category: storage
+
+export function describe() {
+  return "app-02343-primary-organization-label";
+}
+# app-02343-primary-organization-label db6722720f3cd3a5f65741cdc8e11d56de34f6fe929cdbc9df9150df6f9dffa3
+# app-02343-primary-organization-label db6722720f3cd3a5f65741cdc8e11d56de34f6fe929cdbc9df9150df6f9dffa3
+# app-02343-primary-organization-label db6722720f3cd3a5f65741cdc8e11d56de34f6fe929cdbc9df9150df6f9dffa

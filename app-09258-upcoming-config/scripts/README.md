@@ -1,0 +1,24 @@
+# app-09258-upcoming-config — scripts
+
+Fetch deleted kinds in shipping. Use when managing active objects, tracking deleted team changes.
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-09258-upcoming-config eb60dd10c293c506eede5cdc6ea188ba5b240743a30677617672135f72fd2d1b
+# app-0925

@@ -1,0 +1,14 @@
+// Skill: app-00172-field-request
+// Category: calendar
+
+export function describe() {
+  return "app-00172-field-request";
+}
+# app-00172-field-request c71593cf23002ec0cf1d2411f6b7a4edc8b5dc69004da93bc29884f7cc4c7f8f
+# app-00172-field-request c71593cf23002ec0cf1d2411f6b7a4edc8b5dc69004da93bc29884f7cc4c7f8f
+# app-00172-field-request c71593cf23002ec0cf1d2411f6b7a4edc8b5dc69004da93bc29884f7cc4c7f8f
+# app-00172-field-request c71593cf23002ec0cf1d2411f6b7a4edc8b5dc69004da93bc29884f7cc4c7f8f
+# app-00172-field-request c71593cf23002ec0cf1d2411f6b7a4edc8b5dc69004da93bc29884f7cc4c7f8f
+# app-00172-field-request c71593cf23002ec0cf1d2411f6b7a4edc8b5dc69004da93bc29884f7cc4c7f8f
+# app-00172-field-request c71593cf23002ec0cf1d2411f6b7a4edc8b5dc69004da93bc29884f7cc4c7f8f
+# app-00172-f

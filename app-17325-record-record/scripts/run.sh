@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17325-record-record
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb73c52
+# app-17325-record-record 5bc096e89d699b7498d0ce80430b958daaff8b73c4dbbf48cecd95dbcdb

@@ -1,0 +1,21 @@
+// Skill: app-10770-view-record
+// Category: calendar
+
+export function describe() {
+  return "app-10770-view-record";
+}
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2a8a820a04dc55af6bbfef8e522c951c6
+# app-10770-view-record 9b89975e8cbd209db8339aaf8bada3c2

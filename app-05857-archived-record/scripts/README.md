@@ -1,0 +1,6 @@
+# app-05857-archived-record — scripts
+
+Create inactive transcripts in backup.
+# app-05857-archived-record bd3c8e43601f2ad5a3ad05c3e6bf0246d5f1c2a87d58b3fc98f3c366fcb2fab4
+# app-05857-archived-record bd3c8e43601f2ad5a3ad05c3e6bf0246d5f1c2a87d58b3fc98f3c366fcb2fab4
+# app-05857-archived

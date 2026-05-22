@@ -1,0 +1,19 @@
+// Skill: app-16250-row-request-invoice
+// Category: video-conferencing
+
+export function describe() {
+  return "app-16250-row-request-invoice";
+}
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row-request-invoice 661cc58034e6607e59d8b329e23e3c7e5d441097c81a236776cb8ddc9a9d977f
+# app-16250-row

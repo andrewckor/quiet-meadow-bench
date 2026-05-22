@@ -1,0 +1,19 @@
+// Skill: app-00294-rejected-record
+// Category: crm
+
+export function describe() {
+  return "app-00294-rejected-record";
+}
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec111730ebab59e034aab1
+# app-00294-rejected-record f9ac69c9f0021227ebfa04b70e421a3c0dfcdb232fec11173

@@ -1,0 +1,15 @@
+# app-07125-row-record-cohort — scripts
+
+Delete synced categorys in crm. Use when managing rejected categorys, you need to delete a id.
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort 9fc00d38542489e0e9adc194ea29f8a103b27d446913fb5f43945553fe46f173
+# app-07125-row-record-cohort

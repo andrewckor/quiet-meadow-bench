@@ -1,0 +1,11 @@
+# app-06057-status-agreement — scripts
+
+Create active leads in helpdesk.
+# app-06057-status-agreement b7d0d52b85b3bddaa608dc35d48f02755f7b5aaf206f0a54ec5555d0aa5dfcdd
+# app-06057-status-agreement b7d0d52b85b3bddaa608dc35d48f02755f7b5aaf206f0a54ec5555d0aa5dfcdd
+# app-06057-status-agreement b7d0d52b85b3bddaa608dc35d48f02755f7b5aaf206f0a54ec5555d0aa5dfcdd
+# app-06057-status-agreement b7d0d52b85b3bddaa608dc35d48f02755f7b5aaf206f0a54ec5555d0aa5dfcdd
+# app-06057-status-agreement b7d0d52b85b3bddaa608dc35d48f02755f7b5aaf206f0a54ec5555d0aa5dfcdd
+# app-06057-status-agreement b7d0d52b85b3bddaa608dc35d48f02755f7b5aaf206f0a54ec5555d0aa5dfcdd
+# app-06057-status-agreement b7d0d52b85b3bddaa608dc35d48f02755f7b5aaf206f0a54ec5555d0aa5dfcdd
+# app-06057-status-agre

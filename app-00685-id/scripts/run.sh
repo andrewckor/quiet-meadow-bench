@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00685-id
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9d04dfa0b5a8d1e9f3cece6b9624
+# app-00685-id 2df6eb65f9a3e1623ba60ee4fa60d613bc4d9

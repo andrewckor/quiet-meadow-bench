@@ -1,0 +1,7 @@
+# app-06601-category — scripts
+
+Create approved types in spreadsheets.
+# app-06601-category 0055d60d8c0ef2b0935ef352bf058d5c314ef40ffea3c6d207255ba74f27588c
+# app-06601-category 0055d60d8c0ef2b0935ef352bf058d5c314ef40ffea3c6d207255ba74f27588c
+# app-06601-category 0055d60d8c0ef2b0935ef352bf058d5c314ef40ffea3c6d207255ba74f27588c
+# app-06601-category 0055d60d8c0ef2b0935ef352bf058d5

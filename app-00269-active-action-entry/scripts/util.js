@@ -1,0 +1,9 @@
+// Skill: app-00269-active-action-entry
+// Category: email
+
+export function describe() {
+  return "app-00269-active-action-entry";
+}
+# app-00269-active-action-entry 06040cbfd64b6d4e00c381c29dbeaa36241e3f7ef2dcac01f5e491f1430baad1
+# app-00269-active-action-entry 06040cbfd64b6d4e00c381c29dbeaa36241e3f7ef2dcac01f5e491f1430baad1
+# app-00269-active-action-entry 06040cbfd64b6d4e00c381c29dbeaa36241e3f7ef2dcac01f5e491f143

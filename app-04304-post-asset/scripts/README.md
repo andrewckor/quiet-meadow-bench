@@ -1,0 +1,5 @@
+# app-04304-post-asset — scripts
+
+Create active records in dashboards.
+# app-04304-post-asset 6dd1096f82d6e56530388517df05061496108d7969054d9ba8d462a1fac63ca3
+# app-04304-post-asset 6dd1096f82d6e56530388517df0506149

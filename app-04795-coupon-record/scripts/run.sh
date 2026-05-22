@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04795-coupon-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-04795-coupon-record e576b2b4d0b098369d53109d4b53550b7fee46bd2a9ba764d92e89f86faf05e0
+# app-04795-coupon-record e576b2b4d0b098369d53109d4b53550b7fee46bd2a9ba764d92e89f86faf05e0
+# app-04795-coupon-record e576b2b4d0b098369d53109d4b53550b7fee46bd2a9ba764d92e89f86faf05e0
+# app-04795-coupon-record e576b2b4d0b098369d53109d4b53550b7fee46bd2a9ba764d92e89f86faf05e0
+# app-04795-coupon-record e576b2b4d0b098369d53109d4b53550b7fee46bd2a9ba764d92e89f86faf05e0
+# app-04795-coupon-record e576b2b4d0b098369d5310

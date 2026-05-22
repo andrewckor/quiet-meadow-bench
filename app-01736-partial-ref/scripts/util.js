@@ -1,0 +1,17 @@
+// Skill: app-01736-partial-ref
+// Category: task-management
+
+export function describe() {
+  return "app-01736-partial-ref";
+}
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa
+# app-01736-partial-ref 1de4515c472b41486df38323f58f888129c4651cdee5bd7f6535dc184fcbd4aa

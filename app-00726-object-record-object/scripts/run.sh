@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00726-object-record-object
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1
+# app-00726-object-record-object 49c7265f53f9d5b31a15a481229192083a7a7ec8f402ca5bd9ab6c6d61d4b6d1

@@ -1,0 +1,8 @@
+// Skill: app-14950-entry
+// Category: ads
+
+export function describe() {
+  return "app-14950-entry";
+}
+# app-14950-entry 2b6028afb9b50341a931daa99ae2cc5c50baa573cdd3e36b1dac4e9817f0d681
+# app-14950-entry 2b6

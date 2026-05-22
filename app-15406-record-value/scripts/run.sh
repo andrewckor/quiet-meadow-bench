@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15406-record-value
+# Category: invoicing
+
+echo "running ${0##*/}"
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6ee0d0c3a
+# app-15406-record-value 1cd708ef19d7c72bdcfaaefe8aaca983b4c132e9f0ec3c0a8bb466f6e

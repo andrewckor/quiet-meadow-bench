@@ -1,0 +1,49 @@
+// Skill: app-00338-active-ref
+// Category: shipping
+
+export function describe() {
+  return "app-00338-active-ref";
+}
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-active-ref adc1076c19f0db678358e6ddc5f3b9fe57cdce57cc51071f6194bca90f40caed
+# app-00338-ac

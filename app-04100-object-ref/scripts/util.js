@@ -1,0 +1,13 @@
+// Skill: app-04100-object-ref
+// Category: dashboards
+
+export function describe() {
+  return "app-04100-object-ref";
+}
+# app-04100-object-ref f17120236305af268531e6c6f11054ccb5fcff8b9cc56cf15a7425d56f21166e
+# app-04100-object-ref f17120236305af268531e6c6f11054ccb5fcff8b9cc56cf15a7425d56f21166e
+# app-04100-object-ref f17120236305af268531e6c6f11054ccb5fcff8b9cc56cf15a7425d56f21166e
+# app-04100-object-ref f17120236305af268531e6c6f11054ccb5fcff8b9cc56cf15a7425d56f21166e
+# app-04100-object-ref f17120236305af268531e6c6f11054ccb5fcff8b9cc56cf15a7425d56f21166e
+# app-04100-object-ref f17120236305af268531e6c6f11054ccb5fcff8b9cc56cf15a7425d56f21166e
+# app-04100-object-ref f17120236305af268531e6c6f11054ccb5fcff8b9cc56cf15a7425d56f21166e

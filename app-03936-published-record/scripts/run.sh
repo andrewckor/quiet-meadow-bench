@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03936-published-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de341be9561316c63a153f
+# app-03936-published-record 3e6e6b2181aa1e42b5541dd0812f325051f012ede3de34

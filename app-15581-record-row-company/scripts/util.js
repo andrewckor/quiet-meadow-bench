@@ -1,0 +1,42 @@
+// Skill: app-15581-record-row-company
+// Category: security
+
+export function describe() {
+  return "app-15581-record-row-company";
+}
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-row-company 729ed4ca7f0c5f9aa70790e8ed0d49901ddd8b8b4421727a41c01d3e173fce2b
+# app-15581-record-r

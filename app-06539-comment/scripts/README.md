@@ -1,0 +1,10 @@
+# app-06539-comment — scripts
+
+Delete active records in surveys.
+# app-06539-comment 9f525179e81d7b2ff683d0ddc0ebe922b9fb9c2b8c2676819ecedfd394ac154d
+# app-06539-comment 9f525179e81d7b2ff683d0ddc0ebe922b9fb9c2b8c2676819ecedfd394ac154d
+# app-06539-comment 9f525179e81d7b2ff683d0ddc0ebe922b9fb9c2b8c2676819ecedfd394ac154d
+# app-06539-comment 9f525179e81d7b2ff683d0ddc0ebe922b9fb9c2b8c2676819ecedfd394ac154d
+# app-06539-comment 9f525179e81d7b2ff683d0ddc0ebe922b9fb9c2b8c2676819ecedfd394ac154d
+# app-06539-comment 9f525179e81d7b2ff683d0ddc0ebe922b9fb9c2b8c2676819ecedfd394ac154d
+# app-06539-comment 9f525179e81d7b2ff683d0ddc0ebe922b9fb9c2b8c2676819ecedfd394ac

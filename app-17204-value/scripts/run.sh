@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17204-value
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-17204-value a5a112d9962950ebc18cd3028663c42d58180bc7a20cd27cabbd6ce128771b21
+# app-17204-value a5a112d9962950ebc18cd3028663c42d58180bc7a20cd27cabbd6ce128771b21
+# app-17204-value a5a112d9962950ebc18cd3028663c42d5

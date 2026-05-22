@@ -1,0 +1,11 @@
+# app-09080-task — scripts
+
+List valid branchs in error-tracking. Use when managing deleted records.
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-task 058e824cb1b64a6ce611b3252ee73affdf2c7f62d16beded6ee888cb873ea2eb
+# app-09080-ta

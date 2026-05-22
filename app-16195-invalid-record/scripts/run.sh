@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16195-invalid-record
+# Category: auth
+
+echo "running ${0##*/}"
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd0958b3055
+# app-16195-invalid-record caba42af1e54674d5125fd650fb48107e8c90cb99e6bbb037dc2edd095

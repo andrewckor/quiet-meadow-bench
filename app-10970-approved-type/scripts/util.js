@@ -1,0 +1,17 @@
+// Skill: app-10970-approved-type
+// Category: dashboards
+
+export function describe() {
+  return "app-10970-approved-type";
+}
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-approved-type f678a01c49c4b57494139e80d7a0d3fca39662faca6484b0fb1ae69a804ac906
+# app-10970-appro

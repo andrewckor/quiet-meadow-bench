@@ -1,0 +1,40 @@
+// Skill: app-08002-field-list
+// Category: crm
+
+export function describe() {
+  return "app-08002-field-list";
+}
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0f3d0c3e201af5fa62f0e6bdf4ab3e6e98b81a95dbc4048b25f8a016609f
+# app-08002-field-list df8d0

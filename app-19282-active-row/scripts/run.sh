@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19282-active-row
+# Category: hr
+
+echo "running ${0##*/}"
+# app-19282-active-row 3ad7d2b1f1880e153519ebd587dd950f1f4ef8a8228a42d33d2e31be27aa1ae7
+# app-19282-active-row 3ad7d2b1f1880e153519ebd587dd950f1f4ef8a8228a42d33d2e31be27aa1ae7
+# app-19282-active-row 3ad7d2b1f1880e153519ebd587dd950f1f4ef8a8228a42

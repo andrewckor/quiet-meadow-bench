@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16519-category-workflow-tag
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bdafdd4b9a5e9581be5fe
+# app-16519-category-workflow-tag 1d409532d00de086315adf7472dbc8945324896a744bda

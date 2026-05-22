@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14822-kpi
+# Category: crm
+
+echo "running ${0##*/}"
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38
+# app-14822-kpi d9534bde34def8c59dd6d4231fab1d22c84ae3e469060beddabe4854dcb35a38

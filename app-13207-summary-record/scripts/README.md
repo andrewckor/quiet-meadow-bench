@@ -1,0 +1,19 @@
+# app-13207-summary-record — scripts
+
+Schedule active kinds in crm. Use when tracking fresh row changes.
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record 9b1768d2603186a6d3f11e25ff77faeda49f40ce320aa5a367a4a1fd39c0fbac
+# app-13207-summary-record

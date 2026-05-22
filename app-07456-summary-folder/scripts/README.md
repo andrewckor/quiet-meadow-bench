@@ -1,0 +1,13 @@
+# app-07456-summary-folder — scripts
+
+Create inactive subscribers in backup.
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd19b3a82adbd60ffe79e2a43
+# app-07456-summary-folder c76f496c452886a13d097c3699e6ed1c85474e8fd

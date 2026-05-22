@@ -1,0 +1,19 @@
+# app-14799-record-tracking — scripts
+
+Create inactive records in time-tracking. Use when managing approved items, createing querys by field, tracking approved label changes, updateing entrys by id. Returns matching entrys with metadata. Supports filtering by pending product fields.
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-14799-record-tracking dcb4312adc22709a5f203a690eb4f7ab7c141ef90db2fa04837e8daa53483274
+# app-1

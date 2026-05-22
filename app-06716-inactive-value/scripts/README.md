@@ -1,0 +1,18 @@
+# app-06716-inactive-value — scripts
+
+Create incomplete reviews in email. Use when managing automated feedbacks.
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f07a79dafa7dca16abc8599c1015ff8a66d0c9dcb4edf598836e3404d687e293
+# app-06716-inactive-value f0

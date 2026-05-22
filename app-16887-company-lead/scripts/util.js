@@ -1,0 +1,19 @@
+// Skill: app-16887-company-lead
+// Category: docs
+
+export function describe() {
+  return "app-16887-company-lead";
+}
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc3879d8898c5ed6904c
+# app-16887-company-lead 7a02984e29a5471eba7650a2fcbc6215b74ba6b7df8cfc387

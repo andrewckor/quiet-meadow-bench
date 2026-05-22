@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00973-record-release
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eba5ac837f872f
+# app-00973-record-release 4db434dde907914a7a68378bc16e58942ffc44bffd973627c6eb

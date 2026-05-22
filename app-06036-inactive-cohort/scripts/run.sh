@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06036-inactive-cohort
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67e64a37f54b1dc7c0f5244ad112fc30ebf90e72b7c94c59369c6c
+# app-06036-inactive-cohort 4f9437cadc67

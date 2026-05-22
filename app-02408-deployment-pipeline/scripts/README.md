@@ -1,0 +1,13 @@
+# app-02408-deployment-pipeline — scripts
+
+Fetch approved objects in docs. Use when updateing channels by record.
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deployment-pipeline a142777386c10df88aa0168fd94832940e7c2c94a1ba05c82b32e324bdef6273
+# app-02408-deploy

@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00331-active-subscriber
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# app-00331-active-subscriber 16de37a451b00f40a4c67e778af0aebd6a78b61c18e12b0372e387b3400f61d4
+# a

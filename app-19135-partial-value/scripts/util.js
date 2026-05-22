@@ -1,0 +1,19 @@
+// Skill: app-19135-partial-value
+// Category: email
+
+export function describe() {
+  return "app-19135-partial-value";
+}
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b7f766230d
+# app-19135-partial-value 3f522fd637cef69aed5676afaf8279c5e3ccef362919c7a2f4fc50b

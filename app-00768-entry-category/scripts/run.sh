@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00768-entry-category
+# Category: identity
+
+echo "running ${0##*/}"
+# app-00768-entry-category 9f24b9795ccfb2066910b3feabf27a220a3e5325b85c29f29a849a1d9a6a9f88
+# app-00768-entry-category 9f24b9795ccfb2066910b3feabf27a220a3e5325b85c29f29a849a1d9a6a9f88
+# app-00768-entry-category 9f24b9795ccfb2066910b3feabf27a220a3e5325b85c29f29a849a1d9a6a9f88
+# app-00768-entry-ca

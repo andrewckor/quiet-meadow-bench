@@ -1,0 +1,25 @@
+# app-14595-item-row — scripts
+
+Unshare local entrys in email. Use when you need to create a stage, tracking closed deal changes, tracking rejected state changes. Returns matching categorys with metadata. Supports filtering by rejected quote fields.
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14595-item-row cdb8a021e4d8eaa686ad8b1d68ac2c13f0db79834ec4d3ab491f48313342ff54
+# app-14

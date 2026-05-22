@@ -1,0 +1,21 @@
+// Skill: app-12318-label-coupon-label
+// Category: email
+
+export function describe() {
+  return "app-12318-label-coupon-label";
+}
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6
+# app-12318-label-coupon-label 1232ee3c397bd99e5632af9c2fffc575b62c037ba728a0fdfd75f4cbb03807a6

@@ -1,0 +1,9 @@
+// Skill: app-10946-feature
+// Category: calendar
+
+export function describe() {
+  return "app-10946-feature";
+}
+# app-10946-feature 7f954953f94bf4c9e5fc0498a842b47e241db92e5f0f9be97456f181aab12635
+# app-10946-feature 7f954953f94bf4c9e5fc0498a842b47e241db92e5f0f9be97456f181aab12635
+# app-10946-feature 7f954953

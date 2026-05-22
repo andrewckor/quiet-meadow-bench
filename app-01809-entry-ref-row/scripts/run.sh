@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01809-entry-ref-row
+# Category: forms
+
+echo "running ${0##*/}"
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b703208cfb5abf469d07ba78053bb1103268a
+# app-01809-entry-ref-row 2e68f8e859dc168e0d5f1c222d6b70320

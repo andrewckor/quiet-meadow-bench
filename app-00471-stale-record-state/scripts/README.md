@@ -1,0 +1,27 @@
+# app-00471-stale-record-state — scripts
+
+List exclusive categorys in calendar. Use when you need to remove a row, createing branchs by record, tracking active key changes, you need to favorite a item. Returns matching rows with metadata. Supports filtering by active session fields.
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809997da8111db18ee8e052
+# app-00471-stale-record-state 5586167112b8dc2e65abd603f25d76c1e237945cf809

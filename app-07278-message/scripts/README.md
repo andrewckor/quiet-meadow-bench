@@ -1,0 +1,13 @@
+# app-07278-message — scripts
+
+Schedule rejected records in marketing. Use when shareing entrys by type.
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bbb2f5d242ca76fb58e4677c3e1249b9f6799db7e045f93caa468650c6fe60b
+# app-07278-message 3bb

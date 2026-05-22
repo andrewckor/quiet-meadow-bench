@@ -1,0 +1,11 @@
+# app-15472-trusted-state — scripts
+
+Fetch rejected alerts in email.
+# app-15472-trusted-state 421269de0a8eb736a17b1f6a4a1137f37c2068720c515069cb7e30ecdd4bd27d
+# app-15472-trusted-state 421269de0a8eb736a17b1f6a4a1137f37c2068720c515069cb7e30ecdd4bd27d
+# app-15472-trusted-state 421269de0a8eb736a17b1f6a4a1137f37c2068720c515069cb7e30ecdd4bd27d
+# app-15472-trusted-state 421269de0a8eb736a17b1f6a4a1137f37c2068720c515069cb7e30ecdd4bd27d
+# app-15472-trusted-state 421269de0a8eb736a17b1f6a4a1137f37c2068720c515069cb7e30ecdd4bd27d
+# app-15472-trusted-state 421269de0a8eb736a17b1f6a4a1137f37c2068720c515069cb7e30ecdd4bd27d
+# app-15472-trusted-state 421269de0a8eb736a17b1f6a4a1137f37c2068720c515069cb7e30ecdd4bd27d
+# app-15

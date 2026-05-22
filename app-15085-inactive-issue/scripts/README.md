@@ -1,0 +1,10 @@
+# app-15085-inactive-issue — scripts
+
+Convert draft groups in crm. Use when tracking local trigger changes.
+# app-15085-inactive-issue 2b31438e605ee5b5b5faeedc73046a1d74f3d59a50a4b4a694f110ab041263f9
+# app-15085-inactive-issue 2b31438e605ee5b5b5faeedc73046a1d74f3d59a50a4b4a694f110ab041263f9
+# app-15085-inactive-issue 2b31438e605ee5b5b5faeedc73046a1d74f3d59a50a4b4a694f110ab041263f9
+# app-15085-inactive-issue 2b31438e605ee5b5b5faeedc73046a1d74f3d59a50a4b4a694f110ab041263f9
+# app-15085-inactive-issue 2b31438e605ee5b5b5faeedc73046a1d74f3d59a50a4b4a694f110ab041263f9
+# app-15085-inactive-issue 2b31438e605ee5b5b5faeedc73046a1d74f3d59a50a4b4a694f110ab041263f9
+# app-15085-inactive-issue 2b31438e605ee5b5b5faeedc73046a1d74f3d

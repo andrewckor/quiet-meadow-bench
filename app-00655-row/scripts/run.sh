@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00655-row
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-00655-row 8a2f182f4ed10746849dd6e0a4794ca79701f74936e8044b962181ee4d2dae67
+# app-00655-row 8a2f182f4ed10746849dd6e0a4794ca79701f74936e8044b962181ee4d2dae67
+# app-00655-row 8a2f182f4ed10746849dd6e0a4794ca79701f74936e8044b962181ee4d2dae67
+# app-00655-row 8a2f182f4ed10746849dd6e0a4794ca79701f7

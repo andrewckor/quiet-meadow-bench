@@ -1,0 +1,26 @@
+// Skill: app-13410-row-column-campaign
+// Category: crm
+
+export function describe() {
+  return "app-13410-row-column-campaign";
+}
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc4f594e7f4cdec7ab7094c010f8d6c280575ec06b552
+# app-13410-row-column-campaign 3a0679b12415ff0efbbdc

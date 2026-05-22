@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18157-record-category
+# Category: invoicing
+
+echo "running ${0##*/}"
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b34864ad503e67b008074a40d100e8faab7860d92cefd4c564f8a6387f3c
+# app-18157-record-category edb1b348

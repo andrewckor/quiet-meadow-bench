@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01991-row-subscriber
+# Category: booking
+
+echo "running ${0##*/}"
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649f469307a9ab7d88be3edb9ea9d7d1ee535147a7168
+# app-01991-row-subscriber 5fcc1031348eb079657649

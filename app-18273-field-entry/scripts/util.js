@@ -1,0 +1,29 @@
+// Skill: app-18273-field-entry
+// Category: video-conferencing
+
+export function describe() {
+  return "app-18273-field-entry";
+}
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950be27b0baea988930fd6
+# app-18273-field-entry edd4fd5e3970d31116ed56bb8057947abfa0730eeb950b

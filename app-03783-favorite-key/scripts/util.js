@@ -1,0 +1,17 @@
+// Skill: app-03783-favorite-key
+// Category: recruiting
+
+export function describe() {
+  return "app-03783-favorite-key";
+}
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34ba3f7841ceed942ba3c8c4507a8862d4d27f7325
+# app-03783-favorite-key 7d5dc0689fd1142931a3ac34b

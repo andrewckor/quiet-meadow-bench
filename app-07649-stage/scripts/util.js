@@ -1,0 +1,33 @@
+// Skill: app-07649-stage
+// Category: crm
+
+export function describe() {
+  return "app-07649-stage";
+}
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e04e97cf408e7b85a94b1b8628defffdbf8d6f
+# app-07649-stage 7babea375907bc7cf8ddd6c815e

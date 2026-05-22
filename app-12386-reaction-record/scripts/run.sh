@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12386-reaction-record
+# Category: shipping
+
+echo "running ${0##*/}"
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d95572c6f9eca7dec9e8a88d873614f1be8f4e5aceb2212c68c06d0
+# app-12386-reaction-record 2fe917b65d

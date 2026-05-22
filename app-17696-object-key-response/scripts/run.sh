@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17696-object-key-response
+# Category: task-management
+
+echo "running ${0##*/}"
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-object-key-response 9bfc51a6aa8f23c8de5a2ff15fd21ec09f9065d71d8e328b4daf97143a890da0
+# app-17696-

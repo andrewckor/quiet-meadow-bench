@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03039-primary-record
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3bcd826f8e88d0ba8bf91d9
+# app-03039-primary-record 949d5940b2c107d8dda7eeb9ef35d42cea72b32da3

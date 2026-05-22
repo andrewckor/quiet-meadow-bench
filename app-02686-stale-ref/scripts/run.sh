@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02686-stale-ref
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-02686-stale-ref 378849a86ec596298983237f33c57e1b29e37db729db20c5822bcf8dd504341e
+# app-02686-stale-ref 378849a86ec596298983237f33c57e1b29e37db729db20c5822bcf8dd504341e
+# app-02686-stale-ref 378849a86ec596298983237f33c57e1b29e37db729db20c5822bcf8dd504341e
+# app-02686-stale-ref 378849a86ec596298983237f33c57e1b29e37db729db20c5822bcf8dd504341e
+# app-02686-stale-ref 378849a86ec596298983237f33c57e1b29e37db729db20c5822bcf8dd504341e
+# app-02686-st

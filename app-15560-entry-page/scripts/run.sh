@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15560-entry-page
+# Category: crm
+
+echo "running ${0##*/}"
+# app-15560-entry-page 1e38a971e72678818c2c526b4c21d2f1ed878b561553f62d2e7d75ee1b1d0c7c
+# app-15560-entry-page 1e38a971e72678818c2c526b4c21d2f1ed878b561553f62d2e7d75ee1b1d0c7c
+# app-15560-entry-page 1e38a971e72678818c2c526b4c21d2f1ed878b561553f62d2e7d75ee1b1d0c7c
+# app-15560-entry-page 1e38a971e72678818c2c526b4c21d2f1ed878b561553f62d2e7d75ee1b1d0c7c
+# app-15560-entry-page 1e38a971e72678818c2c526b4c21d2f1ed878b561553f62d2e7d75ee1b1d0c7c
+# app-15560-entry-page 1e38a971e72678818c2c526b4c21d2f1ed878b561553f62d2e7d75ee1b1d0c7c
+# app-15560-entry-page 1e38a971e72678818c2c526b4c21d2f1ed878b561553f62d2e7d75ee1b1d0c7c
+# app-15560-entry-page 1e38a9

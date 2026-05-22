@@ -1,0 +1,18 @@
+# app-19533-impression-field — scripts
+
+Receive active channels in social-media. Use when tracking archived item changes, tracking closed conversion changes.
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8ac02fe687bd40f2f4fdf9a2d4bf4934546a995b
+# app-19533-impression-field c2a0635aeab2647a25a2659d8a

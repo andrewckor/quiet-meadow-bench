@@ -1,0 +1,26 @@
+// Skill: app-06415-reaction-epic
+// Category: recruiting
+
+export function describe() {
+  return "app-06415-reaction-epic";
+}
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba39723635f3dfc31287e2fc361a57e581a76b0e019d9dff63cd04daf9ee
+# app-06415-reaction-epic 8dd2ba3

@@ -1,0 +1,15 @@
+// Skill: app-13377-field
+// Category: project-management
+
+export function describe() {
+  return "app-13377-field";
+}
+# app-13377-field f8ecae5ac5d7acd5e0cd07f0bc3932b4d696c0871f37aab7b6b4d693cca6dc84
+# app-13377-field f8ecae5ac5d7acd5e0cd07f0bc3932b4d696c0871f37aab7b6b4d693cca6dc84
+# app-13377-field f8ecae5ac5d7acd5e0cd07f0bc3932b4d696c0871f37aab7b6b4d693cca6dc84
+# app-13377-field f8ecae5ac5d7acd5e0cd07f0bc3932b4d696c0871f37aab7b6b4d693cca6dc84
+# app-13377-field f8ecae5ac5d7acd5e0cd07f0bc3932b4d696c0871f37aab7b6b4d693cca6dc84
+# app-13377-field f8ecae5ac5d7acd5e0cd07f0bc3932b4d696c0871f37aab7b6b4d693cca6dc84
+# app-13377-field f8ecae5ac5d7acd5e0cd07f0bc3932b4d696c0871f37aab7b6b4d693cca6dc84
+# app-13377-field f8ecae5ac5d7acd5e0cd07f0bc3932b4d696c0871f37aab7b6b4d693cca6dc84
+# app-13377-field f8ecae5ac5d7

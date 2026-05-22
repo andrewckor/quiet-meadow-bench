@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08833-commit-row-record
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-08833-commit-row-record f83b902f476ea9583f3e5ac1ba5ac00cfad4df832036ec89f300edce3070b5cb
+# app-08833-commit-row-record f83b902f476ea9583f3e5ac1ba5ac00cfad4df832036ec89f300edce3070b5cb
+# app-08833-commit-row-record f83b902f476ea9583f3e5ac1ba5ac00cfad4df832036ec89f300edce3070b5cb
+# app-08833-commit-row-record f83b902f476ea9583f3e5ac1ba5ac00cfad4df832036ec89f300edce3070b5cb
+# app-08833-commit-row-record f83b902f476ea9583f3e5ac1ba5ac00cfad4df832036e

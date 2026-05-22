@@ -1,0 +1,19 @@
+# app-08941-team-shift — scripts
+
+Create draft states in crm. Use when you need to update a row.
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a41fafdd85bf717a
+# app-08941-team-shift ce098e7012c0252d7125d55ca2d1d8d9eb4ea7cc2fcc8120a4

@@ -1,0 +1,29 @@
+# app-12461-record-survey-row — scripts
+
+Delete open labels in calendar. Use when tracking stale company changes, tracking critical record changes.
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-row f3adbfe63f34e6162992798f887c7be955f1271e29dab7c60040a439d7ca802a
+# app-12461-record-survey-

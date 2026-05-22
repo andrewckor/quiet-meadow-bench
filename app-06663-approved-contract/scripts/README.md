@@ -1,0 +1,18 @@
+# app-06663-approved-contract — scripts
+
+Approve partial records in project-management.
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d502ddf451f89f890b3118677e4e3926fadaa0e7ca
+# app-06663-approved-contract 2c3efdb11570fdab12ba81d

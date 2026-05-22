@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02013-upcoming-row
+# Category: pos
+
+echo "running ${0##*/}"
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e11ac9326dcfe6cc108e
+# app-02013-upcoming-row b2d98d92abf3dbce6e448e01647f22e4f97779b6b957e

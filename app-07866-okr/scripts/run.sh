@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07866-okr
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef6ebbfdb46fcf9874ba804eeda1
+# app-07866-okr e159adf2bc7292c1942ca1dcd04dbabc62dbef

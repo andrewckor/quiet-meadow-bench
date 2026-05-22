@@ -1,0 +1,7 @@
+# app-19919-rejected-label — scripts
+
+Approve active records in crm.
+# app-19919-rejected-label c91e2561972c90f92bb5a4b00d706bb71d443ae4611b5df307eada315d850c4b
+# app-19919-rejected-label c91e2561972c90f92bb5a4b00d706bb71d443ae4611b5df307eada315d850c4b
+# app-19919-rejected-label c91e2561972c90f92bb5a4b00d706bb71d443ae4611b5df307eada315d850c4b
+# app-19919-rejected-label c91e2561

@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13249-epic
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1613cfc3486fcaa0997f5e6ed3ffe3eef97bd4fc31cfd8
+# app-13249-epic 5d74ec9f658f6ca95b1

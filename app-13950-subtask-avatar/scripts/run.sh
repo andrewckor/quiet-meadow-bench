@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13950-subtask-avatar
+# Category: email
+
+echo "running ${0##*/}"
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0e08e39e7c50ecf71ba9aabc462acf033630eef0524386df19e6161f
+# app-13950-subtask-avatar f791fdbb0

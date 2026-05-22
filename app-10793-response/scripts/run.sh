@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10793-response
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-10793-response b430b18cf53a9f305508dfe7d7cc40f2cf2ea94d591a4d82f614bda78db79832
+# app-10793-response b430b18cf53a9f305508dfe7d7cc40f2cf2ea94d591a4d82f614bda78db79832
+# app-10793-response b430b18cf53a9f305508dfe7d7cc40f2cf2ea94d591a4d82f614bda78db79832
+# app-10793-response b430b18cf53a9f305508dfe7d7cc40f2cf2ea94d591a4d82f614bda78db79832
+# app-10793-response b430b18cf53a9f305508dfe7d7cc40f2cf2ea94d591a4d82f614bda78db79832
+# app-10793-response b430b18cf53a9f305508dfe7d7cc40f2cf2ea94d591a4d82f614bda78db79832
+# app-10793-response b430b18cf53a9f305508dfe7d7cc40f2cf2ea94d591a4d82f614bda78db79832
+# app-10793-response b430b18cf53a9f305508dfe7d7cc40f2cf2ea94d591

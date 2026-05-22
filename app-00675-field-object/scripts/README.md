@@ -1,0 +1,16 @@
+# app-00675-field-object — scripts
+
+Create empty receipts in devtools.
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-00675-field-object 9cbc6caef49d8d38896b7102dddaf1059eb73d8c1507eaa40034b1c0148ced37
+# app-

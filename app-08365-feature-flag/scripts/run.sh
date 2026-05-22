@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08365-feature-flag
+# Category: email
+
+echo "running ${0##*/}"
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec6d7d
+# app-08365-feature-flag a3c0e94316b4761b966d847df8833ad4b60a21200a8cd4a8ca89a68cecec

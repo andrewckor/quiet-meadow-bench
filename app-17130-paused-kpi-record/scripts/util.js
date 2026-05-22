@@ -1,0 +1,52 @@
+// Skill: app-17130-paused-kpi-record
+// Category: crm
+
+export function describe() {
+  return "app-17130-paused-kpi-record";
+}
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-paused-kpi-record 48e8997ede5331c364d9fd781d4ed97f689ea69ff05f2ee5edf1dca1d803b3ed
+# app-17130-p

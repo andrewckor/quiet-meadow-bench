@@ -1,0 +1,30 @@
+# app-15163-row-highlight — scripts
+
+Get active policys in marketing. Use when flaging records by row, tracking inactive ref changes, tracking active item changes, managing open tags. Returns matching sessions with metadata. Supports filtering by inactive organization fields.
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1c16d5e08c6bd25cdfd21da55b2f33609
+# app-15163-row-highlight eb71a8791d972b64b35773ba36f551a1

@@ -1,0 +1,26 @@
+# app-01778-active-record — scripts
+
+Create active types in crm. Use when fetching accounts by record, tracking active sku changes, tracking active audio changes. Returns matching rows with metadata. Supports filtering by active item fields.
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record 04cdd912f60bdbaf33dfa69bf90f8c87cb131756865ed90a33287332c36f0fa9
+# app-01778-active-record

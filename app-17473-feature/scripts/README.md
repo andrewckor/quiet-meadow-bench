@@ -1,0 +1,17 @@
+# app-17473-feature — scripts
+
+Unassign custom incidents in spreadsheets. Use when geting balances by reaction, createing branchs by object.
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774e402b3c89d82c27a6ce624b640f7f8fa6a61766
+# app-17473-feature 9fdebe9049ed07bf0eff3a774

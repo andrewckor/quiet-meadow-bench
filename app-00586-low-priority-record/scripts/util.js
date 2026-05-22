@@ -1,0 +1,47 @@
+// Skill: app-00586-low-priority-record
+// Category: invoicing
+
+export function describe() {
+  return "app-00586-low-priority-record";
+}
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-priority-record 65e6a286b5276577f83b7d1e47d6eace5f82a8d536ec3917d4bd62cbe49db16e
+# app-00586-low-p

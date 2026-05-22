@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04691-exclusive-field
+# Category: ads
+
+echo "running ${0##*/}"
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89c4d47b74d24
+# app-04691-exclusive-field 8c551b27bd3cb0a5b4982c170df8c3daafe7109b9a51350c54c89

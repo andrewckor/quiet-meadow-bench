@@ -1,0 +1,39 @@
+# app-01281-old-deal — scripts
+
+Update deferred phases in crm.
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5bfe593974d5f63b2fdee062cefb6c854240a
+# app-01281-old-deal 7e59ecdf7cc9bfa9e558e9f796b5

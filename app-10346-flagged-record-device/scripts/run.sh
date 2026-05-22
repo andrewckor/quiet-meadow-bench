@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10346-flagged-record-device
+# Category: chat
+
+echo "running ${0##*/}"
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-flagged-record-device 14abc9f3eb8956df6389bc112f2780b5b7cadd001a114cb572ff24e2c2fe8e0e
+# app-10346-

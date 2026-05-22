@@ -1,0 +1,9 @@
+// Skill: app-10683-default-organization
+// Category: email
+
+export function describe() {
+  return "app-10683-default-organization";
+}
+# app-10683-default-organization 4592ca5f633c3b3038cdce25e8da47d956450e5baf6ae95b3346f95a98709e32
+# app-10683-default-organization 4592ca5f633c3b3038cdce25e8da47d956450e5baf6ae95b3346f95a98709e32
+# app-10683-default-organization 4592ca5f633c3b3038cdce

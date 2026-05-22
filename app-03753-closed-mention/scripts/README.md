@@ -1,0 +1,14 @@
+# app-03753-closed-mention — scripts
+
+Update active rows in crm. Use when you need to find a deal, managing low-priority sessions.
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-mention 32d7a83f969dcaa6560afc75af8e115125ba2c80792a6dc30ce36d860d197984
+# app-03753-closed-menti

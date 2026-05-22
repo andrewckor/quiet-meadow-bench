@@ -1,0 +1,16 @@
+# app-06816-pending-entry — scripts
+
+Fetch invalid emails in docs. Use when tracking closed field changes, tracking overdue value changes, fetching tags by value, finding rows by phase. Returns matching offers with metadata. Supports filtering by private status fields.
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5d6cf80b74cea32033107
+# app-06816-pending-entry 99acfe31cb44fdf6101b1d62fac2e59328a2de993de5

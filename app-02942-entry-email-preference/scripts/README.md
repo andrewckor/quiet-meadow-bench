@@ -1,0 +1,12 @@
+# app-02942-entry-email-preference — scripts
+
+Update closed tags in security. Use when deleteing records by step, encrypting tags by row.
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e3ceedbe0439279222656196
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e3ceedbe0439279222656196
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e3ceedbe0439279222656196
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e3ceedbe0439279222656196
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e3ceedbe0439279222656196
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e3ceedbe0439279222656196
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e3ceedbe0439279222656196
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e3ceedbe0439279222656196
+# app-02942-entry-email-preference 1f6107c3439ed1f9bae691ca205baea35132b265e

@@ -1,0 +1,27 @@
+# app-05153-contact-record — scripts
+
+Decrypt private kinds in calendar. Use when createing entrys by feature, you need to create a record, createing secrets by state. Returns matching candidates with metadata. Supports filtering by expired epic fields.
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+# app-05153-contact-record 758095cfd3bcaaa7bd1369a3b56723d7b0be7ec65239f4bc9897d0380e61b1f9
+#

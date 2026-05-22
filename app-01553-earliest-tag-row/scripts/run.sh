@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01553-earliest-tag-row
+# Category: email
+
+echo "running ${0##*/}"
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-01553-earliest-tag-row b5d04c3832dfc9480113bd783973e35696a53fad6eab9cea95ab4c3e99886f3d
+# app-

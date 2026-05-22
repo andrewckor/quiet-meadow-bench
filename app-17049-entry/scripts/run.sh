@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17049-entry
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f
+# app-17049-entry b4545b8f7bbe20bbbeaed2183c953c3606f7202e6eb9198af03128c982dde66f

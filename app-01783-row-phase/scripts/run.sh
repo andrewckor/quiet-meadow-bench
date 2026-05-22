@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01783-row-phase
+# Category: email
+
+echo "running ${0##*/}"
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3cb9e6ad41e7e12a
+# app-01783-row-phase 1ddb44e4f56092ac6878cd4aae72044e1977ac51ceeb6a8f3

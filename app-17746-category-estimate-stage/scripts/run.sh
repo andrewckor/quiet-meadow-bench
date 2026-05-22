@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17746-category-estimate-stage
+# Category: email
+
+echo "running ${0##*/}"
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-estimate-stage 6d372b72879c08b7cbecb1f74c410cd7e2d6e21e9f9b41e662a5df3200a96172
+# app-17746-category-est

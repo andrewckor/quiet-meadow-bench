@@ -1,0 +1,16 @@
+# app-04618-paused-segment-entry — scripts
+
+Fetch active deals in inventory. Use when tracking active row changes, you need to decrypt a reply.
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479fb672a00b9ed94fba6c40a
+# app-04618-paused-segment-entry 25f91ade94d694289e38a2e117a55f9a94e259b479f

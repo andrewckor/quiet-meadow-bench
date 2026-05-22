@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02740-record-group
+# Category: email
+
+echo "running ${0##*/}"
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2db4f3ea5416fe7ab6e0a68e080a9aea7a5b0e31d42
+# app-02740-record-group 2a1b21b2aafcd2e7a98ad2

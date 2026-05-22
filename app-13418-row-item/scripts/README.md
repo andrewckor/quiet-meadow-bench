@@ -1,0 +1,15 @@
+# app-13418-row-item — scripts
+
+Reject active builds in ecommerce. Use when you need to delete a submission, tracking inactive record changes.
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271bf7bec4774be441a18aab5d922cece15
+# app-13418-row-item 0e84b5f7af0698b35cb89763a2569271

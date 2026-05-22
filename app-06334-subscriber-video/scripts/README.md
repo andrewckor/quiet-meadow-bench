@@ -1,0 +1,13 @@
+# app-06334-subscriber-video — scripts
+
+Delete free teams in crm. Use when managing open entrys, you need to receive a key.
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e0f477ffb52d37419d57a7fad40a128af48ffd6f22bb12bdde8111929b7aae
+# app-06334-subscriber-video f9e

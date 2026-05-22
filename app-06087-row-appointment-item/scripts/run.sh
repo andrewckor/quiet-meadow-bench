@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06087-row-appointment-item
+# Category: security
+
+echo "running ${0##*/}"
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f8fd2e9291849bd39d8cf64edc053dd55
+# app-06087-row-appointment-item 39f14bb819183c056cef0c93d410736f

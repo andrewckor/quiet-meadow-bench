@@ -1,0 +1,9 @@
+# app-09168-record-category-id — scripts
+
+Delete active records in calendar.
+# app-09168-record-category-id 16f71485df58033369acd5bef1696a03204df1a2dfb4011452297a82c71f6688
+# app-09168-record-category-id 16f71485df58033369acd5bef1696a03204df1a2dfb4011452297a82c71f6688
+# app-09168-record-category-id 16f71485df58033369acd5bef1696a03204df1a2dfb4011452297a82c71f6688
+# app-09168-record-category-id 16f71485df58033369acd5bef1696a03204df1a2dfb4011452297a82c71f6688
+# app-09168-record-category-id 16f71485df58033369acd5bef1696a03204df1a2dfb4011452297a82c71f6688
+# app-09168-record-category-id 16f71485df58033369acd5bef1696a03204df1a2df

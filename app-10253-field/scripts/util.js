@@ -1,0 +1,9 @@
+// Skill: app-10253-field
+// Category: monitoring
+
+export function describe() {
+  return "app-10253-field";
+}
+# app-10253-field 9ef88ba8ad11de854cd4ad455551390e773e7b2ae2dece61df98dc34e451531b
+# app-10253-field 9ef88ba8ad11de854cd4ad455551390e773e7b2ae2dece61df98dc34e451531b
+# app-10253-field 9ef88ba8ad11de854cd4ad4555513

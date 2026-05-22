@@ -1,0 +1,29 @@
+# app-04381-record-poll — scripts
+
+Archive starred records in chat. Use when tracking flagged phase changes, managing pending roles, tracking remote entry changes, managing inactive values. Returns matching replys with metadata. Supports filtering by earliest answer fields.
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bcc4e64e08673d0e92109c9ace079ad5e
+# app-04381-record-poll fc9556edb593d4fb1eb7b26a449d7d3bc

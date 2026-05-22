@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14441-company
+# Category: identity
+
+echo "running ${0##*/}"
+# app-14441-company 298792593e7cc27b6f70149c94d04b9218d6f477ba568b8abba18d55aefa2ec1
+# app-14441-company 298792593e7cc27b6f70149c94d04b9218d6f477ba568b8abba18d55aefa2ec1
+# app-14441-company 298792593e7cc27b6f70149c94d04b9218d6f477ba568b8abba18d55aefa2ec1
+# app-14441-company 298792593e7cc27b6f70149c94d04b9218d6f477ba568b8abba18d55aefa2ec1
+# app-14441-company 298792593e7cc27b6f70149c94d04b9218d6f477ba568b8abba18d55aefa2ec1
+# app-14441-company 298792593e7cc27b6f70149c94d04b9218d6f477ba568b8abba18d55aefa2ec1
+# app-14441-company 298792593e7cc27b6f70149c94d04b9218d6f477ba568b8abba18d55aefa2ec1
+# app-14441-company 298792593e7cc27b6f70149c94d04b9218d6f477ba568b8abba18d55aefa2ec1
+# ap

@@ -1,0 +1,40 @@
+# app-01681-inactive-sheet-record — scripts
+
+Create latest segments in crm. Use when managing active items, tracking open record changes, you need to create a record. Returns matching entrys with metadata. Supports filtering by active document fields.
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af58967a2b4a108d80b41ebb246
+# app-01681-inactive-sheet-record 2715dc0c87d12458aa74a73b308e4a145dd28af5

@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18092-inactive-ref
+# Category: crm
+
+echo "running ${0##*/}"
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8e1f4ee3ad84282da3e2b
+# app-18092-inactive-ref 746adaaf020edc5753440bf4b5321536e3f195ba82f8

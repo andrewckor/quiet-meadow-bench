@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08239-phase
+# Category: email
+
+echo "running ${0##*/}"
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2b8d68166e5049c97a613cdd82f13eeaefd6e3b6ea3f1f9d3fa1
+# app-08239-phase 8af5c88a2aad2

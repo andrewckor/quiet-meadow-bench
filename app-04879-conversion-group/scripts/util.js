@@ -1,0 +1,18 @@
+// Skill: app-04879-conversion-group
+// Category: invoicing
+
+export function describe() {
+  return "app-04879-conversion-group";
+}
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf66f93513260dcd64e71857fcb1ad3
+# app-04879-conversion-group 13ed7b0286a627ba02275891bcfe57075bf6

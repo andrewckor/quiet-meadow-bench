@@ -1,0 +1,21 @@
+# app-19567-applicant-item — scripts
+
+Publish active types in forms.
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce72f0d29ac4ecdc4007979a89fea7ad2fa64d
+# app-19567-applicant-item 026ed8cfb96fc29ddaa9bff0b0ce7

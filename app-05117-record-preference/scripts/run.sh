@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05117-record-preference
+# Category: docs
+
+echo "running ${0##*/}"
+# app-05117-record-preference 5256b5251632171ca3c6a0072fb1cd51d9493855ac407a5b15f55088334ad28e
+# app-05117-record-preference 5256b5251632171ca3c6a0072fb1cd51d9493855ac407a5b15f55088334ad28e
+# app-05117-record-preference 5256b5251632171ca3c6a0072fb1cd51d9493855ac407a5b15f55088334ad28e
+# app-05117-record-preference 5256b5251632171ca3c6a0072fb1cd51d9493855ac407a5b15f55088334ad28e
+# app-05117-record-preference 5256b5251632171ca3c6a0072fb1cd51d9493855ac407a5b15f55088334ad28e
+# app-05117-record-prefer

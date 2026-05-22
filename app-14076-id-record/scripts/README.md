@@ -1,0 +1,20 @@
+# app-14076-id-record — scripts
+
+Delete inactive reactions in forms.
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea7964c64dd6b
+# app-14076-id-record 8edc4d3dc5271c87bdeeb18c0c31ea633cdab6348aac2af324fea79

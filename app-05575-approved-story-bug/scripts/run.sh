@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05575-approved-story-bug
+# Category: crm
+
+echo "running ${0##*/}"
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a4aa2e1d24ce6de897742311a7abc27419deeb4
+# app-05575-approved-story-bug 3d6362cb012b1e9be3f9d4849a

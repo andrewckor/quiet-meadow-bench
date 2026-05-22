@@ -1,0 +1,21 @@
+# app-01874-partial-state — scripts
+
+Assign running plans in crm.
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app-01874-partial-state 319747a4c380443bfefc151db96c4af2635b8046a5f8c36bdbbdad1aa4f1fe85
+# app

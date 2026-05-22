@@ -1,0 +1,29 @@
+// Skill: app-19460-step-snapshot-approval
+// Category: calendar
+
+export function describe() {
+  return "app-19460-step-snapshot-approval";
+}
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74bf932264789bca0651435d7ce1216468748a6a0ac3e91b8cc857
+# app-19460-step-snapshot-approval 61c5c60daf74b

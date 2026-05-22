@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06360-record-credential
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c225e4c9d1c73793d7302d8e19eab936af54366c187603aac067c
+# app-06360-record-credential 735169ca6d3c

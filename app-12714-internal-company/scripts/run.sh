@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12714-internal-company
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-i

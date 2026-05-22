@@ -1,0 +1,41 @@
+// Skill: app-06644-subscription-item-event
+// Category: chat
+
+export function describe() {
+  return "app-06644-subscription-item-event";
+}
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# app-06644-subscription-item-event d4fb5fbb8d1bd9278e2e0021525bc168a7c68862bee0152d6a20937404da4504
+# 

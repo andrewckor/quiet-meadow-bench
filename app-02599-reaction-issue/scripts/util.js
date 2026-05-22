@@ -1,0 +1,17 @@
+// Skill: app-02599-reaction-issue
+// Category: crm
+
+export function describe() {
+  return "app-02599-reaction-issue";
+}
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f339ee74afc9330e14db8c36405d764fc0fcc238af87b0c02794e519
+# app-02599-reaction-issue 505f5954f33

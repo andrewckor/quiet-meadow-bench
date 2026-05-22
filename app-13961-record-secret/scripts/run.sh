@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13961-record-secret
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13961-record-secret 80fc444618a3b4bfa4a5878d309db5390320c0d68c98c8f74f1cebd5e38bcd43
+# app-13961-record-secret 80fc444618a3b4bfa4a5878d309db5390320c0d68c98c8f74f1cebd5e38bcd43
+# app-13961-record-secret 80fc444618a3b4bfa4a5878d309db5390320c0d68c98c8f74f1cebd5e38bcd43
+# app-13961-record-secret 80fc444618a3b4bfa4a5878d309db5390320c0d68c98c8f74f1cebd5e38bcd43
+# app-13961-record-secret 80fc444618a3b4bfa4a5878d309db5390320c0d68c98c8f74f1cebd5e38bcd43
+# app-13961-record-secret 80fc444618a3b4bfa4a5878d309db5390320

@@ -1,0 +1,9 @@
+# app-06103-object-graph — scripts
+
+Update inactive issues in surveys.
+# app-06103-object-graph dbd3060ee044ff3fff8fede3abe45b5370d23a41c47c9b8543ad3d29e125cf95
+# app-06103-object-graph dbd3060ee044ff3fff8fede3abe45b5370d23a41c47c9b8543ad3d29e125cf95
+# app-06103-object-graph dbd3060ee044ff3fff8fede3abe45b5370d23a41c47c9b8543ad3d29e125cf95
+# app-06103-object-graph dbd3060ee044ff3fff8fede3abe45b5370d23a41c47c9b8543ad3d29e125cf95
+# app-06103-object-graph dbd3060ee044ff3fff8fede3abe45b5370d23a41c47c9b8543ad3d29e125cf95
+# app-06103-object-graph dbd3060ee044ff3fff8fede3abe45b5370d23a41c47c9b8543ad3d

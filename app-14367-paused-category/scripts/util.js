@@ -1,0 +1,18 @@
+// Skill: app-14367-paused-category
+// Category: video-conferencing
+
+export function describe() {
+  return "app-14367-paused-category";
+}
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-category 6ce63b72537e2e77eb8ce53c808f4053aa2393f6ef976d32e29b2cba52d9fe55
+# app-14367-paused-categ

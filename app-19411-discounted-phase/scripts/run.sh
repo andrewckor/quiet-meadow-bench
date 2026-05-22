@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19411-discounted-phase
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cdab4d5765cc0891ef191c2548da97cdbf7b16
+# app-19411-discounted-phase 33acf815b61624e6b1335c04d5cda

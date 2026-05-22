@@ -1,0 +1,16 @@
+// Skill: app-00383-record-kpi
+// Category: recruiting
+
+export function describe() {
+  return "app-00383-record-kpi";
+}
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101a5852cba1b43c226645912a24ccf7e24b
+# app-00383-record-kpi ec8a082810b066fda4f5a4aadf61101

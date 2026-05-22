@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14194-rejected-forecast
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194-rejected-forecast bbeb80dd5b7c10f0c3a0d45f8329702fc03f992428c34ab4ad4cadc12d33bb62
+# app-14194

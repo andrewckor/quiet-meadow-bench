@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19097-label
+# Category: chat
+
+echo "running ${0##*/}"
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-label f3ea5cdc387732916f7027f42cc0aaabfd3f07eec8772eab8d7c5a8e65b85ea0
+# app-19097-

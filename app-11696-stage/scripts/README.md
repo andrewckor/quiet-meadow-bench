@@ -1,0 +1,20 @@
+# app-11696-stage — scripts
+
+Delete active logs in crm. Use when you need to move a phase, managing active records, tracking tertiary company changes, managing active leaves. Returns matching records with metadata. Supports filtering by active setting fields.
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stage bcf39e8cca84e727aaaa24b7da2c44e9c3c292c7a1261f8b0729af30ae0a3a7d
+# app-11696-stag

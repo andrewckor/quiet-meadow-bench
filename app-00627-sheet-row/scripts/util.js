@@ -1,0 +1,13 @@
+// Skill: app-00627-sheet-row
+// Category: crm
+
+export function describe() {
+  return "app-00627-sheet-row";
+}
+# app-00627-sheet-row 58e8c456a277bc23afb634e52fd296953c8a3e3b26fe4308846e65aacfc31754
+# app-00627-sheet-row 58e8c456a277bc23afb634e52fd296953c8a3e3b26fe4308846e65aacfc31754
+# app-00627-sheet-row 58e8c456a277bc23afb634e52fd296953c8a3e3b26fe4308846e65aacfc31754
+# app-00627-sheet-row 58e8c456a277bc23afb634e52fd296953c8a3e3b26fe4308846e65aacfc31754
+# app-00627-sheet-row 58e8c456a277bc23afb634e52fd296953c8a3e3b26fe4308846e65aacfc31754
+# app-00627-sheet-row 58e8c456a277bc23afb634e52fd296953c8a3e3b26fe4308846e65aacfc31754
+# app-00627-sheet-row 58e8c456a277bc23afb634e52fd296953c8a3e3b26fe4308846e65aacfc31754

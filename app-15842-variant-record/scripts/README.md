@@ -1,0 +1,24 @@
+# app-15842-variant-record — scripts
+
+Get new offers in email. Use when updateing reactions by object.
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950be3dd91514f75fbe3ef082548a6ecbf4511b960
+# app-15842-variant-record a8aecb71da050a1bf44460950b

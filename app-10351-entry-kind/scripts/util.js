@@ -1,0 +1,20 @@
+// Skill: app-10351-entry-kind
+// Category: crm
+
+export function describe() {
+  return "app-10351-entry-kind";
+}
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d84e6bcb9a1f69caa
+# app-10351-entry-kind d998843f7ca4c75fd8843c63a341ea583414c4ef12fe756d8

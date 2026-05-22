@@ -1,0 +1,25 @@
+// Skill: app-08089-published-deal
+// Category: file-sharing
+
+export function describe() {
+  return "app-08089-published-deal";
+}
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac1d
+# app-08089-published-deal 5ba6e7eebf30cb37fb4df3afba286c18c432fcd21cac3b21bfbf2682fbd6ac

@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09637-review-role-ticket
+# Category: crm
+
+echo "running ${0##*/}"
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c636dd7dddb30fc1fa2274b7b
+# app-09637-review-role-ticket 97c775e01a7c84da624f789be3424d3ee2ffdf7c

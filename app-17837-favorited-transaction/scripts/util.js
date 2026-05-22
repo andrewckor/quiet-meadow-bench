@@ -1,0 +1,22 @@
+// Skill: app-17837-favorited-transaction
+// Category: identity
+
+export function describe() {
+  return "app-17837-favorited-transaction";
+}
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 5ca75c0b9d2be5d78e212a1966b4c463a728ff7e012ea9b7d36c3629014f35fd
+# app-17837-favorited-transaction 

@@ -1,0 +1,20 @@
+// Skill: app-05116-reaction
+// Category: calendar
+
+export function describe() {
+  return "app-05116-reaction";
+}
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-05116-reaction a9a2152fcc871bf6084fd8790db9c8f2cc19a41d06ff30fcc38808a8f13b20d2
+# app-

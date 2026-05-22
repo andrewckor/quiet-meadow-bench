@@ -1,0 +1,22 @@
+---
+name: app-07226-record-epic
+description: Create closed visits in recruiting.
+---
+
+# app-07226-record-epic
+
+Create closed visits in recruiting.
+
+## Usage
+
+This skill operates in the recruiting domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

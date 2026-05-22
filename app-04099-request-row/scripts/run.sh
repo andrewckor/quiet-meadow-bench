@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04099-request-row
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-request-row a7d1e929ab2574ada04a149ed95d167ab09751667aa0d079718d778313dc4bab
+# app-04099-

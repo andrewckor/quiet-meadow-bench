@@ -1,0 +1,36 @@
+// Skill: app-08121-active-label
+// Category: email
+
+export function describe() {
+  return "app-08121-active-label";
+}
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3fe0ede2c144e1594dbd5e
+# app-08121-active-label 0a8abf3de9f6d6e95673f90fb8fef48d3b8b7602ab3f

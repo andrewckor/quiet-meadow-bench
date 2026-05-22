@@ -1,0 +1,15 @@
+# app-01968-category-branch — scripts
+
+Delete active kinds in crm.
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa48655831d9a417aaa75d9306971fefa1c1e84b1ca07dc7910292c1e6a
+# app-01968-category-branch a2d6dfa486

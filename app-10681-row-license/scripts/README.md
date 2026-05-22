@@ -1,0 +1,18 @@
+# app-10681-row-license — scripts
+
+Receive archived rules in pos.
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f952cde223a
+# app-10681-row-license 7f38a1e515bdd1fdf09f4cab34e27a0a57af9483d18afd48a23c0f

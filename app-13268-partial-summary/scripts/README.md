@@ -1,0 +1,9 @@
+# app-13268-partial-summary — scripts
+
+Fetch approved rows in email.
+# app-13268-partial-summary d8c5acd6a3a7872b7d628fcfcd0e2f5087bddfe2af57368982ab5007d28ed2d4
+# app-13268-partial-summary d8c5acd6a3a7872b7d628fcfcd0e2f5087bddfe2af57368982ab5007d28ed2d4
+# app-13268-partial-summary d8c5acd6a3a7872b7d628fcfcd0e2f5087bddfe2af57368982ab5007d28ed2d4
+# app-13268-partial-summary d8c5acd6a3a7872b7d628fcfcd0e2f5087bddfe2af57368982ab5007d28ed2d4
+# app-13268-partial-summary d8c5acd6a3a7872b7d628fcfcd0e2f5087bddfe2af57368982ab5007d28ed2d4
+# app-13268-partial-summary d8c5acd6a3a7872b7d628fcfcd0e2f5087bddfe2af57368982

@@ -1,0 +1,25 @@
+// Skill: app-17986-inactive-status
+// Category: marketing
+
+export function describe() {
+  return "app-17986-inactive-status";
+}
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fecf284652c156ed6
+# app-17986-inactive-status f6d064149dfbfb4a2781dbdf505b3ea140deb8ee55166a6fec

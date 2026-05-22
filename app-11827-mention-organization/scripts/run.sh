@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11827-mention-organization
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa454452231ece3c8afb9d0
+# app-11827-mention-organization 15e0e339984ca556a3ecbaaf64f608fa10f7bc1f7fa45445

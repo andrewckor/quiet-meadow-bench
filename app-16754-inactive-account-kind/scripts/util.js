@@ -1,0 +1,36 @@
+// Skill: app-16754-inactive-account-kind
+// Category: social-media
+
+export function describe() {
+  return "app-16754-inactive-account-kind";
+}
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-16754-inactive-account-kind 1317a30bb27b5b5044bfbef8820294df14f0dd01452c0f0ebde40fb45ca59854
+# app-1675

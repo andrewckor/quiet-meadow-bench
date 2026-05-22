@@ -1,0 +1,23 @@
+# app-08519-pinned-key-category — scripts
+
+Cancel active refs in email.
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-pinned-key-category 3d4247d729d0ad4ec95292d4accb3bcf35ad597528848e606aa1f8e449dac949
+# app-08519-p

@@ -1,0 +1,17 @@
+# app-11477-inactive-entry — scripts
+
+Send discounted fields in identity. Use when managing draft messages.
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729819bd35e44bb44bbe5d20ee08caa7f809bcff5feee
+# app-11477-inactive-entry 6a77726bb76459bcc64729

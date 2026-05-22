@@ -1,0 +1,53 @@
+// Skill: app-13064-open-object-row
+// Category: helpdesk
+
+export function describe() {
+  return "app-13064-open-object-row";
+}
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-13064-open-object-row ccf7ef6a39ed301c60bc2cdd98e6a5e90257aa23eb68f9dc8f46e1a646795604
+# app-

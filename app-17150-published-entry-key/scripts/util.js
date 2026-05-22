@@ -1,0 +1,36 @@
+// Skill: app-17150-published-entry-key
+// Category: email
+
+export function describe() {
+  return "app-17150-published-entry-key";
+}
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5aa74895cc6cff0d9
+# app-17150-published-entry-key fdc0ad68bb849511c0cd2bea02ac69a005361fec2719e1e5

@@ -1,0 +1,10 @@
+# app-16979-active-deal — scripts
+
+Cancel archived statuss in ticketing.
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e923

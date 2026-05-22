@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08325-approved-ref
+# Category: email
+
+echo "running ${0##*/}"
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bcb3e56
+# app-08325-approved-ref 77c6b03bb6a1949d06dc14fc06b51d0691a77aa5243baeb5c410de614bc

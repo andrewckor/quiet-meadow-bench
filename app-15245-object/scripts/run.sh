@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15245-object
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-15245-object dab8b752946d555e56132008c153696c4c76c626e5dbf1726e0fa860a4f93f32
+# app-15245-object dab8b752946d555e56132008c153696c4c76c626e5dbf1726e0fa860a4f93f32
+# app-15245-object dab8b752946d555e56132008c153696c4c76c626e5dbf1726e0fa860a4f93f32
+# app-15245-object dab8b752946d555e56132008c153696c4c76c626e5dbf1726e0fa860a4f93f32
+# app-15245-object dab8b752946d555e56132008c153696c4c76c626e5dbf1726e0fa860a4f93f32
+# 

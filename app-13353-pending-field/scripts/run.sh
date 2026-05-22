@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13353-pending-field
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d9ed9a1909f682d39a3164542131abfc77dac0ffdd3f753e27a4c8fbd954aee
+# app-13353-pending-field 5d

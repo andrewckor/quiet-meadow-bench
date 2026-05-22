@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03992-record-deal
+# Category: devtools
+
+echo "running ${0##*/}"
+# app-03992-record-deal 194ee988afde0b773f421dd90d2847bd628c0b0f7b695de7f5833b871180fb21
+# app-03992-record-deal 194ee988afde0b773f421dd90d2847bd628c0b0f7b695de7f5833b871180fb21
+# app-03992-record-deal 194ee988afde0b773f421dd90d2847bd628c0b0f7b695de7f5833b871180fb21
+# app-03992-record-deal 194ee988afde0b773f421dd90d2847bd628c0b0f7b695de7f5833b871180fb21
+# app-03992-record-deal 194ee988afde0b773f421dd90d2847bd628c0b0f7b695de7f5833b871180fb21
+# app-03992-record-deal 194ee988afde0b773f421dd90d2847bd628c0b0f7b695de7f5833b871180fb21
+# app-03992-record-deal 194ee988afde0b773f421dd

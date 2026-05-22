@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18704-latest-story-notification
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752f
+# app-18704-latest-story-notification 0e44ecdcc069fb7d49a977197b13d7d83f808d7602d8935116d5edfebc8a752

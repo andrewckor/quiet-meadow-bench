@@ -1,0 +1,24 @@
+// Skill: app-01096-full-record-object
+// Category: invoicing
+
+export function describe() {
+  return "app-01096-full-record-object";
+}
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c7ac32034de9c08e95cc86665ad53ac6fa342f
+# app-01096-full-record-object 7e1490c8aadc441aaad71acf62c

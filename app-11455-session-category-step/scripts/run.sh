@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11455-session-category-step
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11455-session-category-step 01bcaa7e3dfa8c849edc4d9fbf690ffed1d37431d739e4fee60baa3f7f1b6907
+# app-11

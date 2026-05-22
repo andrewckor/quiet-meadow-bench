@@ -1,0 +1,14 @@
+# app-09766-approved-review — scripts
+
+Find closed tickets in spreadsheets. Use when tracking expired device changes, managing active types, managing incomplete records. Returns matching records with metadata. Supports filtering by approved object fields.
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review b2cbae334c69935188e17f31325aae40944dcda429728acb0b1ea8bf377ebbb4
+# app-09766-approved-review 

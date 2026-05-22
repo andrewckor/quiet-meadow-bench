@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06687-stage
+# Category: crm
+
+echo "running ${0##*/}"
+# app-06687-stage 0d739b88cc7217bbef4132903fad4f8ae06086da1d3cdc2bffc9fe9e9fa66a41
+# app-06687-stage 0d739b88cc7217bbef4132903fad4f8ae06086da1d3cdc2bffc9fe9e9fa66a41
+# app-06687-stage 0d739b88cc7217bbef4132903fad4f8ae06086da1d3cdc2bffc9fe

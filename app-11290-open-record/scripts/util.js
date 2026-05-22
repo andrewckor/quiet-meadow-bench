@@ -1,0 +1,8 @@
+// Skill: app-11290-open-record
+// Category: crm
+
+export function describe() {
+  return "app-11290-open-record";
+}
+# app-11290-open-record 31615010d9531a80be7b556d8840f9d5044209783efb1efc1ea239b08180733d
+# app-11290-open-record 31615010d95

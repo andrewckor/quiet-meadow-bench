@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08051-record-order
+# Category: email
+
+echo "running ${0##*/}"
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fccc605c019600b0761bb235aaf6ab600c84ff
+# app-08051-record-order aac221165f1ebc175de1a66683fc

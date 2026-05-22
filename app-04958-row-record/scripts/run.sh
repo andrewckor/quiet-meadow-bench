@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04958-row-record
+# Category: hr
+
+echo "running ${0##*/}"
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c09783965ff47c97fef7b78d9a5c6c72e3bf
+# app-04958-row-record 68cbcabe141052608fed50fb80e3c097

@@ -1,0 +1,9 @@
+// Skill: app-08854-pending-object
+// Category: crm
+
+export function describe() {
+  return "app-08854-pending-object";
+}
+# app-08854-pending-object 8796cd645a424ef2090761b06ab8a19a716d58658c8f826b974235bb8e4a3e51
+# app-08854-pending-object 8796cd645a424ef2090761b06ab8a19a716d58658c8f826b974235bb8e4a3e51
+# app-08854-pending-object 8796cd645a424ef2090761b06ab8a19a716d58658c8f826b974235bb8e4a3e

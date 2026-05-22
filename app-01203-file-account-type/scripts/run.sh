@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01203-file-account-type
+# Category: storage
+
+echo "running ${0##*/}"
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b525aa3262fff13b44812c3c5f092cc6154f2fbd5
+# app-01203-file-account-type 8311f8b1ae26a6d44967fa4b52

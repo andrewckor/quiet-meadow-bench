@@ -1,0 +1,17 @@
+# app-08702-deleted-subscription — scripts
+
+Update fresh kpis in scheduling.
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 190070acb9fd5f6ccb33a4d066f7476f6acab723d96941862d85a4afb09eee3f
+# app-08702-deleted-subscription 19007

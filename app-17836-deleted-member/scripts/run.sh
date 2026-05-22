@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17836-deleted-member
+# Category: crm
+
+echo "running ${0##*/}"
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b133e9cd02d0acc2b9b4e89173e
+# app-17836-deleted-member b0c4ad2c01cd57ebd8814ac3027a9001ed9b4b1

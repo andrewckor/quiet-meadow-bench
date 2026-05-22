@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07009-id
+# Category: dashboards
+
+echo "running ${0##*/}"
+# app-07009-id 5d544ebfc69f0a97e79376b2e63448e7dc94536d52c57fa8f7a7ec06f58ca9aa
+# app-07009-id 5d544ebfc69f0a97e79376b2e6344

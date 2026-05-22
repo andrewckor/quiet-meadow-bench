@@ -1,0 +1,23 @@
+# app-08552-record-key-row — scripts
+
+Deduplicate closed actions in crm. Use when tracking latest video changes, you need to delete a item.
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8bbeb4aad1bf264f6ef03afcc96f15fdb844c6acb3fe383
+# app-08552-record-key-row e27f26de90f8ffabe8b

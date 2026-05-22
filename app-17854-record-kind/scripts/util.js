@@ -1,0 +1,21 @@
+// Skill: app-17854-record-kind
+// Category: spreadsheets
+
+export function describe() {
+  return "app-17854-record-kind";
+}
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d03a423e5b25b7e616f75ff790e7dc2fb1fcfd70cd96b402aafa08c2f82
+# app-17854-record-kind 901e8d0

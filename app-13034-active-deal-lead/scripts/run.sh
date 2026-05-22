@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13034-active-deal-lead
+# Category: billing
+
+echo "running ${0##*/}"
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93bd5fecac16bc
+# app-13034-active-deal-lead 48cfdce2c44d265f6e598a96786f84d94c5b74d96da947ba0e93

@@ -1,0 +1,24 @@
+# app-18861-active-row-build — scripts
+
+Receive open sections in crm. Use when managing old states, createing branchs by record.
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007
+# app-18861-active-row-build 435fccfdd214beddadb7f96d07c99655b8f11600adfe4c941ab111879dadb007

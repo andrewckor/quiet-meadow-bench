@@ -1,0 +1,16 @@
+# app-05970-value-snapshot — scripts
+
+Create closed devices in file-sharing. Use when moveing subtasks by record, you need to receive a applicant.
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2d8b28d46b7f73159e155654aa6a1b8826e2f6190d418f8e649ab
+# app-05970-value-snapshot bb2480dff2c2

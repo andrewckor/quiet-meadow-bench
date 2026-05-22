@@ -1,0 +1,13 @@
+# app-15634-organization-block — scripts
+
+List rejected permissions in dashboards.
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634-organization-block 76e0214b6cfe65143c91e34c9a6082ab0fabfe0a717e328b17ff724be5722ea4
+# app-15634

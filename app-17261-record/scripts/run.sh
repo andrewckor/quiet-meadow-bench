@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17261-record
+# Category: invoicing
+
+echo "running ${0##*/}"
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea61afc66a557bead25ea114
+# app-17261-record a013c78e09943a5f68ef35a41e0a5f823ec15bb6ea6

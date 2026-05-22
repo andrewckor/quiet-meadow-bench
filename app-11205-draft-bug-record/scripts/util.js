@@ -1,0 +1,30 @@
+// Skill: app-11205-draft-bug-record
+// Category: email
+
+export function describe() {
+  return "app-11205-draft-bug-record";
+}
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-record 23297f84bb80d90ad3111ec6fd532fd4ff5de19c248e4c60fb67f0091f9d03e1
+# app-11205-draft-bug-

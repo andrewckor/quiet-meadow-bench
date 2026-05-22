@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02446-record-feature
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035ee230b8c40f588db
+# app-02446-record-feature 809bd322eb12770aa0f693067b3788f462aa0b353d5cd035

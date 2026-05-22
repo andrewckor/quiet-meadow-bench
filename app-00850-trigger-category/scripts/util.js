@@ -1,0 +1,15 @@
+// Skill: app-00850-trigger-category
+// Category: crm
+
+export function describe() {
+  return "app-00850-trigger-category";
+}
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118dab23134c61ad6845f5cb85
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118dab23134c61ad6845f5cb85
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118dab23134c61ad6845f5cb85
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118dab23134c61ad6845f5cb85
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118dab23134c61ad6845f5cb85
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118dab23134c61ad6845f5cb85
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118dab23134c61ad6845f5cb85
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118dab23134c61ad6845f5cb85
+# app-00850-trigger-category 032b79204d6b413b73b8f8e7add458125559c2118da

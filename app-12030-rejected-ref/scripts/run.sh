@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12030-rejected-ref
+# Category: email
+
+echo "running ${0##*/}"
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f586763e9acd74249604ef5508fa7a1cd635f0ae6465
+# app-12030-rejected-ref cad7fb4e0f96b0a9f8f8f5867

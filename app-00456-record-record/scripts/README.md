@@ -1,0 +1,21 @@
+# app-00456-record-record — scripts
+
+Copy active phases in task-management. Use when you need to compute a message.
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e518fafc70cfca8edf
+# app-00456-record-record 49293e101193e4c4f3727a00848a3f8999b6acad841a20e5

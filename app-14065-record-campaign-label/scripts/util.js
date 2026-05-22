@@ -1,0 +1,18 @@
+// Skill: app-14065-record-campaign-label
+// Category: video-conferencing
+
+export function describe() {
+  return "app-14065-record-campaign-label";
+}
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e12208bf92eb50434a69dc86acf69895fd64f798931440f
+# app-14065-record-campaign-label 572fc6c16eac5d059e1220

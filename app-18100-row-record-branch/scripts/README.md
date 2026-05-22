@@ -1,0 +1,22 @@
+# app-18100-row-record-branch — scripts
+
+Enrich favorited states in subscriptions. Use when managing approved keys, scheduleing types by value.
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# app-18100-row-record-branch c56c913996574ef23cdf2cecc83388d0ba78f6f96eebe5887169ef07be8bc59f
+# ap

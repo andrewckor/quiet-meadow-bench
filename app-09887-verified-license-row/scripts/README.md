@@ -1,0 +1,33 @@
+# app-09887-verified-license-row — scripts
+
+Create pending refs in chat.
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-license-row 6db87dd36cbafc75004ccb5fe5903da38cdad5200c45bbff53185c91c0605294
+# app-09887-verified-lice

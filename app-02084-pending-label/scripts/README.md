@@ -1,0 +1,14 @@
+# app-02084-pending-label — scripts
+
+Delete active records in forms.
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43048fb763f3dbd405bc1b8e309f9079ce7f
+# app-02084-pending-label 1c9e7c39a468de0b05f91dcb240e43

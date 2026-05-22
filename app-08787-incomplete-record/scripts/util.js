@@ -1,0 +1,17 @@
+// Skill: app-08787-incomplete-record
+// Category: spreadsheets
+
+export function describe() {
+  return "app-08787-incomplete-record";
+}
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e98c49525e07aa795553e0da6e0f7cbf23487f54271b1efc90a43a38
+# app-08787-incomplete-record 8b17df47e

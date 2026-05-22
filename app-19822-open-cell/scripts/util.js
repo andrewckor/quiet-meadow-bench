@@ -1,0 +1,18 @@
+// Skill: app-19822-open-cell
+// Category: helpdesk
+
+export function describe() {
+  return "app-19822-open-cell";
+}
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e70a48799dfec8bd8cd761f4
+# app-19822-open-cell 3f996f90328154e85cd0bfc5de2d9ccc40271d21e7

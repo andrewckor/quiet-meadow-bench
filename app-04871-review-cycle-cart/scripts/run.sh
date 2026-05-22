@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04871-review-cycle-cart
+# Category: crm
+
+echo "running ${0##*/}"
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# app-04871-review-cycle-cart ec9efbdff9a8a8f4f831f603cf8f64754d4e8ca19821e413fa2832a6e41f4cc8
+# ap

@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04608-feature-key
+# Category: billing
+
+echo "running ${0##*/}"
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-feature-key 0d7d71690b02c8cad5d04cca931e59cef23f59e159c28fbbc828aca629c38409
+# app-04608-featu

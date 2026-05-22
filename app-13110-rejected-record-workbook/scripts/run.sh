@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13110-rejected-record-workbook
+# Category: docs
+
+echo "running ${0##*/}"
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d0d4c27e58261bd9f
+# app-13110-rejected-record-workbook fc902649f44a5318da3f2de2bb88ffb35d4d10b328be8e4d

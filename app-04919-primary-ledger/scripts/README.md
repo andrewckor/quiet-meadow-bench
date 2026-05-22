@@ -1,0 +1,22 @@
+# app-04919-primary-ledger — scripts
+
+Create closed kinds in events. Use when tracking untrusted value changes, listing records by contact, tracking unverified visit changes. Returns matching deals with metadata. Supports filtering by paused incident fields.
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537300d6e
+# app-04919-primary-ledger eb595da464891f944f57c3bbdc0558c74ade71b5ad062fd270ce0ae537

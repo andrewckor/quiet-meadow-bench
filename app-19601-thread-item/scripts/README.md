@@ -1,0 +1,9 @@
+# app-19601-thread-item — scripts
+
+Schedule active statuss in crm.
+# app-19601-thread-item c04b52d4eca1b8b49a8c1cfd046ac1991bca340135fa19ba944de2c5a932bdbf
+# app-19601-thread-item c04b52d4eca1b8b49a8c1cfd046ac1991bca340135fa19ba944de2c5a932bdbf
+# app-19601-thread-item c04b52d4eca1b8b49a8c1cfd046ac1991bca340135fa19ba944de2c5a932bdbf
+# app-19601-thread-item c04b52d4eca1b8b49a8c1cfd046ac1991bca340135fa19ba944de2c5a932bdbf
+# app-19601-thread-item c04b52d4eca1b8b49a8c1cfd046ac1991bca340135fa19ba944de2c5a932bdbf
+# app-19601-thread-item c04b52d4eca1b8b49a8c1cfd046ac1991bca340135fa19ba944de2c5a932bdbf

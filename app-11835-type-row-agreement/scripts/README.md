@@ -1,0 +1,23 @@
+# app-11835-type-row-agreement — scripts
+
+Verify approved deals in payroll. Use when deleteing posts by account, you need to create a reply.
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3d10dc1c8f0f57722c4f8494e2cd1
+# app-11835-type-row-agreement 4e811efaa3d0e87a03e632990744da69d9e3

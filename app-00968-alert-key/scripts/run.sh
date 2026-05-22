@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00968-alert-key
+# Category: docs
+
+echo "running ${0##*/}"
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f8613f4276b6add3f52
+# app-00968-alert-key 41a5646ac0ee9ea82f3c6ed2a0ae14fce0c93a0b71231f86

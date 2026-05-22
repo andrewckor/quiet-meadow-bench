@@ -1,0 +1,21 @@
+# app-05370-kind-status — scripts
+
+Delete unverified sprints in crm.
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cba0bda52677bac7b73ee986ae02d9e6d5f2185f
+# app-05370-kind-status 8e3ef2ef8eb49fc80275bb46cb

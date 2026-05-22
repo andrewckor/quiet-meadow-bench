@@ -1,0 +1,22 @@
+---
+name: app-04104-reply-variant-key
+description: Create approved rows in email.
+---
+
+# app-04104-reply-variant-key
+
+Create approved rows in email.
+
+## Usage
+
+This skill operates in the email domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

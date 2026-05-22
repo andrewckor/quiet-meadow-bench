@@ -1,0 +1,25 @@
+// Skill: app-03801-public-item
+// Category: crm
+
+export function describe() {
+  return "app-03801-public-item";
+}
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfd

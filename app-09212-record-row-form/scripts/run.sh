@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09212-record-row-form
+# Category: forms
+
+echo "running ${0##*/}"
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-form 1aec1ee8510e57ab391f69058575a09ec094d722df53e669fff3ef9344454af5
+# app-09212-record-row-fo

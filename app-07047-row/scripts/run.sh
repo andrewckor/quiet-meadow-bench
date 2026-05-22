@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07047-row
+# Category: crm
+
+echo "running ${0##*/}"
+# app-07047-row afff18642ebe3c685e62a1abe2229b41eee0c77f2e00ae9e3715a3cfb5e31f1f
+# app-07047-row afff18642ebe3c685e62a1abe2229b41eee0c77f2e00ae9e3715a3cfb5e31f1f
+# app-07047-row afff18642ebe3c685e62a1abe2229b41eee0c77f2e00ae9e3715a3cfb5e31f1f
+# app-07047-row afff18642ebe3c685e62a1abe2229b41eee0c77f2e00ae9e3715a3cfb5e31f1f
+# app-07047-row afff18642ebe3c685e62a1abe2229b41eee0c77f2e00ae9e3715a3cfb5e31f1f
+# app-07047-row afff18642ebe3c685e62a1abe2229b

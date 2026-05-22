@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09327-forecast-log-permission
+# Category: booking
+
+echo "running ${0##*/}"
+# app-09327-forecast-log-permission 0b8541d2ce8a797975bad9d708a816256f4102f9f8f67e2c920756bee6b4e848
+# app-09327-forecast-log-permission 0b8541d2

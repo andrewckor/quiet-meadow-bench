@@ -1,0 +1,13 @@
+# app-11235-active-value — scripts
+
+Update approved mentions in crm. Use when untaging refs by section.
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb09b23220db1cd03a2800fed6a04983c6f8caf69c002864ffc233cfac
+# app-11235-active-value 3357a3bb0

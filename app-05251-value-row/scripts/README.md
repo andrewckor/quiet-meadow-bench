@@ -1,0 +1,19 @@
+# app-05251-value-row — scripts
+
+Delete inactive rows in crm. Use when managing draft deadlines, you need to create a column.
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e8102a65a39f7ece9c5e0c38eab47cd25ffbda9359a709c
+# app-05251-value-row 98ca1692ab0bfc532e810

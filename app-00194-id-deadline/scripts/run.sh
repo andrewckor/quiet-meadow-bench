@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00194-id-deadline
+# Category: email
+
+echo "running ${0##*/}"
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-00194-id-deadline 276f88b6fe04fe1bf8b3ed892c9a0d23d6dd000959cee1ee9bee96b1a81b92a2
+# app-0

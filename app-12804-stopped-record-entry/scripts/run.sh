@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12804-stopped-record-entry
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe5502033843f80e56191d0d0bf102c68a0081e6ed85dec0e4beb67b818f23
+# app-12804-stopped-record-entry 4cbe550203

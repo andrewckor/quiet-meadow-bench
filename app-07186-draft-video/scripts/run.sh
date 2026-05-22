@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07186-draft-video
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd2667f00dad34eceaec8977
+# app-07186-draft-video 4182afd29ff45b058d898166603e8afc7ca08a2bdd266

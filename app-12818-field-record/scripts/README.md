@@ -1,0 +1,31 @@
+# app-12818-field-record — scripts
+
+Add closed entrys in chat. Use when tracking active deal changes, tracking closed retrospective changes.
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df8b7b340a02900f31a5ede1472901b7cdd137d0be2594bce0e6eb4e074fd8
+# app-12818-field-record 09df

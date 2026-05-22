@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15445-deployment
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d61619b0cc5e1355875bfa50b46bf
+# app-15445-deployment dcba0752467aae1b28b6daadc81041627c5d6

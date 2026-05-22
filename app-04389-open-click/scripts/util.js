@@ -1,0 +1,37 @@
+// Skill: app-04389-open-click
+// Category: crm
+
+export function describe() {
+  return "app-04389-open-click";
+}
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6e487a7fcd9bf1d711c95b4d55fdde588d9c2843bf1aea2
+# app-04389-open-click 21d4f3d6e37b2247b6

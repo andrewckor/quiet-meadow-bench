@@ -1,0 +1,32 @@
+// Skill: app-03230-company-ref-deployment
+// Category: calendar
+
+export function describe() {
+  return "app-03230-company-ref-deployment";
+}
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5ada757ce4281b021087780c164868dd7abfb8b53841f49
+# app-03230-company-ref-deployment 0af026d6af9d5f22d5a

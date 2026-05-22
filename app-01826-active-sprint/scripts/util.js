@@ -1,0 +1,18 @@
+// Skill: app-01826-active-sprint
+// Category: crm
+
+export function describe() {
+  return "app-01826-active-sprint";
+}
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c818434f76d6aa77f37da4d3b52e754a1d2de
+# app-01826-active-sprint 61b86322db41e587b8535daba70c81

@@ -1,0 +1,23 @@
+// Skill: app-14368-inactive-record-funnel
+// Category: chat
+
+export function describe() {
+  return "app-14368-inactive-record-funnel";
+}
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a4a52f5f399b80d259ce2d9aa0ebdedc5ea23cb29eb25eba0a178c63392
+# app-14368-inactive-record-funnel 58f93a

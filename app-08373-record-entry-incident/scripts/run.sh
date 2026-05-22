@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08373-record-entry-incident
+# Category: ci-cd
+
+echo "running ${0##*/}"
+# app-08373-record-entry-incident ae859ff05551514ffa820f140520eb9b3cbdeca6fdcfcc3fc1a33e2aa7c97120
+# app-08373-record-entry-incident ae859ff055515

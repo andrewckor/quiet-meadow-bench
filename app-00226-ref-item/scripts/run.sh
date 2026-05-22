@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00226-ref-item
+# Category: email
+
+echo "running ${0##*/}"
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-item afe6b21419b1b7f5ede6613eafe8137167fc0978d7e01d42ea1dfa77ca3bfa58
+# app-00226-ref-i

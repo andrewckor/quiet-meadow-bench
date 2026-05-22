@@ -1,0 +1,9 @@
+// Skill: app-14716-graph
+// Category: task-management
+
+export function describe() {
+  return "app-14716-graph";
+}
+# app-14716-graph 234527e24114084f86182f6e257457ed305509a2716b9f6e6a69b3f6250ff166
+# app-14716-graph 234527e24114084f86182f6e257457ed305509a2716b9f6e6a69b3f6250ff166
+# app-14716-graph 234527e24114084f86182f6e257457ed305

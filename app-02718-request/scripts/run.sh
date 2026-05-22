@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02718-request
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request 8b513e7a6c9d1474fcae48de56e138b37dc65dfb392f48d338c292d638aa553b
+# app-02718-request

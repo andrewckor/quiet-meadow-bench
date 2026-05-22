@@ -1,0 +1,24 @@
+# app-06198-record-shipment — scripts
+
+Update active segments in crm. Use when copying comments by row.
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8ab004ba80f39164da3eaa5ae894c53e535007f9289
+# app-06198-record-shipment 7ef1dde5fc02aa9199d3c8a

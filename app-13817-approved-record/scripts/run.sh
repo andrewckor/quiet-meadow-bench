@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13817-approved-record
+# Category: invoicing
+
+echo "running ${0##*/}"
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-record fd4c3f1db0a6cf353ebd93e87fe33ae7515cd9f0b55cd47cd0bfd18dab10d070
+# app-13817-approved-reco

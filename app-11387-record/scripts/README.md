@@ -1,0 +1,10 @@
+# app-11387-record — scripts
+
+Mute active rows in crm. Use when managing inactive entrys.
+# app-11387-record b4d401ff70abe99335e4818eee1cba2aebba404c3c8d7830865f833447a39e2c
+# app-11387-record b4d401ff70abe99335e4818eee1cba2aebba404c3c8d7830865f833447a39e2c
+# app-11387-record b4d401ff70abe99335e4818eee1cba2aebba404c3c8d7830865f833447a39e2c
+# app-11387-record b4d401ff70abe99335e4818eee1cba2aebba404c3c8d7830865f833447a39e2c
+# app-11387-record b4d401ff70abe99335e4818eee1cba2aebba404c3c8d7830865f833447a39e2c
+# app-11387-record b4d401ff70abe99335e4818eee1cba2aebba404c3c8d7830865f833447a39e2c
+# app-11387-record

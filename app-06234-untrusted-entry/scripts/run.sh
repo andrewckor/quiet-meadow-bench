@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06234-untrusted-entry
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+# app-06234-untrusted-entry 865a5da89bf184f96e74de00120bd1e1a8b6fe3f6f66ed6754f043a0ab53bbac
+#

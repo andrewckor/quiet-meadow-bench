@@ -1,0 +1,8 @@
+// Skill: app-05836-snapshot-record
+// Category: email
+
+export function describe() {
+  return "app-05836-snapshot-record";
+}
+# app-05836-snapshot-record f83f08e46a32d44bbaae750db90ff9a5d6166e96d03b6b0a34c50639f2354b7f
+# app-05836-snapshot-record f83f08e46a32d44bbaae750db90ff9a5d6166e96d03b6b0a

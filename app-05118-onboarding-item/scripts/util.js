@@ -1,0 +1,18 @@
+// Skill: app-05118-onboarding-item
+// Category: calendar
+
+export function describe() {
+  return "app-05118-onboarding-item";
+}
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c8c05c51e55e376a09ddaa5e2e8bd83ba809c8e72188aa87fe9507d34d6f429c
+# app-05118-onboarding-item c

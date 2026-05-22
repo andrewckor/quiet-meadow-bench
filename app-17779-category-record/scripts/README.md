@@ -1,0 +1,14 @@
+# app-17779-category-record — scripts
+
+Delete old types in ticketing. Use when importing roles by stage, you need to unassign a feature-flag.
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a52621421657f9e6bb7453
+# app-17779-category-record 82bfab4a1d2775fd318902ac4276530f65caebc150a

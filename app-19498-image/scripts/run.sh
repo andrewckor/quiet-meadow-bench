@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19498-image
+# Category: docs
+
+echo "running ${0##*/}"
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5dfb77e71c946739aa27e8ffa6c912
+# app-19498-image 81adf14defb631d705b9dcdb24d6d42d3b5d

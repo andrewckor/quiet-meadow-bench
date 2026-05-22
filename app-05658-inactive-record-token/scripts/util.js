@@ -1,0 +1,32 @@
+// Skill: app-05658-inactive-record-token
+// Category: crm
+
+export function describe() {
+  return "app-05658-inactive-record-token";
+}
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff66327a73d0101e76
+# app-05658-inactive-record-token e9fb5c0208403ba8e18a870dc7c5c18ec9f033c2d4aa88ff6

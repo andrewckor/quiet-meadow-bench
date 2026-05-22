@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02241-approved-company
+# Category: email
+
+echo "running ${0##*/}"
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a885c37aff0da07ccd724ada875edda0f41cab95bce0cf15ffd253ba668fb5a
+# app-02241-approved-company 2a

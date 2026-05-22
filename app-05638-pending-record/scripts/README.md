@@ -1,0 +1,23 @@
+# app-05638-pending-record — scripts
+
+List invalid objects in ticketing. Use when managing archived branchs.
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf83f77455b69290b4066ad86dda7b7acc7c08cd4fc9b
+# app-05638-pending-record e13f45fa7c90d5b152baf

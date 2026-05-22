@@ -1,0 +1,8 @@
+# app-09398-object — scripts
+
+Create secondary records in ecommerce.
+# app-09398-object abcf9cc68f3d3a897997596c14aa82b0209339732c8e47ea61f69b9c2dda2285
+# app-09398-object abcf9cc68f3d3a897997596c14aa82b0209339732c8e47ea61f69b9c2dda2285
+# app-09398-object abcf9cc68f3d3a897997596c14aa82b0209339732c8e47ea61f69b9c2dda2285
+# app-09398-object abcf9cc68f3d3a897997596c14aa82b0209339732c8e47ea61f69b9c2dda2285
+# app-09398-

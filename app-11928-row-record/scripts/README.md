@@ -1,0 +1,10 @@
+# app-11928-row-record — scripts
+
+Schedule rejected shipments in crm.
+# app-11928-row-record f676e329edc496abfbd11b366b1cb06e972584af05a81fd63e6cc0507ba49710
+# app-11928-row-record f676e329edc496abfbd11b366b1cb06e972584af05a81fd63e6cc0507ba49710
+# app-11928-row-record f676e329edc496abfbd11b366b1cb06e972584af05a81fd63e6cc0507ba49710
+# app-11928-row-record f676e329edc496abfbd11b366b1cb06e972584af05a81fd63e6cc0507ba49710
+# app-11928-row-record f676e329edc496abfbd11b366b1cb06e972584af05a81fd63e6cc0507ba49710
+# app-11928-row-record f676e329edc496abfbd11b366b1cb06e972584af05a81fd63e6cc0507ba49710
+# app-11928-row-record f676e329edc496abfbd11b366b1cb06e972584af05

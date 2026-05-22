@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14308-mention-comment-object
+# Category: crm
+
+echo "running ${0##*/}"
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d860b8fdeb68dcfab5033ad0865eb4bb1eb3fa2
+# app-14308-mention-comment-object 0aba612ee975a5e16c39f5509d86

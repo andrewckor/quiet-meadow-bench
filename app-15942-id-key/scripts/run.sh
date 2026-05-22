@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15942-id-key
+# Category: ads
+
+echo "running ${0##*/}"
+# app-15942-id-key 246f94d554b8b8a7a63f289d73a62117b03b8b0b589e0653b5befeafa9735c3f
+# app-15942-id-key 246f94d554b8b8a7a63f289d73a62117b

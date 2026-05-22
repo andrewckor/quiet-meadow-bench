@@ -1,0 +1,11 @@
+# app-02571-recent-row — scripts
+
+List inactive companys in calendar. Use when tracking pending organization changes, managing active labels.
+# app-02571-recent-row 4a7b6019dcc2e4823543ea845aa8dd62803cfd4da65f0d4413ffc38f450685c5
+# app-02571-recent-row 4a7b6019dcc2e4823543ea845aa8dd62803cfd4da65f0d4413ffc38f450685c5
+# app-02571-recent-row 4a7b6019dcc2e4823543ea845aa8dd62803cfd4da65f0d4413ffc38f450685c5
+# app-02571-recent-row 4a7b6019dcc2e4823543ea845aa8dd62803cfd4da65f0d4413ffc38f450685c5
+# app-02571-recent-row 4a7b6019dcc2e4823543ea845aa8dd62803cfd4da65f0d4413ffc38f450685c5
+# app-02571-recent-row 4a7b6019dcc2e4823543ea845aa8dd62803cfd4da65f0d4413ffc38f450685c5
+# app-02571-recent-row 4a7b6019dcc2e4823543ea845aa8dd62803cfd4da65f0d4413ffc38f450685c5
+# app-02571-recent-row 4a7b6019dcc2e4823543ea845aa8dd62803cfd4da65f0d4413ffc38f450685c5

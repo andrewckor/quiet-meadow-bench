@@ -1,0 +1,23 @@
+// Skill: app-11233-reaction
+// Category: ci-cd
+
+export function describe() {
+  return "app-11233-reaction";
+}
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30

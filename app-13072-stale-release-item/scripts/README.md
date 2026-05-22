@@ -1,0 +1,35 @@
+# app-13072-stale-release-item — scripts
+
+Create untrusted assets in calendar. Use when tracking rejected stage changes, you need to duplicate a item.
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc89000b887504f866e27066a7bb51b67282ea3bde3aa4adafa1e12536b9992
+# app-13072-stale-release-item 1fc

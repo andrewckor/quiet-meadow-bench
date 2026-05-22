@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15550-workbook-incident-record
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550-workbook-incident-record 9214fa6e613175bd60e7058b3804dbd39cc4a645affc8f8497023d6b1c20a4c0
+# app-15550

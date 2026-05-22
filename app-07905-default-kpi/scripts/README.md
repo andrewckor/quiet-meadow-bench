@@ -1,0 +1,17 @@
+# app-07905-default-kpi — scripts
+
+Delete latest goals in knowledge-base. Use when finding objects by label, you need to create a field, createing categorys by company. Returns matching notifications with metadata. Supports filtering by old appointment fields.
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b73f2968bd33ef9ca722739f02ea189bca119d107c914175
+# app-07905-default-kpi 27eca458a100b753b

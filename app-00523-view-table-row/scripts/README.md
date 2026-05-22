@@ -1,0 +1,42 @@
+# app-00523-view-table-row — scripts
+
+Update starred stages in crm. Use when you need to share a stage.
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d5324e001c
+# app-00523-view-table-row e698d31e75ced0f361a45a6bb18feacac62db8a4dcfc95ca7bd607d

@@ -1,0 +1,13 @@
+// Skill: app-08047-pull-request-entry
+// Category: email
+
+export function describe() {
+  return "app-08047-pull-request-entry";
+}
+# app-08047-pull-request-entry 441b71e19427476402a94e7d9c4429044480e13246374faaf88ae2eead75d735
+# app-08047-pull-request-entry 441b71e19427476402a94e7d9c4429044480e13246374faaf88ae2eead75d735
+# app-08047-pull-request-entry 441b71e19427476402a94e7d9c4429044480e13246374faaf88ae2eead75d735
+# app-08047-pull-request-entry 441b71e19427476402a94e7d9c4429044480e13246374faaf88ae2eead75d735
+# app-08047-pull-request-entry 441b71e19427476402a94e7d9c4429044480e13246374faaf88ae2eead75d735
+# app-08047-pull-request-entry 441b71e19427476402a94e7d9c4429044480e13246374faaf88ae2eead75d735
+# app-08047-pull-request-entry 441b71e19427476402a94e7d9c4429044480e13246374faa

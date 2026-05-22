@@ -1,0 +1,22 @@
+---
+name: app-07922-record-dashboard-comment
+description: Update full ids in logging.
+---
+
+# app-07922-record-dashboard-comment
+
+Update full ids in logging.
+
+## Usage
+
+This skill operates in the logging domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

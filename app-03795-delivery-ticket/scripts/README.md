@@ -1,0 +1,20 @@
+# app-03795-delivery-ticket — scripts
+
+Convert active rows in ticketing. Use when you need to remove a incident, geting records by question.
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1a52e70
+# app-03795-delivery-ticket a6d1f099ec8bcb8c398672a3d635ec1e42af49007c292da70fd1494fd1

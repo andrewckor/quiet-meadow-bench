@@ -1,0 +1,21 @@
+// Skill: app-17634-bookmark-review
+// Category: hr
+
+export function describe() {
+  return "app-17634-bookmark-review";
+}
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316afd5dc
+# app-17634-bookmark-review ff484f25fb562d76b8d3a781de9f250343fee84faead18787bf9875316a

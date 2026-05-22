@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11344-contact-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-record 7135f816ba72a5a44c8f64caf99989a59d099fd35b095adcf3af59df5d92c760
+# app-11344-contact-r

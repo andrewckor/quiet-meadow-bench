@@ -1,0 +1,21 @@
+// Skill: app-09269-partial-item-row
+// Category: calendar
+
+export function describe() {
+  return "app-09269-partial-item-row";
+}
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269-partial-item-row d6fa60eefead49a06b176b14b5b193c34932046cd286f679615f74df9258ee85
+# app-09269

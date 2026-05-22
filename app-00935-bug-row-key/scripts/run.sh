@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00935-bug-row-key
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00935-bug-row-key bdfee8f19e8032f54a0906b0604dfb066d7c72cba172c3a314be59d23529c626
+# app-00935-bug-row-key bdfee8f19e8032f54a0906b0604dfb066d7c72

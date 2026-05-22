@@ -1,0 +1,39 @@
+// Skill: app-01566-archived-row-record
+// Category: video-conferencing
+
+export function describe() {
+  return "app-01566-archived-row-record";
+}
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archived-row-record 065359a483c0de10c0be8e3285a1d2345abc1dc7fd9f2e8f495a857aff7f7927
+# app-01566-archi

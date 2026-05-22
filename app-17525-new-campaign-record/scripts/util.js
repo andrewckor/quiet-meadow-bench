@@ -1,0 +1,34 @@
+// Skill: app-17525-new-campaign-record
+// Category: crm
+
+export function describe() {
+  return "app-17525-new-campaign-record";
+}
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-17525-new-campaign-record 92d4ded9e461d5f23f900350e7f8463f1feaaecfe996262f9165892351bf8c09
+# app-175

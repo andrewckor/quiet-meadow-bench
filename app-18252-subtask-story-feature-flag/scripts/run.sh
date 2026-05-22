@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18252-subtask-story-feature-flag
+# Category: crm
+
+echo "running ${0##*/}"
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc520a4712e593b686efcedaf0a0f3
+# app-18252-subtask-story-feature-flag cf2fb971c69d8a47d41d189c88adf7e0d8dc5

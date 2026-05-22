@@ -1,0 +1,20 @@
+// Skill: app-19471-latest-preference
+// Category: notes
+
+export function describe() {
+  return "app-19471-latest-preference";
+}
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abdc270a5742c7f133e427373b59303cd91036cc53d3262ead5720
+# app-19471-latest-preference 61cebac475abd

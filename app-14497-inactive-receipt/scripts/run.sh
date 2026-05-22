@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14497-inactive-receipt
+# Category: project-management
+
+echo "running ${0##*/}"
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+# app-14497-inactive-receipt ab4962840bf7b54b42aafece2740a526ae3839b88907de4ad1f0d29a12595e6b
+#

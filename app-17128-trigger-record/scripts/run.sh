@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17128-trigger-record
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab1b8027dc49e3c
+# app-17128-trigger-record 60fd870890f15996fe10ce946d36eb36e18ec45a138b1ba4fab

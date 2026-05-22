@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16232-retrospective-id
+# Category: marketing
+
+echo "running ${0##*/}"
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c7456e457094bf6896cac30fdb51d4fa868cdcc
+# app-16232-retrospective-id 07364a2a3e2be4d41b2e184e6c

@@ -1,0 +1,33 @@
+// Skill: app-10966-story-item
+// Category: video-conferencing
+
+export function describe() {
+  return "app-10966-story-item";
+}
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6b875818ef26ad2
+# app-10966-story-item 9d16bb9dac93543f2634e5ecdde159b6cfcd0b3d3c7a995bc6

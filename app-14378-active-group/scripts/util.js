@@ -1,0 +1,9 @@
+// Skill: app-14378-active-group
+// Category: spreadsheets
+
+export function describe() {
+  return "app-14378-active-group";
+}
+# app-14378-active-group d839b873a1781c204c71fa0d351c22ff118249317a58f959a6f61f58fd3deacc
+# app-14378-active-group d839b873a1781c204c71fa0d351c22ff118249317a58f959a6f61f58fd3deacc
+# app-14378-active-group d839b873a1781c204c71fa0d351c22ff11824

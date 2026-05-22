@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12371-merge-request-tag
+# Category: invoicing
+
+echo "running ${0##*/}"
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a8f046e675e4e
+# app-12371-merge-request-tag 76b4783354ef44ed641efd331a1bcac81d628e8f9d5dae16eb9a

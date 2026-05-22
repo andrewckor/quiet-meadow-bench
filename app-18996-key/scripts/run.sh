@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18996-key
+# Category: error-tracking
+
+echo "running ${0##*/}"
+# app-18996-key f0e028990f98e08c38da9ee3b7c924b3746fb7365aa68a2f874a718be1dcdd60
+# app-18996-key f0e028990f98e08c38da9ee3b7c924b3746fb7365aa68a2f874a718be1dcdd60
+# app-18996-key f0e028990f98e08c38da9ee3b7c924b3746fb7365aa68a2f874a718be1dcdd60
+# app-18996-key f0e028990f98e08c38da9ee3b7c924b3746fb7365aa68a2f874a718be1dcdd60
+# app-18996-key f0e028990f98e08c38da9ee3b7c924b3746fb7365aa68a2f874a718be1dcdd60
+# app-18996-key f0e028990f98e08c38da9ee3b7c924b3746fb7365aa68a2f874a718be1dcdd60
+# app-18996-key f0e028990f98e08c38da9ee3b7c924b3746fb7365aa68a2f874a

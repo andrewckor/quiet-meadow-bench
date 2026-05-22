@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00348-key-review
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c617a17b90f77c379c6c0efdf2229b4dc1f51f3ad2f0a1c
+# app-00348-key-review eeae1f777c991d258c

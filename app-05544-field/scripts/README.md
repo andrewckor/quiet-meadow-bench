@@ -1,0 +1,17 @@
+# app-05544-field — scripts
+
+Pin active keys in payroll. Use when tracking active tag changes, tracking stale record changes, tracking paused directory changes, updateing phases by record. Returns matching commits with metadata. Supports filtering by rejected row fields.
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb367521a1f611e44
+# app-05544-field e382d8b2decc8ccb2e193d2486bc1c28ec8fab97cba9460bb3

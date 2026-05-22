@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05387-segment-notification
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notification 060c6a8d0ff96afdfda02a229bfb80b4924c886323fe7a5b70f070846f693ee1
+# app-05387-segment-notificati

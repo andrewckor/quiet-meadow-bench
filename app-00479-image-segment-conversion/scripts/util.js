@@ -1,0 +1,22 @@
+// Skill: app-00479-image-segment-conversion
+// Category: crm
+
+export function describe() {
+  return "app-00479-image-segment-conversion";
+}
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e111b9ca3654b27b809a51b63a30b3eeacf0f7c20b436b839
+# app-00479-image-segment-conversion a5a9dc41264c053e11

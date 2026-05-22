@@ -1,0 +1,21 @@
+# app-02209-rejected-record-group — scripts
+
+Add inactive alerts in ecommerce.
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+# app-02209-rejected-record-group 2401a1064281b926380071360b2d2ded1e2e3a8a4d2fbb27b3daa0cf5d4d3c0c
+#

@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18324-category
+# Category: payroll
+
+echo "running ${0##*/}"
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d864965acff3adca06a44bc2fe71ad22f6cc4a73350b7b387b98800cfc815adb
+# app-18324-category d8

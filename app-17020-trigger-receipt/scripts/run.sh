@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17020-trigger-receipt
+# Category: crm
+
+echo "running ${0##*/}"
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-trigger-receipt d1d3475d44f8367c1ace69a012a3b5b6400b648e1c906a50e979f65ae00a52c7
+# app-17020-tr

@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11233-reaction
+# Category: ci-cd
+
+echo "running ${0##*/}"
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reaction 25d67c8f19063e30774dcc4af1d778deede5dd80ea07ccf7c99f2174db4f1df8
+# app-11233-reacti

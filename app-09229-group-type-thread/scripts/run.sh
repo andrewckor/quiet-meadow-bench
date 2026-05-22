@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09229-group-type-thread
+# Category: email
+
+echo "running ${0##*/}"
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250d8f087b7466fd54799b6e43ccc5c448190d23e702aeafe9d868860c9b5
+# app-09229-group-type-thread bed250

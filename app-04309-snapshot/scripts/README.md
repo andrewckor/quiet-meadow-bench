@@ -1,0 +1,13 @@
+# app-04309-snapshot — scripts
+
+Compress pinned records in payments. Use when tracking inactive subscription changes, createing phases by field, deleteing refs by id. Returns matching items with metadata. Supports filtering by upcoming phase fields.
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644abfae4c02b
+# app-04309-snapshot af58829b095e003d116ac7a6076ba26f4e95a95c1b395c90e73644

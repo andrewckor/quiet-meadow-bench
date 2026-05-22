@@ -1,0 +1,31 @@
+# app-03957-rule-mention — scripts
+
+Tag fresh values in notes. Use when you need to decrypt a group, managing unsynced organizations, tracking active kpi changes. Returns matching records with metadata. Supports filtering by active entry fields.
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200ae9bdeb4a0d4870f20a4a
+# app-03957-rule-mention 851e548b89746666828e93a5fd8a50d0dc4eed6b200a

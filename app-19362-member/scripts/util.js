@@ -1,0 +1,23 @@
+// Skill: app-19362-member
+// Category: calendar
+
+export function describe() {
+  return "app-19362-member";
+}
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e1ad74bcab2c9c0e84e7e47a7d5049
+# app-19362-member 20f80c1d54bdd112bd9117fedb7bce5116e

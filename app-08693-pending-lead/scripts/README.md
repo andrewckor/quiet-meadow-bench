@@ -1,0 +1,13 @@
+# app-08693-pending-lead — scripts
+
+Create inactive keys in crm. Use when tracking secondary record changes.
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de19d6570da2d7d8bb659c4b80ea7f36
+# app-08693-pending-lead b3eabcc952a7056e2294c84464bdac23de

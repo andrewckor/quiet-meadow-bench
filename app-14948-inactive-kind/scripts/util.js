@@ -1,0 +1,37 @@
+// Skill: app-14948-inactive-kind
+// Category: marketing
+
+export function describe() {
+  return "app-14948-inactive-kind";
+}
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777bb0
+# app-14948-inactive-kind efe5b58538f2f981895ecb32f9ad2b29cfd23305ab7d409b48ff7afad4777

@@ -1,0 +1,23 @@
+# app-14654-open-license-issue — scripts
+
+Delete active bugs in marketing. Use when managing failed records.
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 97059105162b37b33d25bfca5b07aeb5d9eb9084b4359b06e1c4b89d9e30bce0
+# app-14654-open-license-issue 970591051

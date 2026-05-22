@@ -1,0 +1,15 @@
+// Skill: app-06297-status-story-category
+// Category: surveys
+
+export function describe() {
+  return "app-06297-status-story-category";
+}
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8ad5d93063c944cacf95c298
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8ad5d93063c944cacf95c298
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8ad5d93063c944cacf95c298
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8ad5d93063c944cacf95c298
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8ad5d93063c944cacf95c298
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8ad5d93063c944cacf95c298
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8ad5d93063c944cacf95c298
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8ad5d93063c944cacf95c298
+# app-06297-status-story-category f743cbb206340cf4667307a2b4024d387624807d8

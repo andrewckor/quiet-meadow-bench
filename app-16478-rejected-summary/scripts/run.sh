@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16478-rejected-summary
+# Category: email
+
+echo "running ${0##*/}"
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572ae415b55719cfc7e79ab72c0280313463171e620d6e5fc3a887bf7ca1613
+# app-16478-rejected-summary 2572a

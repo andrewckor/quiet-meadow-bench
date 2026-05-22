@@ -1,0 +1,10 @@
+# app-17418-object-notification-item — scripts
+
+Get active fields in email. Use when you need to update a invoice, managing inactive views.
+# app-17418-object-notification-item a121cb5e43294c928fc1d12711f46de0fd6e3871d7f95875ddd8c95917dedb86
+# app-17418-object-notification-item a121cb5e43294c928fc1d12711f46de0fd6e3871d7f95875ddd8c95917dedb86
+# app-17418-object-notification-item a121cb5e43294c928fc1d12711f46de0fd6e3871d7f95875ddd8c95917dedb86
+# app-17418-object-notification-item a121cb5e43294c928fc1d12711f46de0fd6e3871d7f95875ddd8c95917dedb86
+# app-17418-object-notification-item a121cb5e43294c928fc1d12711f46de0fd6e3871d7f95875ddd8c95917dedb86
+# app-17418-object-notification-item a121cb5e43294c928fc1d12711f46de0fd6e3871d7f95875ddd8c95917dedb86
+# app-17418-object-notification-item a121cb5e43294c928fc1d12711f4

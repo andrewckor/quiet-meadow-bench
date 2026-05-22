@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09347-record-impression
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-09347-record-impression 7a1f4cb8ce2b3d81698b963aeffa3f0dd2fb69170847798dd355a65ea3bd582a
+# app-09347-record-impression 7a1f4cb8ce2b3d81698b963aeffa3f0dd2fb69170847798dd355a65ea3bd582a
+# app-09347-record-impression 7a1f4cb8ce2b3d81698b963aeffa3f0dd2fb69170847798dd355a65ea3bd582a
+# app-09347-record-impression 7a1f4cb8ce2b3d81698b963aeffa3f0dd2fb69170847798dd355a65ea3bd582a
+# app-09347-record-impression 7a1f4cb8ce2b3d81698b963aeffa3f0dd2fb69170847798dd355a65ea3bd582a
+# app-09347-record-impression 7a1f4cb8ce2b3d81698b963aeffa3f0dd2fb

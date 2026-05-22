@@ -1,0 +1,26 @@
+// Skill: app-10294-tag
+// Category: invoicing
+
+export function describe() {
+  return "app-10294-tag";
+}
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# app-10294-tag d59569c91eadced91a965bcff10d513b62f2a4100ad3f08cb75ff329ecfd0d4a
+# ap

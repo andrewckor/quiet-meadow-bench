@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11864-item-row-organization
+# Category: crm
+
+echo "running ${0##*/}"
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-organization b10c71fb16f483851a1ee5cd4571b9e12206ee6c7c4f2c1222ad1c51f963c327
+# app-11864-item-row-

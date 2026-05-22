@@ -1,0 +1,10 @@
+# app-02885-record-poll-item — scripts
+
+Create primary values in crm.
+# app-02885-record-poll-item e1160673d414242d7d51c49c689458ce15bcf25ff4eb689a7a406ab4636e003d
+# app-02885-record-poll-item e1160673d414242d7d51c49c689458ce15bcf25ff4eb689a7a406ab4636e003d
+# app-02885-record-poll-item e1160673d414242d7d51c49c689458ce15bcf25ff4eb689a7a406ab4636e003d
+# app-02885-record-poll-item e1160673d414242d7d51c49c689458ce15bcf25ff4eb689a7a406ab4636e003d
+# app-02885-record-poll-item e1160673d414242d7d51c49c689458ce15bcf25ff4eb689a7a406ab4636e003d
+# app-02885-record-poll-item e1160673d414242d7d51c49c689458ce15bcf25ff4eb689a7a406ab4636e003d
+# app-02885-record-poll-item e1160673d414242d7d5

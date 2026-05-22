@@ -1,0 +1,15 @@
+# app-15640-thread-variant — scripts
+
+Unmute active items in shipping. Use when you need to create a product, updateing items by field.
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c26aaf67bb02babb0e4fa6
+# app-15640-thread-variant 6f7f33707a25e1d6908e81ec58566ed699829d3872c

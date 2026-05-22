@@ -1,0 +1,17 @@
+# app-18327-item-deal-organization — scripts
+
+Find valid records in chat. Use when deleteing rows by poll.
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb40430d9c3b7da25db4c889d4aa6020b89f949cefd3
+# app-18327-item-deal-organization a310270ce077555e4b4fdb4

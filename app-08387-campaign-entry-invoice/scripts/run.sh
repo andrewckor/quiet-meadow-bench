@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08387-campaign-entry-invoice
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b7d06cd8e4c1acb029453cbd6e88965d127bd1169a8be96aa90503b
+# app-08387-campaign-entry-invoice 7bdc82d26b

@@ -1,0 +1,24 @@
+// Skill: app-12684-published-report
+// Category: surveys
+
+export function describe() {
+  return "app-12684-published-report";
+}
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# app-12684-published-report 5e1f809f503d2750a2e8066f6a6519d7dd35f1e2d86b3aabb1769ac8eedef2e9
+# 

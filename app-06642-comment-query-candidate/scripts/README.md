@@ -1,0 +1,16 @@
+# app-06642-comment-query-candidate — scripts
+
+Fetch active items in video-conferencing.
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-query-candidate 65b04a943d4117d897ce466f1ac955635ae8ce86d62261cc07eb693a693605e4
+# app-06642-comment-

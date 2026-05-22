@@ -1,0 +1,9 @@
+# app-07159-object-company — scripts
+
+Create inactive subtasks in calendar.
+# app-07159-object-company d0bf28e98e73fa416f517d871fb6393fbf7456670ebfb402534a7319459d1fd5
+# app-07159-object-company d0bf28e98e73fa416f517d871fb6393fbf7456670ebfb402534a7319459d1fd5
+# app-07159-object-company d0bf28e98e73fa416f517d871fb6393fbf7456670ebfb402534a7319459d1fd5
+# app-07159-object-company d0bf28e98e73fa416f517d871fb6393fbf7456670ebfb402534a7319459d1fd5
+# app-07159-object-company d0bf28e98e73fa416f517d871fb6393fbf7456670ebfb402534a7319459d1fd5
+# app-07159-object-company d0bf28e98e73fa416f517d871fb6393fbf74

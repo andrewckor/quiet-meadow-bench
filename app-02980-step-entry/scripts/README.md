@@ -1,0 +1,12 @@
+# app-02980-step-entry — scripts
+
+Delete rejected logs in social-media.
+# app-02980-step-entry c79912a9ced7d7022d08151f0f50ac7b2069b65bda2a96f9bec3478c855e2d1a
+# app-02980-step-entry c79912a9ced7d7022d08151f0f50ac7b2069b65bda2a96f9bec3478c855e2d1a
+# app-02980-step-entry c79912a9ced7d7022d08151f0f50ac7b2069b65bda2a96f9bec3478c855e2d1a
+# app-02980-step-entry c79912a9ced7d7022d08151f0f50ac7b2069b65bda2a96f9bec3478c855e2d1a
+# app-02980-step-entry c79912a9ced7d7022d08151f0f50ac7b2069b65bda2a96f9bec3478c855e2d1a
+# app-02980-step-entry c79912a9ced7d7022d08151f0f50ac7b2069b65bda2a96f9bec3478c855e2d1a
+# app-02980-step-entry c79912a9ced7d7022d08151f0f50ac7b2069b65bda2a96f9bec3478c855e2d1a
+# app-02980-step-entry c79912a9ced7d7022d08151f0f50ac7b2069b65bda2a96f9bec3478c855e2d1a
+# app-02980-step-entry c79

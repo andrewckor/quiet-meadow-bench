@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17871-active-ref
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-17871-active-ref ea74c0d83a5e393c202bec4ea08f94494ead41d88996d882ccb1ac35becb6d05
+# app-1787

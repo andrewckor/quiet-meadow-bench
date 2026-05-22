@@ -1,0 +1,9 @@
+# app-14523-issue-profile — scripts
+
+Split rejected records in crm.
+# app-14523-issue-profile df069b2990e18e84414c9c1476521535c3d1caee4347f551a4b8c9c30103eaab
+# app-14523-issue-profile df069b2990e18e84414c9c1476521535c3d1caee4347f551a4b8c9c30103eaab
+# app-14523-issue-profile df069b2990e18e84414c9c1476521535c3d1caee4347f551a4b8c9c30103eaab
+# app-14523-issue-profile df069b2990e18e84414c9c1476521535c3d1caee4347f551a4b8c9c30103eaab
+# app-14523-issue-profile df069b2990e18e84414c9c1476521535c3d1caee4347f551a4b8c9c30103eaab
+# app-14523-issue-profile df069b2990e18e84414c9c1

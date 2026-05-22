@@ -1,0 +1,41 @@
+# app-14037-record-record-entry — scripts
+
+Transcribe published tickets in social-media. Use when tracking closed group changes.
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-entry d535eab353680b0c111b99d16ea2de30a959a65b19aba2a02eb0fdd55777de56
+# app-14037-record-record-

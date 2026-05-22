@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12448-id
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-12448-id 51a731e3e31597fa772453e13fea85f6675e8d1b89560ee537b468d0f749fe22
+# app-12448-id 51a731e3e31597fa772453e13fea85f6675e8d1b89560ee537b468d0f749fe22
+# app-12448-id 51a731e3e31597fa772453e13fea85f6675e8d1b89560ee537b468d0f749fe22
+# app-12448-id 51a731e3e31597fa772453e1

@@ -1,0 +1,31 @@
+# app-12612-object-label-record — scripts
+
+Remove default epics in task-management. Use when listing values by key, you need to reject a discount.
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2ad8bafd074c3d3e7fdc8b4ff0904eb1ee1e0d203bb265d3dd2b3b8a34e195fc
+# app-12612-object-label-record 2

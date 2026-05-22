@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13989-field-alert
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4d935b21209840c022c3f06d94d38e5a4bf300ce
+# app-13989-field-alert 35639bb1c9acfe8be155f91b4

@@ -1,0 +1,37 @@
+// Skill: app-17296-record-mention-mention
+// Category: crm
+
+export function describe() {
+  return "app-17296-record-mention-mention";
+}
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d937531041f9b73e
+# app-17296-record-mention-mention 4d5d847a9a47743a97e8bac4ab0db98c1b9391eab970b333d9375

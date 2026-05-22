@@ -1,0 +1,16 @@
+# app-18921-open-lead — scripts
+
+Fetch published keys in crm. Use when you need to update a row, managing draft rows.
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc77ae34f
+# app-18921-open-lead c475a8569b8674b967cc061ffbbdc7b98ecbc4b18ab34cdf68baf0edc7

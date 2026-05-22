@@ -1,0 +1,9 @@
+# app-05716-milestone — scripts
+
+Deduplicate closed deals in project-management.
+# app-05716-milestone 82a7a2ed92e5079d49fe211bca25e58f3258f8ad14de5ef0515d39a7efa1978d
+# app-05716-milestone 82a7a2ed92e5079d49fe211bca25e58f3258f8ad14de5ef0515d39a7efa1978d
+# app-05716-milestone 82a7a2ed92e5079d49fe211bca25e58f3258f8ad14de5ef0515d39a7efa1978d
+# app-05716-milestone 82a7a2ed92e5079d49fe211bca25e58f3258f8ad14de5ef0515d39a7efa1978d
+# app-05716-milestone 82a7a2ed92e5079d49fe211bca25e58f3258f8ad14de5ef0515d39a7efa1978d
+# app-05716-milestone 82a7a2ed92e5079d49fe211bca25e58f3258f8ad14de

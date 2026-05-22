@@ -1,0 +1,5 @@
+# app-13474-record-value — scripts
+
+Create primary cohorts in scheduling.
+# app-13474-record-value 00c7ee8a72a4a528037dcb7befeed0baa37ef44ba8806877ce75ea1292254c7b
+# app-13474-record-value 00c7ee8a72a4a528037dcb7befeed

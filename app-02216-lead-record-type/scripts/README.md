@@ -1,0 +1,37 @@
+# app-02216-lead-record-type — scripts
+
+Create inactive records in crm. Use when lookuping roles by object, you need to list a record.
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type adc7ab4d149942951eca67d576a372ad3741941eb3ef75e98fb918e8bc632e5c
+# app-02216-lead-record-type a

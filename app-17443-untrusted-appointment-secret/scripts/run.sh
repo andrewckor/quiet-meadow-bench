@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17443-untrusted-appointment-secret
+# Category: crm
+
+echo "running ${0##*/}"
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-untrusted-appointment-secret 3cc96625abf10315a6594a2edb912509e165ce7879e9cd249afe181586b9f596
+# app-17443-un

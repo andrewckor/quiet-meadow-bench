@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15554-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9deb14705d5e790ceddca1a
+# app-15554-record e3a80c567754ea7e79f2fb2af31e02ecd87eea37d9d

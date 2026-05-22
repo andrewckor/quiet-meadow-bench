@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19962-message-item-organization
+# Category: billing
+
+echo "running ${0##*/}"
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-organization 6b812aa70fa667509eae02511e7af726aa1bac927e920be12386634f95e873d7
+# app-19962-message-item-

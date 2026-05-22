@@ -1,0 +1,18 @@
+# app-00609-active-record — scripts
+
+Mute approved workflows in marketing. Use when rejecting actions by entry.
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-active-record 05faf8da382658b9a3d77657d1bbacfc6a3673406f8c9a96ffc95fe5161aeb57
+# app-00609-act

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11440-record-type
+# Category: forms
+
+echo "running ${0##*/}"
+# app-11440-record-type c56ff81e8bd4739479f55162f749e224498b88ce9ffb00653ab0280f5f20af60
+# app-11440-record-type c56ff81e8bd4739479f55162f749e224498b88ce9ffb00653ab0280f5f20af60
+# app-11440-record-type c56ff81e8bd4739479f55162f749e224498b88ce9ffb00653ab0280f5f20af60
+# app-11440-record-type c56ff81e8bd4739479f55162f749e224498b88ce9ffb00653

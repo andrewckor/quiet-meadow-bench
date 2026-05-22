@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01938-key-entry-contract
+# Category: payments
+
+echo "running ${0##*/}"
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f1fad835c8842aa88ed26967de
+# app-01938-key-entry-contract bcf9888bd0320cb1765bd569e73e060dc92417f

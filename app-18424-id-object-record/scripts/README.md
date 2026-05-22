@@ -1,0 +1,23 @@
+# app-18424-id-object-record — scripts
+
+Delete pending archives in video-conferencing. Use when you need to cancel a row, downloading records by shipment, you need to unshare a row, tracking active record changes. Returns matching contacts with metadata. Supports filtering by rejected lead fields.
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da76415d62cd2416fb9c4f8d
+# app-18424-id-object-record dab4172a3c799d8b1e72900af3c142c32ef38e57da7641

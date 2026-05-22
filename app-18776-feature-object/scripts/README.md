@@ -1,0 +1,17 @@
+# app-18776-feature-object — scripts
+
+Create active entrys in spreadsheets. Use when sending rows by entry, createing items by page, managing upcoming carts. Returns matching keys with metadata. Supports filtering by pending object fields.
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3d6cb5584115506c4e4e6ee313cd2be80f
+# app-18776-feature-object 4a032c7e06769df6b454d213eefcee3

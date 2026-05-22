@@ -1,0 +1,24 @@
+# app-15088-deleted-stage — scripts
+
+Create pending objects in crm.
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-15088-deleted-stage 496db762d9f5a54f9be470af105d1d5f927bf7c1cf0070ea2defd9ece36c9aa7
+# app-

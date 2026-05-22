@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02054-phone-stage
+# Category: chat
+
+echo "running ${0##*/}"
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a5beac56ec8357b45ce08af28ed3d3063fdec411fde66ae
+# app-02054-phone-stage 4ddd5a7cf87984536a

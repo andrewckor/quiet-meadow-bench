@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06776-overdue-item-vacation
+# Category: email
+
+echo "running ${0##*/}"
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22baec0a21b7851d86d5b1af1e27b4ff6f5b1b21c65806eb8d89
+# app-06776-overdue-item-vacation e61828730b1e22bae

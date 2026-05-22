@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05514-metric
+# Category: email
+
+echo "running ${0##*/}"
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f9b2e
+# app-05514-metric 295da0f3bfabbb21e060318e0ab96e5bada1cf9f1067f8ebc5420e196b2f

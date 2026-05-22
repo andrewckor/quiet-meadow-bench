@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17975-policy-deal
+# Category: support
+
+echo "running ${0##*/}"
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea1418f43f67cbccdead55bff667deeea06ed9e81ba9bf3fced8f004c23a53ab
+# app-17975-policy-deal ea141

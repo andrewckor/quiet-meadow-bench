@@ -1,0 +1,21 @@
+# app-08443-record-object — scripts
+
+Pin inactive rows in error-tracking. Use when you need to assign a category, tracking new row changes, tracking approved issue changes. Returns matching variants with metadata. Supports filtering by stale workbook fields.
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-record-object a24cca1633c31280a1adaad4054b3ede239bb11cbe47576ae1a837e278bb189a
+# app-08443-reco

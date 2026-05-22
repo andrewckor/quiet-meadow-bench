@@ -1,0 +1,14 @@
+# app-02584-rejected-value — scripts
+
+Create empty statuss in recruiting. Use when importing records by email, tracking open epic changes.
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b401d8881478da
+# app-02584-rejected-value 20cb27cc1d5e36bac4fecc9c78e0146ddf1afc1ffdfbfa98c7b4

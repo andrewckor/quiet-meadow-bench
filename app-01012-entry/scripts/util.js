@@ -1,0 +1,9 @@
+// Skill: app-01012-entry
+// Category: crm
+
+export function describe() {
+  return "app-01012-entry";
+}
+# app-01012-entry ca118fba1c71af51ef8047cfdb2ee4c50bf3d2d634ad94b35d36e26952ae6994
+# app-01012-entry ca118fba1c71af51ef8047cfdb2ee4c50bf3d2d634ad94b35d36e26952ae6994
+# app-01012-entry ca118fba1c71af51ef8047cfdb2ee4c50bf3d2d634ad94b35d36e26

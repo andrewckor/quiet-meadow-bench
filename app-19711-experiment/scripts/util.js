@@ -1,0 +1,17 @@
+// Skill: app-19711-experiment
+// Category: hr
+
+export function describe() {
+  return "app-19711-experiment";
+}
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d5

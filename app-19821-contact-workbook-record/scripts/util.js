@@ -1,0 +1,41 @@
+// Skill: app-19821-contact-workbook-record
+// Category: recruiting
+
+export function describe() {
+  return "app-19821-contact-workbook-record";
+}
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-19821-contact-workbook-record 499edf65b8a4de496bdbd33e53ed9871a7a7d61f9a13c27533dddf2f818ce1c1
+# app-

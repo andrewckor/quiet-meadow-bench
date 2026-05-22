@@ -1,0 +1,11 @@
+// Skill: app-06992-state-company
+// Category: calendar
+
+export function describe() {
+  return "app-06992-state-company";
+}
+# app-06992-state-company aca304dc643db9fd281ab6365a448325fa25a7a811b3bd00999744c474f7048d
+# app-06992-state-company aca304dc643db9fd281ab6365a448325fa25a7a811b3bd00999744c474f7048d
+# app-06992-state-company aca304dc643db9fd281ab6365a448325fa25a7a811b3bd00999744c474f7048d
+# app-06992-state-company aca304dc643db9fd281ab6365a448325fa25a7a811b3bd00999744c474f7048d
+# app-06992-state-company aca304dc643db9fd281ab6365a

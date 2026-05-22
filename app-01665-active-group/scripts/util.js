@@ -1,0 +1,39 @@
+// Skill: app-01665-active-group
+// Category: crm
+
+export function describe() {
+  return "app-01665-active-group";
+}
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+# app-01665-active-group 29020a3d040b2b3c87df6f3f8c6a3d8081abe1ed740e9c50cdde2e4df6298cda
+#

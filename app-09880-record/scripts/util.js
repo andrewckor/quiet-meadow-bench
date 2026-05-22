@@ -1,0 +1,10 @@
+// Skill: app-09880-record
+// Category: ticketing
+
+export function describe() {
+  return "app-09880-record";
+}
+# app-09880-record b30e97151ae052a5ef77e0a1467c3b3f412c9312268aa604f626848af788b16a
+# app-09880-record b30e97151ae052a5ef77e0a1467c3b3f412c9312268aa604f626848af788b16a
+# app-09880-record b30e97151ae052a5ef77e0a1467c3b3f412c9312268aa604f626848af788b16a
+# app-09880-record b30e97151ae052a5ef77e0a1467c3b3f412c9312268aa604f

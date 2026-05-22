@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08173-row-record
+# Category: wiki
+
+echo "running ${0##*/}"
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d9d07ceda6c1bb6dbf993f2bb444d7035c65acb58c0f
+# app-08173-row-record 8f00fc046d9869be55d4d

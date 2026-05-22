@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02122-row-folder
+# Category: backup
+
+echo "running ${0##*/}"
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e0ee6de288e2
+# app-02122-row-folder b27d6b77f5563c7983802fc760d43be389f3baaecbbf0c8d1bf7e

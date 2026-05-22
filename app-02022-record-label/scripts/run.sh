@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02022-record-label
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f7800e6c008e
+# app-02022-record-label cc7bbcbf82f2846dae738427440cfc9cbd1d99ae7fc139c2c299f

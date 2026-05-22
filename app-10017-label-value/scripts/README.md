@@ -1,0 +1,20 @@
+# app-10017-label-value — scripts
+
+Delete archived tags in crm. Use when listing credentials by stage.
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf561b926632a0e3dfb384391d6d0212ed28c
+# app-10017-label-value 1e74aa2048baef70be64acce844cf

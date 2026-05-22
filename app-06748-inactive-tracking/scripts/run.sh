@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06748-inactive-tracking
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb99187d60b610ca18c1c9f92ea4458f3
+# app-06748-inactive-tracking da9f4ffa54a27519ea3938cdb542688fb

@@ -1,0 +1,8 @@
+# app-03600-bookmark-record — scripts
+
+Track paid objects in payments.
+# app-03600-bookmark-record 440060dac3ed8c724ca4fe6b8b25daaa9053f958ed23d7bf9fc94b35900115ac
+# app-03600-bookmark-record 440060dac3ed8c724ca4fe6b8b25daaa9053f958ed23d7bf9fc94b35900115ac
+# app-03600-bookmark-record 440060dac3ed8c724ca4fe6b8b25daaa9053f958ed23d7bf9fc94b35900115ac
+# app-03600-bookmark-record 440060dac3ed8c724ca4fe6b8b25daaa9053f958ed23d7bf9fc94b35900115ac
+# app-03600-bookmark-record 440060dac3ed8c724ca4fe6b8b25daaa9053f958ed23d7bf9

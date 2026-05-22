@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07701-discount
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-discount 8771b7a6c1f6a5d27a3acb8a012e9358817cba39325ca9f97ef96d823f8cb5da
+# app-07701-

@@ -1,0 +1,24 @@
+// Skill: app-12160-record-cart-backup
+// Category: email
+
+export function describe() {
+  return "app-12160-record-cart-backup";
+}
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-backup 0b3c163d68452b53cd15791610cd59f8287e70ae903565e6ddac51fef5517a6d
+# app-12160-record-cart-b

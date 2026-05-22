@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14243-untrusted-item
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0bb0f6
+# app-14243-untrusted-item d1f3e4bc17cb6d78c0ad379fddcb4e08ffed76ff80c8b4aee5ad2c843a0b

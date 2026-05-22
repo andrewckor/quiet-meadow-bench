@@ -1,0 +1,17 @@
+// Skill: app-09975-id-incident-category
+// Category: hr
+
+export function describe() {
+  return "app-09975-id-incident-category";
+}
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56024aea50fb7f447ed
+# app-09975-id-incident-category 9a826869c3f50ed5d5d10fa24a6067bb6b23e250889ca56

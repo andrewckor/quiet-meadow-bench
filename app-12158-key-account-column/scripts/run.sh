@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12158-key-account-column
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016f896d74ba
+# app-12158-key-account-column ce49ca35e677d3c1abbd905b2675a1892c8afa2828eada3cff1e016

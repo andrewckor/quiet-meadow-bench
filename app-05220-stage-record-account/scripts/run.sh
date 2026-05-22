@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05220-stage-record-account
+# Category: identity
+
+echo "running ${0##*/}"
+# app-05220-stage-record-account 85de8a128291d1063dc83e0488b6bca84c58a3631fd01bdfd7f401361e0ea807
+# app-05220-stage-record-account 85de8a128291d1063dc83e0488b6bca84c58a3631fd01bdfd7f401361e0ea807
+# app-05220-stage-record-account 85de8a128291d1063dc83e0488b6bca84c58a3631fd01bdfd7f401361e0ea807
+# app-05220-stage-record-account 85de8a128291d1063dc83e0488b6bca84c58a3631fd01bdfd7f401361e0ea807
+# app-05220-stage-record-account 85de8a128291d1063dc83e0488b6bca84

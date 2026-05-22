@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09825-record-subscriber
+# Category: forms
+
+echo "running ${0##*/}"
+# app-09825-record-subscriber 23b06b54ec0e3e7747d3b06142bd38e9bb3d581def17595b168387bc822b7b2a
+# app-09825-record-subscriber 23b06b54ec0e3e7747d3b06142bd38e9bb3d581def17595b168387bc822b7b2a
+# app-09825-record-subscriber 23b06b54ec0e3e7747d3b06142bd38e9bb3d581def17595b168387bc822b7b2a
+# app-09825-record-subscriber 23b06b54ec0e3e7747d3b06142bd38e9bb3d581def17595b168387bc822b7b2a
+# app-09825-record-subscriber 23b06b54ec0e3e7747d3b06142bd38e9bb3d581def17595b168387bc822b7b2a
+# app-09825-record-subscriber 23b06b54ec0e3e7747d3b06142bd38e9bb3d581def17595b168387bc822b7b2a
+# app-09825-record-subscriber 23b06b54ec0e3e

@@ -1,0 +1,30 @@
+# app-05996-external-row — scripts
+
+Create pending values in email. Use when managing latest rows, createing files by offer.
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-external-row 3c1267bf6579b50062ed6d0e6aaec3f1e39fc90a652ef1a6cbe32525383fc17d
+# app-05996-extern

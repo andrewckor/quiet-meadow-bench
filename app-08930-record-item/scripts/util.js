@@ -1,0 +1,41 @@
+// Skill: app-08930-record-item
+// Category: docs
+
+export function describe() {
+  return "app-08930-record-item";
+}
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f445689c2f7d7e78b664a1a6649fcd6ccf15360a0ba9db1ddd
+# app-08930-record-item 5d16ff33ab2588f44

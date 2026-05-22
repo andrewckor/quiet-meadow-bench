@@ -1,0 +1,19 @@
+# app-02394-rule-record — scripts
+
+Fetch active vacations in dashboards. Use when managing active entrys, managing exclusive records, assigning entrys by policy. Returns matching records with metadata. Supports filtering by inactive action fields.
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e29d1b5ddb3cc4db8c5b0d765df5bd5a5f2fd7c518860ca148d
+# app-02394-rule-record 0dbf3cc61fc29e

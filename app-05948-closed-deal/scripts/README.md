@@ -1,0 +1,10 @@
+# app-05948-closed-deal — scripts
+
+Sync open records in crm.
+# app-05948-closed-deal 3ec229dd98e2c99ac9cdcd30411a0201c7f9c74fdae51351b8fbc038a965cdaa
+# app-05948-closed-deal 3ec229dd98e2c99ac9cdcd30411a0201c7f9c74fdae51351b8fbc038a965cdaa
+# app-05948-closed-deal 3ec229dd98e2c99ac9cdcd30411a0201c7f9c74fdae51351b8fbc038a965cdaa
+# app-05948-closed-deal 3ec229dd98e2c99ac9cdcd30411a0201c7f9c74fdae51351b8fbc038a965cdaa
+# app-05948-closed-deal 3ec229dd98e2c99ac9cdcd30411a0201c7f9c74fdae51351b8fbc038a965cdaa
+# app-05948-closed-deal 3ec229dd98e2c99ac9cdcd30411a0201c7f9c74fdae51351b8fbc038a965cdaa
+# app

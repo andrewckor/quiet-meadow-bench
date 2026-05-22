@@ -1,0 +1,16 @@
+# app-16369-verified-ref — scripts
+
+Delete inactive contracts in marketing. Use when finding keys by entry, tracking pending field changes.
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fbebadc7d55ddb24b5201a53c16ef83
+# app-16369-verified-ref e7d3ca2e2d6d82e2371e6819b71d9d7a9fb

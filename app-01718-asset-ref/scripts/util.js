@@ -1,0 +1,39 @@
+// Skill: app-01718-asset-ref
+// Category: ticketing
+
+export function describe() {
+  return "app-01718-asset-ref";
+}
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cda200a2a226bf062c3981f
+# app-01718-asset-ref aecaa12edfdf3bd539b32cad46d0f20095a223b99cd

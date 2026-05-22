@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00525-delivery-team
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+# app-00525-delivery-team 6200d875820b0b3bc0f2768e008f5f729d4cf1b18adff122e340acdeefaefcd6
+#

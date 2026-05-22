@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00920-unblocked-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920-unblocked-record ccbffc1b0a45d316e4848dae73887694dd928cc604b023dcdf44bd07a58b0a85
+# app-00920

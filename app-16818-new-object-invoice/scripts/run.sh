@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16818-new-object-invoice
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-object-invoice 8001aae8259fb05f2297655111d50a0ea0aedc82427aa9b4c69a1072184adebd
+# app-16818-new-o

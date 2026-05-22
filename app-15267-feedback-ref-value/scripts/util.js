@@ -1,0 +1,15 @@
+// Skill: app-15267-feedback-ref-value
+// Category: hr
+
+export function describe() {
+  return "app-15267-feedback-ref-value";
+}
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9d7b02bccb62aafcb3e1b6a35b370a2bd1b9d
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9d7b02bccb62aafcb3e1b6a35b370a2bd1b9d
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9d7b02bccb62aafcb3e1b6a35b370a2bd1b9d
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9d7b02bccb62aafcb3e1b6a35b370a2bd1b9d
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9d7b02bccb62aafcb3e1b6a35b370a2bd1b9d
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9d7b02bccb62aafcb3e1b6a35b370a2bd1b9d
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9d7b02bccb62aafcb3e1b6a35b370a2bd1b9d
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9d7b02bccb62aafcb3e1b6a35b370a2bd1b9d
+# app-15267-feedback-ref-value 98b259d85137432c896eb87241f9

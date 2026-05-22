@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12361-verified-answer
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+# app-12361-verified-answer 8d2e96e2522b878f23fd4591edb3398c701a67f8dbb7e3c07fa99f8d1b2e2959
+#

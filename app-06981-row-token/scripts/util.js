@@ -1,0 +1,26 @@
+// Skill: app-06981-row-token
+// Category: calendar
+
+export function describe() {
+  return "app-06981-row-token";
+}
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-06981-row-token 087d7c9a4a9eafecffc4ef3153e92df5098ad56ad8650d2dfec104fd68e3d9ff
+# app-

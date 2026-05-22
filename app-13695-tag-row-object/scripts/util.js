@@ -1,0 +1,17 @@
+// Skill: app-13695-tag-row-object
+// Category: marketing
+
+export function describe() {
+  return "app-13695-tag-row-object";
+}
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc477876395ee9ac111cf9e960d646d78
+# app-13695-tag-row-object 8f35f36384f456aea2571ef94a1e90dfc4778763

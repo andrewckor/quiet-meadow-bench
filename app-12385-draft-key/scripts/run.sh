@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12385-draft-key
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6c8d5f1
+# app-12385-draft-key bc81a7a4e404e3a97b593cba10d93ed01858e55ead4aca84db4b2e50b6

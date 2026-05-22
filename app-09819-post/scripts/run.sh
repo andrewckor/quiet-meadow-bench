@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09819-post
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba10867e44f0eba42131ee70990f26cfdc0cab77bd95f1c5cde4ce6e3375e9e
+# app-09819-post aba1086

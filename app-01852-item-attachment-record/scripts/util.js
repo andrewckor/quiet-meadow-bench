@@ -1,0 +1,28 @@
+// Skill: app-01852-item-attachment-record
+// Category: helpdesk
+
+export function describe() {
+  return "app-01852-item-attachment-record";
+}
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0b2fdb826150746ef64b0b3c27a15d8e98cb7349c76051d831e218bffe
+# app-01852-item-attachment-record 5e5aba0

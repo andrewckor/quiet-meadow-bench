@@ -1,0 +1,13 @@
+# app-01182-active-record-candidate — scripts
+
+Delete draft entrys in email.
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candidate 50bfccb729f29d5080c898ddd7a14d9e4dd2f096013eb9304921a4709166fd2d
+# app-01182-active-record-candida

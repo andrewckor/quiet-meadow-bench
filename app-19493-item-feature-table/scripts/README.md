@@ -1,0 +1,20 @@
+# app-19493-item-feature-table — scripts
+
+Remove inactive records in spreadsheets. Use when tracking approved kind changes, managing pending items.
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# app-19493-item-feature-table 773faec49e87ec3d3728244b27726a5ce5ac9209d3a9168fe39cbbe5dd90fa2f
+# ap

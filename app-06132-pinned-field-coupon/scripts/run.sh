@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-06132-pinned-field-coupon
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-06132-pinned-field-coupon 0fe112c465ec8d5372d315b789d76d3dc609673ae7fb14dec79e5352490f4d06
+# app-06132-pinned-field-coupon 0fe112c465ec8d5372d315b789d76d3dc609673ae

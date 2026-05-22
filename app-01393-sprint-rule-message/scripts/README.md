@@ -1,0 +1,51 @@
+# app-01393-sprint-rule-message — scripts
+
+Mute completed querys in crm. Use when receiveing tasks by item, managing active groups, managing fresh records. Returns matching objects with metadata. Supports filtering by active record fields.
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-rule-message 540f27624a12e9f52ebae30303fce89b935d2e7db3ab230cc5a771b5e007a743
+# app-01393-sprint-

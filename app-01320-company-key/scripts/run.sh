@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01320-company-key
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-01320-company-key f64a204fb2fcdd0c28cd182fab0aeb92f47f11623d329d9123a4ac026c4acb04
+# app-0

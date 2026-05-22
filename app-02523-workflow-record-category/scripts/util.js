@@ -1,0 +1,20 @@
+// Skill: app-02523-workflow-record-category
+// Category: email
+
+export function describe() {
+  return "app-02523-workflow-record-category";
+}
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-record-category e8aca2705cdc4cc7293e8c37e969fcdb1d7a5e94daf066b9e404b3e98a183fd6
+# app-02523-workflow-rec

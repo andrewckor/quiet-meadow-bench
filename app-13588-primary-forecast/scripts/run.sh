@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13588-primary-forecast
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-13588-primary-forecast 8f748e27b2adc46027f5666f72d59353064d3cb9904841eb205447500a110d0a
+# app-13588-primary-forecast 8f748e27b2adc46027f5666f72d59353064d3cb9

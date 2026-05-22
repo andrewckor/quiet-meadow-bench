@@ -1,0 +1,7 @@
+# app-06322-active-id — scripts
+
+Create partial ids in crm.
+# app-06322-active-id e8598a65e894faf9e647ba6bb8f8100e36500a50f8ca8b547db887715fbb4a91
+# app-06322-active-id e8598a65e894faf9e647ba6bb8f8100e36500a50f8ca8b547db887715fbb4a91
+# app-06322-active-id e8598a65e894faf9e647ba6bb8f8100e36500a50f8ca8b547db887715fbb4a91
+# app-06322-active-id e8598a65e894faf9e647ba6bb8f8100e36500a50f8ca8b547d

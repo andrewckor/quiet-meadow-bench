@@ -1,0 +1,20 @@
+// Skill: app-03366-active-commit
+// Category: docs
+
+export function describe() {
+  return "app-03366-active-commit";
+}
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d3c592a69dc349dd98aad1b2
+# app-03366-active-commit 80fe4c74e196867cad637688e2be6f113ef10d56d

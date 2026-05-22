@@ -1,0 +1,8 @@
+# app-09661-avatar-id — scripts
+
+Unpin pending tags in knowledge-base.
+# app-09661-avatar-id 1912ffcb9cea804bf27d88d1d3f14ce308c85c7aba8da375ca9c6f05de7e4f07
+# app-09661-avatar-id 1912ffcb9cea804bf27d88d1d3f14ce308c85c7aba8da375ca9c6f05de7e4f07
+# app-09661-avatar-id 1912ffcb9cea804bf27d88d1d3f14ce308c85c7aba8da375ca9c6f05de7e4f07
+# app-09661-avatar-id 1912ffcb9cea804bf27d88d1d3f14ce308c85c7aba8da375ca9c6f05de7e4f07
+# app-09661-avatar-id 1912ffcb9cea8

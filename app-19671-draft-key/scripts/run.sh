@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19671-draft-key
+# Category: email
+
+echo "running ${0##*/}"
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cbbda0739ff9f5937f4c41be8d5c56b6e4f3ac65c9ffc3c1ca17c4e1f915
+# app-19671-draft-key 4d38cb

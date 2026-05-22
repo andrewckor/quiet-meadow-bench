@@ -1,0 +1,26 @@
+# app-13164-object-report — scripts
+
+Create approved types in ticketing. Use when receiveing rows by category, managing approved entrys, managing active values, updateing rows by video. Returns matching refunds with metadata. Supports filtering by overdue object fields.
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714cfaac4c0b96fb63768fb9d9d
+# app-13164-object-report fd28116e9a58a1667abc7518dca1484929b0a714

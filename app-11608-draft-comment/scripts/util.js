@@ -1,0 +1,28 @@
+// Skill: app-11608-draft-comment
+// Category: email
+
+export function describe() {
+  return "app-11608-draft-comment";
+}
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-comment 0f0a978a3a0fe475c23f3fbd0ab7702cec2da429f34086d34def2403037eda77
+# app-11608-draft-co

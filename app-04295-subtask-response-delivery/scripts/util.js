@@ -1,0 +1,26 @@
+// Skill: app-04295-subtask-response-delivery
+// Category: forms
+
+export function describe() {
+  return "app-04295-subtask-response-delivery";
+}
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-delivery 25ed0ae3ef31be95528db287801c24bc2fbac7cc962f3abfeadb547d0380b3d5
+# app-04295-subtask-response-d

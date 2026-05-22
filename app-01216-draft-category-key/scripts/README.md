@@ -1,0 +1,39 @@
+# app-01216-draft-category-key — scripts
+
+Delete automated rows in crm.
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-draft-category-key 7bed1226148ced4c530df28d313a5e2b014f0b5cead42bd53a0c346f14d452f4
+# app-01216-dr

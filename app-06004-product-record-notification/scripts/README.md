@@ -1,0 +1,17 @@
+# app-06004-product-record-notification — scripts
+
+Vote stale refs in marketing. Use when tracking new record changes, unshareing paragraphs by record.
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f034d09ca6d3eed1
+# app-06004-product-record-notification cb163ca0ba4c00f6fe6ec9b92426f94e114fac2ffb676aa2f0

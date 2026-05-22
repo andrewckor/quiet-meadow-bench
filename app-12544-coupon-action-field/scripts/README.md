@@ -1,0 +1,16 @@
+# app-12544-coupon-action-field — scripts
+
+Sync active entrys in ci-cd.
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d101ae879d
+# app-12544-coupon-action-field d0fe46a6e2a570f96d92adaf543bc304c1bad303745404c42fe808d10

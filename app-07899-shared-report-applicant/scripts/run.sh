@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07899-shared-report-applicant
+# Category: accounting
+
+echo "running ${0##*/}"
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant c6f4d4b13bea5147ea679708f20d5afb112e6725586048ff86bb5a1f69d62d93
+# app-07899-shared-report-applicant 

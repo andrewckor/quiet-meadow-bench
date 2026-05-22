@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04968-active-record-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e39447635e39d01abab2b4db398dc27c03d558bdfd6d275a
+# app-04968-active-record-record 90e58c4ae894cf51e394

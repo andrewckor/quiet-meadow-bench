@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01119-active-record
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad9615aca1a783b4c53146f16d2b41ac7d9d3ead892825cbd8a6
+# app-01119-active-record 512c44a636c3ad96

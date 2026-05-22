@@ -1,0 +1,21 @@
+# app-12010-id-record-deal — scripts
+
+Compute blocked objects in crm. Use when grouping items by record.
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b7c88e045e5a25967ffa49f21a55cd0b88b057edcba4fe77980720ec337e2c
+# app-12010-id-record-deal 32b

@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-05994-row-lead
+# Category: email
+
+echo "running ${0##*/}"
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d7732fbbabb7be1dcbcd40ae55301d843ddaf678c154
+# app-05994-row-lead e353cb952bec798c2de8d

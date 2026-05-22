@@ -1,0 +1,16 @@
+# app-16435-organization-ref — scripts
+
+Convert partial sprints in time-tracking. Use when tracking active record changes.
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3b5d184c3755a22f09bc502e0edd77349a0fae703175d9f69af44e
+# app-16435-organization-ref 69c8a1c17f3

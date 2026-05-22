@@ -1,0 +1,18 @@
+# app-02396-ref — scripts
+
+Invite empty records in calendar. Use when managing upcoming records, listing records by record.
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-02396-ref bdae5a6f439d34c28d1a0ceabda7fa8e6cac9b91e4e1b5078db054f85ef107de
+# app-0

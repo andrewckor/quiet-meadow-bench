@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13105-setting-entry-session
+# Category: email
+
+echo "running ${0##*/}"
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-setting-entry-session dd3968bbe3c5931e73c8195ba74b5cf9add1f8dd8dfaaa230a819239a1358f2c
+# app-13105-settin

@@ -1,0 +1,11 @@
+# app-03309-active-value — scripts
+
+List active settings in auth.
+# app-03309-active-value 15dd407cbb5b146afcadc457ae951905033942c73058cc9a705a1e3e860d8e52
+# app-03309-active-value 15dd407cbb5b146afcadc457ae951905033942c73058cc9a705a1e3e860d8e52
+# app-03309-active-value 15dd407cbb5b146afcadc457ae951905033942c73058cc9a705a1e3e860d8e52
+# app-03309-active-value 15dd407cbb5b146afcadc457ae951905033942c73058cc9a705a1e3e860d8e52
+# app-03309-active-value 15dd407cbb5b146afcadc457ae951905033942c73058cc9a705a1e3e860d8e52
+# app-03309-active-value 15dd407cbb5b146afcadc457ae951905033942c73058cc9a705a1e3e860d8e52
+# app-03309-active-value 15dd407cbb5b146afcadc457ae951905033942c73058cc9a705a1e3e860d8e52
+# app-03309-active-value

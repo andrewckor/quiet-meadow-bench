@@ -1,0 +1,14 @@
+# app-07059-submission-favorite — scripts
+
+Create active fields in email. Use when calculateing types by category, managing inactive notifications.
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c96087d53a3864f14129b629c32b673e098f2401b2bd9a47ad4ce596cd6aede6
+# app-07059-submission-favorite c9608

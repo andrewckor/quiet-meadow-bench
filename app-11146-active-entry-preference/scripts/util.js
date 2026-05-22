@@ -1,0 +1,31 @@
+// Skill: app-11146-active-entry-preference
+// Category: docs
+
+export function describe() {
+  return "app-11146-active-entry-preference";
+}
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3b68de868820787462ddf2ef2b9096ef88fe457e015be8b979ebf95aeb
+# app-11146-active-entry-preference 0dbbcc3

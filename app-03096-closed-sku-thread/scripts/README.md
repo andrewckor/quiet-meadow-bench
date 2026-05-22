@@ -1,0 +1,44 @@
+# app-03096-closed-sku-thread — scripts
+
+Fetch default posts in crm. Use when you need to create a tag.
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread 3fedfc85a7712a20871272ac1b722ac5d8b49725d24bceac66804b8129fcbd7f
+# app-03096-closed-sku-thread

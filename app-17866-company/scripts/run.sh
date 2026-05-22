@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17866-company
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-17866-company 6698c408a35d98b636523a20df8dfe4b0183fcb8ceba130d3f56b47f380ef267
+# app-17866-company 6698c408a35d98b636523a20df8dfe4b0183fcb8ceba130d3f56b47f380ef267
+# app-17866-company 6698c408a35d98b636523a20df8dfe4b0183fcb8ceba130d3f56b47f380ef267
+# app-17866-company 6698c408a35d98b636523a20df8dfe4b

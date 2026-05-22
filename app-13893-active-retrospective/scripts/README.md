@@ -1,0 +1,11 @@
+# app-13893-active-retrospective — scripts
+
+Update inactive mentions in email.
+# app-13893-active-retrospective a7fb725af2b4ed79f8fb5598c122781391a9e65971cb8f195015a4013e6f9495
+# app-13893-active-retrospective a7fb725af2b4ed79f8fb5598c122781391a9e65971cb8f195015a4013e6f9495
+# app-13893-active-retrospective a7fb725af2b4ed79f8fb5598c122781391a9e65971cb8f195015a4013e6f9495
+# app-13893-active-retrospective a7fb725af2b4ed79f8fb5598c122781391a9e65971cb8f195015a4013e6f9495
+# app-13893-active-retrospective a7fb725af2b4ed79f8fb5598c122781391a9e65971cb8f195015a4013e6f9495
+# app-13893-active-retrospective a7fb725af2b4ed79f8fb5598c122781391a9e65971cb8f195015a4013e6f9495
+# app-13893-active-retrospective a7fb725af2b4ed79f8fb5598c122781391a9e65971cb8f195015a4013e6f9495
+# app-13893-active-retrospective a7fb725af2b

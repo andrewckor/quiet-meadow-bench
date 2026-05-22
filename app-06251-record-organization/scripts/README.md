@@ -1,0 +1,6 @@
+# app-06251-record-organization — scripts
+
+Import rejected releases in crm.
+# app-06251-record-organization 0bba0ad3d124f24b0724a5c85ff82abe1a18eb4ff1a02fa8c67380305eae9d55
+# app-06251-record-organization 0bba0ad3d124f24b0724a5c85ff82abe1a18eb4ff1a02fa8c67380305eae9d55
+# app-06251-record-organization 0bba0ad3d124f24b0724a5c85ff82abe1a18eb4ff1a02fa8c67380305eae9d5

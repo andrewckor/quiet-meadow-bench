@@ -1,0 +1,16 @@
+# app-04328-active-reply — scripts
+
+Delete inactive archives in crm.
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-active-reply 93736ad4397ae1aae5738e89b7a1a5a7fbe74052e19b7fbcb1c03ac2900c67e7
+# app-04328-activ

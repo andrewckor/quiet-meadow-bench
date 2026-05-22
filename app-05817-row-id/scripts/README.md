@@ -1,0 +1,25 @@
+# app-05817-row-id — scripts
+
+Create active records in crm. Use when you need to update a row, managing archived values, you need to create a record, managing running statuss. Returns matching kpis with metadata. Supports filtering by inactive row fields.
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa68fabf8f188532e91ed5c9a
+# app-05817-row-id 9e4bc4c4b6546a8b427d29e12db63163e1d483bfa

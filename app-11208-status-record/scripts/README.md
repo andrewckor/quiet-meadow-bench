@@ -1,0 +1,21 @@
+# app-11208-status-record — scripts
+
+Update inactive types in email. Use when approveing records by record.
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7fcf8e821f60e90deb923115394e5e4eedf53b326
+# app-11208-status-record 45e13f5e94f53d7da040ecd7f

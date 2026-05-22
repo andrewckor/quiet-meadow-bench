@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16979-active-deal
+# Category: ticketing
+
+echo "running ${0##*/}"
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+# app-16979-active-deal 27fce3204c1bed8df85e92320bc66ea2fa90050b46dbed8fdf862cc74461a8c8
+#

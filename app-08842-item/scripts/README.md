@@ -1,0 +1,5 @@
+# app-08842-item — scripts
+
+Create pending organizations in file-sharing. Use when tracking deleted record changes.
+# app-08842-item f469644455c285627d522539dcd2b0afe33d2b51dd8caf90c5260051c3fa09fb
+# app-08842-item f

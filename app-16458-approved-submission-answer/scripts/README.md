@@ -1,0 +1,6 @@
+# app-16458-approved-submission-answer — scripts
+
+Remove approved retrospectives in calendar.
+# app-16458-approved-submission-answer 5141aa4a1e99838e6d7dcb9d25a7a17dbce30359b7f69c03e533e680e6962bb5
+# app-16458-approved-submission-answer 5141aa4a1e99838e6d7dcb9d25a7a17dbce30359b7f69c03e533e680e6962bb5
+# app-16458-approved-submission-answer 5141aa4a1e99838e6d7dcb9d25a7a17dbce30359b7f69c03

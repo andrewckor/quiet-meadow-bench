@@ -1,0 +1,34 @@
+// Skill: app-06756-recent-company
+// Category: devtools
+
+export function describe() {
+  return "app-06756-recent-company";
+}
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99330d77a5d54d68606598b6810dc
+# app-06756-recent-company e0e8bacaed4963837399a1cd3b9f2e1bbfe99

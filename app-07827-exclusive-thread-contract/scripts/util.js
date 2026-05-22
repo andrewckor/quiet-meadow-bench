@@ -1,0 +1,19 @@
+// Skill: app-07827-exclusive-thread-contract
+// Category: support
+
+export function describe() {
+  return "app-07827-exclusive-thread-contract";
+}
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app-07827-exclusive-thread-contract 64ed6e59a68a513b400c96a9876689968fd9b35cebd7c07543ab44ac14b3e924
+# app

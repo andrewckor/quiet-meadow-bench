@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-07260-active-snapshot
+# Category: helpdesk
+
+echo "running ${0##*/}"
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snapshot 6e7a4f7650f99b4ccfc8fe0a6b305d4c28e623fe0a13a460cc9b19295451d10c
+# app-07260-active-snaps

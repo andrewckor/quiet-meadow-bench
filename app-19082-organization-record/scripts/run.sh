@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19082-organization-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f28765b3662a2f7dc
+# app-19082-organization-record 35d5fb5b65cce222f3edc6f443d9c6dd1075b170a40a615f2876

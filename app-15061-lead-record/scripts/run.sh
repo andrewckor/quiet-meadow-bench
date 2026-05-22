@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-15061-lead-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa632611f9a26ef03cef817ab4dc52da37447bd0cf322c40b32d3c8c1b4edc
+# app-15061-lead-record 43aa63261

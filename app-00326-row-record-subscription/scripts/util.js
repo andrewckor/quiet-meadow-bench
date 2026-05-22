@@ -1,0 +1,29 @@
+// Skill: app-00326-row-record-subscription
+// Category: email
+
+export function describe() {
+  return "app-00326-row-record-subscription";
+}
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 822e5fbbe36b8a8125801763acfa07ec547d324a2a8c3dbbe3f89a591c1d4600
+# app-00326-row-record-subscription 8

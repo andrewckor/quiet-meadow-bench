@@ -1,0 +1,26 @@
+# app-15376-inactive-session-record — scripts
+
+Update open tickets in invoicing. Use when managing inactive tasks, managing valid rows, you need to add a discount, tracking inactive reaction changes. Returns matching records with metadata. Supports filtering by published label fields.
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7dfa5f9332c4ae3bfd7bacaf3
+# app-15376-inactive-session-record 62edbf6f4606c9e66224688d209765b438f759b7d

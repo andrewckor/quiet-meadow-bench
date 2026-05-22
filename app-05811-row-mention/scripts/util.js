@@ -1,0 +1,40 @@
+// Skill: app-05811-row-mention
+// Category: calendar
+
+export function describe() {
+  return "app-05811-row-mention";
+}
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff84034273b2eb546df9d87c508fda02691bedc1be65b6de588
+# app-05811-row-mention fb80a3bdcda82ff840342

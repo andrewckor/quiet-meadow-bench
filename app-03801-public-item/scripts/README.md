@@ -1,0 +1,19 @@
+# app-03801-public-item — scripts
+
+Remove latest clicks in crm.
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfdb3cb13c4c2ecb949d20ee9fbb6f9e851
+# app-03801-public-item e29d20a46191dbc1db1d9ef3ecbf9dfd

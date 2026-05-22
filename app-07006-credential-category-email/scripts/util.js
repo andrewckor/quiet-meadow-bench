@@ -1,0 +1,36 @@
+// Skill: app-07006-credential-category-email
+// Category: analytics
+
+export function describe() {
+  return "app-07006-credential-category-email";
+}
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-credential-category-email eaa62aef7577cf3a47fee19c5456febf07581592dbc11d9b33a5f43fda4fa1a1
+# app-07006-c

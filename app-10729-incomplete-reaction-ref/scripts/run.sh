@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10729-incomplete-reaction-ref
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a8639bbd5
+# app-10729-incomplete-reaction-ref e012c86b29b3da1d4050353ab9b8e8f129e8a95b5c9b8af7de6dc74a86

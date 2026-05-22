@@ -1,0 +1,10 @@
+// Skill: app-06398-pull-request-record
+// Category: support
+
+export function describe() {
+  return "app-06398-pull-request-record";
+}
+# app-06398-pull-request-record ed6ad224e970b4a82432c41ad4b9a1330e720db814a8e77fd050423bd6cb269b
+# app-06398-pull-request-record ed6ad224e970b4a82432c41ad4b9a1330e720db814a8e77fd050423bd6cb269b
+# app-06398-pull-request-record ed6ad224e970b4a82432c41ad4b9a1330e720db814a8e77fd050423bd6cb269b
+# app-06398-pull-request-record ed6ad224e970b4a82432c41ad4b

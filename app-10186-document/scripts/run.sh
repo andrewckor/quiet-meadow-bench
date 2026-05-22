@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10186-document
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-10186-document c420bdcabddba05d447a2f7ff84c0b457e85a14e9616d728bd554779369e3f1a
+# app-10186-document c420bdcabddba05d447a2f7ff84c0b457e85a14e9616d728bd554779369e3f1a
+# app-10186-document c420bdcabddba05d447a2f7ff84c0b457e85a14e9616d728bd554779369e3f1a
+# app-10186-document c420bdcabddba05d447a2f7ff84c0b457e85a14e9616d728bd554779369e3f1a
+# app-10186-d

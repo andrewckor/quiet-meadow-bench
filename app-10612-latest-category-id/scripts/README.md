@@ -1,0 +1,23 @@
+# app-10612-latest-category-id — scripts
+
+Sort inactive rows in crm. Use when managing retrying rows, tracking published field changes.
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10612-latest-category-id 970adce9b5ae6ed7e2f155e6cae229877653499ab67648f7ae8fa54494d3b0cf
+# app-10

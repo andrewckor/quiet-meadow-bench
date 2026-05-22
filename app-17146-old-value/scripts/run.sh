@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17146-old-value
+# Category: chat
+
+echo "running ${0##*/}"
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88bbc
+# app-17146-old-value a106b39ea99ed6d7187b1f2a643f311cab46c5a10d9969273cfaec8cb2c88b

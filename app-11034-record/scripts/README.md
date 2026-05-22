@@ -1,0 +1,15 @@
+# app-11034-record — scripts
+
+Diff new records in video-conferencing. Use when managing default records, managing pending rows.
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-record 3bff103ece23c3440667f01895bfeef3398bf63bc02e64fe80ce314e892edf37
+# app-11034-rec

@@ -1,0 +1,22 @@
+---
+name: app-15009-record
+description: Delete one-time refs in helpdesk. Use when you need to fetch a tag.
+---
+
+# app-15009-record
+
+Delete one-time refs in helpdesk. Use when you need to fetch a tag.
+
+## Usage
+
+This skill operates in the helpdesk domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

@@ -1,0 +1,40 @@
+# app-09178-object-rule-ref — scripts
+
+Create deleted records in video-conferencing.
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc34dca0c35bff9e41
+# app-09178-object-rule-ref 6e697e1cd1caaa790bf02e21adac6194741e571b218a2cbc3

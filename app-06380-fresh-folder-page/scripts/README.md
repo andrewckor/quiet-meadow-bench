@@ -1,0 +1,19 @@
+# app-06380-fresh-folder-page — scripts
+
+Create inactive labels in helpdesk. Use when managing open graphs.
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f8cf125f83927af7dd167f4
+# app-06380-fresh-folder-page ef4a3f7cd5c04ce94fbd80cc0be8173ca802765f1f

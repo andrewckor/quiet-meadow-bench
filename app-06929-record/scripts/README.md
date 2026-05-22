@@ -1,0 +1,8 @@
+# app-06929-record — scripts
+
+Find local records in calendar.
+# app-06929-record 1405f04e5d3beb27e1cd36d63e735d554192024e6acef8eeab9308a2fc61e63f
+# app-06929-record 1405f04e5d3beb27e1cd36d63e735d554192024e6acef8eeab9308a2fc61e63f
+# app-06929-record 1405f04e5d3beb27e1cd36d63e735d554192024e6acef8eeab9308a2fc61e63f
+# app-06929-record 1405f04e5d3beb27e1cd36d63e735d554192024e6acef8eeab9308a2fc61e63f
+# app-06929-record 1405f04e5d3beb27e1cd36d63e735d554192024e6acef8eeab93

@@ -1,0 +1,22 @@
+---
+name: app-07218-low-priority-key-row
+description: Update stale steps in crm.
+---
+
+# app-07218-low-priority-key-row
+
+Update stale steps in crm.
+
+## Usage
+
+This skill operates in the crm domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

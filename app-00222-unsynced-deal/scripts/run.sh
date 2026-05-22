@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00222-unsynced-deal
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eaca66478efd985b5a3972c511c69058e5cc29
+# app-00222-unsynced-deal 400fce9f291aa579f40adeea67eac

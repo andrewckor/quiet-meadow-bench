@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09704-approved-span
+# Category: docs
+
+echo "running ${0##*/}"
+# app-09704-approved-span 80921a64b94d9fe195a1ff929362d6152576f1adfd925d10769de75370663bc3
+# app-09704-approved-span 80921a64b94d9fe195a1ff929362d6152576f1adfd925d10769de75370663bc3
+# app-09704-approved-span 80921a64b94d9fe195a1ff929362d6152576f1adfd925d10769de75370663bc3
+# app-09704-approved-span 80921a64b94d9fe195a1ff929362d6152576f1adfd925d10769de75370663bc3
+# app-09704-approved-span 80921a64b94d9fe195a1ff929362d6152576f1adfd925d10769de75370663bc3
+# app-09704-approved-span 80921a64b94d9fe195a1ff929362d6152576f1adfd925d10769de75370663bc3
+# app-09704-approved-span 80921a

@@ -1,0 +1,13 @@
+# app-16078-response-type — scripts
+
+Audit inactive inventorys in crm. Use when downloading rows by state, you need to archive a survey.
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-response-type bd3724deef0dfd75493e55df92c2b0d36bfec7ddc64f25b7c6fccf9791fa0e81
+# app-16078-r

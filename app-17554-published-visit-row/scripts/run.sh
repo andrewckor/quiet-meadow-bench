@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17554-published-visit-row
+# Category: email
+
+echo "running ${0##*/}"
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e175220a2aeef37582422451
+# app-17554-published-visit-row b2499d9c3bda34cf40dac28fd722e758194ce1e0e1752

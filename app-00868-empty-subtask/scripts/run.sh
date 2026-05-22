@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00868-empty-subtask
+# Category: crm
+
+echo "running ${0##*/}"
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70e572d0b4780abd23fb
+# app-00868-empty-subtask 1272c7cb95d9abf901e2add3296aec22df80aa7a5d1d70

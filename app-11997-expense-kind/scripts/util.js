@@ -1,0 +1,34 @@
+// Skill: app-11997-expense-kind
+// Category: spreadsheets
+
+export function describe() {
+  return "app-11997-expense-kind";
+}
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1b19c20fccda9381
+# app-11997-expense-kind f3b65bd1d432df237302438f5a723f4efeb425acec3a72fe1

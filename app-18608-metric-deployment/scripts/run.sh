@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18608-metric-deployment
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-18608-metric-deployment 606e69cf126b2f3556c90cbb4a4e1cab12aa34800326b254d8d4d2e335d7ca36
+# app-18608-metric-deployment 606e69cf126b2f3556c90cbb4a4e1cab12aa34800326b254d8d4d2e335d7ca36
+# app-18608-metric-deployment 606e69cf126b2f3556c90cbb4a4e1cab12aa34800326b254d8d4d2e335d7ca36
+# app-18608-metric-deployment 606e69cf126b2f3556c90cbb4a4e1cab12aa34800326b254d8d4d2e335d7ca36
+# app-18608-metric-deployment 606e69cf126b2f3556c90cbb4a4e1cab12aa34800326b254d8d4d2e335d7ca36
+# app-18608-metric-deployment 606e69cf126b2f3556c90cbb4a4e1cab12aa34800326b254d8d4d2e335d7ca36
+# app-18608-metric-deployment 606e69cf126b2f3556c90cbb4a4e1cab12aa34800326b254d8d4d2e335d7ca36
+# app-18608-metric-deployment 606e69cf126b2f

@@ -1,0 +1,22 @@
+// Skill: app-02993-earliest-epic
+// Category: spreadsheets
+
+export function describe() {
+  return "app-02993-earliest-epic";
+}
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629cad57ec5ab2ef1adfe43c03e6062af8
+# app-02993-earliest-epic a53a29716db04e5b1c26bf042ef880629c

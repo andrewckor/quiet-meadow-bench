@@ -1,0 +1,27 @@
+// Skill: app-12443-conversion
+// Category: auth
+
+export function describe() {
+  return "app-12443-conversion";
+}
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5de615d39f38fcd4d5c7bcd1e5fedb1f7c41fbde55148e25
+# app-12443-conversion 72d09de75b6df88f5d

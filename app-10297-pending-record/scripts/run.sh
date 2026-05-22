@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10297-pending-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac16544e0fd01f6416b5f37b17843a4c0d
+# app-10297-pending-record 437c83231b9e3ec298a20b6990fd3bac

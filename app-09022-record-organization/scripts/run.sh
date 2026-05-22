@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09022-record-organization
+# Category: pos
+
+echo "running ${0##*/}"
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organization fc76c16240a6ebf6284b1b53b8a700433fea5770ffd3869b61f06545cdd3162e
+# app-09022-record-organiz

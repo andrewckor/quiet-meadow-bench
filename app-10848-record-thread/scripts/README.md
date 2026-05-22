@@ -1,0 +1,17 @@
+# app-10848-record-thread — scripts
+
+Decrypt active quotes in ticketing. Use when managing active records, managing draft rows.
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9a4b8be7defe708186dad6ee1a4b7dd851458b5a091f53ccc9
+# app-10848-record-thread 4ad76fa9d81cce9

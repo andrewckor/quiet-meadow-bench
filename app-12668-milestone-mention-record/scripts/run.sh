@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12668-milestone-mention-record
+# Category: crm
+
+echo "running ${0##*/}"
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-record cb50fe4a8b0d9ad354ded03b44c7b0ba6239f0d8845d5cbcb4efe4f4b674ec73
+# app-12668-milestone-mention-

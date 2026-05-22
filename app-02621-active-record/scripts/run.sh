@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02621-active-record
+# Category: analytics
+
+echo "running ${0##*/}"
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-active-record 52bf0106dcb03c9f4356fd1103d7dc0cdaeac62a6acbbe9599336a167ae5531d
+# app-02621-ac

@@ -1,0 +1,11 @@
+# app-19727-inactive-record — scripts
+
+Search urgent items in task-management. Use when deleteing ids by entry, tracking stale record changes.
+# app-19727-inactive-record 8dd9249f5ee8f1fa8ba0337264ccba036c762003ac43bac265c734779f00b4f1
+# app-19727-inactive-record 8dd9249f5ee8f1fa8ba0337264ccba036c762003ac43bac265c734779f00b4f1
+# app-19727-inactive-record 8dd9249f5ee8f1fa8ba0337264ccba036c762003ac43bac265c734779f00b4f1
+# app-19727-inactive-record 8dd9249f5ee8f1fa8ba0337264ccba036c762003ac43bac265c734779f00b4f1
+# app-19727-inactive-record 8dd9249f5ee8f1fa8ba0337264ccba036c762003ac43bac265c734779f00b4f1
+# app-19727-inactive-record 8dd9249f5ee8f1fa8ba0337264ccba036c762003ac43bac265c734779f00b4f1
+# app-19727-inactive-record 8dd9249f5ee8f1fa8ba0337264ccba036c762003ac43bac265c734779f00b4f1
+# app-19727-inactive-record 8dd9249f5ee8f1fa8ba0337264ccba036c762003ac43bac265c734

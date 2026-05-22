@@ -1,0 +1,16 @@
+// Skill: app-06245-state-organization
+// Category: ads
+
+export function describe() {
+  return "app-06245-state-organization";
+}
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-06245-state-organization 2cc2880e8d0dcedf93960f52a7a7908ffe7e13c72712c87dec9a9c65ef9bf266
+# app-0

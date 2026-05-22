@@ -1,0 +1,12 @@
+# app-08158-pipeline-value — scripts
+
+Create active polls in crm. Use when managing discounted surveys.
+# app-08158-pipeline-value d02e9b54c9f42ce736183e6b2df66af679ec4d0ee37b5846d8627693dc7d7778
+# app-08158-pipeline-value d02e9b54c9f42ce736183e6b2df66af679ec4d0ee37b5846d8627693dc7d7778
+# app-08158-pipeline-value d02e9b54c9f42ce736183e6b2df66af679ec4d0ee37b5846d8627693dc7d7778
+# app-08158-pipeline-value d02e9b54c9f42ce736183e6b2df66af679ec4d0ee37b5846d8627693dc7d7778
+# app-08158-pipeline-value d02e9b54c9f42ce736183e6b2df66af679ec4d0ee37b5846d8627693dc7d7778
+# app-08158-pipeline-value d02e9b54c9f42ce736183e6b2df66af679ec4d0ee37b5846d8627693dc7d7778
+# app-08158-pipeline-value d02e9b54c9f42ce736183e6b2df66af679ec4d0ee37b5846d8627693dc7d7778
+# app-08158-pipeline-value d02e9b54c9f42ce736183e6b2df66af679ec4d0ee37b5846d8627693dc7d7778
+# app-08158-pipeline-val

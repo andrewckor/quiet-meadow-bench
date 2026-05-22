@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-12090-upcoming-step
+# Category: chat
+
+echo "running ${0##*/}"
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcoming-step 4b9cc08fee3fad4bff0027ff60199f18051588c64fd6c170bd2a209d3df01aee
+# app-12090-upcomi

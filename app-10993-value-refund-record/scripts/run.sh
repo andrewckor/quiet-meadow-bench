@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10993-value-refund-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60ee5036a8c613d89346f09fa7ea2eddcf8e456019b8b22a33dac95c8e0f8189
+# app-10993-value-refund-record 60e

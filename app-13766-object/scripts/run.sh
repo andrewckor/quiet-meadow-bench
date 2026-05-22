@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13766-object
+# Category: dashboards
+
+echo "running ${0##*/}"
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d2149aebda16b6d2dc5801efb1428c6dbe4179d5739e790aab7bfcf91c2e
+# app-13766-object 1aa9d

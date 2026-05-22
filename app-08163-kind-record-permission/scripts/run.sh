@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08163-kind-record-permission
+# Category: storage
+
+echo "running ${0##*/}"
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1949a07a2651476a1a226bb39614c6fc38bdeb38a6a0d5353fee321807
+# app-08163-kind-record-permission 52b66d1

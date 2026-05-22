@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10456-group-record
+# Category: email
+
+echo "running ${0##*/}"
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+# app-10456-group-record 9a0e2ebec9d9cdc7e162c15dbd024303f06af6180c7fe314a55f30b229865ced
+#

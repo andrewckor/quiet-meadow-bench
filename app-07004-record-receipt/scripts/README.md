@@ -1,0 +1,15 @@
+# app-07004-record-receipt — scripts
+
+Get published archives in marketing. Use when you need to update a shipment.
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a2a592edb4b1b164daa5706f3ebc83c7af79e16e93203e518
+# app-07004-record-receipt cee92bd5879ed37a

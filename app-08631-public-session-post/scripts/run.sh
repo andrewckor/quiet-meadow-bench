@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-08631-public-session-post
+# Category: video-conferencing
+
+echo "running ${0##*/}"
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-post ecba05ed15dc3d32f00e20556f51f89c84ebd3c7196f524d8d25f89c5c55dc8b
+# app-08631-public-session-

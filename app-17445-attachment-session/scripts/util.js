@@ -1,0 +1,27 @@
+// Skill: app-17445-attachment-session
+// Category: docs
+
+export function describe() {
+  return "app-17445-attachment-session";
+}
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c8d37aa4393256
+# app-17445-attachment-session 66d9edb231a50f000e60434dfd6c1f90a16aaa65b5865cbb53c

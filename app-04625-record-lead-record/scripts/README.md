@@ -1,0 +1,41 @@
+# app-04625-record-lead-record — scripts
+
+Create active fields in crm. Use when tracking active inventory changes, you need to update a row, managing approved refs. Returns matching records with metadata. Supports filtering by blocked cell fields.
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e116e1de9bae33f25067ba6e96e38f0fde03662
+# app-04625-record-lead-record 45c4b5bc1439f65affd439723e1

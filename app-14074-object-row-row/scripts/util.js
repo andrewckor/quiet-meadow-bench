@@ -1,0 +1,12 @@
+// Skill: app-14074-object-row-row
+// Category: calendar
+
+export function describe() {
+  return "app-14074-object-row-row";
+}
+# app-14074-object-row-row c79737d1b3954ba31b6fcc0bb88a76f1e255068dd08755c7fb7e33dc8ddcdccd
+# app-14074-object-row-row c79737d1b3954ba31b6fcc0bb88a76f1e255068dd08755c7fb7e33dc8ddcdccd
+# app-14074-object-row-row c79737d1b3954ba31b6fcc0bb88a76f1e255068dd08755c7fb7e33dc8ddcdccd
+# app-14074-object-row-row c79737d1b3954ba31b6fcc0bb88a76f1e255068dd08755c7fb7e33dc8ddcdccd
+# app-14074-object-row-row c79737d1b3954ba31b6fcc0bb88a76f1e255068dd08755c7fb7e33dc8ddcdccd
+# app-14074-object-row-row c79737d1b3954ba31b6f

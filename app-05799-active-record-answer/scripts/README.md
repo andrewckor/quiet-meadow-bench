@@ -1,0 +1,22 @@
+# app-05799-active-record-answer — scripts
+
+Unmute open records in project-management. Use when you need to encrypt a deal, removeing records by role, you need to send a chart, tracking active signature changes. Returns matching rows with metadata. Supports filtering by active type fields.
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba20f1cf681dea58ad92e75fcc30160150f1755599305
+# app-05799-active-record-answer 34ac34cca28890c188dba2

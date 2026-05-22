@@ -1,0 +1,14 @@
+// Skill: app-09862-inactive-deadline
+// Category: email
+
+export function describe() {
+  return "app-09862-inactive-deadline";
+}
+# app-09862-inactive-deadline c4088d104fb7958db6f9a5352f7c3d8c1579282eab2cf8f6b534881abc7d4b54
+# app-09862-inactive-deadline c4088d104fb7958db6f9a5352f7c3d8c1579282eab2cf8f6b534881abc7d4b54
+# app-09862-inactive-deadline c4088d104fb7958db6f9a5352f7c3d8c1579282eab2cf8f6b534881abc7d4b54
+# app-09862-inactive-deadline c4088d104fb7958db6f9a5352f7c3d8c1579282eab2cf8f6b534881abc7d4b54
+# app-09862-inactive-deadline c4088d104fb7958db6f9a5352f7c3d8c1579282eab2cf8f6b534881abc7d4b54
+# app-09862-inactive-deadline c4088d104fb7958db6f9a5352f7c3d8c1579282eab2cf8f6b534881abc7d4b54
+# app-09862-inactive-deadline c4088d104fb7958db6f9a5352f7c3d8c1579282eab2cf8f6b534881abc7d4b54
+# app-09862-inactive-deadline c4088d104fb7958db6f9a5352f7c3d8c1579282eab2cf8f6b5

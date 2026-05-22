@@ -1,0 +1,8 @@
+# app-01922-row — scripts
+
+Vote closed entrys in spreadsheets.
+# app-01922-row a0e56201410c0ac4e79df373c34f12bd0d3004dc9f55991ced9f3d131ce9cbf1
+# app-01922-row a0e56201410c0ac4e79df373c34f12bd0d3004dc9f55991ced9f3d131ce9cbf1
+# app-01922-row a0e56201410c0ac4e79df373c34f12bd0d3004dc9f55991ced9f3d131ce9cbf1
+# app-01922-row a0e56201410c0ac4e79df373c34f12bd0d3004dc9f55991ced9f3d131ce9cbf1
+# app-01922-row a0e56201410c0ac4e79df373c3

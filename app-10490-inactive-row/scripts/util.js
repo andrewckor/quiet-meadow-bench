@@ -1,0 +1,11 @@
+// Skill: app-10490-inactive-row
+// Category: chat
+
+export function describe() {
+  return "app-10490-inactive-row";
+}
+# app-10490-inactive-row fa9639190702dfe27b46e6e55f90e5aef6a48063e92a48842347797e04237001
+# app-10490-inactive-row fa9639190702dfe27b46e6e55f90e5aef6a48063e92a48842347797e04237001
+# app-10490-inactive-row fa9639190702dfe27b46e6e55f90e5aef6a48063e92a48842347797e04237001
+# app-10490-inactive-row fa9639190702dfe27b46e6e55f90e5aef6a48063e92a48842347797e04237001
+# app-10490-inactive-row fa9639190702dfe27b46e6e55f90e5aef6a48063e92a4884

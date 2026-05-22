@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04060-record-type-key
+# Category: hr
+
+echo "running ${0##*/}"
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-key ef84f336eb3ba49b9ff26e5476cbafa5ff5629f23ab58a97fbbd127cfa3a25f4
+# app-04060-record-type-

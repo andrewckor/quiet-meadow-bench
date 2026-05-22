@@ -1,0 +1,22 @@
+---
+name: app-03388-ref
+description: Fetch fresh records in ticketing. Use when managing active channels.
+---
+
+# app-03388-ref
+
+Fetch fresh records in ticketing. Use when managing active channels.
+
+## Usage
+
+This skill operates in the ticketing domain.
+Run the scripts in this folder to perform the documented actions.
+
+## Inputs
+
+- `target`: identifier of the resource
+- `options`: optional configuration object
+
+## Outputs
+
+A JSON object describing the result of the operation.

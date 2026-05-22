@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13938-post
+# Category: chat
+
+echo "running ${0##*/}"
+# app-13938-post d38c8a9f58f456f4f605f45c7778649e4527533858a2fb832e5fae81cf1be159
+# app-13938-post d38c8a9f58f456f4f605f45c7778649e4527533858a2fb832e5fae81cf1be159
+# 

@@ -1,0 +1,17 @@
+// Skill: app-10433-deal
+// Category: video-conferencing
+
+export function describe() {
+  return "app-10433-deal";
+}
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc18d
+# app-10433-deal 4bdf8dd82d16a8e8f2246a220ebad3cacc3ac5a287e8c1bfb966214605edc1

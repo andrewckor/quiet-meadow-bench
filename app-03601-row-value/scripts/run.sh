@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-03601-row-value
+# Category: docs
+
+echo "running ${0##*/}"
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec2cb347b69e4e2d04458dd54f6c5bfdc3d7ca6e
+# app-03601-row-value 374906a1df1b8e4b81ecc843ec

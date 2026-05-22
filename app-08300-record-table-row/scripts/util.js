@@ -1,0 +1,16 @@
+// Skill: app-08300-record-table-row
+// Category: crm
+
+export function describe() {
+  return "app-08300-record-table-row";
+}
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a523260c47de0ff19eecc7d0a66b33f8f9a76943d48cbcf5f385dba59
+# app-08300-record-table-row c8b5f84a5

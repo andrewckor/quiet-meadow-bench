@@ -1,0 +1,17 @@
+// Skill: app-05476-field-tag-refund
+// Category: crm
+
+export function describe() {
+  return "app-05476-field-tag-refund";
+}
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app-05476-field-tag-refund 908a4177e08552ee0afe70a123cbf3822952e672c43a8ea3a95f1570ad20a9ac
+# app

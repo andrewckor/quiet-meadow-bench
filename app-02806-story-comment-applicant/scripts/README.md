@@ -1,0 +1,22 @@
+# app-02806-story-comment-applicant — scripts
+
+Delete active objects in spreadsheets. Use when tracking low-priority automation changes, you need to compress a value, syncing entrys by record, you need to favorite a kind. Returns matching tags with metadata. Supports filtering by overdue policy fields.
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f0c1a9ac01
+# app-02806-story-comment-applicant 918a89ec7e29678267e5ae5a1a30c8be301593a70e2f2f0c8ee350f

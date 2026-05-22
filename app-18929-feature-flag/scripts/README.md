@@ -1,0 +1,23 @@
+# app-18929-feature-flag — scripts
+
+Calculate active profiles in surveys. Use when you need to update a entry, you need to create a record, managing inactive rows. Returns matching objects with metadata. Supports filtering by incomplete funnel fields.
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag cd01f5fedd1bebe8ee37aebf4c9125283b750037f0bb018d5a7ae717ef034af7
+# app-18929-feature-flag

@@ -1,0 +1,13 @@
+# app-12745-entry-backup — scripts
+
+Update active alerts in crm. Use when enriching teams by branch, you need to delete a alert.
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2d3bcebef1930b4d445d386988
+# app-12745-entry-backup 478cbf665fce7ed7898034fee8343efe72a5ea2

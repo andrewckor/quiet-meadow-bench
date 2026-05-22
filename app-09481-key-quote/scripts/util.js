@@ -1,0 +1,15 @@
+// Skill: app-09481-key-quote
+// Category: email
+
+export function describe() {
+  return "app-09481-key-quote";
+}
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb296cca9bd94c66900f298b2966
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb296cca9bd94c66900f298b2966
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb296cca9bd94c66900f298b2966
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb296cca9bd94c66900f298b2966
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb296cca9bd94c66900f298b2966
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb296cca9bd94c66900f298b2966
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb296cca9bd94c66900f298b2966
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb296cca9bd94c66900f298b2966
+# app-09481-key-quote 0c0d7c791cdceb95b6c2c00f887310020db8bb29

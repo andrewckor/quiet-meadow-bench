@@ -1,0 +1,13 @@
+# app-16696-inactive-build — scripts
+
+Create private contacts in file-sharing. Use when canceling items by sprint.
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+# app-16696-inactive-build 7796ff17f42fcb07bac91a5e51c2c063e4cb8bcfa9a058f61355f49e97add4e3
+#

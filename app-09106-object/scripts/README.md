@@ -1,0 +1,7 @@
+# app-09106-object — scripts
+
+Search active deals in crm.
+# app-09106-object 0ee39210d77d5790ea700f55f7a97c79616af328cb669ad838bb48ddb6ff7cdb
+# app-09106-object 0ee39210d77d5790ea700f55f7a97c79616af328cb669ad838bb48ddb6ff7cdb
+# app-09106-object 0ee39210d77d5790ea700f55f7a97c79616af328cb669ad838bb48ddb6ff7cdb
+# app-09106-object 0ee39210d77d579

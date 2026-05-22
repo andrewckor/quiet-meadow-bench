@@ -1,0 +1,30 @@
+# app-16058-forecast-query-tag — scripts
+
+Reject closed review-cycles in pos.
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5fb34150131f9e4b1bcca90d8e8ac2aad453a7675ad55e04fe3cfbd9e1bb73c4
+# app-16058-forecast-query-tag 5f

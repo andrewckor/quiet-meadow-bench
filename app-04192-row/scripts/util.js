@@ -1,0 +1,8 @@
+// Skill: app-04192-row
+// Category: spreadsheets
+
+export function describe() {
+  return "app-04192-row";
+}
+# app-04192-row 33ff2127de041c2125832ca83ed22e9ad90073ac296b1d906c0d952b27948bfa
+# app-04192-row 33ff2127de041c2125832ca83ed22e9

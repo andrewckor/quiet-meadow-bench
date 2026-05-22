@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17903-row
+# Category: subscriptions
+
+echo "running ${0##*/}"
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-17903-row e34fc427d6f28f3df9ab33b2b1b321a2cb17fffa2bbe2f4790b9aeeac87e3185
+# app-1

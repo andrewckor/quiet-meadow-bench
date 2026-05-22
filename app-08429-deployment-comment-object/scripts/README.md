@@ -1,0 +1,12 @@
+# app-08429-deployment-comment-object — scripts
+
+Find active records in recruiting. Use when canceling entrys by record.
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11d2dcaac5c301f49a8716465343f9
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11d2dcaac5c301f49a8716465343f9
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11d2dcaac5c301f49a8716465343f9
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11d2dcaac5c301f49a8716465343f9
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11d2dcaac5c301f49a8716465343f9
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11d2dcaac5c301f49a8716465343f9
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11d2dcaac5c301f49a8716465343f9
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11d2dcaac5c301f49a8716465343f9
+# app-08429-deployment-comment-object 24de4c91744406c9d1988ff07534d3813e11

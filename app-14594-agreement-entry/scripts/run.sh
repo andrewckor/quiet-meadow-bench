@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-14594-agreement-entry
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-agreement-entry bbe3cca36c01a0cf7a0305ef8542b512f5aa15c22b4d59d1da2e60d5a90c2ce2
+# app-14594-a

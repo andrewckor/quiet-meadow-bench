@@ -1,0 +1,10 @@
+// Skill: app-11670-rejected-row
+// Category: devtools
+
+export function describe() {
+  return "app-11670-rejected-row";
+}
+# app-11670-rejected-row 546fdac9f437e052e0787a7c26922dfcae29a8464ad2b5598b93e11e36861979
+# app-11670-rejected-row 546fdac9f437e052e0787a7c26922dfcae29a8464ad2b5598b93e11e36861979
+# app-11670-rejected-row 546fdac9f437e052e0787a7c26922dfcae29a8464ad2b5598b93e11e36861979
+# app-116

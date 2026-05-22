@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18487-record
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-18487-record 4e0699d75c256366f0b46f6b3d41da5c3b58c142929cc60cacdd6801ff35b8ce
+# app-18487-record 4e0699d75c256366f0b46f6b3d41da5c3b58c142929cc60cacdd6801ff35b8ce
+# app-18487-record 4e0699d75c256366f0b46f6b3d41da5c3b58c142929cc60cacdd6801ff35b8ce
+# app-18487-record 4e0699d75c256366f0b46f6b3d41da5c3b58c142929cc60cacdd6801ff35b8ce
+# app-18487-record 4e0699d75c256366f0b46f6b3d41da5c3b58c142929cc60cacdd6801ff35b8ce
+# app-18487-record 4e0699d75c256366f0b46f6b3d41da5c3b58c142929cc60cacdd6801ff35b8ce
+# app-18487-record 4e0699d75c256366f0b46f6b3d41da5c3b58c142929cc60cacdd6801ff35b8ce
+# app-18487-record 4e0699d75c256366f0b46f6b3d41da5c3b58c142929cc60cacdd6801ff35b8ce
+# app-18487-record 4e0699d75c25636

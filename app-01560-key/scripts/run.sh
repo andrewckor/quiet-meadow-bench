@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01560-key
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483bd4ad110f
+# app-01560-key a350ee912dfcddc280ab2bfe0524cba2172e1ba88e7ea975a224483b

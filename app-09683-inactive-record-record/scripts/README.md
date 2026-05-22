@@ -1,0 +1,13 @@
+# app-09683-inactive-record-record — scripts
+
+Create deleted rows in spreadsheets. Use when tracking active status changes, tracking active row changes.
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4ddcb235938adf9bc7cb04aa
+# app-09683-inactive-record-record 4e5e7406e00e7e4d28c5336d2406d5605a6654dc4

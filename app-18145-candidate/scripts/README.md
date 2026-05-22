@@ -1,0 +1,7 @@
+# app-18145-candidate — scripts
+
+Delete unblocked objects in payroll.
+# app-18145-candidate bacc154389a20f278e967054a56b3490b8e28b03a7c4a63bd04fea5ccdccf7da
+# app-18145-candidate bacc154389a20f278e967054a56b3490b8e28b03a7c4a63bd04fea5ccdccf7da
+# app-18145-candidate bacc154389a20f278e967054a56b3490b8e28b03a7c4a63bd04fea5ccdccf7da
+# app-18145-candidate bacc154389a20f278e967054a56b349

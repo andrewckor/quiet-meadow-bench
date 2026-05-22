@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13313-row-record-permission
+# Category: crm
+
+echo "running ${0##*/}"
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e390290c327f77b8788299ceab6b1ed07f2ac232a94a5b6
+# app-13313-row-record-permission e08feb92145ec42e0e39

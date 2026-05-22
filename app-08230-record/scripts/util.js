@@ -1,0 +1,13 @@
+// Skill: app-08230-record
+// Category: subscriptions
+
+export function describe() {
+  return "app-08230-record";
+}
+# app-08230-record 67f47f938583a4dd8e1246600b20f73dd20ba5eab5914aef5a1c724cf86601c7
+# app-08230-record 67f47f938583a4dd8e1246600b20f73dd20ba5eab5914aef5a1c724cf86601c7
+# app-08230-record 67f47f938583a4dd8e1246600b20f73dd20ba5eab5914aef5a1c724cf86601c7
+# app-08230-record 67f47f938583a4dd8e1246600b20f73dd20ba5eab5914aef5a1c724cf86601c7
+# app-08230-record 67f47f938583a4dd8e1246600b20f73dd20ba5eab5914aef5a1c724cf86601c7
+# app-08230-record 67f47f938583a4dd8e1246600b20f73dd20ba5eab5914aef5a1c724cf86601c7
+# app-08230-record 67f47f938583a4dd8e1

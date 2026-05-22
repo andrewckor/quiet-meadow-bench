@@ -1,0 +1,14 @@
+# app-12714-internal-company — scripts
+
+Create secondary forms in crm. Use when managing inactive items, managing approved objects, managing unsynced review-cycles, tracking active config changes. Returns matching subtasks with metadata. Supports filtering by pending leave fields.
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979d023f173f6e0fb6fc84f2edc385abe545
+# app-12714-internal-company a55137d8101254cb36bdfdc40272979

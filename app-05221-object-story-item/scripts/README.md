@@ -1,0 +1,23 @@
+# app-05221-object-story-item — scripts
+
+Receive fresh values in crm. Use when managing stopped objects, tracking active entry changes, tracking active entry changes, you need to update a label. Returns matching records with metadata. Supports filtering by active ledger fields.
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-item 45d86d0d180ffa424d0e26e6564932cd25408a9615082bb1938c8c05ab41d83f
+# app-05221-object-story-ite

@@ -1,0 +1,19 @@
+// Skill: app-06282-failed-category
+// Category: crm
+
+export function describe() {
+  return "app-06282-failed-category";
+}
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-category 28f8995af12fd3275ab72d14729aa168d75442a85682dabfbdd4bb10317b26ae
+# app-06282-failed-

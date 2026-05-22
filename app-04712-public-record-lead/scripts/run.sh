@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04712-public-record-lead
+# Category: crm
+
+echo "running ${0##*/}"
+# app-04712-public-record-lead a556008218a4c58423819a5d4cdd108e3d5adb4dfc8833387920a98e78a6b2f6
+# app-04712-public-record-lead a556008218a4c5842381

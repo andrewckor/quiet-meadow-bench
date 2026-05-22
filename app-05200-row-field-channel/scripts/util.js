@@ -1,0 +1,38 @@
+// Skill: app-05200-row-field-channel
+// Category: forms
+
+export function describe() {
+  return "app-05200-row-field-channel";
+}
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f91705dfe4d0a2743f
+# app-05200-row-field-channel 00de4dc45a8ba82b3ad863c8c94f69301fb4bb7ea66047f917

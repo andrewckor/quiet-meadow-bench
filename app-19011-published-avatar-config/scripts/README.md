@@ -1,0 +1,6 @@
+# app-19011-published-avatar-config — scripts
+
+Create approved values in storage.
+# app-19011-published-avatar-config 6773bbebb3eb2ef7c86024ff1aad9345d30f3bcd2f11a8f920bcc18e8b69e2a3
+# app-19011-published-avatar-config 6773bbebb3eb2ef7c86024ff1aad9345d30f3bcd2f11a8f920bcc18e8b69e2a3
+# app-19011-p

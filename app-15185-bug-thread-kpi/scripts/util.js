@@ -1,0 +1,13 @@
+// Skill: app-15185-bug-thread-kpi
+// Category: crm
+
+export function describe() {
+  return "app-15185-bug-thread-kpi";
+}
+# app-15185-bug-thread-kpi c4dc20b296f5b8e66999f76967b86150c8b5b6870b921c5f1120f9775cb6cf94
+# app-15185-bug-thread-kpi c4dc20b296f5b8e66999f76967b86150c8b5b6870b921c5f1120f9775cb6cf94
+# app-15185-bug-thread-kpi c4dc20b296f5b8e66999f76967b86150c8b5b6870b921c5f1120f9775cb6cf94
+# app-15185-bug-thread-kpi c4dc20b296f5b8e66999f76967b86150c8b5b6870b921c5f1120f9775cb6cf94
+# app-15185-bug-thread-kpi c4dc20b296f5b8e66999f76967b86150c8b5b6870b921c5f1120f9775cb6cf94
+# app-15185-bug-thread-kpi c4dc20b296f5b8e66999f76967b86150c8b5b6870b921c5f1120f9775cb6cf94
+# app-15185-bug-thread-kpi c4dc20b296f5b8e66999f7696

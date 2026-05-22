@@ -1,0 +1,20 @@
+# app-11935-active-section — scripts
+
+Delete approved records in crm.
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section e30e3c21d90918d1ac2d5be87ebd3d99361d04eaf56eb2912e725b3cc16056a7
+# app-11935-active-section 

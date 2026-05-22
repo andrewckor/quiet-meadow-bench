@@ -1,0 +1,26 @@
+# app-00213-avatar-bookmark-id — scripts
+
+Delete favorited records in crm.
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff70246166def39343df4aba43c
+# app-00213-avatar-bookmark-id 3fd9b8dac7c532c13b3ae790c55b1e41a66f8ff

@@ -1,0 +1,29 @@
+# app-11265-published-leave-role — scripts
+
+Delete closed values in helpdesk. Use when you need to list a category, updateing records by rule.
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-112

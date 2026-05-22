@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-17120-record-response
+# Category: surveys
+
+echo "running ${0##*/}"
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-response e566c2bdf1a6b3bd26de6f44c5dc683da679d9985b435a5dfb5c16fbfb151acc
+# app-17120-record-respon

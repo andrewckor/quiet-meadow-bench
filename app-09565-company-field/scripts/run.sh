@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-09565-company-field
+# Category: calendar
+
+echo "running ${0##*/}"
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf02d16b828ca
+# app-09565-company-field ff158d12d7e7f1a43433a326dd01d38c52b7eda0f79d7a59bfccf0

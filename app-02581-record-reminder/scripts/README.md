@@ -1,0 +1,8 @@
+# app-02581-record-reminder — scripts
+
+Schedule public records in pos.
+# app-02581-record-reminder c5d91636a5169c1cde23ed6badbae6f076be6687cd1e03251e742ffa6b307de2
+# app-02581-record-reminder c5d91636a5169c1cde23ed6badbae6f076be6687cd1e03251e742ffa6b307de2
+# app-02581-record-reminder c5d91636a5169c1cde23ed6badbae6f076be6687cd1e03251e742ffa6b307de2
+# app-02581-record-reminder c5d91636a5169c1cde23ed6badbae6f076be6687cd1e03251e742ffa6b307de2
+# app-02581-record-reminder c5d91636a5169c1cde23ed6badbae6f076be

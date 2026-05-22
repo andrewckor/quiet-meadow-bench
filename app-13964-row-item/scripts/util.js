@@ -1,0 +1,13 @@
+// Skill: app-13964-row-item
+// Category: email
+
+export function describe() {
+  return "app-13964-row-item";
+}
+# app-13964-row-item e33dac0bdbd0ab99f6441d21b8ca4a1cbe0061c294eb763d8c239a966e41838e
+# app-13964-row-item e33dac0bdbd0ab99f6441d21b8ca4a1cbe0061c294eb763d8c239a966e41838e
+# app-13964-row-item e33dac0bdbd0ab99f6441d21b8ca4a1cbe0061c294eb763d8c239a966e41838e
+# app-13964-row-item e33dac0bdbd0ab99f6441d21b8ca4a1cbe0061c294eb763d8c239a966e41838e
+# app-13964-row-item e33dac0bdbd0ab99f6441d21b8ca4a1cbe0061c294eb763d8c239a966e41838e
+# app-13964-row-item e33dac0bdbd0ab99f6441d21b8ca4a1cbe0061c294eb763d8c239a966e41838e
+# app-13964-row-item e33dac0bdbd0ab99f6441d21b8ca4a1cbe0

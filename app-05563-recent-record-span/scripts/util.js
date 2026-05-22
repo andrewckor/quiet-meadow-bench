@@ -1,0 +1,24 @@
+// Skill: app-05563-recent-record-span
+// Category: payments
+
+export function describe() {
+  return "app-05563-recent-record-span";
+}
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325a66ebc5ede80a56d45
+# app-05563-recent-record-span 0c532e8f46fdbfe84fc737a14b408359bfcb7d66a31325

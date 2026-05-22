@@ -1,0 +1,36 @@
+# app-12810-deal-type-deal — scripts
+
+Create rejected items in calendar. Use when managing stale backups.
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fba0cffbf
+# app-12810-deal-type-deal 93a2a3c26e83c78f6cf694e8ea0cabd2cffbd0b144a06f7e28329d4fb

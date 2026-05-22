@@ -1,0 +1,16 @@
+// Skill: app-00553-subscriber-deployment
+// Category: spreadsheets
+
+export function describe() {
+  return "app-00553-subscriber-deployment";
+}
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553-subscriber-deployment 8e77cfc24eb96186118a7eea81dbfb45794f3da51ac451d83055f0da21b30f8b
+# app-00553

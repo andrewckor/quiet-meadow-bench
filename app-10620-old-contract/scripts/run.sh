@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-10620-old-contract
+# Category: crm
+
+echo "running ${0##*/}"
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6366c4cd8c36
+# app-10620-old-contract ce1db9dec72e868ff46419f08a60994f5bc1385d4aaeb56fc30f6

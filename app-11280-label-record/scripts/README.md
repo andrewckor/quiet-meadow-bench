@@ -1,0 +1,8 @@
+# app-11280-label-record — scripts
+
+Update draft stages in crm.
+# app-11280-label-record 4fed0ad4726325a093cc556b7cbaab8914672424bccfacb66762e3a004d564d3
+# app-11280-label-record 4fed0ad4726325a093cc556b7cbaab8914672424bccfacb66762e3a004d564d3
+# app-11280-label-record 4fed0ad4726325a093cc556b7cbaab8914672424bccfacb66762e3a004d564d3
+# app-11280-label-record 4fed0ad4726325a093cc556b7cbaab8914672424bccfacb66762e3a004d564d3
+# app-11280-label-record 4fed0ad4726325a093cc556b7cbaab8914672424bccfacb66762

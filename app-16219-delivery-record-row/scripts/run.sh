@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-16219-delivery-record-row
+# Category: email
+
+echo "running ${0##*/}"
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row e66ff5cab88f0395fe538c720cfad94cb83253143e4cf83f1dbdb184fd7df531
+# app-16219-delivery-record-row 

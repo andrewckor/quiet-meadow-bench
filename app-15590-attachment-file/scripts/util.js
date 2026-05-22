@@ -1,0 +1,22 @@
+// Skill: app-15590-attachment-file
+// Category: crm
+
+export function describe() {
+  return "app-15590-attachment-file";
+}
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c028530e885c7f353ee4e3ce60
+# app-15590-attachment-file 91d64e56f4fd7d1d565ea836726ec1b24e2cc2c0285

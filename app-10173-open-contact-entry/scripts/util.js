@@ -1,0 +1,30 @@
+// Skill: app-10173-open-contact-entry
+// Category: spreadsheets
+
+export function describe() {
+  return "app-10173-open-contact-entry";
+}
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# app-10173-open-contact-entry eb564cbf386a542b7897031c9d153cd4b86a912a54ac897be8cac5d4eb460954
+# a

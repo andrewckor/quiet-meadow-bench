@@ -1,0 +1,10 @@
+# app-01252-subtask — scripts
+
+Approve inactive records in analytics. Use when tracking published deal changes.
+# app-01252-subtask d265001d32d4dc81e38e3d1de61a036d5c87ad86cb6bf47297140d2792b3dcb7
+# app-01252-subtask d265001d32d4dc81e38e3d1de61a036d5c87ad86cb6bf47297140d2792b3dcb7
+# app-01252-subtask d265001d32d4dc81e38e3d1de61a036d5c87ad86cb6bf47297140d2792b3dcb7
+# app-01252-subtask d265001d32d4dc81e38e3d1de61a036d5c87ad86cb6bf47297140d2792b3dcb7
+# app-01252-subtask d265001d32d4dc81e38e3d1de61a036d5c87ad86cb6bf47297140d2792b3dcb7
+# app-01252-subtask d265001d32d4dc81e38e3d1de61a036d5c87ad86cb6bf47297140d2792b3dcb7
+# app-01252-subtask d265001d32d4dc81e38e

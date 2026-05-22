@@ -1,0 +1,23 @@
+# app-19933-row-metric — scripts
+
+Delete completed dashboards in task-management.
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943be92c3fe0c785be1cf8205cbb0bdbe2688bcc47822949b2e2901cb1bd4f7
+# app-19933-row-metric 3943b

@@ -1,0 +1,14 @@
+# app-09553-approved-state — scripts
+
+Update archived threads in backup. Use when managing active entrys, tracking partial row changes.
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d51c6e72ecd3d8
+# app-09553-approved-state b83b2c714ef78d8cf5f65fac06140616cce9238bfc528ff2c3d

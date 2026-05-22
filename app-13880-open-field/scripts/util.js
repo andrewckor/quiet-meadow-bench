@@ -1,0 +1,29 @@
+// Skill: app-13880-open-field
+// Category: crm
+
+export function describe() {
+  return "app-13880-open-field";
+}
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d8f1d3b322deb94f1a7b114dfa410174f5e3d57cc4bfead3053ba9
+# app-13880-open-field 42d5a47752d

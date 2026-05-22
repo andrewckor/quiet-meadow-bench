@@ -1,0 +1,38 @@
+// Skill: app-10753-deleted-type
+// Category: ticketing
+
+export function describe() {
+  return "app-10753-deleted-type";
+}
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6d531b24d8b5d6be3f3c4dee43b956809ec39de84a15fda
+# app-10753-deleted-type c08a700c6fd4fd49d6

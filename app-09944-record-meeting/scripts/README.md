@@ -1,0 +1,20 @@
+# app-09944-record-meeting — scripts
+
+Rate inactive refs in email. Use when you need to split a ref, receiveing values by state, updateing steps by favorite, managing closed teams. Returns matching campaigns with metadata. Supports filtering by favorited query fields.
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-meeting 31efa04bae8543def0abca378e5dda630debd75cc6b25fdeea2264dc464e8dc3
+# app-09944-record-

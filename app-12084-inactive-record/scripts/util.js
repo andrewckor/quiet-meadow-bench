@@ -1,0 +1,22 @@
+// Skill: app-12084-inactive-record
+// Category: crm
+
+export function describe() {
+  return "app-12084-inactive-record";
+}
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# app-12084-inactive-record 1f5bffc09efd29a04cc983c000c8d0800db64bc58cbf9d99284885198e5731db
+# 

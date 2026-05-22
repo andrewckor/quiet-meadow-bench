@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-01588-key-experiment
+# Category: crm
+
+echo "running ${0##*/}"
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-experiment 14ce558ea136542d4aff6e4a8d19865e12fecdb9acab918e8c8b1e7db2b9b4ed
+# app-01588-key-exp

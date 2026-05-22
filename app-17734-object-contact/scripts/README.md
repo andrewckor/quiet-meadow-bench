@@ -1,0 +1,9 @@
+# app-17734-object-contact — scripts
+
+Remove inactive records in crm.
+# app-17734-object-contact 4af52beb51830a709e0022e300ecfbcaa8bb582afd5debbcf6f1293d259354e9
+# app-17734-object-contact 4af52beb51830a709e0022e300ecfbcaa8bb582afd5debbcf6f1293d259354e9
+# app-17734-object-contact 4af52beb51830a709e0022e300ecfbcaa8bb582afd5debbcf6f1293d259354e9
+# app-17734-object-contact 4af52beb51830a709e0022e300ecfbcaa8bb582afd5debbcf6f1293d259354e9
+# app-17734-object-contact 4af52beb51830a709e0022e300ecfbcaa8bb582afd5debbcf6f1293d259354e9
+# app-17734-object-contact 4af52beb51830a709e0022e300ecfbcaa8bb582afd5debb

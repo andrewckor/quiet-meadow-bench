@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-18814-retrospective-credential
+# Category: docs
+
+echo "running ${0##*/}"
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077c8766150d713a74fca719245c01609f52077dbf23b277a3e
+# app-18814-retrospective-credential 9b8f5713bb7c0077

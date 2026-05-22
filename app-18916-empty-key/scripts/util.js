@@ -1,0 +1,21 @@
+// Skill: app-18916-empty-key
+// Category: marketing
+
+export function describe() {
+  return "app-18916-empty-key";
+}
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c715a2ee3e59631bc4980546936f0b91a977bcf180c
+# app-18916-empty-key ee8e6bb3008aeb8cdda98c

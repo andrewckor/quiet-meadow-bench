@@ -1,0 +1,24 @@
+# app-01187-record-subtask — scripts
+
+Create active labels in project-management. Use when you need to remove a token.
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068f6d450a284afebc8ab206ccaefe4764ca49858
+# app-01187-record-subtask a47aab1f6c837ea27cf0aa9068

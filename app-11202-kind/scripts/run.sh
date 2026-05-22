@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-11202-kind
+# Category: email
+
+echo "running ${0##*/}"
+# app-11202-kind 73d7d10deed9346c383821b2c1ed38af9865d56ea5a7c0c6b9a1c6fb7decc008
+# app-11202-kind 73d7d10deed9346c383821b2c1ed38af9865d56ea5a7c0c6b9a1c6fb7decc008
+# app-11202-kind 73d7d10deed9346c383821b2c1ed38af9865d56ea5a7c0c6b9a1c6fb7decc008
+# app-11202-kind 73d7d10deed9346c383821b2c1ed38af9865d56ea5a7c0c6b9a1c6fb7decc008
+# app-11202-kind 73d7d10deed9346c383821b2c1ed38af9865d56ea5a7c0c6b9a1c6fb7decc008
+# app-11202-kind 73d7d10deed9346c383821b2c1ed38af9865d56ea5a7c0c6b9a1c6fb7decc008
+# app-11202-kind 73d7d1

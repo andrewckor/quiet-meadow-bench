@@ -1,0 +1,25 @@
+// Skill: app-19044-pending-type-impression
+// Category: hr
+
+export function describe() {
+  return "app-19044-pending-type-impression";
+}
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b4a942b262fcfa80eaf8ae558d0ecce6
+# app-19044-pending-type-impression 8489f61c2951607adeac0142924edaa9b

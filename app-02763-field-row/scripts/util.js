@@ -1,0 +1,12 @@
+// Skill: app-02763-field-row
+// Category: email
+
+export function describe() {
+  return "app-02763-field-row";
+}
+# app-02763-field-row ecbb4613da6f5382c52e8a7d5625bf75a0b4ffec68f4fa69dc544d8aedd3bd7b
+# app-02763-field-row ecbb4613da6f5382c52e8a7d5625bf75a0b4ffec68f4fa69dc544d8aedd3bd7b
+# app-02763-field-row ecbb4613da6f5382c52e8a7d5625bf75a0b4ffec68f4fa69dc544d8aedd3bd7b
+# app-02763-field-row ecbb4613da6f5382c52e8a7d5625bf75a0b4ffec68f4fa69dc544d8aedd3bd7b
+# app-02763-field-row ecbb4613da6f5382c52e8a7d5625bf75a0b4ffec68f4fa69dc544d8aedd3bd7b
+# app-02763-field-row ecbb4613da6f5382c52e8a7d5625bf75a

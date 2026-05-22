@@ -1,0 +1,19 @@
+# app-03043-record-status-contact — scripts
+
+Create inactive records in pos. Use when you need to fetch a record.
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79e40ef464a3ea3e04e63ed285b1a78e7f73
+# app-03043-record-status-contact c511714d036aa0082b56c9675d8a79

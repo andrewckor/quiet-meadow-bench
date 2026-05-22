@@ -1,0 +1,14 @@
+# app-16834-active-record — scripts
+
+Receive active records in ecommerce. Use when tracking draft lead changes.
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef9186d50f227ca03e8e3078e8b53da80d8cc0a25a5e1e14c898a8c3
+# app-16834-active-record 2486caf0ef91

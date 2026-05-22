@@ -1,0 +1,31 @@
+// Skill: app-11517-new-team-channel
+// Category: email
+
+export function describe() {
+  return "app-11517-new-team-channel";
+}
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b3a314d39920f775
+# app-11517-new-team-channel b1fa2bc48c2814d954b5ea6caee134a0e52d026d52489da3b

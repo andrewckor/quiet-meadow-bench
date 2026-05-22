@@ -1,0 +1,13 @@
+// Skill: app-08717-deal-item
+// Category: surveys
+
+export function describe() {
+  return "app-08717-deal-item";
+}
+# app-08717-deal-item 71a63a2b2eda1442902915da6c25e5e9f179952ab8de2511c3d8851f66cd97b0
+# app-08717-deal-item 71a63a2b2eda1442902915da6c25e5e9f179952ab8de2511c3d8851f66cd97b0
+# app-08717-deal-item 71a63a2b2eda1442902915da6c25e5e9f179952ab8de2511c3d8851f66cd97b0
+# app-08717-deal-item 71a63a2b2eda1442902915da6c25e5e9f179952ab8de2511c3d8851f66cd97b0
+# app-08717-deal-item 71a63a2b2eda1442902915da6c25e5e9f179952ab8de2511c3d8851f66cd97b0
+# app-08717-deal-item 71a63a2b2eda1442902915da6c25e5e9f179952ab8de2511c3d8851f66cd97b0
+# app-08717-deal-item 71a63a2b2eda1442902915da6c25e5

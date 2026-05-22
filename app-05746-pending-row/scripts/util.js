@@ -1,0 +1,16 @@
+// Skill: app-05746-pending-row
+// Category: crm
+
+export function describe() {
+  return "app-05746-pending-row";
+}
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df79d2a00c61
+# app-05746-pending-row 7eb24955165ba3be594c635e3c4fd02852bf3bf1a5dd0b715888df7

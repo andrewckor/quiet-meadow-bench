@@ -1,0 +1,13 @@
+// Skill: app-04471-pending-entry
+// Category: devtools
+
+export function describe() {
+  return "app-04471-pending-entry";
+}
+# app-04471-pending-entry a416e31266db30034e62d67e3812a91b7108891e90e618ebc1af673b6e648045
+# app-04471-pending-entry a416e31266db30034e62d67e3812a91b7108891e90e618ebc1af673b6e648045
+# app-04471-pending-entry a416e31266db30034e62d67e3812a91b7108891e90e618ebc1af673b6e648045
+# app-04471-pending-entry a416e31266db30034e62d67e3812a91b7108891e90e618ebc1af673b6e648045
+# app-04471-pending-entry a416e31266db30034e62d67e3812a91b7108891e90e618ebc1af673b6e648045
+# app-04471-pending-entry a416e31266db30034e62d67e3812a91b7108891e90e618ebc1af673b6e648045
+# app-04471-pending-entry a4

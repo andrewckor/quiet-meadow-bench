@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-19711-experiment
+# Category: hr
+
+echo "running ${0##*/}"
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-19711-experiment 704cb8891d47d59383cb41ff9fe1f00c4702bd4fdd97db8e1eb81caeb8fa8e0c
+# app-1

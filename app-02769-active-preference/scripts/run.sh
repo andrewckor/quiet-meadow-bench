@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02769-active-preference
+# Category: knowledge-base
+
+echo "running ${0##*/}"
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c71d293e3539b0676
+# app-02769-active-preference b676d905ea45b4eff02fd4e898c8f2b10e23807ee476fb4c

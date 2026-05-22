@@ -1,0 +1,13 @@
+# app-16231-ticket-channel — scripts
+
+Unmute rejected deals in crm. Use when tracking old tracking changes, you need to create a label.
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d1398354bd909c93b7f13
+# app-16231-ticket-channel bd3f9c62d6a9c79dd390dafed8c487af8ab9c061514d13

@@ -1,0 +1,34 @@
+// Skill: app-11265-published-leave-role
+// Category: helpdesk
+
+export function describe() {
+  return "app-11265-published-leave-role";
+}
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c65df81de75c7bc64d80f87ccf30aa93
+# app-11265-published-leave-role f4787ba334ec3c36dc140fec1b746147c6

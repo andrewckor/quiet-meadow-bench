@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-13791-published-session-trigger
+# Category: docs
+
+echo "running ${0##*/}"
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a71618d56a07444ec33b34d98f12dc67d35526b42204
+# app-13791-published-session-trigger 7b6fe7661dc7f28d06d1a7
